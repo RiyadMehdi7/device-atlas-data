@@ -1,0 +1,68 @@
+[
+  {
+    "id": "nothing-phone-3-global-manufacturer-model-reference",
+    "brand": "Nothing",
+    "model": "Phone (3)",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [
+      "Phone (3) 12GB 256GB"
+    ],
+    "scope": "Global manufacturer model reference; region and capacity options grouped, Latvia SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/nothing-phone-3-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "nothing-phone-3a-european-manufacturer-model-reference",
+    "brand": "Nothing",
+    "model": "Phone (3a)",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "German manufacturer model reference; capacities grouped; Latvia SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/nothing-phone-3a-european-manufacturer-model-reference.json"
+  },
+  {
+    "id": "nothing-phone-3a-lite-global-manufacturer-model-reference",
+    "brand": "Nothing",
+    "model": "Phone (3a) Lite",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference; region and capacity options grouped, Latvia SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/nothing-phone-3a-lite-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "nothing-phone-3a-pro-european-manufacturer-model-reference",
+    "brand": "Nothing",
+    "model": "Phone (3a) Pro",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "German manufacturer model reference; capacities grouped; Latvia SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/nothing-phone-3a-pro-european-manufacturer-model-reference.json"
+  },
+  {
+    "id": "nothing-phone-4a-global-manufacturer-model-reference",
+    "brand": "Nothing",
+    "model": "Phone (4a)",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [
+      "Phone (4a) 12GB/256GB"
+    ],
+    "scope": "Global manufacturer model reference; region and capacity options grouped, Latvia SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/nothing-phone-4a-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "nothing-phone-4a-pro-global-manufacturer-model-reference",
+    "brand": "Nothing",
+    "model": "Phone (4a) Pro",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [
+      "Phone (4a) Pro 12GB/256GB"
+    ],
+    "scope": "Global manufacturer model reference; region and capacity options grouped, Latvia SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/nothing-phone-4a-pro-global-manufacturer-model-reference.json"
+  }
+]

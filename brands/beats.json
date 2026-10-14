@@ -1,0 +1,42 @@
+[
+  {
+    "id": "beats-powerbeats-pro-2-manufacturer-model",
+    "brand": "Beats",
+    "model": "Powerbeats Pro 2",
+    "category": "Earbuds",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official manufacturer reference; USA/global page, Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/beats-powerbeats-pro-2-manufacturer-model.json"
+  },
+  {
+    "id": "beats-studio-buds-manufacturer-model",
+    "brand": "Beats",
+    "model": "Studio Buds +",
+    "category": "Earbuds",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official manufacturer reference; USA/global page, Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/beats-studio-buds-manufacturer-model.json"
+  },
+  {
+    "id": "beats-solo-4-manufacturer-model",
+    "brand": "Beats",
+    "model": "Solo 4",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official manufacturer reference; USA/global page, Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/beats-solo-4-manufacturer-model.json"
+  },
+  {
+    "id": "beats-pill-manufacturer-model",
+    "brand": "Beats",
+    "model": "Pill",
+    "category": "Speakers",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official manufacturer selected red page; single model reference, colour duplicates excluded",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/beats-pill-manufacturer-model.json"
+  }
+]

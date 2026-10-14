@@ -1,0 +1,86 @@
+[
+  {
+    "id": "reolink-argus-series-b430-eu-reference",
+    "brand": "Reolink",
+    "model": "Argus Series B430",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official Switzerland regional manufacturer model reference; exact Latvia SKU/hardware and plug/kit require matching. Conflicting Wi-Fi/Alexa rows withheld.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/reolink-argus-series-b430-eu-reference.json"
+  },
+  {
+    "id": "reolink-argus-series-b440-eu-reference",
+    "brand": "Reolink",
+    "model": "Argus Series B440",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Manufacturer reference from public web-open content. DK/BE regional scope where indicated; global W330 reference. Exact Latvia hardware, model code and included kit require matching. NVS16 applies only to N6MB01. Conflicting rows withheld.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/reolink-argus-series-b440-eu-reference.json"
+  },
+  {
+    "id": "reolink-duo-series-p750-eu-reference",
+    "brand": "Reolink",
+    "model": "Duo Series P750",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Manufacturer reference from public web-open content. DK/BE regional scope where indicated; global W330 reference. Exact Latvia hardware, model code and included kit require matching. NVS16 applies only to N6MB01. Conflicting rows withheld.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/reolink-duo-series-p750-eu-reference.json"
+  },
+  {
+    "id": "reolink-nvs16-eu-reference",
+    "brand": "Reolink",
+    "model": "NVS16",
+    "category": "Cameras",
+    "identifiers": [
+      "N6MB01"
+    ],
+    "aliases": [],
+    "scope": "Manufacturer reference from public web-open content. DK/BE regional scope where indicated; global W330 reference. Exact Latvia hardware, model code and included kit require matching. NVS16 applies only to N6MB01. Conflicting rows withheld.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/reolink-nvs16-eu-reference.json"
+  },
+  {
+    "id": "reolink-trackmix-series-g770-eu-reference",
+    "brand": "Reolink",
+    "model": "TrackMix Series G770",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Manufacturer reference from public web-open content. DK/BE regional scope where indicated; global W330 reference. Exact Latvia hardware, model code and included kit require matching. NVS16 applies only to N6MB01. Conflicting rows withheld.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/reolink-trackmix-series-g770-eu-reference.json"
+  },
+  {
+    "id": "reolink-w320-eu-reference",
+    "brand": "Reolink",
+    "model": "W320",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Manufacturer reference from public web-open content. DK/BE regional scope where indicated; global W330 reference. Exact Latvia hardware, model code and included kit require matching. NVS16 applies only to N6MB01. Conflicting rows withheld.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/reolink-w320-eu-reference.json"
+  },
+  {
+    "id": "reolink-w330-eu-reference",
+    "brand": "Reolink",
+    "model": "W330",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Manufacturer reference from public web-open content. DK/BE regional scope where indicated; global W330 reference. Exact Latvia hardware, model code and included kit require matching. NVS16 applies only to N6MB01. Conflicting rows withheld.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/reolink-w330-eu-reference.json"
+  },
+  {
+    "id": "reolink-w437-eu-reference",
+    "brand": "Reolink",
+    "model": "W437",
+    "category": "Cameras",
+    "identifiers": [
+      "W437"
+    ],
+    "aliases": [],
+    "scope": "Manufacturer reference from public web-open content. DK/BE regional scope where indicated; global W330 reference. Exact Latvia hardware, model code and included kit require matching. NVS16 applies only to N6MB01. Conflicting rows withheld.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/reolink-w437-eu-reference.json"
+  }
+]

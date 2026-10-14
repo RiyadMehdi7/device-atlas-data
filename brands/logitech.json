@@ -1,0 +1,487 @@
+[
+  {
+    "id": "logitech-ergo-k860",
+    "brand": "Logitech",
+    "model": "ERGO K860",
+    "category": "Accessories",
+    "identifiers": [
+      "920-010107",
+      "920-009168",
+      "920-009167",
+      "920-010106",
+      "920-010108",
+      "920-010105",
+      "920-009874",
+      "920-010104"
+    ],
+    "aliases": [],
+    "scope": "Manufacturer EU/UK/global model reference; regional SKU/package and Latvia availability require matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-ergo-k860.json"
+  },
+  {
+    "id": "logitech-ergo-m575s",
+    "brand": "Logitech",
+    "model": "ERGO M575S",
+    "category": "Accessories",
+    "identifiers": [
+      "910-007030",
+      "910-007029"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer model reference. Explicit MPN options identify their labelled colour/layout variants; not a Latvia SKU. No colour/layout records generated.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-ergo-m575s.json"
+  },
+  {
+    "id": "logitech-lift",
+    "brand": "Logitech",
+    "model": "Lift",
+    "category": "Accessories",
+    "identifiers": [
+      "910-006473",
+      "910-006474",
+      "910-006475",
+      "910-006478",
+      "910-007771"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer model reference. Explicit MPN options identify their labelled colour/layout variants; not a Latvia SKU. No colour/layout records generated.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-lift.json"
+  },
+  {
+    "id": "logitech-m720-triathlon",
+    "brand": "Logitech",
+    "model": "M720 Triathlon",
+    "category": "Accessories",
+    "identifiers": [
+      "910-004791"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer model reference. Explicit MPN options identify their labelled colour/layout variants; not a Latvia SKU. No colour/layout records generated.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-m720-triathlon.json"
+  },
+  {
+    "id": "logitech-mx-anywhere-3s",
+    "brand": "Logitech",
+    "model": "MX Anywhere 3S",
+    "category": "Accessories",
+    "identifiers": [
+      "910-006929",
+      "910-006931",
+      "910-006930"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer model reference. Explicit MPN options identify their labelled colour/layout variants; not a Latvia SKU. No colour/layout records generated.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-mx-anywhere-3s.json"
+  },
+  {
+    "id": "logitech-mx-creative-console",
+    "brand": "Logitech",
+    "model": "MX Creative Console",
+    "category": "Accessories",
+    "identifiers": [
+      "920-012932",
+      "920-012931"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer model reference. Explicit MPN options identify their labelled colour/layout variants; not a Latvia SKU. No colour/layout records generated.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-mx-creative-console.json"
+  },
+  {
+    "id": "logitech-mx-ergo-s",
+    "brand": "Logitech",
+    "model": "MX Ergo S",
+    "category": "Accessories",
+    "identifiers": [
+      "910-007260"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer model reference. Explicit MPN options identify their labelled colour/layout variants; not a Latvia SKU. No colour/layout records generated.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-mx-ergo-s.json"
+  },
+  {
+    "id": "logitech-mx-keypad",
+    "brand": "Logitech",
+    "model": "MX Keypad",
+    "category": "Accessories",
+    "identifiers": [
+      "920-013891",
+      "920-013892"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer model reference. Explicit MPN options identify their labelled colour/layout variants; not a Latvia SKU. No colour/layout records generated.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-mx-keypad.json"
+  },
+  {
+    "id": "logitech-mx-keys-mini",
+    "brand": "Logitech",
+    "model": "MX Keys Mini",
+    "category": "Accessories",
+    "identifiers": [
+      "920-010479",
+      "920-010482",
+      "920-010485",
+      "920-010492",
+      "920-010488",
+      "920-010490",
+      "920-010498",
+      "920-010495",
+      "920-010481",
+      "920-010484",
+      "920-010487",
+      "920-010494",
+      "920-010812",
+      "920-010813",
+      "920-010500",
+      "920-010497",
+      "920-010480",
+      "920-010483",
+      "920-010486",
+      "920-010493",
+      "920-010489",
+      "920-010491",
+      "920-010499",
+      "920-010496"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer model reference. Explicit MPN options identify their labelled colour/layout variants; not a Latvia SKU. No colour/layout records generated.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-mx-keys-mini.json"
+  },
+  {
+    "id": "logitech-mx-keys-s",
+    "brand": "Logitech",
+    "model": "MX Keys S",
+    "category": "Accessories",
+    "identifiers": [
+      "920-011593",
+      "920-011571",
+      "920-011573",
+      "920-011565",
+      "920-011567",
+      "920-011575",
+      "920-011577",
+      "920-011568",
+      "920-011570",
+      "920-011581",
+      "920-011583",
+      "920-011584",
+      "920-011586",
+      "920-011587",
+      "920-011589",
+      "920-011574",
+      "920-011579",
+      "920-011590",
+      "920-011591",
+      "920-011592",
+      "920-011572",
+      "920-011566",
+      "920-011576",
+      "920-011578",
+      "920-011569",
+      "920-011582",
+      "920-011585",
+      "920-011588",
+      "920-011580"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer model reference. Explicit MPN options identify their labelled colour/layout variants; not a Latvia SKU. No colour/layout records generated.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-mx-keys-s.json"
+  },
+  {
+    "id": "logitech-mx-master-3s-bluetooth-edition",
+    "brand": "Logitech",
+    "model": "MX Master 3S Bluetooth Edition",
+    "category": "Accessories",
+    "identifiers": [
+      "910-007501"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer model reference. Explicit MPN options identify their labelled colour/layout variants; not a Latvia SKU. No colour/layout records generated.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-mx-master-3s-bluetooth-edition.json"
+  },
+  {
+    "id": "logitech-mx-master-4",
+    "brand": "Logitech",
+    "model": "MX Master 4",
+    "category": "Accessories",
+    "identifiers": [
+      "910-007562",
+      "910-007563"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer model reference. Explicit MPN options identify their labelled colour/layout variants; not a Latvia SKU. No colour/layout records generated.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-mx-master-4.json"
+  },
+  {
+    "id": "logitech-mx-mechanical",
+    "brand": "Logitech",
+    "model": "MX Mechanical",
+    "category": "Accessories",
+    "identifiers": [
+      "920-010748",
+      "920-010750",
+      "920-010749",
+      "920-010751",
+      "920-010757",
+      "920-010759",
+      "920-010758",
+      "920-010753",
+      "920-010755",
+      "920-010754",
+      "920-010752",
+      "920-010756"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer model reference. Explicit MPN options identify their labelled colour/layout variants; not a Latvia SKU. No colour/layout records generated.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-mx-mechanical.json"
+  },
+  {
+    "id": "logitech-mx-mechanical-mini",
+    "brand": "Logitech",
+    "model": "MX Mechanical Mini",
+    "category": "Accessories",
+    "identifiers": [
+      "920-010771",
+      "920-010773",
+      "920-010772",
+      "920-010774",
+      "920-010780",
+      "920-010782",
+      "920-010781",
+      "920-010779",
+      "920-010775",
+      "920-010776",
+      "920-010778",
+      "920-010777"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer model reference. Explicit MPN options identify their labelled colour/layout variants; not a Latvia SKU. No colour/layout records generated.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-mx-mechanical-mini.json"
+  },
+  {
+    "id": "logitech-mx-vertical",
+    "brand": "Logitech",
+    "model": "MX Vertical",
+    "category": "Accessories",
+    "identifiers": [
+      "910-005448"
+    ],
+    "aliases": [],
+    "scope": "Manufacturer EU/UK/global model reference; regional SKU/package and Latvia availability require matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-mx-vertical.json"
+  },
+  {
+    "id": "logitech-pebble-keys-2-k380s",
+    "brand": "Logitech",
+    "model": "Pebble Keys 2 K380s",
+    "category": "Accessories",
+    "identifiers": [
+      "920-011843",
+      "920-011795",
+      "920-011851",
+      "920-011803",
+      "920-011819",
+      "920-011811",
+      "920-011827",
+      "920-011879",
+      "920-011845",
+      "920-011797",
+      "920-011853",
+      "920-011805",
+      "920-011821",
+      "920-011829",
+      "920-011844",
+      "920-011796",
+      "920-011852",
+      "920-011804",
+      "920-011820",
+      "920-011828",
+      "920-011880"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer model reference. Explicit MPN options identify their labelled colour/layout variants; not a Latvia SKU. No colour/layout records generated.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-pebble-keys-2-k380s.json"
+  },
+  {
+    "id": "logitech-pebble-mouse-2-m350s",
+    "brand": "Logitech",
+    "model": "Pebble Mouse 2 M350s",
+    "category": "Accessories",
+    "identifiers": [
+      "910-007014",
+      "910-007015",
+      "910-007013"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer model reference. Explicit MPN options identify their labelled colour/layout variants; not a Latvia SKU. No colour/layout records generated.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-pebble-mouse-2-m350s.json"
+  },
+  {
+    "id": "logitech-signature-k650",
+    "brand": "Logitech",
+    "model": "Signature K650",
+    "category": "Accessories",
+    "identifiers": [
+      "920-010981",
+      "920-010972",
+      "920-010966",
+      "920-010979",
+      "920-010974",
+      "920-010977",
+      "920-010971",
+      "920-010983",
+      "920-010968",
+      "920-010969",
+      "920-010967",
+      "920-010949",
+      "920-010918",
+      "920-010912",
+      "920-010947",
+      "920-010920",
+      "920-010945",
+      "920-010917",
+      "920-010951",
+      "920-010914",
+      "920-010915",
+      "920-010913"
+    ],
+    "aliases": [],
+    "scope": "Manufacturer EU/UK/global model reference; regional SKU/package and Latvia availability require matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-signature-k650.json"
+  },
+  {
+    "id": "logitech-signature-m650",
+    "brand": "Logitech",
+    "model": "Signature M650",
+    "category": "Accessories",
+    "identifiers": [
+      "910-006253",
+      "910-006236",
+      "910-006239",
+      "910-006254",
+      "910-006237",
+      "910-006255",
+      "910-006238",
+      "910-006240"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer model reference. Explicit MPN options identify their labelled colour/layout variants; not a Latvia SKU. No colour/layout records generated.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-signature-m650.json"
+  },
+  {
+    "id": "logitech-signature-slim-keyboard-k950",
+    "brand": "Logitech",
+    "model": "Signature Slim Keyboard K950",
+    "category": "Accessories",
+    "identifiers": [
+      "920-012463",
+      "920-012453",
+      "920-012465",
+      "920-012451",
+      "920-012449",
+      "920-012459",
+      "920-012457",
+      "920-012455",
+      "920-012464",
+      "920-012454",
+      "920-012466",
+      "920-012452",
+      "920-012450"
+    ],
+    "aliases": [],
+    "scope": "Manufacturer EU/UK/global model reference; regional SKU/package and Latvia availability require matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-signature-slim-keyboard-k950.json"
+  },
+  {
+    "id": "logitech-signature-slim-solar-wireless-keyboard-k980",
+    "brand": "Logitech",
+    "model": "Signature Slim Solar+ wireless keyboard K980",
+    "category": "Accessories",
+    "identifiers": [
+      "920-013756",
+      "920-013759",
+      "920-013757",
+      "920-013758",
+      "920-013761",
+      "920-013760",
+      "920-013763",
+      "920-013762",
+      "920-013764"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer model reference. Explicit MPN options identify their labelled colour/layout variants; not a Latvia SKU. No colour/layout records generated.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-signature-slim-solar-wireless-keyboard-k980.json"
+  },
+  {
+    "id": "logitech-wave-keys",
+    "brand": "Logitech",
+    "model": "Wave Keys",
+    "category": "Accessories",
+    "identifiers": [
+      "920-012284",
+      "920-012290",
+      "920-012294",
+      "920-012299",
+      "920-012283",
+      "920-012289",
+      "920-012296",
+      "920-012293",
+      "920-012304",
+      "920-012286",
+      "920-012298",
+      "920-012301",
+      "920-012307",
+      "920-012292"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer model reference. Explicit MPN options identify their labelled colour/layout variants; not a Latvia SKU. No colour/layout records generated.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-wave-keys.json"
+  },
+  {
+    "id": "logitech-c270-hd-webcam-manufacturer-reference",
+    "brand": "Logitech",
+    "model": "C270 HD Webcam",
+    "category": "Cameras",
+    "identifiers": [
+      "960-001063"
+    ],
+    "aliases": [],
+    "scope": "Exact manufacturer model/part reference as identified. UK/EMEA where labelled; global Sandberg/LogiLink/Lenovo references; Dell Japan technical guide. Exact Tele2 SKU, OEM package and revision require matching. Dimensions keep manufacturer orientation/clip scope.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-c270-hd-webcam-manufacturer-reference.json"
+  },
+  {
+    "id": "logitech-c920e-manufacturer-reference",
+    "brand": "Logitech",
+    "model": "C920e",
+    "category": "Cameras",
+    "identifiers": [
+      "960-001360"
+    ],
+    "aliases": [],
+    "scope": "Exact manufacturer model/part reference as identified. UK/EMEA where labelled; global Sandberg/LogiLink/Lenovo references; Dell Japan technical guide. Exact Tele2 SKU, OEM package and revision require matching. Dimensions keep manufacturer orientation/clip scope.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-c920e-manufacturer-reference.json"
+  },
+  {
+    "id": "logitech-c930e-manufacturer-reference",
+    "brand": "Logitech",
+    "model": "C930e",
+    "category": "Cameras",
+    "identifiers": [
+      "960-000972"
+    ],
+    "aliases": [],
+    "scope": "Exact manufacturer model/part reference as identified. UK/EMEA where labelled; global Sandberg/LogiLink/Lenovo references; Dell Japan technical guide. Exact Tele2 SKU, OEM package and revision require matching. Dimensions keep manufacturer orientation/clip scope.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-c930e-manufacturer-reference.json"
+  },
+  {
+    "id": "logitech-meetup-2-manufacturer-reference",
+    "brand": "Logitech",
+    "model": "MeetUp 2",
+    "category": "Cameras",
+    "identifiers": [
+      "960-001681"
+    ],
+    "aliases": [],
+    "scope": "Exact manufacturer model/part reference as identified. UK/EMEA where labelled; global Sandberg/LogiLink/Lenovo references; Dell Japan technical guide. Exact Tele2 SKU, OEM package and revision require matching. Dimensions keep manufacturer orientation/clip scope.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-meetup-2-manufacturer-reference.json"
+  }
+]

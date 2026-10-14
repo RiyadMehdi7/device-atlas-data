@@ -1,0 +1,278 @@
+[
+  {
+    "id": "asus-mb14ac",
+    "brand": "Asus",
+    "model": "MB14AC",
+    "category": "Monitors",
+    "identifiers": [
+      "MB14AC"
+    ],
+    "aliases": [],
+    "scope": "ASUS global exact-model technical specification reference; Latvian stocked regional suffix and EAN unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/asus-mb14ac.json"
+  },
+  {
+    "id": "asus-mb166cr",
+    "brand": "Asus",
+    "model": "MB166CR",
+    "category": "Monitors",
+    "identifiers": [
+      "MB166CR"
+    ],
+    "aliases": [],
+    "scope": "ASUS global exact-model technical specification reference; Latvian stocked regional suffix and EAN unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/asus-mb166cr.json"
+  },
+  {
+    "id": "asus-mb16awp",
+    "brand": "Asus",
+    "model": "MB16AWP",
+    "category": "Monitors",
+    "identifiers": [
+      "MB16AWP"
+    ],
+    "aliases": [],
+    "scope": "Global exact ZenScreen GO MB16AWP specification; battery capacity distinct from runtime. No battery runtime inferred. Regional stock suffix and EAN unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/asus-mb16awp.json"
+  },
+  {
+    "id": "asus-pa278cv",
+    "brand": "Asus",
+    "model": "PA278CV",
+    "category": "Monitors",
+    "identifiers": [
+      "PA278CV"
+    ],
+    "aliases": [],
+    "scope": "ASUS global exact-model technical specification reference; Latvian stocked regional suffix and EAN unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/asus-pa278cv.json"
+  },
+  {
+    "id": "asus-pa279cv",
+    "brand": "Asus",
+    "model": "PA279CV",
+    "category": "Monitors",
+    "identifiers": [
+      "PA279CV"
+    ],
+    "aliases": [],
+    "scope": "ASUS global exact-model technical specification reference; Latvian stocked regional suffix and EAN unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/asus-pa279cv.json"
+  },
+  {
+    "id": "asus-pa329crv",
+    "brand": "Asus",
+    "model": "PA329CRV",
+    "category": "Monitors",
+    "identifiers": [
+      "PA329CRV"
+    ],
+    "aliases": [],
+    "scope": "ASUS global exact-model technical specification reference; Latvian stocked regional suffix and EAN unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/asus-pa329crv.json"
+  },
+  {
+    "id": "asus-pa348cgv",
+    "brand": "Asus",
+    "model": "PA348CGV",
+    "category": "Monitors",
+    "identifiers": [
+      "PA348CGV"
+    ],
+    "aliases": [],
+    "scope": "ASUS global exact-model technical specification reference; Latvian stocked regional suffix and EAN unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/asus-pa348cgv.json"
+  },
+  {
+    "id": "asus-va27uqsb",
+    "brand": "Asus",
+    "model": "VA27UQSB",
+    "category": "Monitors",
+    "identifiers": [
+      "VA27UQSB"
+    ],
+    "aliases": [],
+    "scope": "ASUS global exact-model technical specification reference; Latvian stocked regional suffix and EAN unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/asus-va27uqsb.json"
+  },
+  {
+    "id": "asus-va32uqsb",
+    "brand": "Asus",
+    "model": "VA32UQSB",
+    "category": "Monitors",
+    "identifiers": [
+      "VA32UQSB"
+    ],
+    "aliases": [],
+    "scope": "ASUS global exact-model technical specification reference; Latvian stocked regional suffix and EAN unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/asus-va32uqsb.json"
+  },
+  {
+    "id": "asus-vg279qe5a",
+    "brand": "Asus",
+    "model": "VG279QE5A",
+    "category": "Monitors",
+    "identifiers": [
+      "VG279QE5A"
+    ],
+    "aliases": [],
+    "scope": "ASUS global exact-model technical specification reference; Latvian stocked regional suffix and EAN unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/asus-vg279qe5a.json"
+  },
+  {
+    "id": "asus-vg27aq5a",
+    "brand": "Asus",
+    "model": "VG27AQ5A",
+    "category": "Monitors",
+    "identifiers": [
+      "VG27AQ5A"
+    ],
+    "aliases": [],
+    "scope": "ASUS global exact-model technical specification reference; Latvian stocked regional suffix and EAN unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/asus-vg27aq5a.json"
+  },
+  {
+    "id": "asus-vg27wq3b",
+    "brand": "Asus",
+    "model": "VG27WQ3B",
+    "category": "Monitors",
+    "identifiers": [
+      "VG27WQ3B"
+    ],
+    "aliases": [],
+    "scope": "ASUS global exact-model technical specification reference; Latvian stocked regional suffix and EAN unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/asus-vg27wq3b.json"
+  },
+  {
+    "id": "asus-vg328qa1a",
+    "brand": "Asus",
+    "model": "VG328QA1A",
+    "category": "Monitors",
+    "identifiers": [
+      "VG328QA1A"
+    ],
+    "aliases": [],
+    "scope": "ASUS global exact-model technical specification reference; Latvian stocked regional suffix and EAN unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/asus-vg328qa1a.json"
+  },
+  {
+    "id": "asus-vg34vqel1a",
+    "brand": "Asus",
+    "model": "VG34VQEL1A",
+    "category": "Monitors",
+    "identifiers": [
+      "VG34VQEL1A"
+    ],
+    "aliases": [],
+    "scope": "ASUS global exact-model technical specification reference; Latvian stocked regional suffix and EAN unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/asus-vg34vqel1a.json"
+  },
+  {
+    "id": "asus-vg34vql1b",
+    "brand": "Asus",
+    "model": "VG34VQL1B",
+    "category": "Monitors",
+    "identifiers": [
+      "VG34VQL1B"
+    ],
+    "aliases": [],
+    "scope": "ASUS global exact-model technical specification reference; Latvian stocked regional suffix and EAN unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/asus-vg34vql1b.json"
+  },
+  {
+    "id": "asus-vg34vql3a",
+    "brand": "Asus",
+    "model": "VG34VQL3A",
+    "category": "Monitors",
+    "identifiers": [
+      "VG34VQL3A"
+    ],
+    "aliases": [],
+    "scope": "ASUS global exact-model technical specification reference; Latvian stocked regional suffix and EAN unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/asus-vg34vql3a.json"
+  },
+  {
+    "id": "asus-vt229h",
+    "brand": "Asus",
+    "model": "VT229H",
+    "category": "Monitors",
+    "identifiers": [
+      "VT229H"
+    ],
+    "aliases": [],
+    "scope": "ASUS global exact-model technical specification reference; Latvian stocked regional suffix and EAN unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/asus-vt229h.json"
+  },
+  {
+    "id": "asus-vy229q",
+    "brand": "Asus",
+    "model": "VY229Q",
+    "category": "Monitors",
+    "identifiers": [
+      "VY229Q"
+    ],
+    "aliases": [],
+    "scope": "ASUS global exact-model technical specification reference; Latvian stocked regional suffix and EAN unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/asus-vy229q.json"
+  },
+  {
+    "id": "asus-vy279hgr",
+    "brand": "Asus",
+    "model": "VY279HGR",
+    "category": "Monitors",
+    "identifiers": [
+      "VY279HGR"
+    ],
+    "aliases": [],
+    "scope": "ASUS global exact-model technical specification reference; Latvian stocked regional suffix and EAN unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/asus-vy279hgr.json"
+  },
+  {
+    "id": "asus-xg27acdng",
+    "brand": "Asus",
+    "model": "XG27ACDNG",
+    "category": "Monitors",
+    "identifiers": [
+      "XG27ACDNG"
+    ],
+    "aliases": [],
+    "scope": "Exact ROG global model specification. Dimensions and weights are estimated and may vary by region; Latvian EAN matching remains unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/asus-xg27acdng.json"
+  },
+  {
+    "id": "asus-xg27aqdng",
+    "brand": "Asus",
+    "model": "XG27AQDNG",
+    "category": "Monitors",
+    "identifiers": [
+      "XG27AQDNG"
+    ],
+    "aliases": [],
+    "scope": "Exact ROG global model specification. Dimensions and weights are estimated and may vary by region; Latvian EAN matching remains unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/asus-xg27aqdng.json"
+  },
+  {
+    "id": "asus-xg32ucwmg",
+    "brand": "Asus",
+    "model": "XG32UCWMG",
+    "category": "Monitors",
+    "identifiers": [
+      "XG32UCWMG"
+    ],
+    "aliases": [],
+    "scope": "Exact ROG global model specification. Dimensions and weights are estimated and may vary by region; Latvian EAN matching remains unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/asus-xg32ucwmg.json"
+  },
+  {
+    "id": "asus-xg32wcs",
+    "brand": "Asus",
+    "model": "XG32WCS",
+    "category": "Monitors",
+    "identifiers": [
+      "XG32WCS"
+    ],
+    "aliases": [],
+    "scope": "Exact ROG global model specification. Dimensions and weights are estimated and may vary by region; Latvian EAN matching remains unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/asus-xg32wcs.json"
+  }
+]

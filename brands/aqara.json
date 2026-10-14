@@ -1,0 +1,92 @@
+[
+  {
+    "id": "aqara-camera-hub-g2h-pro-global-reference",
+    "brand": "Aqara",
+    "model": "Camera Hub G2H Pro",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official Aqara EU English manufacturer reference; exact Latvian SKU and hardware revision require matching. Specifications are EU store claims. Conflicting or suspect manufacturer-store fields withheld and listed below.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aqara-camera-hub-g2h-pro-global-reference.json"
+  },
+  {
+    "id": "aqara-camera-hub-g3-global-reference",
+    "brand": "Aqara",
+    "model": "Camera Hub G3",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official Aqara EU English manufacturer reference; exact Latvian SKU and hardware revision require matching. Specifications are EU store claims. Conflicting or suspect manufacturer-store fields withheld and listed below.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aqara-camera-hub-g3-global-reference.json"
+  },
+  {
+    "id": "aqara-cube-t1-pro-global-reference",
+    "brand": "Aqara",
+    "model": "Cube T1 Pro",
+    "category": "Smart home",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official Aqara EU English manufacturer reference; exact Latvian SKU and hardware revision require matching. Specifications are EU store claims. Conflicting or suspect manufacturer-store fields withheld and listed below.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aqara-cube-t1-pro-global-reference.json"
+  },
+  {
+    "id": "aqara-door-and-window-sensor-p2-global-reference",
+    "brand": "Aqara",
+    "model": "Door and Window Sensor P2",
+    "category": "Smart home",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official Aqara EU English manufacturer reference; exact Latvian SKU and hardware revision require matching. Specifications are EU store claims. Conflicting or suspect manufacturer-store fields withheld and listed below.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aqara-door-and-window-sensor-p2-global-reference.json"
+  },
+  {
+    "id": "aqara-dual-relay-module-t2-global-reference",
+    "brand": "Aqara",
+    "model": "Dual Relay Module T2",
+    "category": "Smart home",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official Aqara EU English manufacturer reference; exact Latvian SKU and hardware revision require matching. Specifications are EU store claims. Conflicting or suspect manufacturer-store fields withheld and listed below.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aqara-dual-relay-module-t2-global-reference.json"
+  },
+  {
+    "id": "aqara-motion-sensor-p1-global-reference",
+    "brand": "Aqara",
+    "model": "Motion Sensor P1",
+    "category": "Smart home",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official Aqara EU English manufacturer reference; exact Latvian SKU and hardware revision require matching. Specifications are EU store claims. Conflicting or suspect manufacturer-store fields withheld and listed below.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aqara-motion-sensor-p1-global-reference.json"
+  },
+  {
+    "id": "aqara-presence-sensor-fp2-global-reference",
+    "brand": "Aqara",
+    "model": "Presence Sensor FP2",
+    "category": "Smart home",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official Aqara EU English manufacturer reference; exact Latvian SKU and hardware revision require matching. Specifications are EU store claims. Conflicting or suspect manufacturer-store fields withheld and listed below.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aqara-presence-sensor-fp2-global-reference.json"
+  },
+  {
+    "id": "aqara-roller-shade-driver-e1-global-reference",
+    "brand": "Aqara",
+    "model": "Roller Shade Driver E1",
+    "category": "Smart home",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official Aqara EU English manufacturer reference; exact Latvian SKU and hardware revision require matching. Specifications are EU store claims. Conflicting or suspect manufacturer-store fields withheld and listed below.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aqara-roller-shade-driver-e1-global-reference.json"
+  },
+  {
+    "id": "aqara-smart-plug-eu-global-reference",
+    "brand": "Aqara",
+    "model": "Smart Plug EU",
+    "category": "Smart home",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official Aqara EU English manufacturer reference; exact Latvian SKU and hardware revision require matching. Specifications are EU store claims. Conflicting or suspect manufacturer-store fields withheld and listed below.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aqara-smart-plug-eu-global-reference.json"
+  }
+]

@@ -1,0 +1,1062 @@
+[
+  {
+    "id": "apple-20w-usb-c-power-adapter",
+    "brand": "Apple",
+    "model": "20W USB-C Power Adapter",
+    "category": "Accessories",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official UK manufacturer reference. Dimensions/features are for the namedgeneration. UKplug/part may differfromLatvia; exactretailerbarcode/MPNrequiresmatching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-20w-usb-c-power-adapter.json"
+  },
+  {
+    "id": "apple-240w-usb-c-charge-cable-2m",
+    "brand": "Apple",
+    "model": "240W USB-C Charge Cable (2m)",
+    "category": "Accessories",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official UK manufacturer reference. Dimensions/features are for the namedgeneration. UKplug/part may differfromLatvia; exactretailerbarcode/MPNrequiresmatching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-240w-usb-c-charge-cable-2m.json"
+  },
+  {
+    "id": "apple-40w-dynamic-power-adapter-with60w-max",
+    "brand": "Apple",
+    "model": "40W Dynamic Power Adapter with 60W Max",
+    "category": "Accessories",
+    "identifiers": [
+      "195950673999"
+    ],
+    "aliases": [],
+    "scope": "Official UK manufacturer reference. Dimensions/features are for the namedgeneration. UKplug/part may differfromLatvia; exactretailerbarcode/MPNrequiresmatching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-40w-dynamic-power-adapter-with60w-max.json"
+  },
+  {
+    "id": "apple-60w-usb-c-charge-cable-1m",
+    "brand": "Apple",
+    "model": "60W USB-C Charge Cable (1m)",
+    "category": "Accessories",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official UK manufacturer reference. Dimensions/features are for the namedgeneration. UKplug/part may differfromLatvia; exactretailerbarcode/MPNrequiresmatching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-60w-usb-c-charge-cable-1m.json"
+  },
+  {
+    "id": "apple-magic-keyboard-with-touch-id-usb-c",
+    "brand": "Apple",
+    "model": "Magic Keyboard with Touch ID (USB-C)",
+    "category": "Accessories",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official UK manufacturer reference. Dimensions/features are for the namedgeneration. UKplug/part may differfromLatvia; exactretailerbarcode/MPNrequiresmatching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-magic-keyboard-with-touch-id-usb-c.json"
+  },
+  {
+    "id": "apple-magic-keyboard-with-touch-id-and-numeric-keypad-usb-c",
+    "brand": "Apple",
+    "model": "Magic Keyboard with Touch ID and Numeric Keypad (USB-C)",
+    "category": "Accessories",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official UK manufacturer reference. Dimensions/features are for the namedgeneration. UKplug/part may differfromLatvia; exactretailerbarcode/MPNrequiresmatching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-magic-keyboard-with-touch-id-and-numeric-keypad-usb-c.json"
+  },
+  {
+    "id": "apple-pencil-2nd-generation",
+    "brand": "Apple",
+    "model": "Pencil (2nd generation)",
+    "category": "Accessories",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official UK manufacturer reference. Dimensions/features are for the namedgeneration. UKplug/part may differfromLatvia; exactretailerbarcode/MPNrequiresmatching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-pencil-2nd-generation.json"
+  },
+  {
+    "id": "apple-pencil-usb-c",
+    "brand": "Apple",
+    "model": "Pencil (USB-C)",
+    "category": "Accessories",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official UK manufacturer reference. Dimensions/features are for the namedgeneration. UKplug/part may differfromLatvia; exactretailerbarcode/MPNrequiresmatching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-pencil-usb-c.json"
+  },
+  {
+    "id": "apple-pencil-pro",
+    "brand": "Apple",
+    "model": "Pencil Pro",
+    "category": "Accessories",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official UK manufacturer reference. Dimensions/features are for the namedgeneration. UKplug/part may differfromLatvia; exactretailerbarcode/MPNrequiresmatching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-pencil-pro.json"
+  },
+  {
+    "id": "apple-usb-c-digital-av-multiport-adapter",
+    "brand": "Apple",
+    "model": "USB-C Digital AV Multiport Adapter",
+    "category": "Accessories",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official UK manufacturer reference. Dimensions/features are for the namedgeneration. UKplug/part may differfromLatvia; exactretailerbarcode/MPNrequiresmatching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-usb-c-digital-av-multiport-adapter.json"
+  },
+  {
+    "id": "apple-airpods-5-uk-model",
+    "brand": "Apple",
+    "model": "AirPods 5",
+    "category": "Earbuds",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK model family covering USB-C Charging Case and Wireless Charging Case variants; variant-specific values explicitly conditioned. Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-airpods-5-uk-model.json"
+  },
+  {
+    "id": "apple-airpods-pro-3-model",
+    "brand": "Apple",
+    "model": "AirPods Pro 3",
+    "category": "Earbuds",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; Latvia SKU matching required; no colour copies",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-airpods-pro-3-model.json"
+  },
+  {
+    "id": "apple-airpods-max-2-model",
+    "brand": "Apple",
+    "model": "AirPods Max 2",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; Latvia SKU matching required; no colour copies",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-airpods-max-2-model.json"
+  },
+  {
+    "id": "apple-macbook-air-13-inch-m5-16gb-1tb",
+    "brand": "Apple",
+    "model": "MacBook Air 13-inch M5 16GB/1TB",
+    "category": "Laptops",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Actual standard configuration from Apple Ireland technical specification columns. Colour, Latvian keyboard/MPN and Tele2 exact regional SKU unresolved. Configurable upgrades are excluded from CPU/memory/storage values.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-macbook-air-13-inch-m5-16gb-1tb.json"
+  },
+  {
+    "id": "apple-macbook-air-13-inch-m5-16gb-512gb",
+    "brand": "Apple",
+    "model": "MacBook Air 13-inch M5 16GB/512GB",
+    "category": "Laptops",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Actual standard configuration from Apple Ireland technical specification columns. Colour, Latvian keyboard/MPN and Tele2 exact regional SKU unresolved. Configurable upgrades are excluded from CPU/memory/storage values.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-macbook-air-13-inch-m5-16gb-512gb.json"
+  },
+  {
+    "id": "apple-macbook-air-13-inch-m5-24gb-1tb",
+    "brand": "Apple",
+    "model": "MacBook Air 13-inch M5 24GB/1TB",
+    "category": "Laptops",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Actual standard configuration from Apple Ireland technical specification columns. Colour, Latvian keyboard/MPN and Tele2 exact regional SKU unresolved. Configurable upgrades are excluded from CPU/memory/storage values.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-macbook-air-13-inch-m5-24gb-1tb.json"
+  },
+  {
+    "id": "apple-macbook-air-15-inch-m5-16gb-1tb",
+    "brand": "Apple",
+    "model": "MacBook Air 15-inch M5 16GB/1TB",
+    "category": "Laptops",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Actual standard configuration from Apple Ireland technical specification columns. Colour, Latvian keyboard/MPN and Tele2 exact regional SKU unresolved. Configurable upgrades are excluded from CPU/memory/storage values.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-macbook-air-15-inch-m5-16gb-1tb.json"
+  },
+  {
+    "id": "apple-macbook-air-15-inch-m5-16gb-512gb",
+    "brand": "Apple",
+    "model": "MacBook Air 15-inch M5 16GB/512GB",
+    "category": "Laptops",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Actual standard configuration from Apple Ireland technical specification columns. Colour, Latvian keyboard/MPN and Tele2 exact regional SKU unresolved. Configurable upgrades are excluded from CPU/memory/storage values.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-macbook-air-15-inch-m5-16gb-512gb.json"
+  },
+  {
+    "id": "apple-macbook-air-15-inch-m5-24gb-1tb",
+    "brand": "Apple",
+    "model": "MacBook Air 15-inch M5 24GB/1TB",
+    "category": "Laptops",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Actual standard configuration from Apple Ireland technical specification columns. Colour, Latvian keyboard/MPN and Tele2 exact regional SKU unresolved. Configurable upgrades are excluded from CPU/memory/storage values.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-macbook-air-15-inch-m5-24gb-1tb.json"
+  },
+  {
+    "id": "apple-macbook-neo-13-inch-a18-pro-8gb-256gb",
+    "brand": "Apple",
+    "model": "MacBook Neo 13-inch A18 Pro 8GB/256GB",
+    "category": "Laptops",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Actual standard configuration from Apple Ireland technical specification columns. Colour, Latvian keyboard/MPN and Tele2 exact regional SKU unresolved. Configurable upgrades are excluded from CPU/memory/storage values.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-macbook-neo-13-inch-a18-pro-8gb-256gb.json"
+  },
+  {
+    "id": "apple-macbook-neo-13-inch-a18-pro-8gb-512gb",
+    "brand": "Apple",
+    "model": "MacBook Neo 13-inch A18 Pro 8GB/512GB",
+    "category": "Laptops",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Actual standard configuration from Apple Ireland technical specification columns. Colour, Latvian keyboard/MPN and Tele2 exact regional SKU unresolved. Configurable upgrades are excluded from CPU/memory/storage values.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-macbook-neo-13-inch-a18-pro-8gb-512gb.json"
+  },
+  {
+    "id": "apple-macbook-pro-14-inch-m5-max-18-core-cpu-32-core-gpu-36gb-2tb",
+    "brand": "Apple",
+    "model": "MacBook Pro 14-inch M5 Max 18-core CPU 32-core GPU 36GB/2TB",
+    "category": "Laptops",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Actual standard configuration from corresponding Apple Ireland CPU/GPU/memory/storage specification column. Configurable upgrades excluded. The 14-inch 15-core CPU/16-core GPU/24GB column explicitly lists standard 1TB or 2TB storage. Colour, regional keyboard/MPN and Latvia availability unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-macbook-pro-14-inch-m5-max-18-core-cpu-32-core-gpu-36gb-2tb.json"
+  },
+  {
+    "id": "apple-macbook-pro-14-inch-m5-pro-15-core-cpu-16-core-gpu-24gb-1tb",
+    "brand": "Apple",
+    "model": "MacBook Pro 14-inch M5 Pro 15-core CPU 16-core GPU 24GB/1TB",
+    "category": "Laptops",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Actual standard configuration from corresponding Apple Ireland CPU/GPU/memory/storage specification column. Configurable upgrades excluded. The 14-inch 15-core CPU/16-core GPU/24GB column explicitly lists standard 1TB or 2TB storage. Colour, regional keyboard/MPN and Latvia availability unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-macbook-pro-14-inch-m5-pro-15-core-cpu-16-core-gpu-24gb-1tb.json"
+  },
+  {
+    "id": "apple-macbook-pro-14-inch-m5-pro-15-core-cpu-16-core-gpu-24gb-2tb",
+    "brand": "Apple",
+    "model": "MacBook Pro 14-inch M5 Pro 15-core CPU 16-core GPU 24GB/2TB",
+    "category": "Laptops",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Actual standard configuration from corresponding Apple Ireland CPU/GPU/memory/storage specification column. Configurable upgrades excluded. The 14-inch 15-core CPU/16-core GPU/24GB column explicitly lists standard 1TB or 2TB storage. Colour, regional keyboard/MPN and Latvia availability unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-macbook-pro-14-inch-m5-pro-15-core-cpu-16-core-gpu-24gb-2tb.json"
+  },
+  {
+    "id": "apple-macbook-pro-14-inch-m5-pro-18-core-cpu-20-core-gpu-24gb-2tb",
+    "brand": "Apple",
+    "model": "MacBook Pro 14-inch M5 Pro 18-core CPU 20-core GPU 24GB/2TB",
+    "category": "Laptops",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Actual standard configuration from corresponding Apple Ireland CPU/GPU/memory/storage specification column. Configurable upgrades excluded. The 14-inch 15-core CPU/16-core GPU/24GB column explicitly lists standard 1TB or 2TB storage. Colour, regional keyboard/MPN and Latvia availability unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-macbook-pro-14-inch-m5-pro-18-core-cpu-20-core-gpu-24gb-2tb.json"
+  },
+  {
+    "id": "apple-macbook-pro-16-inch-m5-max-18-core-cpu-32-core-gpu-36gb-2tb",
+    "brand": "Apple",
+    "model": "MacBook Pro 16-inch M5 Max 18-core CPU 32-core GPU 36GB/2TB",
+    "category": "Laptops",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Actual standard configuration from corresponding Apple Ireland CPU/GPU/memory/storage specification column. Configurable upgrades excluded. The 14-inch 15-core CPU/16-core GPU/24GB column explicitly lists standard 1TB or 2TB storage. Colour, regional keyboard/MPN and Latvia availability unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-macbook-pro-16-inch-m5-max-18-core-cpu-32-core-gpu-36gb-2tb.json"
+  },
+  {
+    "id": "apple-macbook-pro-16-inch-m5-max-18-core-cpu-40-core-gpu-48gb-2tb",
+    "brand": "Apple",
+    "model": "MacBook Pro 16-inch M5 Max 18-core CPU 40-core GPU 48GB/2TB",
+    "category": "Laptops",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Actual standard configuration from corresponding Apple Ireland CPU/GPU/memory/storage specification column. Configurable upgrades excluded. The 14-inch 15-core CPU/16-core GPU/24GB column explicitly lists standard 1TB or 2TB storage. Colour, regional keyboard/MPN and Latvia availability unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-macbook-pro-16-inch-m5-max-18-core-cpu-40-core-gpu-48gb-2tb.json"
+  },
+  {
+    "id": "apple-macbook-pro-16-inch-m5-pro-18-core-cpu-20-core-gpu-24gb-1tb",
+    "brand": "Apple",
+    "model": "MacBook Pro 16-inch M5 Pro 18-core CPU 20-core GPU 24GB/1TB",
+    "category": "Laptops",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Actual standard configuration from corresponding Apple Ireland CPU/GPU/memory/storage specification column. Configurable upgrades excluded. The 14-inch 15-core CPU/16-core GPU/24GB column explicitly lists standard 1TB or 2TB storage. Colour, regional keyboard/MPN and Latvia availability unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-macbook-pro-16-inch-m5-pro-18-core-cpu-20-core-gpu-24gb-1tb.json"
+  },
+  {
+    "id": "apple-macbook-pro-16-inch-m5-pro-18-core-cpu-20-core-gpu-48gb-1tb",
+    "brand": "Apple",
+    "model": "MacBook Pro 16-inch M5 Pro 18-core CPU 20-core GPU 48GB/1TB",
+    "category": "Laptops",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Actual standard configuration from corresponding Apple Ireland CPU/GPU/memory/storage specification column. Configurable upgrades excluded. The 14-inch 15-core CPU/16-core GPU/24GB column explicitly lists standard 1TB or 2TB storage. Colour, regional keyboard/MPN and Latvia availability unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-macbook-pro-16-inch-m5-pro-18-core-cpu-20-core-gpu-48gb-1tb.json"
+  },
+  {
+    "id": "apple-iphone-15-uk-manufacturer-model-reference",
+    "brand": "Apple",
+    "model": "iPhone 15",
+    "category": "Phones",
+    "identifiers": [
+      "A3090"
+    ],
+    "aliases": [
+      "iPhone 15 128GB"
+    ],
+    "scope": "UK manufacturer model reference; capacities grouped, regional radio/SIM scope in fields",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-iphone-15-uk-manufacturer-model-reference.json"
+  },
+  {
+    "id": "apple-iphone-15-plus-uk-manufacturer-model-reference",
+    "brand": "Apple",
+    "model": "iPhone 15 Plus",
+    "category": "Phones",
+    "identifiers": [
+      "A3094"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; capacities grouped, regional radio/SIM scope in fields",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-iphone-15-plus-uk-manufacturer-model-reference.json"
+  },
+  {
+    "id": "apple-iphone-15-pro-uk-manufacturer-model-reference",
+    "brand": "Apple",
+    "model": "iPhone 15 Pro",
+    "category": "Phones",
+    "identifiers": [
+      "A3102"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; capacities grouped, regional radio/SIM scope in fields",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-iphone-15-pro-uk-manufacturer-model-reference.json"
+  },
+  {
+    "id": "apple-iphone-15-pro-max-uk-manufacturer-model-reference",
+    "brand": "Apple",
+    "model": "iPhone 15 Pro Max",
+    "category": "Phones",
+    "identifiers": [
+      "A3106"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; capacities grouped, regional radio/SIM scope in fields",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-iphone-15-pro-max-uk-manufacturer-model-reference.json"
+  },
+  {
+    "id": "apple-iphone-16-uk-manufacturer-model-reference",
+    "brand": "Apple",
+    "model": "iPhone 16",
+    "category": "Phones",
+    "identifiers": [
+      "A3287"
+    ],
+    "aliases": [
+      "iPhone 16 128GB"
+    ],
+    "scope": "UK manufacturer model reference; capacities grouped, regional radio/SIM scope in fields",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-iphone-16-uk-manufacturer-model-reference.json"
+  },
+  {
+    "id": "apple-iphone-16-plus-uk-manufacturer-model-reference",
+    "brand": "Apple",
+    "model": "iPhone 16 Plus",
+    "category": "Phones",
+    "identifiers": [
+      "A3290"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; capacities grouped, regional radio/SIM scope in fields",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-iphone-16-plus-uk-manufacturer-model-reference.json"
+  },
+  {
+    "id": "apple-iphone-16-pro-uk-manufacturer-model-reference",
+    "brand": "Apple",
+    "model": "iPhone 16 Pro",
+    "category": "Phones",
+    "identifiers": [
+      "A3293"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; capacities grouped, regional radio/SIM scope in fields",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-iphone-16-pro-uk-manufacturer-model-reference.json"
+  },
+  {
+    "id": "apple-iphone-16-pro-max-uk-manufacturer-model-reference",
+    "brand": "Apple",
+    "model": "iPhone 16 Pro Max",
+    "category": "Phones",
+    "identifiers": [
+      "A3296"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; capacities grouped, regional radio/SIM scope in fields",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-iphone-16-pro-max-uk-manufacturer-model-reference.json"
+  },
+  {
+    "id": "apple-iphone-16e-uk-manufacturer-model-reference",
+    "brand": "Apple",
+    "model": "iPhone 16e",
+    "category": "Phones",
+    "identifiers": [
+      "A3409"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; capacities grouped, regional radio/SIM scope in fields",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-iphone-16e-uk-manufacturer-model-reference.json"
+  },
+  {
+    "id": "apple-iphone-17-uk-manufacturer-model-reference",
+    "brand": "Apple",
+    "model": "iPhone 17",
+    "category": "Phones",
+    "identifiers": [
+      "A3520"
+    ],
+    "aliases": [
+      "iPhone 17 512GB",
+      "iPhone 17 256GB"
+    ],
+    "scope": "UK manufacturer model reference; capacities grouped, regional radio/SIM scope in fields",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-iphone-17-uk-manufacturer-model-reference.json"
+  },
+  {
+    "id": "apple-iphone-17-pro-uk-manufacturer-model-reference",
+    "brand": "Apple",
+    "model": "iPhone 17 Pro",
+    "category": "Phones",
+    "identifiers": [
+      "A3523"
+    ],
+    "aliases": [
+      "iPhone 17 Pro 256GB",
+      "iPhone 17 Pro 512GB"
+    ],
+    "scope": "UK manufacturer model reference; capacities grouped, regional radio/SIM scope in fields",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-iphone-17-pro-uk-manufacturer-model-reference.json"
+  },
+  {
+    "id": "apple-iphone-17-pro-max-uk-manufacturer-model-reference",
+    "brand": "Apple",
+    "model": "iPhone 17 Pro Max",
+    "category": "Phones",
+    "identifiers": [
+      "A3526"
+    ],
+    "aliases": [
+      "iPhone 17 Pro Max 256GB",
+      "iPhone 17 Pro Max 512GB"
+    ],
+    "scope": "UK manufacturer model reference; capacities grouped, regional radio/SIM scope in fields",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-iphone-17-pro-max-uk-manufacturer-model-reference.json"
+  },
+  {
+    "id": "apple-iphone-17e-uk-manufacturer-model-reference",
+    "brand": "Apple",
+    "model": "iPhone 17e",
+    "category": "Phones",
+    "identifiers": [
+      "A3634"
+    ],
+    "aliases": [
+      "iPhone 17e 256GB"
+    ],
+    "scope": "UK manufacturer model reference; capacities grouped, regional radio/SIM scope in fields",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-iphone-17e-uk-manufacturer-model-reference.json"
+  },
+  {
+    "id": "apple-iphone-18-pro-uk-manufacturer-model-reference",
+    "brand": "Apple",
+    "model": "iPhone 18 Pro",
+    "category": "Phones",
+    "identifiers": [
+      "A3714"
+    ],
+    "aliases": [
+      "iPhone 18 Pro 256GB",
+      "iPhone 18 Pro 1TB",
+      "iPhone 18 Pro 512GB",
+      "iPhone 18 Pro 2TB"
+    ],
+    "scope": "UK manufacturer model reference; capacities grouped, regional radio/SIM scope in fields",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-iphone-18-pro-uk-manufacturer-model-reference.json"
+  },
+  {
+    "id": "apple-iphone-18-pro-max-uk-manufacturer-model-reference",
+    "brand": "Apple",
+    "model": "iPhone 18 Pro Max",
+    "category": "Phones",
+    "identifiers": [
+      "A3717"
+    ],
+    "aliases": [
+      "iPhone 18 Pro Max 256GB",
+      "iPhone 18 Pro Max 512GB",
+      "iPhone 18 Pro Max 1TB",
+      "iPhone 18 Pro Max 2TB"
+    ],
+    "scope": "UK manufacturer model reference; capacities grouped, regional radio/SIM scope in fields",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-iphone-18-pro-max-uk-manufacturer-model-reference.json"
+  },
+  {
+    "id": "apple-iphone-air-uk-manufacturer-model-reference",
+    "brand": "Apple",
+    "model": "iPhone Air",
+    "category": "Phones",
+    "identifiers": [
+      "A3517"
+    ],
+    "aliases": [
+      "iPhone Air 256GB",
+      "iPhone Air 512GB"
+    ],
+    "scope": "UK manufacturer model reference; capacities grouped, regional radio/SIM scope in fields",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-iphone-air-uk-manufacturer-model-reference.json"
+  },
+  {
+    "id": "apple-iphone-duo-uk-manufacturer-model-reference",
+    "brand": "Apple",
+    "model": "iPhone Duo",
+    "category": "Phones",
+    "identifiers": [
+      "A3720"
+    ],
+    "aliases": [
+      "iPhone Duo 256GB",
+      "iPhone Duo 2TB",
+      "iPhone Duo 512GB",
+      "iPhone Duo 1TB"
+    ],
+    "scope": "UK manufacturer model reference; capacity options grouped; foldable screen/size states retained; Latvia exact SKU unresolved",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-iphone-duo-uk-manufacturer-model-reference.json"
+  },
+  {
+    "id": "apple-watch-se-3-40mm-gps",
+    "brand": "Apple",
+    "model": "Watch SE 3 40mm GPS",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer 40mm GPS reference, aluminium case for Series/SE, titanium Ultra. Common series fields plus explicitly labelled size/connectivity statements. Exact Latvian SKU and services need matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-watch-se-3-40mm-gps.json"
+  },
+  {
+    "id": "apple-watch-se-3-40mm-gps-cellular",
+    "brand": "Apple",
+    "model": "Watch SE 3 40mm GPS + Cellular",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer 40mm GPS + Cellular reference, aluminium case for Series/SE, titanium Ultra. Common series fields plus explicitly labelled size/connectivity statements. Exact Latvian SKU and services need matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-watch-se-3-40mm-gps-cellular.json"
+  },
+  {
+    "id": "apple-watch-se-3-44mm-gps",
+    "brand": "Apple",
+    "model": "Watch SE 3 44mm GPS",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer 44mm GPS reference, aluminium case for Series/SE, titanium Ultra. Common series fields plus explicitly labelled size/connectivity statements. Exact Latvian SKU and services need matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-watch-se-3-44mm-gps.json"
+  },
+  {
+    "id": "apple-watch-se-3-44mm-gps-cellular",
+    "brand": "Apple",
+    "model": "Watch SE 3 44mm GPS + Cellular",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer 44mm GPS + Cellular reference, aluminium case for Series/SE, titanium Ultra. Common series fields plus explicitly labelled size/connectivity statements. Exact Latvian SKU and services need matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-watch-se-3-44mm-gps-cellular.json"
+  },
+  {
+    "id": "apple-watch-series-12-42mm-gps",
+    "brand": "Apple",
+    "model": "Watch Series 12 42mm GPS",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer 42mm GPS reference, aluminium case for Series/SE, titanium Ultra. Common series fields plus explicitly labelled size/connectivity statements. Exact Latvian SKU and services need matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-watch-series-12-42mm-gps.json"
+  },
+  {
+    "id": "apple-watch-series-12-42mm-gps-cellular",
+    "brand": "Apple",
+    "model": "Watch Series 12 42mm GPS + Cellular",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer 42mm GPS + Cellular reference, aluminium case for Series/SE, titanium Ultra. Common series fields plus explicitly labelled size/connectivity statements. Exact Latvian SKU and services need matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-watch-series-12-42mm-gps-cellular.json"
+  },
+  {
+    "id": "apple-watch-series-12-46mm-gps",
+    "brand": "Apple",
+    "model": "Watch Series 12 46mm GPS",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer 46mm GPS reference, aluminium case for Series/SE, titanium Ultra. Common series fields plus explicitly labelled size/connectivity statements. Exact Latvian SKU and services need matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-watch-series-12-46mm-gps.json"
+  },
+  {
+    "id": "apple-watch-series-12-46mm-gps-cellular",
+    "brand": "Apple",
+    "model": "Watch Series 12 46mm GPS + Cellular",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer 46mm GPS + Cellular reference, aluminium case for Series/SE, titanium Ultra. Common series fields plus explicitly labelled size/connectivity statements. Exact Latvian SKU and services need matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-watch-series-12-46mm-gps-cellular.json"
+  },
+  {
+    "id": "apple-watch-ultra-4-49mm-gps-cellular",
+    "brand": "Apple",
+    "model": "Watch Ultra 4 49mm GPS + Cellular",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer 49mm GPS + Cellular reference, aluminium case for Series/SE, titanium Ultra. Common series fields plus explicitly labelled size/connectivity statements. Exact Latvian SKU and services need matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-watch-ultra-4-49mm-gps-cellular.json"
+  },
+  {
+    "id": "apple-ipad-11-inch-a16-wi-fi-cellular-128gb",
+    "brand": "Apple",
+    "model": "iPad 11-inch (A16) Wi-Fi + Cellular 128GB",
+    "category": "Tablets",
+    "identifiers": [
+      "A3355"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer reference. Size, capacity and connectivity explicitly enumerated on manufacturer specs page. Colour not used to multiply records. Exact Latvia part number unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-ipad-11-inch-a16-wi-fi-cellular-128gb.json"
+  },
+  {
+    "id": "apple-ipad-11-inch-a16-wi-fi-cellular-256gb",
+    "brand": "Apple",
+    "model": "iPad 11-inch (A16) Wi-Fi + Cellular 256GB",
+    "category": "Tablets",
+    "identifiers": [
+      "A3355"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer reference. Size, capacity and connectivity explicitly enumerated on manufacturer specs page. Colour not used to multiply records. Exact Latvia part number unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-ipad-11-inch-a16-wi-fi-cellular-256gb.json"
+  },
+  {
+    "id": "apple-ipad-11-inch-a16-wi-fi-cellular-512gb",
+    "brand": "Apple",
+    "model": "iPad 11-inch (A16) Wi-Fi + Cellular 512GB",
+    "category": "Tablets",
+    "identifiers": [
+      "A3355"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer reference. Size, capacity and connectivity explicitly enumerated on manufacturer specs page. Colour not used to multiply records. Exact Latvia part number unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-ipad-11-inch-a16-wi-fi-cellular-512gb.json"
+  },
+  {
+    "id": "apple-ipad-11-inch-a16-wi-fi-128gb",
+    "brand": "Apple",
+    "model": "iPad 11-inch (A16) Wi-Fi 128GB",
+    "category": "Tablets",
+    "identifiers": [
+      "A3354"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer reference. Size, capacity and connectivity explicitly enumerated on manufacturer specs page. Colour not used to multiply records. Exact Latvia part number unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-ipad-11-inch-a16-wi-fi-128gb.json"
+  },
+  {
+    "id": "apple-ipad-11-inch-a16-wi-fi-256gb",
+    "brand": "Apple",
+    "model": "iPad 11-inch (A16) Wi-Fi 256GB",
+    "category": "Tablets",
+    "identifiers": [
+      "A3354"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer reference. Size, capacity and connectivity explicitly enumerated on manufacturer specs page. Colour not used to multiply records. Exact Latvia part number unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-ipad-11-inch-a16-wi-fi-256gb.json"
+  },
+  {
+    "id": "apple-ipad-11-inch-a16-wi-fi-512gb",
+    "brand": "Apple",
+    "model": "iPad 11-inch (A16) Wi-Fi 512GB",
+    "category": "Tablets",
+    "identifiers": [
+      "A3354"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer reference. Size, capacity and connectivity explicitly enumerated on manufacturer specs page. Colour not used to multiply records. Exact Latvia part number unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-ipad-11-inch-a16-wi-fi-512gb.json"
+  },
+  {
+    "id": "apple-ipad-air-11-inch-m4-wi-fi-cellular-128gb",
+    "brand": "Apple",
+    "model": "iPad Air 11-inch (M4) Wi-Fi + Cellular 128GB",
+    "category": "Tablets",
+    "identifiers": [
+      "A3460",
+      "195950811094"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer reference. Size, capacity and connectivity explicitly enumerated on manufacturer specs page. Colour not used to multiply records. Exact Latvia part number unresolved. Tele2 barcode 195950811094 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-ipad-air-11-inch-m4-wi-fi-cellular-128gb.json"
+  },
+  {
+    "id": "apple-ipad-air-11-inch-m4-wi-fi-cellular-1tb",
+    "brand": "Apple",
+    "model": "iPad Air 11-inch (M4) Wi-Fi + Cellular 1TB",
+    "category": "Tablets",
+    "identifiers": [
+      "A3460"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer reference. Size, capacity and connectivity explicitly enumerated on manufacturer specs page. Colour not used to multiply records. Exact Latvia part number unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-ipad-air-11-inch-m4-wi-fi-cellular-1tb.json"
+  },
+  {
+    "id": "apple-ipad-air-11-inch-m4-wi-fi-cellular-256gb",
+    "brand": "Apple",
+    "model": "iPad Air 11-inch (M4) Wi-Fi + Cellular 256GB",
+    "category": "Tablets",
+    "identifiers": [
+      "A3460"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer reference. Size, capacity and connectivity explicitly enumerated on manufacturer specs page. Colour not used to multiply records. Exact Latvia part number unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-ipad-air-11-inch-m4-wi-fi-cellular-256gb.json"
+  },
+  {
+    "id": "apple-ipad-air-11-inch-m4-wi-fi-cellular-512gb",
+    "brand": "Apple",
+    "model": "iPad Air 11-inch (M4) Wi-Fi + Cellular 512GB",
+    "category": "Tablets",
+    "identifiers": [
+      "A3460"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer reference. Size, capacity and connectivity explicitly enumerated on manufacturer specs page. Colour not used to multiply records. Exact Latvia part number unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-ipad-air-11-inch-m4-wi-fi-cellular-512gb.json"
+  },
+  {
+    "id": "apple-ipad-air-11-inch-m4-wi-fi-128gb",
+    "brand": "Apple",
+    "model": "iPad Air 11-inch (M4) Wi-Fi 128GB",
+    "category": "Tablets",
+    "identifiers": [
+      "A3459",
+      "195950823516"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer reference. Size, capacity and connectivity explicitly enumerated on manufacturer specs page. Colour not used to multiply records. Exact Latvia part number unresolved. Tele2 barcode 195950823516 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-ipad-air-11-inch-m4-wi-fi-128gb.json"
+  },
+  {
+    "id": "apple-ipad-air-11-inch-m4-wi-fi-1tb",
+    "brand": "Apple",
+    "model": "iPad Air 11-inch (M4) Wi-Fi 1TB",
+    "category": "Tablets",
+    "identifiers": [
+      "A3459"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer reference. Size, capacity and connectivity explicitly enumerated on manufacturer specs page. Colour not used to multiply records. Exact Latvia part number unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-ipad-air-11-inch-m4-wi-fi-1tb.json"
+  },
+  {
+    "id": "apple-ipad-air-11-inch-m4-wi-fi-256gb",
+    "brand": "Apple",
+    "model": "iPad Air 11-inch (M4) Wi-Fi 256GB",
+    "category": "Tablets",
+    "identifiers": [
+      "A3459",
+      "195950824438"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer reference. Size, capacity and connectivity explicitly enumerated on manufacturer specs page. Colour not used to multiply records. Exact Latvia part number unresolved. Tele2 barcode 195950824438 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-ipad-air-11-inch-m4-wi-fi-256gb.json"
+  },
+  {
+    "id": "apple-ipad-air-11-inch-m4-wi-fi-512gb",
+    "brand": "Apple",
+    "model": "iPad Air 11-inch (M4) Wi-Fi 512GB",
+    "category": "Tablets",
+    "identifiers": [
+      "A3459",
+      "195950825589"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer reference. Size, capacity and connectivity explicitly enumerated on manufacturer specs page. Colour not used to multiply records. Exact Latvia part number unresolved. Tele2 barcode 195950825589 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-ipad-air-11-inch-m4-wi-fi-512gb.json"
+  },
+  {
+    "id": "apple-ipad-air-13-inch-m4-wi-fi-cellular-128gb",
+    "brand": "Apple",
+    "model": "iPad Air 13-inch (M4) Wi-Fi + Cellular 128GB",
+    "category": "Tablets",
+    "identifiers": [
+      "A3462",
+      "195950784596"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer reference. Size, capacity and connectivity explicitly enumerated on manufacturer specs page. Colour not used to multiply records. Exact Latvia part number unresolved. Tele2 barcode 195950784596 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-ipad-air-13-inch-m4-wi-fi-cellular-128gb.json"
+  },
+  {
+    "id": "apple-ipad-air-13-inch-m4-wi-fi-cellular-1tb",
+    "brand": "Apple",
+    "model": "iPad Air 13-inch (M4) Wi-Fi + Cellular 1TB",
+    "category": "Tablets",
+    "identifiers": [
+      "A3462"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer reference. Size, capacity and connectivity explicitly enumerated on manufacturer specs page. Colour not used to multiply records. Exact Latvia part number unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-ipad-air-13-inch-m4-wi-fi-cellular-1tb.json"
+  },
+  {
+    "id": "apple-ipad-air-13-inch-m4-wi-fi-cellular-256gb",
+    "brand": "Apple",
+    "model": "iPad Air 13-inch (M4) Wi-Fi + Cellular 256GB",
+    "category": "Tablets",
+    "identifiers": [
+      "A3462",
+      "195950785630"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer reference. Size, capacity and connectivity explicitly enumerated on manufacturer specs page. Colour not used to multiply records. Exact Latvia part number unresolved. Tele2 barcode 195950785630 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-ipad-air-13-inch-m4-wi-fi-cellular-256gb.json"
+  },
+  {
+    "id": "apple-ipad-air-13-inch-m4-wi-fi-cellular-512gb",
+    "brand": "Apple",
+    "model": "iPad Air 13-inch (M4) Wi-Fi + Cellular 512GB",
+    "category": "Tablets",
+    "identifiers": [
+      "A3462"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer reference. Size, capacity and connectivity explicitly enumerated on manufacturer specs page. Colour not used to multiply records. Exact Latvia part number unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-ipad-air-13-inch-m4-wi-fi-cellular-512gb.json"
+  },
+  {
+    "id": "apple-ipad-air-13-inch-m4-wi-fi-128gb",
+    "brand": "Apple",
+    "model": "iPad Air 13-inch (M4) Wi-Fi 128GB",
+    "category": "Tablets",
+    "identifiers": [
+      "A3461"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer reference. Size, capacity and connectivity explicitly enumerated on manufacturer specs page. Colour not used to multiply records. Exact Latvia part number unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-ipad-air-13-inch-m4-wi-fi-128gb.json"
+  },
+  {
+    "id": "apple-ipad-air-13-inch-m4-wi-fi-1tb",
+    "brand": "Apple",
+    "model": "iPad Air 13-inch (M4) Wi-Fi 1TB",
+    "category": "Tablets",
+    "identifiers": [
+      "A3461"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer reference. Size, capacity and connectivity explicitly enumerated on manufacturer specs page. Colour not used to multiply records. Exact Latvia part number unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-ipad-air-13-inch-m4-wi-fi-1tb.json"
+  },
+  {
+    "id": "apple-ipad-air-13-inch-m4-wi-fi-256gb",
+    "brand": "Apple",
+    "model": "iPad Air 13-inch (M4) Wi-Fi 256GB",
+    "category": "Tablets",
+    "identifiers": [
+      "A3461",
+      "195950798906"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer reference. Size, capacity and connectivity explicitly enumerated on manufacturer specs page. Colour not used to multiply records. Exact Latvia part number unresolved. Tele2 barcode 195950798906 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-ipad-air-13-inch-m4-wi-fi-256gb.json"
+  },
+  {
+    "id": "apple-ipad-air-13-inch-m4-wi-fi-512gb",
+    "brand": "Apple",
+    "model": "iPad Air 13-inch (M4) Wi-Fi 512GB",
+    "category": "Tablets",
+    "identifiers": [
+      "A3461"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer reference. Size, capacity and connectivity explicitly enumerated on manufacturer specs page. Colour not used to multiply records. Exact Latvia part number unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-ipad-air-13-inch-m4-wi-fi-512gb.json"
+  },
+  {
+    "id": "apple-ipad-pro-11-inch-m5-wi-fi-cellular-256gb",
+    "brand": "Apple",
+    "model": "iPad Pro 11-inch (M5) Wi-Fi + Cellular 256GB",
+    "category": "Tablets",
+    "identifiers": [
+      "A3358"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer reference. Size, capacity and connectivity explicitly enumerated on manufacturer specs page. Colour not used to multiply records. Exact Latvia part number unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-ipad-pro-11-inch-m5-wi-fi-cellular-256gb.json"
+  },
+  {
+    "id": "apple-ipad-pro-11-inch-m5-wi-fi-cellular-512gb",
+    "brand": "Apple",
+    "model": "iPad Pro 11-inch (M5) Wi-Fi + Cellular 512GB",
+    "category": "Tablets",
+    "identifiers": [
+      "A3358"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer reference. Size, capacity and connectivity explicitly enumerated on manufacturer specs page. Colour not used to multiply records. Exact Latvia part number unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-ipad-pro-11-inch-m5-wi-fi-cellular-512gb.json"
+  },
+  {
+    "id": "apple-ipad-pro-11-inch-m5-wi-fi-256gb",
+    "brand": "Apple",
+    "model": "iPad Pro 11-inch (M5) Wi-Fi 256GB",
+    "category": "Tablets",
+    "identifiers": [
+      "A3357"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer reference. Size, capacity and connectivity explicitly enumerated on manufacturer specs page. Colour not used to multiply records. Exact Latvia part number unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-ipad-pro-11-inch-m5-wi-fi-256gb.json"
+  },
+  {
+    "id": "apple-ipad-pro-11-inch-m5-wi-fi-512gb",
+    "brand": "Apple",
+    "model": "iPad Pro 11-inch (M5) Wi-Fi 512GB",
+    "category": "Tablets",
+    "identifiers": [
+      "A3357"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer reference. Size, capacity and connectivity explicitly enumerated on manufacturer specs page. Colour not used to multiply records. Exact Latvia part number unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-ipad-pro-11-inch-m5-wi-fi-512gb.json"
+  },
+  {
+    "id": "apple-ipad-pro-13-inch-m5-wi-fi-cellular-256gb",
+    "brand": "Apple",
+    "model": "iPad Pro 13-inch (M5) Wi-Fi + Cellular 256GB",
+    "category": "Tablets",
+    "identifiers": [
+      "A3361"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer reference. Size, capacity and connectivity explicitly enumerated on manufacturer specs page. Colour not used to multiply records. Exact Latvia part number unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-ipad-pro-13-inch-m5-wi-fi-cellular-256gb.json"
+  },
+  {
+    "id": "apple-ipad-pro-13-inch-m5-wi-fi-cellular-512gb",
+    "brand": "Apple",
+    "model": "iPad Pro 13-inch (M5) Wi-Fi + Cellular 512GB",
+    "category": "Tablets",
+    "identifiers": [
+      "A3361"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer reference. Size, capacity and connectivity explicitly enumerated on manufacturer specs page. Colour not used to multiply records. Exact Latvia part number unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-ipad-pro-13-inch-m5-wi-fi-cellular-512gb.json"
+  },
+  {
+    "id": "apple-ipad-pro-13-inch-m5-wi-fi-256gb",
+    "brand": "Apple",
+    "model": "iPad Pro 13-inch (M5) Wi-Fi 256GB",
+    "category": "Tablets",
+    "identifiers": [
+      "A3360"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer reference. Size, capacity and connectivity explicitly enumerated on manufacturer specs page. Colour not used to multiply records. Exact Latvia part number unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-ipad-pro-13-inch-m5-wi-fi-256gb.json"
+  },
+  {
+    "id": "apple-ipad-pro-13-inch-m5-wi-fi-512gb",
+    "brand": "Apple",
+    "model": "iPad Pro 13-inch (M5) Wi-Fi 512GB",
+    "category": "Tablets",
+    "identifiers": [
+      "A3360"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer reference. Size, capacity and connectivity explicitly enumerated on manufacturer specs page. Colour not used to multiply records. Exact Latvia part number unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-ipad-pro-13-inch-m5-wi-fi-512gb.json"
+  },
+  {
+    "id": "apple-ipad-mini-a17-pro-wi-fi-cellular-128gb",
+    "brand": "Apple",
+    "model": "iPad mini (A17 Pro) Wi-Fi + Cellular 128GB",
+    "category": "Tablets",
+    "identifiers": [
+      "A2995"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer reference. Size, capacity and connectivity explicitly enumerated on manufacturer specs page. Colour not used to multiply records. Exact Latvia part number unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-ipad-mini-a17-pro-wi-fi-cellular-128gb.json"
+  },
+  {
+    "id": "apple-ipad-mini-a17-pro-wi-fi-cellular-256gb",
+    "brand": "Apple",
+    "model": "iPad mini (A17 Pro) Wi-Fi + Cellular 256GB",
+    "category": "Tablets",
+    "identifiers": [
+      "A2995"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer reference. Size, capacity and connectivity explicitly enumerated on manufacturer specs page. Colour not used to multiply records. Exact Latvia part number unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-ipad-mini-a17-pro-wi-fi-cellular-256gb.json"
+  },
+  {
+    "id": "apple-ipad-mini-a17-pro-wi-fi-cellular-512gb",
+    "brand": "Apple",
+    "model": "iPad mini (A17 Pro) Wi-Fi + Cellular 512GB",
+    "category": "Tablets",
+    "identifiers": [
+      "A2995"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer reference. Size, capacity and connectivity explicitly enumerated on manufacturer specs page. Colour not used to multiply records. Exact Latvia part number unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-ipad-mini-a17-pro-wi-fi-cellular-512gb.json"
+  },
+  {
+    "id": "apple-ipad-mini-a17-pro-wi-fi-128gb",
+    "brand": "Apple",
+    "model": "iPad mini (A17 Pro) Wi-Fi 128GB",
+    "category": "Tablets",
+    "identifiers": [
+      "A2993",
+      "195949728907"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer reference. Size, capacity and connectivity explicitly enumerated on manufacturer specs page. Colour not used to multiply records. Exact Latvia part number unresolved. Tele2 barcode 195949728907 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-ipad-mini-a17-pro-wi-fi-128gb.json"
+  },
+  {
+    "id": "apple-ipad-mini-a17-pro-wi-fi-256gb",
+    "brand": "Apple",
+    "model": "iPad mini (A17 Pro) Wi-Fi 256GB",
+    "category": "Tablets",
+    "identifiers": [
+      "A2993"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer reference. Size, capacity and connectivity explicitly enumerated on manufacturer specs page. Colour not used to multiply records. Exact Latvia part number unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-ipad-mini-a17-pro-wi-fi-256gb.json"
+  },
+  {
+    "id": "apple-ipad-mini-a17-pro-wi-fi-512gb",
+    "brand": "Apple",
+    "model": "iPad mini (A17 Pro) Wi-Fi 512GB",
+    "category": "Tablets",
+    "identifiers": [
+      "A2993",
+      "195949752025"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer reference. Size, capacity and connectivity explicitly enumerated on manufacturer specs page. Colour not used to multiply records. Exact Latvia part number unresolved. Tele2 barcode 195949752025 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-ipad-mini-a17-pro-wi-fi-512gb.json"
+  }
+]

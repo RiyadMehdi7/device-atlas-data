@@ -1,0 +1,28 @@
+[
+  {
+    "id": "iiyama-gb2471hsu-b1",
+    "brand": "Iiyama",
+    "model": "GB2471HSU-B1",
+    "category": "Monitors",
+    "identifiers": [
+      "GB2471HSU-B1",
+      "4948570126354"
+    ],
+    "aliases": [],
+    "scope": "Exact official Iiyama GB2471HSU-B1 reference. Tele2 listed GB2471HSU-B1; regional suffix, EAN and supplied bundle reconciliation remain unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/iiyama-gb2471hsu-b1.json"
+  },
+  {
+    "id": "iiyama-gb2741qsu-b1",
+    "brand": "Iiyama",
+    "model": "GB2741QSU-B1",
+    "category": "Monitors",
+    "identifiers": [
+      "GB2741QSU-B1",
+      "4948570127450"
+    ],
+    "aliases": [],
+    "scope": "Exact official Iiyama GB2741QSU-B1 reference. Tele2 listed GB2741QSU-B1; regional suffix, EAN and supplied bundle reconciliation remain unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/iiyama-gb2741qsu-b1.json"
+  }
+]

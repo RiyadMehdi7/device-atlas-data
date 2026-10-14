@@ -1,0 +1,42 @@
+[
+  {
+    "id": "dreame-aqua10-roller-fr-eu-reference",
+    "brand": "Dreame",
+    "model": "Aqua10 Roller",
+    "category": "Smart home",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official France/EU manufacturer model reference. Complete package explicitly named where applicable; exact Latvia SKU/GTIN and bundle contents require matching. Original French specification wording and units retained.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/dreame-aqua10-roller-fr-eu-reference.json"
+  },
+  {
+    "id": "dreame-aqua10-ultra-roller-complete-fr-eu-reference",
+    "brand": "Dreame",
+    "model": "Aqua10 Ultra Roller Complete",
+    "category": "Smart home",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official France/EU manufacturer model reference. Complete package explicitly named where applicable; exact Latvia SKU/GTIN and bundle contents require matching. Original French specification wording and units retained.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/dreame-aqua10-ultra-roller-complete-fr-eu-reference.json"
+  },
+  {
+    "id": "dreame-aqua10-ultra-track-complete-fr-eu-reference",
+    "brand": "Dreame",
+    "model": "Aqua10 Ultra Track Complete",
+    "category": "Smart home",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official France/EU manufacturer model reference. Complete package explicitly named where applicable; exact Latvia SKU/GTIN and bundle contents require matching. Original French specification wording and units retained.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/dreame-aqua10-ultra-track-complete-fr-eu-reference.json"
+  },
+  {
+    "id": "dreame-matrix10-ultra-fr-eu-reference",
+    "brand": "Dreame",
+    "model": "Matrix10 Ultra",
+    "category": "Smart home",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official France/EU manufacturer model reference. Complete package explicitly named where applicable; exact Latvia SKU/GTIN and bundle contents require matching. Original French specification wording and units retained.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/dreame-matrix10-ultra-fr-eu-reference.json"
+  }
+]

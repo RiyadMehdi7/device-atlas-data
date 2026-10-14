@@ -1,0 +1,280 @@
+[
+  {
+    "id": "lg-24ba450-b",
+    "brand": "LG",
+    "model": "24BA450-B",
+    "category": "Monitors",
+    "identifiers": [
+      "24BA450-B"
+    ],
+    "aliases": [],
+    "scope": "Exact base-model LG uk manufacturer reference. Tele2 listed 24BA450-B; regional suffix and EAN remain unmatched. No OLED claim transferred from retailer marketing.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-24ba450-b.json"
+  },
+  {
+    "id": "lg-25g523b-b",
+    "brand": "LG",
+    "model": "25G523B-B",
+    "category": "Monitors",
+    "identifiers": [
+      "25G523B-B"
+    ],
+    "aliases": [],
+    "scope": "Exact base-model LG uk manufacturer reference. Tele2 listed 25G523B-B UltraGear; regional suffix and EAN remain unmatched. No OLED claim transferred from retailer marketing.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-25g523b-b.json"
+  },
+  {
+    "id": "lg-27ba550-b",
+    "brand": "LG",
+    "model": "27BA550-B",
+    "category": "Monitors",
+    "identifiers": [
+      "27BA550-B"
+    ],
+    "aliases": [],
+    "scope": "Exact base-model LG uk manufacturer reference. Tele2 listed 27BA550-B.AEUQ; regional suffix and EAN remain unmatched. No OLED claim transferred from retailer marketing.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-27ba550-b.json"
+  },
+  {
+    "id": "lg-27ba75qb-b",
+    "brand": "LG",
+    "model": "27BA75QB-B",
+    "category": "Monitors",
+    "identifiers": [
+      "27BA75QB-B"
+    ],
+    "aliases": [],
+    "scope": "Exact base-model LG ca_en manufacturer reference. Tele2 listed 27BA75QB-B; regional suffix and EAN remain unmatched. No OLED claim transferred from retailer marketing.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-27ba75qb-b.json"
+  },
+  {
+    "id": "lg-27g411b-b",
+    "brand": "LG",
+    "model": "27G411B-B",
+    "category": "Monitors",
+    "identifiers": [
+      "27G411B-B"
+    ],
+    "aliases": [],
+    "scope": "Exact base-model LG sg manufacturer reference. Tele2 listed 27G411B-B; regional suffix and EAN remain unmatched. No OLED claim transferred from retailer marketing.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-27g411b-b.json"
+  },
+  {
+    "id": "lg-27g810a-b",
+    "brand": "LG",
+    "model": "27G810A-B",
+    "category": "Monitors",
+    "identifiers": [
+      "27G810A-B"
+    ],
+    "aliases": [],
+    "scope": "Exact base-model LG uk manufacturer reference. Tele2 listed 27G810A-B.AEK; regional suffix and EAN remain unmatched. No OLED claim transferred from retailer marketing.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-27g810a-b.json"
+  },
+  {
+    "id": "lg-27gs60qc-b",
+    "brand": "LG",
+    "model": "27GS60QC-B",
+    "category": "Monitors",
+    "identifiers": [
+      "27GS60QC-B"
+    ],
+    "aliases": [],
+    "scope": "Exact base-model LG uk manufacturer reference. Tele2 listed 27GS60QC-B.AEUQ; regional suffix and EAN remain unmatched. No OLED claim transferred from retailer marketing.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-27gs60qc-b.json"
+  },
+  {
+    "id": "lg-27gs85q-b",
+    "brand": "LG",
+    "model": "27GS85Q-B",
+    "category": "Monitors",
+    "identifiers": [
+      "27GS85Q-B"
+    ],
+    "aliases": [],
+    "scope": "Exact base-model LG uk manufacturer reference. Tele2 listed 27GS85Q-B; regional suffix and EAN remain unmatched. No OLED claim transferred from retailer marketing.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-27gs85q-b.json"
+  },
+  {
+    "id": "lg-27up650k-w",
+    "brand": "LG",
+    "model": "27UP650K-W",
+    "category": "Monitors",
+    "identifiers": [
+      "27UP650K-W"
+    ],
+    "aliases": [],
+    "scope": "Exact model LG UK manufacturer reference; Tele2 regional unit EAN/suffix requires matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-27up650k-w.json"
+  },
+  {
+    "id": "lg-34g630a-b",
+    "brand": "LG",
+    "model": "34G630A-B",
+    "category": "Monitors",
+    "identifiers": [
+      "34G630A-B"
+    ],
+    "aliases": [],
+    "scope": "Exact base-model LG uk manufacturer reference. Tele2 listed 34G630A-B.AEUQ; regional suffix and EAN remain unmatched. No OLED claim transferred from retailer marketing.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-34g630a-b.json"
+  },
+  {
+    "id": "lg-32lq63806lc",
+    "brand": "LG",
+    "model": "32LQ63806LC",
+    "category": "Televisions",
+    "identifiers": [
+      "32LQ63806LC"
+    ],
+    "aliases": [],
+    "scope": "Exact manufacturer Austria screen-size/model reference. Latvian retail suffix and availability require matching; no family specification transfers.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-32lq63806lc.json"
+  },
+  {
+    "id": "lg-oled42c6elb-aeu",
+    "brand": "LG",
+    "model": "OLED42C6ELB.AEU",
+    "category": "Televisions",
+    "identifiers": [
+      "OLED42C6ELB.AEU",
+      "8806096732144"
+    ],
+    "aliases": [
+      "OLED42C6ELB"
+    ],
+    "scope": "Exact manufacturer Austria screen-size/model reference. Latvian retail suffix and availability require matching; no family specification transfers.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-oled42c6elb-aeu.json"
+  },
+  {
+    "id": "lg-oled55c51la-aeu",
+    "brand": "LG",
+    "model": "OLED55C51LA.AEU",
+    "category": "Televisions",
+    "identifiers": [
+      "OLED55C51LA.AEU",
+      "OLED55C51LA",
+      "8806096381885"
+    ],
+    "aliases": [],
+    "scope": "Exact manufacturer Austria AEU model. Tele2 Latvia observed OLED55C51LA unpacked listing; AEU full suffix still requires retail confirmation.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-oled55c51la-aeu.json"
+  },
+  {
+    "id": "lg-oled55c6elb-aeu",
+    "brand": "LG",
+    "model": "OLED55C6ELB.AEU",
+    "category": "Televisions",
+    "identifiers": [
+      "OLED55C6ELB.AEU",
+      "8806096685877"
+    ],
+    "aliases": [
+      "OLED55C6ELB"
+    ],
+    "scope": "Exact manufacturer Austria screen-size/model reference. Latvian retail suffix and availability require matching; no family specification transfers.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-oled55c6elb-aeu.json"
+  },
+  {
+    "id": "lg-oled55g69ls-aeu",
+    "brand": "LG",
+    "model": "OLED55G69LS.AEU",
+    "category": "Televisions",
+    "identifiers": [
+      "OLED55G69LS.AEU"
+    ],
+    "aliases": [
+      "OLED55G69LS"
+    ],
+    "scope": "Exact manufacturer Austria screen-size/model reference. Latvian retail suffix and availability require matching; no family specification transfers.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-oled55g69ls-aeu.json"
+  },
+  {
+    "id": "lg-oled65b6elc-aeu",
+    "brand": "LG",
+    "model": "OLED65B6ELC.AEU",
+    "category": "Televisions",
+    "identifiers": [
+      "OLED65B6ELC.AEU",
+      "8806096768440"
+    ],
+    "aliases": [
+      "OLED65B6ELC"
+    ],
+    "scope": "Exact manufacturer Austria screen-size/model reference. Latvian retail suffix and availability require matching; no family specification transfers.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-oled65b6elc-aeu.json"
+  },
+  {
+    "id": "lg-oled65c51la-aeu",
+    "brand": "LG",
+    "model": "OLED65C51LA.AEU",
+    "category": "Televisions",
+    "identifiers": [
+      "OLED65C51LA.AEU",
+      "8806096363560"
+    ],
+    "aliases": [
+      "OLED65C51LA"
+    ],
+    "scope": "Exact manufacturer Austria screen-size/model reference. Latvian retail suffix and availability require matching; no family specification transfers.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-oled65c51la-aeu.json"
+  },
+  {
+    "id": "lg-oled65g61lw-aeu",
+    "brand": "LG",
+    "model": "OLED65G61LW.AEU",
+    "category": "Televisions",
+    "identifiers": [
+      "OLED65G61LW.AEU",
+      "OLED65G61LW"
+    ],
+    "aliases": [],
+    "scope": "Manufacturer Latvia page names exact OLED65G61LW.AEU; Hungarian same base-model page supplies detailed specification rows. Tele2 Latvia base model OLED65G61LW observed; retail AEU suffix still needs confirmation.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-oled65g61lw-aeu.json"
+  },
+  {
+    "id": "lg-oled77c51la-aeu",
+    "brand": "LG",
+    "model": "OLED77C51LA.AEU",
+    "category": "Televisions",
+    "identifiers": [
+      "OLED77C51LA.AEU",
+      "8806096361993"
+    ],
+    "aliases": [
+      "OLED77C51LA"
+    ],
+    "scope": "Exact manufacturer Austria screen-size/model reference. Latvian retail suffix and availability require matching; no family specification transfers.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-oled77c51la-aeu.json"
+  },
+  {
+    "id": "lg-oled83c51la-aeu",
+    "brand": "LG",
+    "model": "OLED83C51LA.AEU",
+    "category": "Televisions",
+    "identifiers": [
+      "OLED83C51LA.AEU",
+      "8806096419892"
+    ],
+    "aliases": [
+      "OLED83C51LA"
+    ],
+    "scope": "Exact manufacturer Austria screen-size/model reference. Latvian retail suffix and availability require matching; no family specification transfers.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-oled83c51la-aeu.json"
+  },
+  {
+    "id": "lg-oled83c6elb-aeu",
+    "brand": "LG",
+    "model": "OLED83C6ELB.AEU",
+    "category": "Televisions",
+    "identifiers": [
+      "OLED83C6ELB.AEU",
+      "8806096746073"
+    ],
+    "aliases": [
+      "OLED83C6ELB"
+    ],
+    "scope": "Exact manufacturer Austria screen-size/model reference. Latvian retail suffix and availability require matching; no family specification transfers.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-oled83c6elb-aeu.json"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "caldigit-ts4-thunderbolt-4-dock",
+    "brand": "CalDigit",
+    "model": "TS4 Thunderbolt 4 Dock",
+    "category": "Accessories",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official global dock reference; EU supply plug/package and Tele2 availability unconfirmed.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/caldigit-ts4-thunderbolt-4-dock.json"
+  },
+  {
+    "id": "caldigit-ts5-plus-thunderbolt-5-dock",
+    "brand": "CalDigit",
+    "model": "TS5 Plus Thunderbolt 5 Dock",
+    "category": "Accessories",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official global dock reference; EU supply plug/package and Tele2 availability unconfirmed.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/caldigit-ts5-plus-thunderbolt-5-dock.json"
+  }
+]

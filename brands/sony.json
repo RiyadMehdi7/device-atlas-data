@@ -1,0 +1,72 @@
+[
+  {
+    "id": "sony-wf-1000xm5-uk-model",
+    "brand": "Sony",
+    "model": "WF-1000XM5",
+    "category": "Earbuds",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; Latvia variant matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/sony-wf-1000xm5-uk-model.json"
+  },
+  {
+    "id": "sony-wf-c510-uk-model",
+    "brand": "Sony",
+    "model": "WF-C510",
+    "category": "Earbuds",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; Latvia variant matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/sony-wf-c510-uk-model.json"
+  },
+  {
+    "id": "sony-wf-c710n-uk-model",
+    "brand": "Sony",
+    "model": "WF-C710N",
+    "category": "Earbuds",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; Latvia variant matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/sony-wf-c710n-uk-model.json"
+  },
+  {
+    "id": "sony-ult-wear-uk-model",
+    "brand": "Sony",
+    "model": "ULT-WEAR",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; Latvia variant matching required; Tele2 observed WH-ULT900N listing needs model-code reconciliation",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/sony-ult-wear-uk-model.json"
+  },
+  {
+    "id": "sony-wh-1000xm6-us-model",
+    "brand": "Sony",
+    "model": "WH-1000XM6",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "USA manufacturer reference; original units retained; no claim of Tele2 Latvia availability",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/sony-wh-1000xm6-us-model.json"
+  },
+  {
+    "id": "sony-wh-ch520-uk-model",
+    "brand": "Sony",
+    "model": "WH-CH520",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/sony-wh-ch520-uk-model.json"
+  },
+  {
+    "id": "sony-wh-ch720n-uk-model",
+    "brand": "Sony",
+    "model": "WH-CH720N",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; Latvia variant matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/sony-wh-ch720n-uk-model.json"
+  }
+]

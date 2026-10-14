@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ezviz-bm1-global-reference",
+    "brand": "EZVIZ",
+    "model": "BM1",
+    "category": "Cameras",
+    "identifiers": [
+      "CS-BM1 (1080P)"
+    ],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/ezviz-bm1-global-reference.json"
+  },
+  {
+    "id": "ezviz-db2c-kit-global-reference",
+    "brand": "EZVIZ",
+    "model": "DB2C Kit",
+    "category": "Cameras",
+    "identifiers": [
+      "CS-DB2C-A0-1E3WPBR"
+    ],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/ezviz-db2c-kit-global-reference.json"
+  },
+  {
+    "id": "ezviz-e4p-global-reference",
+    "brand": "EZVIZ",
+    "model": "E4p",
+    "category": "Cameras",
+    "identifiers": [
+      "CS-E4p-R100-8C6WKF"
+    ],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/ezviz-e4p-global-reference.json"
+  },
+  {
+    "id": "ezviz-eb3-global-reference",
+    "brand": "EZVIZ",
+    "model": "EB3",
+    "category": "Cameras",
+    "identifiers": [
+      "CS-EB3 (3MP)"
+    ],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/ezviz-eb3-global-reference.json"
+  },
+  {
+    "id": "ezviz-h80x-dual-global-reference",
+    "brand": "EZVIZ",
+    "model": "H80x Dual",
+    "category": "Cameras",
+    "identifiers": [
+      "CS-H80x-R100-8G82WKFL"
+    ],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/ezviz-h80x-dual-global-reference.json"
+  },
+  {
+    "id": "ezviz-h9c-dual-3k-global-reference",
+    "brand": "EZVIZ",
+    "model": "H9c Dual 3K",
+    "category": "Cameras",
+    "identifiers": [
+      "CS-H9c-R100-8G55WKFL"
+    ],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants. Tele2 lists generic CS-H9C: 3K resolution/revision match is unresolved; no exact SKU equivalence asserted.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/ezviz-h9c-dual-3k-global-reference.json"
+  }
+]

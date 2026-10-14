@@ -1,0 +1,74 @@
+[
+  {
+    "id": "sharp-32ha1205e",
+    "brand": "Sharp",
+    "model": "32HA1205E",
+    "category": "Televisions",
+    "identifiers": [
+      "32HA1205E"
+    ],
+    "aliases": [],
+    "scope": "Exact manufacturer European model code and observed Tele2 Latvia model listing. GTIN unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/sharp-32ha1205e.json"
+  },
+  {
+    "id": "sharp-32hf2265ew",
+    "brand": "Sharp",
+    "model": "32HF2265EW",
+    "category": "Televisions",
+    "identifiers": [
+      "32HF2265EW"
+    ],
+    "aliases": [],
+    "scope": "Exact manufacturer European model code and observed Tele2 Latvia model listing. GTIN unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/sharp-32hf2265ew.json"
+  },
+  {
+    "id": "sharp-32hf3865e",
+    "brand": "Sharp",
+    "model": "32HF3865E",
+    "category": "Televisions",
+    "identifiers": [
+      "32HF3865E"
+    ],
+    "aliases": [],
+    "scope": "Exact manufacturer European model code and observed Tele2 Latvia model listing. GTIN unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/sharp-32hf3865e.json"
+  },
+  {
+    "id": "sharp-40ha1205e",
+    "brand": "Sharp",
+    "model": "40HA1205E",
+    "category": "Televisions",
+    "identifiers": [
+      "40HA1205E"
+    ],
+    "aliases": [],
+    "scope": "Exact manufacturer European model code and observed Tele2 Latvia model listing. GTIN unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/sharp-40ha1205e.json"
+  },
+  {
+    "id": "sharp-40hf3265e",
+    "brand": "Sharp",
+    "model": "40HF3265E",
+    "category": "Televisions",
+    "identifiers": [
+      "40HF3265E"
+    ],
+    "aliases": [],
+    "scope": "Exact manufacturer European model code and observed Tele2 Latvia model listing. GTIN unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/sharp-40hf3265e.json"
+  },
+  {
+    "id": "sharp-65hr7265e",
+    "brand": "Sharp",
+    "model": "65HR7265E",
+    "category": "Televisions",
+    "identifiers": [
+      "65HR7265E"
+    ],
+    "aliases": [],
+    "scope": "Exact manufacturer European model code and observed Tele2 Latvia model listing. GTIN unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/sharp-65hr7265e.json"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "brovi-5g-cpe-5s-h153-381-manufacturer-reference",
+    "brand": "BROVI",
+    "model": "5G CPE 5s H153-381",
+    "category": "Routers",
+    "identifiers": [
+      "H153-381"
+    ],
+    "aliases": [],
+    "scope": "Official manufacturer technical document reference. Exact Latvian SKU/hardware/region requires matching. BROVI Max5 is only a candidate match to generic Tele2 Max Outdoor family. TCL source is UK; H153 source manual includes EU/Latvia regulatory restrictions. Performance conditions preserved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/brovi-5g-cpe-5s-h153-381-manufacturer-reference.json"
+  },
+  {
+    "id": "brovi-5g-cpe-max-5-manufacturer-reference",
+    "brand": "BROVI",
+    "model": "5G CPE Max 5",
+    "category": "Routers",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official manufacturer technical document reference. Exact Latvian SKU/hardware/region requires matching. BROVI Max5 is only a candidate match to generic Tele2 Max Outdoor family. TCL source is UK; H153 source manual includes EU/Latvia regulatory restrictions. Performance conditions preserved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/brovi-5g-cpe-max-5-manufacturer-reference.json"
+  }
+]

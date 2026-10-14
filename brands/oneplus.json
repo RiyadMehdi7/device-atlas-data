@@ -1,0 +1,52 @@
+[
+  {
+    "id": "oneplus-pad-2",
+    "brand": "OnePlus",
+    "model": "Pad 2",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "European manufacturer model reference. Regional configurations vary; not a Latvia SKU or availability claim.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/oneplus-pad-2.json"
+  },
+  {
+    "id": "oneplus-pad-3",
+    "brand": "OnePlus",
+    "model": "Pad 3",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "European manufacturer model reference. Regional configurations vary; not a Latvia SKU or availability claim.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/oneplus-pad-3.json"
+  },
+  {
+    "id": "oneplus-pad-go",
+    "brand": "OnePlus",
+    "model": "Pad Go",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "European manufacturer model reference. Regional configurations vary; not a Latvia SKU or availability claim.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/oneplus-pad-go.json"
+  },
+  {
+    "id": "oneplus-pad-go-2",
+    "brand": "OnePlus",
+    "model": "Pad Go 2",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "European manufacturer model reference. Regional configurations vary; not a Latvia SKU or availability claim.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/oneplus-pad-go-2.json"
+  },
+  {
+    "id": "oneplus-pad-lite",
+    "brand": "OnePlus",
+    "model": "Pad Lite",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "European manufacturer model reference. Regional configurations vary; not a Latvia SKU or availability claim.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/oneplus-pad-lite.json"
+  }
+]

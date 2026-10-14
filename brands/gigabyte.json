@@ -1,0 +1,50 @@
+[
+  {
+    "id": "gigabyte-gs27qa",
+    "brand": "Gigabyte",
+    "model": "GS27QA",
+    "category": "Monitors",
+    "identifiers": [
+      "GS27QA"
+    ],
+    "aliases": [],
+    "scope": "Exact official Gigabyte GS27QA reference. Tele2 listed GS27QA; regional suffix, EAN and supplied bundle reconciliation remain unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/gigabyte-gs27qa.json"
+  },
+  {
+    "id": "gigabyte-gs32qca",
+    "brand": "Gigabyte",
+    "model": "GS32QCA",
+    "category": "Monitors",
+    "identifiers": [
+      "GS32QCA"
+    ],
+    "aliases": [],
+    "scope": "Exact official Gigabyte GS32QCA reference. Tele2 listed GS32QCA EK; regional suffix, EAN and supplied bundle reconciliation remain unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/gigabyte-gs32qca.json"
+  },
+  {
+    "id": "gigabyte-m27qs",
+    "brand": "Gigabyte",
+    "model": "M27QS",
+    "category": "Monitors",
+    "identifiers": [
+      "M27QS"
+    ],
+    "aliases": [],
+    "scope": "Exact official Gigabyte M27QS reference. Tele2 listed M27QS EK; regional suffix, EAN and supplied bundle reconciliation remain unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/gigabyte-m27qs.json"
+  },
+  {
+    "id": "gigabyte-m27up-ice",
+    "brand": "Gigabyte",
+    "model": "M27UP ICE",
+    "category": "Monitors",
+    "identifiers": [
+      "M27UP ICE"
+    ],
+    "aliases": [],
+    "scope": "Exact official Gigabyte M27UP ICE reference. Tele2 listed M27UP ICE; regional suffix, EAN and supplied bundle reconciliation remain unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/gigabyte-m27up-ice.json"
+  }
+]

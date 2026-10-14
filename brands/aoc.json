@@ -1,0 +1,1157 @@
+[
+  {
+    "id": "aoc-16t3ea",
+    "brand": "AOC",
+    "model": "16T3EA",
+    "category": "Monitors",
+    "identifiers": [
+      "16T3EA"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-16t3ea.json"
+  },
+  {
+    "id": "aoc-16t3fe",
+    "brand": "AOC",
+    "model": "16T3FE",
+    "category": "Monitors",
+    "identifiers": [
+      "16T3FE",
+      "4038986133746"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-16t3fe.json"
+  },
+  {
+    "id": "aoc-24b36x",
+    "brand": "AOC",
+    "model": "24B36X",
+    "category": "Monitors",
+    "identifiers": [
+      "24B36X",
+      "4038986143073"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-24b36x.json"
+  },
+  {
+    "id": "aoc-24b3cf2",
+    "brand": "AOC",
+    "model": "24B3CF2",
+    "category": "Monitors",
+    "identifiers": [
+      "24B3CF2",
+      "4038986141437"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-24b3cf2.json"
+  },
+  {
+    "id": "aoc-24e4cv",
+    "brand": "AOC",
+    "model": "24E4CV",
+    "category": "Monitors",
+    "identifiers": [
+      "24E4CV",
+      "4038986142786"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-24e4cv.json"
+  },
+  {
+    "id": "aoc-24e4u",
+    "brand": "AOC",
+    "model": "24E4U",
+    "category": "Monitors",
+    "identifiers": [
+      "24E4U",
+      "4038986142779"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-24e4u.json"
+  },
+  {
+    "id": "aoc-24g4hre",
+    "brand": "AOC",
+    "model": "24G4HRE",
+    "category": "Monitors",
+    "identifiers": [
+      "24G4HRE",
+      "4038986142991"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-24g4hre.json"
+  },
+  {
+    "id": "aoc-24g50f",
+    "brand": "AOC",
+    "model": "24G50F",
+    "category": "Monitors",
+    "identifiers": [
+      "24G50F",
+      "4038986143646"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-24g50f.json"
+  },
+  {
+    "id": "aoc-24p3cv",
+    "brand": "AOC",
+    "model": "24P3CV",
+    "category": "Monitors",
+    "identifiers": [
+      "24P3CV",
+      "4038986140751"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-24p3cv.json"
+  },
+  {
+    "id": "aoc-24p3cw",
+    "brand": "AOC",
+    "model": "24P3CW",
+    "category": "Monitors",
+    "identifiers": [
+      "24P3CW",
+      "4038986140812"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-24p3cw.json"
+  },
+  {
+    "id": "aoc-24p3qw",
+    "brand": "AOC",
+    "model": "24P3QW",
+    "category": "Monitors",
+    "identifiers": [
+      "24P3QW",
+      "4038986140775"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-24p3qw.json"
+  },
+  {
+    "id": "aoc-24p4cv",
+    "brand": "AOC",
+    "model": "24P4CV",
+    "category": "Monitors",
+    "identifiers": [
+      "24P4CV",
+      "4038986143172"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-24p4cv.json"
+  },
+  {
+    "id": "aoc-24p4u",
+    "brand": "AOC",
+    "model": "24P4U",
+    "category": "Monitors",
+    "identifiers": [
+      "24P4U",
+      "4038986142878"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-24p4u.json"
+  },
+  {
+    "id": "aoc-25g3zm-bk",
+    "brand": "AOC",
+    "model": "25G3ZM/BK",
+    "category": "Monitors",
+    "identifiers": [
+      "25G3ZM/BK",
+      "4038986140911"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-25g3zm-bk.json"
+  },
+  {
+    "id": "aoc-25g4sre",
+    "brand": "AOC",
+    "model": "25G4SRE",
+    "category": "Monitors",
+    "identifiers": [
+      "25G4SRE",
+      "4038986633024"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-25g4sre.json"
+  },
+  {
+    "id": "aoc-25g4sxu",
+    "brand": "AOC",
+    "model": "25G4SXU",
+    "category": "Monitors",
+    "identifiers": [
+      "25G4SXU",
+      "4038986182577"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-25g4sxu.json"
+  },
+  {
+    "id": "aoc-27b36x",
+    "brand": "AOC",
+    "model": "27B36X",
+    "category": "Monitors",
+    "identifiers": [
+      "27B36X",
+      "4038986183086"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-27b36x.json"
+  },
+  {
+    "id": "aoc-27b3ca2",
+    "brand": "AOC",
+    "model": "27B3CA2",
+    "category": "Monitors",
+    "identifiers": [
+      "27B3CA2",
+      "6973985231841"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-27b3ca2.json"
+  },
+  {
+    "id": "aoc-27e4cv",
+    "brand": "AOC",
+    "model": "27E4CV",
+    "category": "Monitors",
+    "identifiers": [
+      "27E4CV",
+      "4038986182805"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-27e4cv.json"
+  },
+  {
+    "id": "aoc-27e4u",
+    "brand": "AOC",
+    "model": "27E4U",
+    "category": "Monitors",
+    "identifiers": [
+      "27E4U",
+      "4038986182799"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-27e4u.json"
+  },
+  {
+    "id": "aoc-27g4hre",
+    "brand": "AOC",
+    "model": "27G4HRE",
+    "category": "Monitors",
+    "identifiers": [
+      "27G4HRE",
+      "4038986183000"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-27g4hre.json"
+  },
+  {
+    "id": "aoc-27g4zr",
+    "brand": "AOC",
+    "model": "27G4ZR",
+    "category": "Monitors",
+    "identifiers": [
+      "27G4ZR",
+      "4038986183246"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-27g4zr.json"
+  },
+  {
+    "id": "aoc-27g4zre",
+    "brand": "AOC",
+    "model": "27G4ZRE",
+    "category": "Monitors",
+    "identifiers": [
+      "27G4ZRE",
+      "4038986183222"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-27g4zre.json"
+  },
+  {
+    "id": "aoc-27g4zrep",
+    "brand": "AOC",
+    "model": "27G4ZREP",
+    "category": "Monitors",
+    "identifiers": [
+      "27G4ZREP",
+      "4038986113991"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-27g4zrep.json"
+  },
+  {
+    "id": "aoc-27g50f",
+    "brand": "AOC",
+    "model": "27G50F",
+    "category": "Monitors",
+    "identifiers": [
+      "27G50F",
+      "4038986183659"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-27g50f.json"
+  },
+  {
+    "id": "aoc-ag326uzd2p",
+    "brand": "AOC",
+    "model": "AG326UZD2P",
+    "category": "Monitors",
+    "identifiers": [
+      "AG326UZD2P",
+      "4038986113908"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-ag326uzd2p.json"
+  },
+  {
+    "id": "aoc-ag346ucd",
+    "brand": "AOC",
+    "model": "AG346UCD",
+    "category": "Monitors",
+    "identifiers": [
+      "AG346UCD",
+      "4038986112444"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-ag346ucd.json"
+  },
+  {
+    "id": "aoc-agp257ft",
+    "brand": "AOC",
+    "model": "AGP257FT",
+    "category": "Monitors",
+    "identifiers": [
+      "AGP257FT"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-agp257ft.json"
+  },
+  {
+    "id": "aoc-agp346ucsd",
+    "brand": "AOC",
+    "model": "AGP346UCSD",
+    "category": "Monitors",
+    "identifiers": [
+      "AGP346UCSD",
+      "6973985233920"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-agp346ucsd.json"
+  },
+  {
+    "id": "aoc-agp497uczd",
+    "brand": "AOC",
+    "model": "AGP497UCZD",
+    "category": "Monitors",
+    "identifiers": [
+      "AGP497UCZD",
+      "4038986113434"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-agp497uczd.json"
+  },
+  {
+    "id": "aoc-c24g42fe",
+    "brand": "AOC",
+    "model": "C24G42FE",
+    "category": "Monitors",
+    "identifiers": [
+      "C24G42FE",
+      "4038986143271"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-c24g42fe.json"
+  },
+  {
+    "id": "aoc-c27g42ze",
+    "brand": "AOC",
+    "model": "C27G42ZE",
+    "category": "Monitors",
+    "identifiers": [
+      "C27G42ZE",
+      "4038986183529"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-c27g42ze.json"
+  },
+  {
+    "id": "aoc-c27g42zep",
+    "brand": "AOC",
+    "model": "C27G42ZEP",
+    "category": "Monitors",
+    "identifiers": [
+      "C27G42ZEP",
+      "4038986113984"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-c27g42zep.json"
+  },
+  {
+    "id": "aoc-c27g4z2",
+    "brand": "AOC",
+    "model": "C27G4Z2",
+    "category": "Monitors",
+    "identifiers": [
+      "C27G4Z2",
+      "4038986183499"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-c27g4z2.json"
+  },
+  {
+    "id": "aoc-c32g4z",
+    "brand": "AOC",
+    "model": "C32G4Z",
+    "category": "Monitors",
+    "identifiers": [
+      "C32G4Z",
+      "4038986113489"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-c32g4z.json"
+  },
+  {
+    "id": "aoc-cq27g42fe",
+    "brand": "AOC",
+    "model": "CQ27G42FE",
+    "category": "Monitors",
+    "identifiers": [
+      "CQ27G42FE",
+      "4038986183727"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-cq27g42fe.json"
+  },
+  {
+    "id": "aoc-cq27g4z2ad",
+    "brand": "AOC",
+    "model": "CQ27G4Z2AD",
+    "category": "Monitors",
+    "identifiers": [
+      "CQ27G4Z2AD",
+      "4038986183833"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-cq27g4z2ad.json"
+  },
+  {
+    "id": "aoc-cq27g4z2p",
+    "brand": "AOC",
+    "model": "CQ27G4Z2P",
+    "category": "Monitors",
+    "identifiers": [
+      "CQ27G4Z2P",
+      "4038986183956"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-cq27g4z2p.json"
+  },
+  {
+    "id": "aoc-cq27g4ze",
+    "brand": "AOC",
+    "model": "CQ27G4ZE",
+    "category": "Monitors",
+    "identifiers": [
+      "CQ27G4ZE",
+      "4038986183697"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-cq27g4ze.json"
+  },
+  {
+    "id": "aoc-cq32g4ve",
+    "brand": "AOC",
+    "model": "CQ32G4VE",
+    "category": "Monitors",
+    "identifiers": [
+      "CQ32G4VE",
+      "4038986182164"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-cq32g4ve.json"
+  },
+  {
+    "id": "aoc-cq32g4vep",
+    "brand": "AOC",
+    "model": "CQ32G4VEP",
+    "category": "Monitors",
+    "identifiers": [
+      "CQ32G4VEP",
+      "4038986113946"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-cq32g4vep.json"
+  },
+  {
+    "id": "aoc-cq32g4za",
+    "brand": "AOC",
+    "model": "CQ32G4ZA",
+    "category": "Monitors",
+    "identifiers": [
+      "CQ32G4ZA",
+      "4038986113717"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-cq32g4za.json"
+  },
+  {
+    "id": "aoc-cu34b3e",
+    "brand": "AOC",
+    "model": "CU34B3E",
+    "category": "Monitors",
+    "identifiers": [
+      "CU34B3E",
+      "4038986113250"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-cu34b3e.json"
+  },
+  {
+    "id": "aoc-cu34e4cv",
+    "brand": "AOC",
+    "model": "CU34E4CV",
+    "category": "Monitors",
+    "identifiers": [
+      "CU34E4CV",
+      "4038986112864"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-cu34e4cv.json"
+  },
+  {
+    "id": "aoc-cu34e4cw",
+    "brand": "AOC",
+    "model": "CU34E4CW",
+    "category": "Monitors",
+    "identifiers": [
+      "CU34E4CW",
+      "4038986112963"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-cu34e4cw.json"
+  },
+  {
+    "id": "aoc-cu34g2xp-bk",
+    "brand": "AOC",
+    "model": "CU34G2XP/BK",
+    "category": "Monitors",
+    "identifiers": [
+      "CU34G2XP/BK",
+      "4038986111331"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-cu34g2xp-bk.json"
+  },
+  {
+    "id": "aoc-cu34g4",
+    "brand": "AOC",
+    "model": "CU34G4",
+    "category": "Monitors",
+    "identifiers": [
+      "CU34G4",
+      "4038986612708"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-cu34g4.json"
+  },
+  {
+    "id": "aoc-cu34g4ad",
+    "brand": "AOC",
+    "model": "CU34G4AD",
+    "category": "Monitors",
+    "identifiers": [
+      "CU34G4AD",
+      "4038986113755"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-cu34g4ad.json"
+  },
+  {
+    "id": "aoc-cu34g4ca",
+    "brand": "AOC",
+    "model": "CU34G4CA",
+    "category": "Monitors",
+    "identifiers": [
+      "CU34G4CA",
+      "4038986113519"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-cu34g4ca.json"
+  },
+  {
+    "id": "aoc-cu34g4cap",
+    "brand": "AOC",
+    "model": "CU34G4CAP",
+    "category": "Monitors",
+    "identifiers": [
+      "CU34G4CAP",
+      "4038986113915"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-cu34g4cap.json"
+  },
+  {
+    "id": "aoc-cu34g4p",
+    "brand": "AOC",
+    "model": "CU34G4P",
+    "category": "Monitors",
+    "identifiers": [
+      "CU34G4P",
+      "4038986113922"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-cu34g4p.json"
+  },
+  {
+    "id": "aoc-cu34g4z",
+    "brand": "AOC",
+    "model": "CU34G4Z",
+    "category": "Monitors",
+    "identifiers": [
+      "CU34G4Z",
+      "6973985232480"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-cu34g4z.json"
+  },
+  {
+    "id": "aoc-cu34g4zca",
+    "brand": "AOC",
+    "model": "CU34G4ZCA",
+    "category": "Monitors",
+    "identifiers": [
+      "CU34G4ZCA",
+      "4038986113502"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-cu34g4zca.json"
+  },
+  {
+    "id": "aoc-cu34p3cv",
+    "brand": "AOC",
+    "model": "CU34P3CV",
+    "category": "Monitors",
+    "identifiers": [
+      "CU34P3CV",
+      "4038986110730"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-cu34p3cv.json"
+  },
+  {
+    "id": "aoc-cu34v5c-bk",
+    "brand": "AOC",
+    "model": "CU34V5C/BK",
+    "category": "Monitors",
+    "identifiers": [
+      "CU34V5C/BK",
+      "4038986110198"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-cu34v5c-bk.json"
+  },
+  {
+    "id": "aoc-q24b36x",
+    "brand": "AOC",
+    "model": "Q24B36X",
+    "category": "Monitors",
+    "identifiers": [
+      "Q24B36X",
+      "4038986143196"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-q24b36x.json"
+  },
+  {
+    "id": "aoc-q24g4re",
+    "brand": "AOC",
+    "model": "Q24G4RE",
+    "category": "Monitors",
+    "identifiers": [
+      "Q24G4RE",
+      "4038986142731"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-q24g4re.json"
+  },
+  {
+    "id": "aoc-q24p2q",
+    "brand": "AOC",
+    "model": "Q24P2Q",
+    "category": "Monitors",
+    "identifiers": [
+      "Q24P2Q",
+      "4038986147316"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-q24p2q.json"
+  },
+  {
+    "id": "aoc-q25g4sr",
+    "brand": "AOC",
+    "model": "Q25G4SR",
+    "category": "Monitors",
+    "identifiers": [
+      "Q25G4SR",
+      "4038986142748"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-q25g4sr.json"
+  },
+  {
+    "id": "aoc-q27b35e",
+    "brand": "AOC",
+    "model": "Q27B35E",
+    "category": "Monitors",
+    "identifiers": [
+      "Q27B35E",
+      "4038986183062"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-q27b35e.json"
+  },
+  {
+    "id": "aoc-q27b36x",
+    "brand": "AOC",
+    "model": "Q27B36X",
+    "category": "Monitors",
+    "identifiers": [
+      "Q27B36X",
+      "4038986183208"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-q27b36x.json"
+  },
+  {
+    "id": "aoc-q27b3cf2",
+    "brand": "AOC",
+    "model": "Q27B3CF2",
+    "category": "Monitors",
+    "identifiers": [
+      "Q27B3CF2",
+      "4038986181464"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-q27b3cf2.json"
+  },
+  {
+    "id": "aoc-q27e3umf",
+    "brand": "AOC",
+    "model": "Q27E3UMF",
+    "category": "Monitors",
+    "identifiers": [
+      "Q27E3UMF",
+      "4038986181310"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-q27e3umf.json"
+  },
+  {
+    "id": "aoc-q27e4cv",
+    "brand": "AOC",
+    "model": "Q27E4CV",
+    "category": "Monitors",
+    "identifiers": [
+      "Q27E4CV",
+      "4038986182829"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-q27e4cv.json"
+  },
+  {
+    "id": "aoc-q27e4cw",
+    "brand": "AOC",
+    "model": "Q27E4CW",
+    "category": "Monitors",
+    "identifiers": [
+      "Q27E4CW",
+      "4038986183673"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-q27e4cw.json"
+  },
+  {
+    "id": "aoc-q27e4u",
+    "brand": "AOC",
+    "model": "Q27E4U",
+    "category": "Monitors",
+    "identifiers": [
+      "Q27E4U",
+      "4038986182812"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-q27e4u.json"
+  },
+  {
+    "id": "aoc-q27g3xmn-bk",
+    "brand": "AOC",
+    "model": "Q27G3XMN/BK",
+    "category": "Monitors",
+    "identifiers": [
+      "Q27G3XMN/BK",
+      "4038986181440"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-q27g3xmn-bk.json"
+  },
+  {
+    "id": "aoc-q27g41zdf",
+    "brand": "AOC",
+    "model": "Q27G41ZDF",
+    "category": "Monitors",
+    "identifiers": [
+      "Q27G41ZDF",
+      "4038986183147"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-q27g41zdf.json"
+  },
+  {
+    "id": "aoc-q27g42xe",
+    "brand": "AOC",
+    "model": "Q27G42XE",
+    "category": "Monitors",
+    "identifiers": [
+      "Q27G42XE",
+      "4038986642606"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-q27g42xe.json"
+  },
+  {
+    "id": "aoc-q27g4sdr",
+    "brand": "AOC",
+    "model": "Q27G4SDR",
+    "category": "Monitors",
+    "identifiers": [
+      "Q27G4SDR",
+      "4038986183048"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-q27g4sdr.json"
+  },
+  {
+    "id": "aoc-q27g4zdr",
+    "brand": "AOC",
+    "model": "Q27G4ZDR",
+    "category": "Monitors",
+    "identifiers": [
+      "Q27G4ZDR",
+      "4038986183130"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-q27g4zdr.json"
+  },
+  {
+    "id": "aoc-q27g4zdrad",
+    "brand": "AOC",
+    "model": "Q27G4ZDRAD",
+    "category": "Monitors",
+    "identifiers": [
+      "Q27G4ZDRAD",
+      "4038986183826"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-q27g4zdrad.json"
+  },
+  {
+    "id": "aoc-q27g4zrp",
+    "brand": "AOC",
+    "model": "Q27G4ZRP",
+    "category": "Monitors",
+    "identifiers": [
+      "Q27G4ZRP",
+      "4038986183932"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-q27g4zrp.json"
+  },
+  {
+    "id": "aoc-q27p3cv",
+    "brand": "AOC",
+    "model": "Q27P3CV",
+    "category": "Monitors",
+    "identifiers": [
+      "Q27P3CV",
+      "4038986180740"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-q27p3cv.json"
+  },
+  {
+    "id": "aoc-q27p3cw",
+    "brand": "AOC",
+    "model": "Q27P3CW",
+    "category": "Monitors",
+    "identifiers": [
+      "Q27P3CW",
+      "4038986180801"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-q27p3cw.json"
+  },
+  {
+    "id": "aoc-q27p3qw",
+    "brand": "AOC",
+    "model": "Q27P3QW",
+    "category": "Monitors",
+    "identifiers": [
+      "Q27P3QW",
+      "4038986180764"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-q27p3qw.json"
+  },
+  {
+    "id": "aoc-q27p4cv",
+    "brand": "AOC",
+    "model": "Q27P4CV",
+    "category": "Monitors",
+    "identifiers": [
+      "Q27P4CV",
+      "4038986183185"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-q27p4cv.json"
+  },
+  {
+    "id": "aoc-q27p4u",
+    "brand": "AOC",
+    "model": "Q27P4U",
+    "category": "Monitors",
+    "identifiers": [
+      "Q27P4U",
+      "4038986182881"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-q27p4u.json"
+  },
+  {
+    "id": "aoc-q27u3cv",
+    "brand": "AOC",
+    "model": "Q27U3CV",
+    "category": "Monitors",
+    "identifiers": [
+      "Q27U3CV",
+      "4038986182065"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-q27u3cv.json"
+  },
+  {
+    "id": "aoc-q32e4u",
+    "brand": "AOC",
+    "model": "Q32E4U",
+    "category": "Monitors",
+    "identifiers": [
+      "Q32E4U",
+      "4038986112956"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-q32e4u.json"
+  },
+  {
+    "id": "aoc-u27e3uf",
+    "brand": "AOC",
+    "model": "U27E3UF",
+    "category": "Monitors",
+    "identifiers": [
+      "U27E3UF",
+      "4038986182522"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-u27e3uf.json"
+  },
+  {
+    "id": "aoc-u27e4cv",
+    "brand": "AOC",
+    "model": "U27E4CV",
+    "category": "Monitors",
+    "identifiers": [
+      "U27E4CV",
+      "4038986182836"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-u27e4cv.json"
+  },
+  {
+    "id": "aoc-u27u3cv",
+    "brand": "AOC",
+    "model": "U27U3CV",
+    "category": "Monitors",
+    "identifiers": [
+      "U27U3CV",
+      "4038986182072"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-u27u3cv.json"
+  },
+  {
+    "id": "aoc-u32g4u",
+    "brand": "AOC",
+    "model": "U32G4U",
+    "category": "Monitors",
+    "identifiers": [
+      "U32G4U",
+      "4038986113113"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-u32g4u.json"
+  },
+  {
+    "id": "aoc-u32p2",
+    "brand": "AOC",
+    "model": "U32P2",
+    "category": "Monitors",
+    "identifiers": [
+      "U32P2",
+      "4038986119627"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-u32p2.json"
+  },
+  {
+    "id": "aoc-u32u3cv",
+    "brand": "AOC",
+    "model": "U32U3CV",
+    "category": "Monitors",
+    "identifiers": [
+      "U32U3CV",
+      "4038986112086"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-u32u3cv.json"
+  },
+  {
+    "id": "aoc-u34e2m",
+    "brand": "AOC",
+    "model": "U34E2M",
+    "category": "Monitors",
+    "identifiers": [
+      "U34E2M",
+      "4038986110723"
+    ],
+    "aliases": [],
+    "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-u34e2m.json"
+  },
+  {
+    "id": "aoc-u34g3xm",
+    "brand": "AOC",
+    "model": "U34G3XM",
+    "category": "Monitors",
+    "identifiers": [
+      "U34G3XM",
+      "4038986110624"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-u34g3xm.json"
+  },
+  {
+    "id": "aoc-x24e4u",
+    "brand": "AOC",
+    "model": "X24E4U",
+    "category": "Monitors",
+    "identifiers": [
+      "X24E4U",
+      "4038986143158"
+    ],
+    "aliases": [],
+    "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/aoc-x24e4u.json"
+  }
+]

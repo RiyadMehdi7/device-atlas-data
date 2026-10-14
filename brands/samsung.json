@@ -1,0 +1,1434 @@
+[
+  {
+    "id": "samsung-25w-power-adapter-ep-t2510-uk-reference",
+    "brand": "Samsung",
+    "model": "25W Power Adapter EP-T2510 (UK reference)",
+    "category": "Accessories",
+    "identifiers": [
+      "EP-T2510NBEGGB"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer electrical and physical reference ONLY. Tele2 25 W listing could be EP-TA800 or EP-T2510; generation, EU plug dimensions and GTIN unresolved. Not a confirmed current Tele2 match.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-25w-power-adapter-ep-t2510-uk-reference.json"
+  },
+  {
+    "id": "samsung-bar-plus-usb-flash-drive",
+    "brand": "Samsung",
+    "model": "BAR Plus USB Flash Drive",
+    "category": "Accessories",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Manufacturer current document index, specific revision and capacity matrix. Single model-family reference; capacity/colour options are not separate products. EU GTIN and Tele2 stock unconfirmed.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-bar-plus-usb-flash-drive.json"
+  },
+  {
+    "id": "samsung-fit-plus-usb-flash-drive",
+    "brand": "Samsung",
+    "model": "FIT Plus USB Flash Drive",
+    "category": "Accessories",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Manufacturer current document index, specific revision and capacity matrix. Single model-family reference; capacity/colour options are not separate products. EU GTIN and Tele2 stock unconfirmed.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-fit-plus-usb-flash-drive.json"
+  },
+  {
+    "id": "samsung-portable-ssd-t5-evo",
+    "brand": "Samsung",
+    "model": "Portable SSD T5 EVO",
+    "category": "Accessories",
+    "identifiers": [
+      "MU-PH8T0S/WW",
+      "MU-PH8T0",
+      "MU-PH8T0S/AM",
+      "MU-PH8T0S/EU",
+      "MU-PH4T0S/WW",
+      "MU-PH4T0",
+      "MU-PH4T0S/AM",
+      "MU-PH4T0S/EU",
+      "MU-PH2T0S/WW",
+      "MU-PH2T0",
+      "MU-PH2T0S/AM",
+      "MU-PH2T0S/EU"
+    ],
+    "aliases": [],
+    "scope": "Manufacturer current document index, specific revision and capacity matrix. Single model-family reference; capacity/colour options are not separate products. EU GTIN and Tele2 stock unconfirmed.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-portable-ssd-t5-evo.json"
+  },
+  {
+    "id": "samsung-portable-ssd-t7",
+    "brand": "Samsung",
+    "model": "Portable SSD T7",
+    "category": "Accessories",
+    "identifiers": [
+      "MU-PC4T0T/AM",
+      "MU-PC4T0",
+      "MU-PC4T0T/WW",
+      "MU-PC2T0H/AM",
+      "MU-PC2T0H/WW",
+      "MU-PC2T0",
+      "MU-PC2T0T/AM",
+      "MU-PC2T0T/WW",
+      "MU-PC1T0H/AM",
+      "MU-PC1T0H/WW",
+      "MU-PC1T0",
+      "MU-PC1T0T/AM",
+      "MU-PC1T0T/WW"
+    ],
+    "aliases": [],
+    "scope": "Manufacturer current document index, specific revision and capacity matrix. Single model-family reference; capacity/colour options are not separate products. EU GTIN and Tele2 stock unconfirmed.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-portable-ssd-t7.json"
+  },
+  {
+    "id": "samsung-portable-ssd-t7-shield",
+    "brand": "Samsung",
+    "model": "Portable SSD T7 Shield",
+    "category": "Accessories",
+    "identifiers": [
+      "MU-PE4T0S/WW",
+      "MU-PE4T0",
+      "MU-PE4T0S/AM",
+      "MU-PE4T0S/EU",
+      "MU-PE2T0S/WW",
+      "MU-PE2T0K/WW",
+      "MU-PE2T0R/WW",
+      "MU-PE2T0S/AM",
+      "MU-PE2T0",
+      "MU-PE2T0K/AM",
+      "MU-PE2T0R/AM",
+      "MU-PE2T0S/EU",
+      "MU-PE2T0K/EU",
+      "MU-PE2T0R/EU",
+      "MU-PE1T0S/WW",
+      "MU-PE1T0K/WW",
+      "MU-PE1T0R/WW",
+      "MU-PE1T0S/AM",
+      "MU-PE1T0",
+      "MU-PE1T0K/AM",
+      "MU-PE1T0R/AM",
+      "MU-PE1T0S/EU",
+      "MU-PE1T0K/EU",
+      "MU-PE1T0R/EU"
+    ],
+    "aliases": [],
+    "scope": "Manufacturer current document index, specific revision and capacity matrix. Single model-family reference; capacity/colour options are not separate products. EU GTIN and Tele2 stock unconfirmed.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-portable-ssd-t7-shield.json"
+  },
+  {
+    "id": "samsung-portable-ssd-t9",
+    "brand": "Samsung",
+    "model": "Portable SSD T9",
+    "category": "Accessories",
+    "identifiers": [
+      "MU-PG4T0B/WW",
+      "MU-PG4T0",
+      "MU-PG4T0B/AM",
+      "MU-PG4T0B/EU",
+      "MU-PG2T0B/WW",
+      "MU-PG2T0",
+      "MU-PG2T0B/AM",
+      "MU-PG2T0B/EU",
+      "MU-PG1T0B/WW",
+      "MU-PG1T0",
+      "MU-PG1T0B/AM",
+      "MU-PG1T0B/EU"
+    ],
+    "aliases": [],
+    "scope": "Manufacturer current document index, specific revision and capacity matrix. Single model-family reference; capacity/colour options are not separate products. EU GTIN and Tele2 stock unconfirmed.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-portable-ssd-t9.json"
+  },
+  {
+    "id": "samsung-microsd-evo-plus",
+    "brand": "Samsung",
+    "model": "microSD EVO Plus",
+    "category": "Accessories",
+    "identifiers": [
+      "MB-MC64S",
+      "MB-MC128S",
+      "MB-MC256S",
+      "MB-MC512S",
+      "MB-MC1T0S"
+    ],
+    "aliases": [],
+    "scope": "Manufacturer current document index, specific revision and capacity matrix. Single model-family reference; capacity/colour options are not separate products. EU GTIN and Tele2 stock unconfirmed.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-microsd-evo-plus.json"
+  },
+  {
+    "id": "samsung-microsd-pro-endurance",
+    "brand": "Samsung",
+    "model": "microSD PRO Endurance",
+    "category": "Accessories",
+    "identifiers": [
+      "MB-MJ32K",
+      "MB-MJ64K",
+      "MB-MJ128K",
+      "MB-MJ256K"
+    ],
+    "aliases": [],
+    "scope": "Manufacturer current document index, specific revision and capacity matrix. Single model-family reference; capacity/colour options are not separate products. EU GTIN and Tele2 stock unconfirmed.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-microsd-pro-endurance.json"
+  },
+  {
+    "id": "samsung-microsd-pro-plus",
+    "brand": "Samsung",
+    "model": "microSD PRO Plus",
+    "category": "Accessories",
+    "identifiers": [
+      "MB-MD128S",
+      "MB-MD256S",
+      "MB-MD512S",
+      "MB-MY512K",
+      "MB-MD1T0S"
+    ],
+    "aliases": [],
+    "scope": "Manufacturer current document index, specific revision and capacity matrix. Single model-family reference; capacity/colour options are not separate products. EU GTIN and Tele2 stock unconfirmed.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-microsd-pro-plus.json"
+  },
+  {
+    "id": "samsung-microsd-t7",
+    "brand": "Samsung",
+    "model": "microSD T7",
+    "category": "Accessories",
+    "identifiers": [
+      "MB-MB128T",
+      "MB-MB256T",
+      "MB-MB512T",
+      "MB-MB1T0T"
+    ],
+    "aliases": [],
+    "scope": "Manufacturer current document index, specific revision and capacity matrix. Single model-family reference; capacity/colour options are not separate products. EU GTIN and Tele2 stock unconfirmed.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-microsd-t7.json"
+  },
+  {
+    "id": "samsung-microsd-t9",
+    "brand": "Samsung",
+    "model": "microSD T9",
+    "category": "Accessories",
+    "identifiers": [
+      "MB-MH128T",
+      "MB-MH256T",
+      "MB-MH512T"
+    ],
+    "aliases": [],
+    "scope": "Manufacturer current document index, specific revision and capacity matrix. Single model-family reference; capacity/colour options are not separate products. EU GTIN and Tele2 stock unconfirmed.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-microsd-t9.json"
+  },
+  {
+    "id": "samsung-galaxy-buds3-fe-regional-model",
+    "brand": "Samsung",
+    "model": "Galaxy Buds3 FE",
+    "category": "Earbuds",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "German manufacturer model reference; selected black source example, Latvia SKU reconciliation required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-buds3-fe-regional-model.json"
+  },
+  {
+    "id": "samsung-galaxy-buds4-regional-model",
+    "brand": "Samsung",
+    "model": "Galaxy Buds4",
+    "category": "Earbuds",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "German manufacturer model reference; selected black source example, Latvia SKU reconciliation required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-buds4-regional-model.json"
+  },
+  {
+    "id": "samsung-galaxy-buds4-pro-regional-model",
+    "brand": "Samsung",
+    "model": "Galaxy Buds4 Pro",
+    "category": "Earbuds",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK business manufacturer black model reference; Latvia SKU reconciliation required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-buds4-pro-regional-model.json"
+  },
+  {
+    "id": "samsung-lc34g55twwpxen",
+    "brand": "Samsung",
+    "model": "LC34G55TWWPXEN",
+    "category": "Monitors",
+    "identifiers": [
+      "LC34G55TWWPXEN"
+    ],
+    "aliases": [],
+    "scope": "Exact LC34G55TWWPXEN manufacturer reference on be_fr Samsung site. Complete manufacturer suffix matches observed Tele2 name; physical stock EAN and regional smart-service availability remain unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-lc34g55twwpxen.json"
+  },
+  {
+    "id": "samsung-ls27cg552euxen",
+    "brand": "Samsung",
+    "model": "LS27CG552EUXEN",
+    "category": "Monitors",
+    "identifiers": [
+      "LS27CG552EUXEN"
+    ],
+    "aliases": [],
+    "scope": "Exact LS27CG552EUXEN manufacturer reference on be_fr Samsung site. Complete manufacturer suffix matches observed Tele2 name; physical stock EAN and regional smart-service availability remain unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-ls27cg552euxen.json"
+  },
+  {
+    "id": "samsung-ls27d390gauxen",
+    "brand": "Samsung",
+    "model": "LS27D390GAUXEN",
+    "category": "Monitors",
+    "identifiers": [
+      "LS27D390GAUXEN"
+    ],
+    "aliases": [],
+    "scope": "Exact LS27D390GAUXEN manufacturer reference on fr Samsung site. Complete manufacturer suffix matches observed Tele2 name; physical stock EAN and regional smart-service availability remain unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-ls27d390gauxen.json"
+  },
+  {
+    "id": "samsung-ls27f320gauxen",
+    "brand": "Samsung",
+    "model": "LS27F320GAUXEN",
+    "category": "Monitors",
+    "identifiers": [
+      "LS27F320GAUXEN"
+    ],
+    "aliases": [],
+    "scope": "Exact LS27F320GAUXEN manufacturer reference on fr Samsung site. Complete manufacturer suffix matches observed Tele2 name; physical stock EAN and regional smart-service availability remain unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-ls27f320gauxen.json"
+  },
+  {
+    "id": "samsung-ls32dg702euxdu",
+    "brand": "Samsung",
+    "model": "LS32DG702EUXDU",
+    "category": "Monitors",
+    "identifiers": [
+      "LS32DG702EUXDU",
+      "S32DG702EU"
+    ],
+    "aliases": [],
+    "scope": "Exact Latvian Samsung manufacturer reference LS32DG702EUXDU. Tele2 generic listing is connected through its attached regulatory sheet identifying S32DG702EU; complete physical stock SKU/EAN still unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-ls32dg702euxdu.json"
+  },
+  {
+    "id": "samsung-ls32fg502euxen",
+    "brand": "Samsung",
+    "model": "LS32FG502EUXEN",
+    "category": "Monitors",
+    "identifiers": [
+      "LS32FG502EUXEN",
+      "S32FG502EU"
+    ],
+    "aliases": [],
+    "scope": "Exact Latvian Samsung manufacturer reference LS32FG502EUXEN. Tele2 generic listing is connected through its attached regulatory sheet identifying S32FG502EU; complete physical stock SKU/EAN still unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-ls32fg502euxen.json"
+  },
+  {
+    "id": "samsung-ls49dg950suxen",
+    "brand": "Samsung",
+    "model": "LS49DG950SUXEN",
+    "category": "Monitors",
+    "identifiers": [
+      "LS49DG950SUXEN"
+    ],
+    "aliases": [],
+    "scope": "Exact LS49DG950SUXEN manufacturer reference on za Samsung site. Complete manufacturer suffix matches observed Tele2 name; physical stock EAN and regional smart-service availability remain unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-ls49dg950suxen.json"
+  },
+  {
+    "id": "samsung-galaxy-a17-5g-uk-manufacturer-variant-sm-a176bzkaeub",
+    "brand": "Samsung",
+    "model": "Galaxy A17 5G",
+    "category": "Phones",
+    "identifiers": [
+      "SM-A176BZKAEUB"
+    ],
+    "aliases": [
+      "Galaxy A17 5G 128GB"
+    ],
+    "scope": "UK manufacturer variant SM-A176BZKAEUB; exact UK storage/colour scope, Latvia SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-a17-5g-uk-manufacturer-variant-sm-a176bzkaeub.json"
+  },
+  {
+    "id": "samsung-galaxy-a17-lte-uk-manufacturer-variant-sm-a175fzkbeub",
+    "brand": "Samsung",
+    "model": "Galaxy A17 LTE",
+    "category": "Phones",
+    "identifiers": [
+      "SM-A175FZKBEUB"
+    ],
+    "aliases": [
+      "Galaxy A17 LTE 128GB"
+    ],
+    "scope": "UK manufacturer variant SM-A175FZKBEUB; exact UK storage/colour scope, Latvia SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-a17-lte-uk-manufacturer-variant-sm-a175fzkbeub.json"
+  },
+  {
+    "id": "samsung-galaxy-a18-lte-uk-manufacturer-variant-sm-a185fzkdeub",
+    "brand": "Samsung",
+    "model": "Galaxy A18 LTE",
+    "category": "Phones",
+    "identifiers": [
+      "SM-A185FZKDEUB"
+    ],
+    "aliases": [
+      "Galaxy A18 LTE 128GB"
+    ],
+    "scope": "Belgian EU manufacturer variant SM-A185FZKDEUB; exact Belgian EU storage/colour scope, Latvia SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-a18-lte-uk-manufacturer-variant-sm-a185fzkdeub.json"
+  },
+  {
+    "id": "samsung-galaxy-a27-5g-uk-manufacturer-variant-sm-a276bzkbeub",
+    "brand": "Samsung",
+    "model": "Galaxy A27 5G",
+    "category": "Phones",
+    "identifiers": [
+      "SM-A276BZKBEUB"
+    ],
+    "aliases": [
+      "Galaxy A27 5G 128GB"
+    ],
+    "scope": "UK manufacturer variant SM-A276BZKBEUB; exact UK storage/colour scope, Latvia SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-a27-5g-uk-manufacturer-variant-sm-a276bzkbeub.json"
+  },
+  {
+    "id": "samsung-galaxy-a37-5g-uk-manufacturer-variant-sm-a376bzwgeub",
+    "brand": "Samsung",
+    "model": "Galaxy A37 5G",
+    "category": "Phones",
+    "identifiers": [
+      "SM-A376BZWGEUB"
+    ],
+    "aliases": [
+      "Galaxy A37 5G 256GB"
+    ],
+    "scope": "UK manufacturer variant SM-A376BZWGEUB; exact UK storage/colour scope, Latvia SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-a37-5g-uk-manufacturer-variant-sm-a376bzwgeub.json"
+  },
+  {
+    "id": "samsung-galaxy-a57-5g-uk-manufacturer-variant-sm-a576bdbdeub",
+    "brand": "Samsung",
+    "model": "Galaxy A57 5G",
+    "category": "Phones",
+    "identifiers": [
+      "SM-A576BDBDEUB"
+    ],
+    "aliases": [
+      "Galaxy A57 5G 256GB"
+    ],
+    "scope": "UK manufacturer variant SM-A576BDBDEUB; exact UK storage/colour scope, Latvia SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-a57-5g-uk-manufacturer-variant-sm-a576bdbdeub.json"
+  },
+  {
+    "id": "samsung-galaxy-s25-uk-manufacturer-variant-sm-s931bdbgeub",
+    "brand": "Samsung",
+    "model": "Galaxy S25",
+    "category": "Phones",
+    "identifiers": [
+      "SM-S931BDBGEUB"
+    ],
+    "aliases": [
+      "Galaxy S25 5G 256GB"
+    ],
+    "scope": "UK manufacturer variant SM-S931BDBGEUB; exact UK storage/colour scope, Latvia SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-s25-uk-manufacturer-variant-sm-s931bdbgeub.json"
+  },
+  {
+    "id": "samsung-galaxy-s25-edge-uk-manufacturer-variant-sm-s937bzkdeub",
+    "brand": "Samsung",
+    "model": "Galaxy S25 Edge",
+    "category": "Phones",
+    "identifiers": [
+      "SM-S937BZKDEUB"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer variant SM-S937BZKDEUB; exact UK storage/colour scope, Latvia SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-s25-edge-uk-manufacturer-variant-sm-s937bzkdeub.json"
+  },
+  {
+    "id": "samsung-galaxy-s25-fe-uk-manufacturer-variant-sm-s731bzkdeub",
+    "brand": "Samsung",
+    "model": "Galaxy S25 FE",
+    "category": "Phones",
+    "identifiers": [
+      "SM-S731BZKDEUB"
+    ],
+    "aliases": [
+      "Galaxy S25 FE 5G 128GB"
+    ],
+    "scope": "UK manufacturer variant SM-S731BZKDEUB; exact UK storage/colour scope, Latvia SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-s25-fe-uk-manufacturer-variant-sm-s731bzkdeub.json"
+  },
+  {
+    "id": "samsung-galaxy-s25-ultra-uk-manufacturer-variant-sm-s938bzkdeub",
+    "brand": "Samsung",
+    "model": "Galaxy S25 Ultra",
+    "category": "Phones",
+    "identifiers": [
+      "SM-S938BZKDEUB"
+    ],
+    "aliases": [
+      "Galaxy S25 Ultra 5G 256GB"
+    ],
+    "scope": "UK manufacturer variant SM-S938BZKDEUB; exact UK storage/colour scope, Latvia SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-s25-ultra-uk-manufacturer-variant-sm-s938bzkdeub.json"
+  },
+  {
+    "id": "samsung-galaxy-s26-uk-manufacturer-variant-sm-s942bzsgeub",
+    "brand": "Samsung",
+    "model": "Galaxy S26",
+    "category": "Phones",
+    "identifiers": [
+      "SM-S942BZSGEUB"
+    ],
+    "aliases": [
+      "Galaxy S26 5G 256GB"
+    ],
+    "scope": "UK manufacturer variant SM-S942BZSGEUB; exact UK storage/colour scope, Latvia SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-s26-uk-manufacturer-variant-sm-s942bzsgeub.json"
+  },
+  {
+    "id": "samsung-galaxy-s26-fe-uk-manufacturer-variant-sm-s741bzkgeub",
+    "brand": "Samsung",
+    "model": "Galaxy S26 FE",
+    "category": "Phones",
+    "identifiers": [
+      "SM-S741BZKGEUB"
+    ],
+    "aliases": [
+      "Galaxy S26 FE 5G 256GB"
+    ],
+    "scope": "UK manufacturer variant SM-S741BZKGEUB; exact UK storage/colour scope, Latvia SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-s26-fe-uk-manufacturer-variant-sm-s741bzkgeub.json"
+  },
+  {
+    "id": "samsung-galaxy-s26-ultra-uk-manufacturer-variant-sm-s948bzkgeub",
+    "brand": "Samsung",
+    "model": "Galaxy S26 Ultra",
+    "category": "Phones",
+    "identifiers": [
+      "SM-S948BZKGEUB"
+    ],
+    "aliases": [
+      "Galaxy S26 Ultra 5G 512GB"
+    ],
+    "scope": "UK manufacturer variant SM-S948BZKGEUB; exact UK storage/colour scope, Latvia SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-s26-ultra-uk-manufacturer-variant-sm-s948bzkgeub.json"
+  },
+  {
+    "id": "samsung-galaxy-s26-ultra-enterprise-edition-uk-manufacturer-variant-sm-s948bzkdeeb",
+    "brand": "Samsung",
+    "model": "Galaxy S26 Ultra (Enterprise Edition)",
+    "category": "Phones",
+    "identifiers": [
+      "SM-S948BZKDEEB"
+    ],
+    "aliases": [
+      "Galaxy S26 Ultra EE 256GB"
+    ],
+    "scope": "UK manufacturer variant SM-S948BZKDEEB; exact UK storage/colour scope, Latvia SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-s26-ultra-enterprise-edition-uk-manufacturer-variant-sm-s948bzkdeeb.json"
+  },
+  {
+    "id": "samsung-galaxy-s26-uk-manufacturer-variant-sm-s947bzwdeub",
+    "brand": "Samsung",
+    "model": "Galaxy S26+",
+    "category": "Phones",
+    "identifiers": [
+      "SM-S947BZWDEUB"
+    ],
+    "aliases": [
+      "Galaxy S26+ 5G 256GB"
+    ],
+    "scope": "UK manufacturer variant SM-S947BZWDEUB; exact UK storage/colour scope, Latvia SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-s26-uk-manufacturer-variant-sm-s947bzwdeub.json"
+  },
+  {
+    "id": "samsung-galaxy-xcover7-uk-manufacturer-variant-sm-g556bzkdeeb",
+    "brand": "Samsung",
+    "model": "Galaxy XCover7",
+    "category": "Phones",
+    "identifiers": [
+      "SM-G556BZKDEEB"
+    ],
+    "aliases": [
+      "Galaxy Xcover7"
+    ],
+    "scope": "UK manufacturer variant SM-G556BZKDEEB; exact UK storage/colour scope, Latvia SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-xcover7-uk-manufacturer-variant-sm-g556bzkdeeb.json"
+  },
+  {
+    "id": "samsung-galaxy-xcover7-pro-uk-manufacturer-variant-sm-g766bzkdeeb",
+    "brand": "Samsung",
+    "model": "Galaxy XCover7 Pro",
+    "category": "Phones",
+    "identifiers": [
+      "SM-G766BZKDEEB"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer variant SM-G766BZKDEEB; exact UK storage/colour scope, Latvia SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-xcover7-pro-uk-manufacturer-variant-sm-g766bzkdeeb.json"
+  },
+  {
+    "id": "samsung-galaxy-z-flip8-uk-manufacturer-variant-sm-f776bzkheub",
+    "brand": "Samsung",
+    "model": "Galaxy Z Flip8",
+    "category": "Phones",
+    "identifiers": [
+      "SM-F776BZKHEUB"
+    ],
+    "aliases": [
+      "Galaxy Flip 8 5G 512GB"
+    ],
+    "scope": "UK manufacturer variant SM-F776BZKHEUB; exact UK storage/colour scope, Latvia SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-z-flip8-uk-manufacturer-variant-sm-f776bzkheub.json"
+  },
+  {
+    "id": "samsung-galaxy-z-fold7-uk-manufacturer-variant-sm-f966bdbneub",
+    "brand": "Samsung",
+    "model": "Galaxy Z Fold7",
+    "category": "Phones",
+    "identifiers": [
+      "SM-F966BDBNEUB"
+    ],
+    "aliases": [
+      "Galaxy Fold7 5G 1TB"
+    ],
+    "scope": "UK manufacturer variant SM-F966BDBNEUB; exact UK storage/colour scope, Latvia SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-z-fold7-uk-manufacturer-variant-sm-f966bdbneub.json"
+  },
+  {
+    "id": "samsung-galaxy-z-fold8-uk-manufacturer-variant-sm-f971bzkneub",
+    "brand": "Samsung",
+    "model": "Galaxy Z Fold8",
+    "category": "Phones",
+    "identifiers": [
+      "SM-F971BZKNEUB"
+    ],
+    "aliases": [
+      "Galaxy Fold 8 5G 1TB"
+    ],
+    "scope": "UK manufacturer variant SM-F971BZKNEUB; exact UK storage/colour scope, Latvia SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-z-fold8-uk-manufacturer-variant-sm-f971bzkneub.json"
+  },
+  {
+    "id": "samsung-galaxy-z-fold8-ultra-uk-manufacturer-variant-sm-f976bzvceub",
+    "brand": "Samsung",
+    "model": "Galaxy Z Fold8 Ultra",
+    "category": "Phones",
+    "identifiers": [
+      "SM-F976BZVCEUB"
+    ],
+    "aliases": [
+      "Galaxy Fold8 Ultra 5G 512GB"
+    ],
+    "scope": "UK manufacturer variant SM-F976BZVCEUB; exact UK storage/colour scope, Latvia SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-z-fold8-ultra-uk-manufacturer-variant-sm-f976bzvceub.json"
+  },
+  {
+    "id": "samsung-galaxy-watch-ultra2-lte",
+    "brand": "Samsung",
+    "model": "Galaxy Watch Ultra2 LTE",
+    "category": "Smartwatches",
+    "identifiers": [
+      "L715FZSAEUB"
+    ],
+    "aliases": [],
+    "scope": "Exact UK manufacturer connectivity/size SKU specification; colour used solely as source anchor. Latvia GTIN and regional services need matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-watch-ultra2-lte.json"
+  },
+  {
+    "id": "samsung-galaxy-watch7-40mm-lte",
+    "brand": "Samsung",
+    "model": "Galaxy Watch7 40mm LTE",
+    "category": "Smartwatches",
+    "identifiers": [
+      "SM-L305FZGAEUA"
+    ],
+    "aliases": [],
+    "scope": "Exact UK manufacturer 40mm LTE connectivity/size SKU technical reference. Colour used only as source anchor. Current Tele2 model/size/connectivity listing matches; Latvia GTIN, operator eSIM and regional services require independent matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-watch7-40mm-lte.json"
+  },
+  {
+    "id": "samsung-galaxy-watch8-40mm-lte",
+    "brand": "Samsung",
+    "model": "Galaxy Watch8 40mm LTE",
+    "category": "Smartwatches",
+    "identifiers": [
+      "SM-L325FDAAEUA"
+    ],
+    "aliases": [],
+    "scope": "Exact UK manufacturer 40mm LTE connectivity/size SKU technical reference. Colour used only as source anchor. Current Tele2 model/size/connectivity listing matches; Latvia GTIN, operator eSIM and regional services require independent matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-watch8-40mm-lte.json"
+  },
+  {
+    "id": "samsung-galaxy-watch8-44mm-lte",
+    "brand": "Samsung",
+    "model": "Galaxy Watch8 44mm LTE",
+    "category": "Smartwatches",
+    "identifiers": [
+      "L335FDAAEUA"
+    ],
+    "aliases": [],
+    "scope": "Exact UK manufacturer connectivity/size SKU specification; colour used solely as source anchor. Latvia GTIN and regional services need matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-watch8-44mm-lte.json"
+  },
+  {
+    "id": "samsung-galaxy-watch8-classic-46mm-bluetooth",
+    "brand": "Samsung",
+    "model": "Galaxy Watch8 Classic 46mm Bluetooth",
+    "category": "Smartwatches",
+    "identifiers": [
+      "L500NZKAEUA"
+    ],
+    "aliases": [],
+    "scope": "Exact UK manufacturer connectivity/size SKU specification; colour used solely as source anchor. Latvia GTIN and regional services need matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-watch8-classic-46mm-bluetooth.json"
+  },
+  {
+    "id": "samsung-galaxy-watch9-40mm-bluetooth",
+    "brand": "Samsung",
+    "model": "Galaxy Watch9 40mm Bluetooth",
+    "category": "Smartwatches",
+    "identifiers": [
+      "L340NZEAEUB"
+    ],
+    "aliases": [],
+    "scope": "Exact UK manufacturer connectivity/size SKU specification; colour used solely as source anchor. Latvia GTIN and regional services need matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-watch9-40mm-bluetooth.json"
+  },
+  {
+    "id": "samsung-galaxy-watch9-40mm-lte",
+    "brand": "Samsung",
+    "model": "Galaxy Watch9 40mm LTE",
+    "category": "Smartwatches",
+    "identifiers": [
+      "L345FZKAEUB"
+    ],
+    "aliases": [],
+    "scope": "Exact UK manufacturer connectivity/size SKU specification; colour used solely as source anchor. Latvia GTIN and regional services need matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-watch9-40mm-lte.json"
+  },
+  {
+    "id": "samsung-galaxy-watch9-44mm-bluetooth",
+    "brand": "Samsung",
+    "model": "Galaxy Watch9 44mm Bluetooth",
+    "category": "Smartwatches",
+    "identifiers": [
+      "L350NZKAEUB"
+    ],
+    "aliases": [],
+    "scope": "Exact UK manufacturer connectivity/size SKU specification; colour used solely as source anchor. Latvia GTIN and regional services need matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-watch9-44mm-bluetooth.json"
+  },
+  {
+    "id": "samsung-galaxy-watch9-44mm-lte",
+    "brand": "Samsung",
+    "model": "Galaxy Watch9 44mm LTE",
+    "category": "Smartwatches",
+    "identifiers": [
+      "L355FZKAEUB"
+    ],
+    "aliases": [],
+    "scope": "Exact UK manufacturer connectivity/size SKU specification; colour used solely as source anchor. Latvia GTIN and regional services need matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-watch9-44mm-lte.json"
+  },
+  {
+    "id": "samsung-galaxy-tab-a11-wi-fi-64gb",
+    "brand": "Samsung",
+    "model": "Galaxy Tab A11 Wi-Fi 64GB",
+    "category": "Tablets",
+    "identifiers": [
+      "SM-X130NZAAEUB"
+    ],
+    "aliases": [],
+    "scope": "UK official manufacturer reference; explicit variant/options preserved. Latvia manufacturer SKU matching remains unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-tab-a11-wi-fi-64gb.json"
+  },
+  {
+    "id": "samsung-galaxy-tab-a11-5g-128gb",
+    "brand": "Samsung",
+    "model": "Galaxy Tab A11+ 5G 128GB",
+    "category": "Tablets",
+    "identifiers": [
+      "SM-X236BZSREUB",
+      "8806097854821"
+    ],
+    "aliases": [],
+    "scope": "Exact UK SM-X236BZSREUB manufacturer SKU. UK specification and storage/connectivity scope only; Latvia part number must be matched. Tele2 barcode 8806097854821 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-tab-a11-5g-128gb.json"
+  },
+  {
+    "id": "samsung-galaxy-tab-active5-pro-model-reference",
+    "brand": "Samsung",
+    "model": "Galaxy Tab Active5 Pro (model reference)",
+    "category": "Tablets",
+    "identifiers": [
+      "8806097103271",
+      "SM-X356BZGAEEE"
+    ],
+    "aliases": [],
+    "scope": "UK official manufacturer reference; explicit variant/options preserved. Latvia manufacturer SKU matching remains unresolved. Tele2 barcode 8806097103271 is only the rendered default colour variant; UK/reference MPN may differ by region and colour. Exact EU identification resolves the Tele2 default variant as 5G 128GB Enterprise Edition, green. Generic platform alternatives remain labelled in source facts.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-tab-active5-pro-model-reference.json"
+  },
+  {
+    "id": "samsung-galaxy-tab-s10-lite-wi-fi-128gb",
+    "brand": "Samsung",
+    "model": "Galaxy Tab S10 Lite Wi-Fi 128GB",
+    "category": "Tablets",
+    "identifiers": [
+      "SM-X400NZAREUB"
+    ],
+    "aliases": [],
+    "scope": "Exact UK SM-X400NZAREUB manufacturer SKU. UK specification and storage/connectivity scope only; Latvia part number must be matched.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-tab-s10-lite-wi-fi-128gb.json"
+  },
+  {
+    "id": "samsung-galaxy-tab-s11-5g-128gb",
+    "brand": "Samsung",
+    "model": "Galaxy Tab S11 5G 128GB",
+    "category": "Tablets",
+    "identifiers": [
+      "SM-X736BZAREUB",
+      "8806097706960"
+    ],
+    "aliases": [],
+    "scope": "Exact UK SM-X736BZAREUB manufacturer SKU. UK specification and storage/connectivity scope only; Latvia part number must be matched. Tele2 barcode 8806097706960 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-tab-s11-5g-128gb.json"
+  },
+  {
+    "id": "samsung-galaxy-tab-s11-ultra-5g-256gb",
+    "brand": "Samsung",
+    "model": "Galaxy Tab S11 Ultra 5G 256GB",
+    "category": "Tablets",
+    "identifiers": [
+      "SM-X936BZAREUB",
+      "8806097711759",
+      "SM-X936BZAREUE"
+    ],
+    "aliases": [],
+    "scope": "Exact UK SM-X936BZAREUB manufacturer SKU. UK specification and storage/connectivity scope only; Latvia part number must be matched. Tele2 barcode 8806097711759 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-tab-s11-ultra-5g-256gb.json"
+  },
+  {
+    "id": "samsung-galaxy-tab-s11-ultra-wi-fi-256gb",
+    "brand": "Samsung",
+    "model": "Galaxy Tab S11 Ultra Wi-Fi 256GB",
+    "category": "Tablets",
+    "identifiers": [
+      "SM-X930NZAREUB",
+      "8806097711414",
+      "SM-X930NZAREUE"
+    ],
+    "aliases": [],
+    "scope": "Exact UK SM-X930NZAREUB manufacturer SKU. UK specification and storage/connectivity scope only; Latvia part number must be matched. Tele2 barcode 8806097711414 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-tab-s11-ultra-wi-fi-256gb.json"
+  },
+  {
+    "id": "samsung-galaxy-tab-s11-wi-fi-128gb",
+    "brand": "Samsung",
+    "model": "Galaxy Tab S11 Wi-Fi 128GB",
+    "category": "Tablets",
+    "identifiers": [
+      "SM-X730NZAREUB",
+      "8806097712213"
+    ],
+    "aliases": [],
+    "scope": "Exact UK SM-X730NZAREUB manufacturer SKU. UK specification and storage/connectivity scope only; Latvia part number must be matched. Tele2 barcode 8806097712213 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-tab-s11-wi-fi-128gb.json"
+  },
+  {
+    "id": "samsung-galaxy-tab-s12-ultra-model-reference",
+    "brand": "Samsung",
+    "model": "Galaxy Tab S12 Ultra (model reference)",
+    "category": "Tablets",
+    "identifiers": [
+      "8806099397975"
+    ],
+    "aliases": [],
+    "scope": "UK official manufacturer reference; explicit variant/options preserved. Latvia manufacturer SKU matching remains unresolved. Tele2 barcode 8806099397975 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-tab-s12-ultra-model-reference.json"
+  },
+  {
+    "id": "samsung-galaxy-tab-s12-wi-fi-256gb",
+    "brand": "Samsung",
+    "model": "Galaxy Tab S12+ Wi-Fi 256GB",
+    "category": "Tablets",
+    "identifiers": [
+      "SM-X840NZSREUB",
+      "8806099394493"
+    ],
+    "aliases": [],
+    "scope": "UK official manufacturer reference; explicit variant/options preserved. Latvia manufacturer SKU matching remains unresolved. Tele2 barcode 8806099394493 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-tab-s12-wi-fi-256gb.json"
+  },
+  {
+    "id": "samsung-qe42s90faexxu",
+    "brand": "Samsung",
+    "model": "QE42S90FAEXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE42S90FAEXXU"
+    ],
+    "aliases": [],
+    "scope": "Exact UK screen-size SKU; XXU suffix. Latvia XXH SKU must be independently matched; do not transfer regional tuner/service or energy claims.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe42s90faexxu.json"
+  },
+  {
+    "id": "samsung-qe42s90haexxu",
+    "brand": "Samsung",
+    "model": "QE42S90HAEXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE42S90HAEXXU"
+    ],
+    "aliases": [],
+    "scope": "2026 exact UK screen-size SKU XXU; Latvia XXH suffix must be independently matched. Family/size listing correspondence does not establish identical regional specifications.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe42s90haexxu.json"
+  },
+  {
+    "id": "samsung-qe43q7faauxxu",
+    "brand": "Samsung",
+    "model": "QE43Q7FAAUXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE43Q7FAAUXXU"
+    ],
+    "aliases": [],
+    "scope": "Exact UK screen-size SKU; XXU suffix. Latvia XXH SKU must be independently matched; do not transfer regional tuner/service or energy claims.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe43q7faauxxu.json"
+  },
+  {
+    "id": "samsung-qe43qn70hauxxu",
+    "brand": "Samsung",
+    "model": "QE43QN70HAUXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE43QN70HAUXXU"
+    ],
+    "aliases": [],
+    "scope": "2026 exact UK screen-size SKU XXU; Latvia XXH suffix must be independently matched. Family/size listing correspondence does not establish identical regional specifications.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe43qn70hauxxu.json"
+  },
+  {
+    "id": "samsung-qe43qn90fatxxu",
+    "brand": "Samsung",
+    "model": "QE43QN90FATXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE43QN90FATXXU"
+    ],
+    "aliases": [],
+    "scope": "Exact UK screen-size SKU; XXU suffix. Latvia XXH SKU must be independently matched; do not transfer regional tuner/service or energy claims.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe43qn90fatxxu.json"
+  },
+  {
+    "id": "samsung-qe48s85haexxu",
+    "brand": "Samsung",
+    "model": "QE48S85HAEXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE48S85HAEXXU"
+    ],
+    "aliases": [],
+    "scope": "2026 exact UK screen-size SKU XXU; Latvia XXH suffix must be independently matched. Family/size listing correspondence does not establish identical regional specifications.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe48s85haexxu.json"
+  },
+  {
+    "id": "samsung-qe48s90faexxu",
+    "brand": "Samsung",
+    "model": "QE48S90FAEXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE48S90FAEXXU"
+    ],
+    "aliases": [],
+    "scope": "Exact UK screen-size SKU; XXU suffix. Latvia XXH SKU must be independently matched; do not transfer regional tuner/service or energy claims.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe48s90faexxu.json"
+  },
+  {
+    "id": "samsung-qe48s90haexxu",
+    "brand": "Samsung",
+    "model": "QE48S90HAEXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE48S90HAEXXU"
+    ],
+    "aliases": [],
+    "scope": "2026 exact UK screen-size SKU XXU; Latvia XXH suffix must be independently matched. Family/size listing correspondence does not establish identical regional specifications. Observed Tele2 family/size counterpart: QE48S90HAEXXH; exact suffix differs.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe48s90haexxu.json"
+  },
+  {
+    "id": "samsung-qe50q7faauxxu",
+    "brand": "Samsung",
+    "model": "QE50Q7FAAUXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE50Q7FAAUXXU"
+    ],
+    "aliases": [],
+    "scope": "Exact UK screen-size SKU; XXU suffix. Latvia XXH SKU must be independently matched; do not transfer regional tuner/service or energy claims.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe50q7faauxxu.json"
+  },
+  {
+    "id": "samsung-qe50qn70hauxxu",
+    "brand": "Samsung",
+    "model": "QE50QN70HAUXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE50QN70HAUXXU"
+    ],
+    "aliases": [],
+    "scope": "2026 exact UK screen-size SKU XXU; Latvia XXH suffix must be independently matched. Family/size listing correspondence does not establish identical regional specifications.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe50qn70hauxxu.json"
+  },
+  {
+    "id": "samsung-qe50qn80fauxxu",
+    "brand": "Samsung",
+    "model": "QE50QN80FAUXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE50QN80FAUXXU"
+    ],
+    "aliases": [],
+    "scope": "Exact UK screen-size SKU; XXU suffix. Latvia XXH SKU must be independently matched; do not transfer regional tuner/service or energy claims. Observed Tele2 family/size counterpart: QE50QN80FAUXXH; exact suffix differs.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe50qn80fauxxu.json"
+  },
+  {
+    "id": "samsung-qe50qn80hauxxu",
+    "brand": "Samsung",
+    "model": "QE50QN80HAUXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE50QN80HAUXXU"
+    ],
+    "aliases": [],
+    "scope": "2026 exact UK screen-size SKU XXU; Latvia XXH suffix must be independently matched. Family/size listing correspondence does not establish identical regional specifications. Observed Tele2 family/size counterpart: QE50QN80HAUXXH; exact suffix differs.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe50qn80hauxxu.json"
+  },
+  {
+    "id": "samsung-qe50qn90fatxxu",
+    "brand": "Samsung",
+    "model": "QE50QN90FATXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE50QN90FATXXU"
+    ],
+    "aliases": [],
+    "scope": "Exact UK screen-size SKU; XXU suffix. Latvia XXH SKU must be independently matched; do not transfer regional tuner/service or energy claims.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe50qn90fatxxu.json"
+  },
+  {
+    "id": "samsung-qe55q7faauxxu",
+    "brand": "Samsung",
+    "model": "QE55Q7FAAUXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE55Q7FAAUXXU"
+    ],
+    "aliases": [],
+    "scope": "Exact UK screen-size SKU; XXU suffix. Latvia XXH SKU must be independently matched; do not transfer regional tuner/service or energy claims.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe55q7faauxxu.json"
+  },
+  {
+    "id": "samsung-qe55qn70hauxxu",
+    "brand": "Samsung",
+    "model": "QE55QN70HAUXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE55QN70HAUXXU"
+    ],
+    "aliases": [],
+    "scope": "2026 exact UK screen-size SKU XXU; Latvia XXH suffix must be independently matched. Family/size listing correspondence does not establish identical regional specifications.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe55qn70hauxxu.json"
+  },
+  {
+    "id": "samsung-qe55qn80fauxxu",
+    "brand": "Samsung",
+    "model": "QE55QN80FAUXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE55QN80FAUXXU"
+    ],
+    "aliases": [],
+    "scope": "Exact UK screen-size SKU; XXU suffix. Latvia XXH SKU must be independently matched; do not transfer regional tuner/service or energy claims.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe55qn80fauxxu.json"
+  },
+  {
+    "id": "samsung-qe55qn80hauxxu",
+    "brand": "Samsung",
+    "model": "QE55QN80HAUXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE55QN80HAUXXU"
+    ],
+    "aliases": [],
+    "scope": "2026 exact UK screen-size SKU XXU; Latvia XXH suffix must be independently matched. Family/size listing correspondence does not establish identical regional specifications.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe55qn80hauxxu.json"
+  },
+  {
+    "id": "samsung-qe55qn90fatxxu",
+    "brand": "Samsung",
+    "model": "QE55QN90FATXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE55QN90FATXXU"
+    ],
+    "aliases": [],
+    "scope": "Exact UK screen-size SKU; XXU suffix. Latvia XXH SKU must be independently matched; do not transfer regional tuner/service or energy claims.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe55qn90fatxxu.json"
+  },
+  {
+    "id": "samsung-qe55s85haexxu",
+    "brand": "Samsung",
+    "model": "QE55S85HAEXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE55S85HAEXXU"
+    ],
+    "aliases": [],
+    "scope": "2026 exact UK screen-size SKU XXU; Latvia XXH suffix must be independently matched. Family/size listing correspondence does not establish identical regional specifications. Observed Tele2 family/size counterpart: QE55S85HAEXXH; exact suffix differs.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe55s85haexxu.json"
+  },
+  {
+    "id": "samsung-qe55s90faexxu",
+    "brand": "Samsung",
+    "model": "QE55S90FAEXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE55S90FAEXXU"
+    ],
+    "aliases": [],
+    "scope": "Exact UK screen-size SKU; XXU suffix. Latvia XXH SKU must be independently matched; do not transfer regional tuner/service or energy claims.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe55s90faexxu.json"
+  },
+  {
+    "id": "samsung-qe55s90haexxu",
+    "brand": "Samsung",
+    "model": "QE55S90HAEXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE55S90HAEXXU"
+    ],
+    "aliases": [],
+    "scope": "2026 exact UK screen-size SKU XXU; Latvia XXH suffix must be independently matched. Family/size listing correspondence does not establish identical regional specifications.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe55s90haexxu.json"
+  },
+  {
+    "id": "samsung-qe55s95fatxxu",
+    "brand": "Samsung",
+    "model": "QE55S95FATXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE55S95FATXXU"
+    ],
+    "aliases": [],
+    "scope": "Exact UK screen-size SKU; XXU suffix. Latvia XXH SKU must be independently matched; do not transfer regional tuner/service or energy claims.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe55s95fatxxu.json"
+  },
+  {
+    "id": "samsung-qe65q7faauxxu",
+    "brand": "Samsung",
+    "model": "QE65Q7FAAUXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE65Q7FAAUXXU"
+    ],
+    "aliases": [],
+    "scope": "Exact UK screen-size SKU; XXU suffix. Latvia XXH SKU must be independently matched; do not transfer regional tuner/service or energy claims.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe65q7faauxxu.json"
+  },
+  {
+    "id": "samsung-qe65qn70hauxxu",
+    "brand": "Samsung",
+    "model": "QE65QN70HAUXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE65QN70HAUXXU"
+    ],
+    "aliases": [],
+    "scope": "2026 exact UK screen-size SKU XXU; Latvia XXH suffix must be independently matched. Family/size listing correspondence does not establish identical regional specifications. Observed Tele2 family/size counterpart: QE65QN70HAUXXH; exact suffix differs.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe65qn70hauxxu.json"
+  },
+  {
+    "id": "samsung-qe65qn80fauxxu",
+    "brand": "Samsung",
+    "model": "QE65QN80FAUXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE65QN80FAUXXU"
+    ],
+    "aliases": [],
+    "scope": "Exact UK screen-size SKU; XXU suffix. Latvia XXH SKU must be independently matched; do not transfer regional tuner/service or energy claims.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe65qn80fauxxu.json"
+  },
+  {
+    "id": "samsung-qe65qn80hauxxu",
+    "brand": "Samsung",
+    "model": "QE65QN80HAUXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE65QN80HAUXXU"
+    ],
+    "aliases": [],
+    "scope": "2026 exact UK screen-size SKU XXU; Latvia XXH suffix must be independently matched. Family/size listing correspondence does not establish identical regional specifications.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe65qn80hauxxu.json"
+  },
+  {
+    "id": "samsung-qe65qn90fatxxu",
+    "brand": "Samsung",
+    "model": "QE65QN90FATXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE65QN90FATXXU"
+    ],
+    "aliases": [],
+    "scope": "Exact UK screen-size SKU; XXU suffix. Latvia XXH SKU must be independently matched; do not transfer regional tuner/service or energy claims.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe65qn90fatxxu.json"
+  },
+  {
+    "id": "samsung-qe65s85faexxu",
+    "brand": "Samsung",
+    "model": "QE65S85FAEXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE65S85FAEXXU"
+    ],
+    "aliases": [],
+    "scope": "Exact UK screen-size SKU; XXU suffix. Latvia XXH SKU must be independently matched; do not transfer regional tuner/service or energy claims.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe65s85faexxu.json"
+  },
+  {
+    "id": "samsung-qe65s85haexxu",
+    "brand": "Samsung",
+    "model": "QE65S85HAEXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE65S85HAEXXU"
+    ],
+    "aliases": [],
+    "scope": "2026 exact UK screen-size SKU XXU; Latvia XXH suffix must be independently matched. Family/size listing correspondence does not establish identical regional specifications. Observed Tele2 family/size counterpart: QE65S85HAEXXH; exact suffix differs.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe65s85haexxu.json"
+  },
+  {
+    "id": "samsung-qe65s90haexxu",
+    "brand": "Samsung",
+    "model": "QE65S90HAEXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE65S90HAEXXU"
+    ],
+    "aliases": [],
+    "scope": "2026 exact UK screen-size SKU XXU; Latvia XXH suffix must be independently matched. Family/size listing correspondence does not establish identical regional specifications.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe65s90haexxu.json"
+  },
+  {
+    "id": "samsung-qe65s95fatxxu",
+    "brand": "Samsung",
+    "model": "QE65S95FATXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE65S95FATXXU"
+    ],
+    "aliases": [],
+    "scope": "Exact UK screen-size SKU; XXU suffix. Latvia XXH SKU must be independently matched; do not transfer regional tuner/service or energy claims.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe65s95fatxxu.json"
+  },
+  {
+    "id": "samsung-qe75q7faauxxu",
+    "brand": "Samsung",
+    "model": "QE75Q7FAAUXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE75Q7FAAUXXU"
+    ],
+    "aliases": [],
+    "scope": "Exact UK screen-size SKU; XXU suffix. Latvia XXH SKU must be independently matched; do not transfer regional tuner/service or energy claims.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe75q7faauxxu.json"
+  },
+  {
+    "id": "samsung-qe75qn70hauxxu",
+    "brand": "Samsung",
+    "model": "QE75QN70HAUXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE75QN70HAUXXU"
+    ],
+    "aliases": [],
+    "scope": "2026 exact UK screen-size SKU XXU; Latvia XXH suffix must be independently matched. Family/size listing correspondence does not establish identical regional specifications.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe75qn70hauxxu.json"
+  },
+  {
+    "id": "samsung-qe75qn80fauxxu",
+    "brand": "Samsung",
+    "model": "QE75QN80FAUXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE75QN80FAUXXU"
+    ],
+    "aliases": [],
+    "scope": "Exact UK screen-size SKU; XXU suffix. Latvia XXH SKU must be independently matched; do not transfer regional tuner/service or energy claims.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe75qn80fauxxu.json"
+  },
+  {
+    "id": "samsung-qe75qn80hauxxu",
+    "brand": "Samsung",
+    "model": "QE75QN80HAUXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE75QN80HAUXXU"
+    ],
+    "aliases": [],
+    "scope": "2026 exact UK screen-size SKU XXU; Latvia XXH suffix must be independently matched. Family/size listing correspondence does not establish identical regional specifications.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe75qn80hauxxu.json"
+  },
+  {
+    "id": "samsung-qe75qn90fatxxu",
+    "brand": "Samsung",
+    "model": "QE75QN90FATXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE75QN90FATXXU"
+    ],
+    "aliases": [],
+    "scope": "Exact UK screen-size SKU; XXU suffix. Latvia XXH SKU must be independently matched; do not transfer regional tuner/service or energy claims.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe75qn90fatxxu.json"
+  },
+  {
+    "id": "samsung-qe77s85faexxu",
+    "brand": "Samsung",
+    "model": "QE77S85FAEXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE77S85FAEXXU"
+    ],
+    "aliases": [],
+    "scope": "Exact UK screen-size SKU; XXU suffix. Latvia XXH SKU must be independently matched; do not transfer regional tuner/service or energy claims.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe77s85faexxu.json"
+  },
+  {
+    "id": "samsung-qe77s85haexxu",
+    "brand": "Samsung",
+    "model": "QE77S85HAEXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE77S85HAEXXU"
+    ],
+    "aliases": [],
+    "scope": "2026 exact UK screen-size SKU XXU; Latvia XXH suffix must be independently matched. Family/size listing correspondence does not establish identical regional specifications.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe77s85haexxu.json"
+  },
+  {
+    "id": "samsung-qe77s90faexxu",
+    "brand": "Samsung",
+    "model": "QE77S90FAEXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE77S90FAEXXU"
+    ],
+    "aliases": [],
+    "scope": "Exact UK screen-size SKU; XXU suffix. Latvia XXH SKU must be independently matched; do not transfer regional tuner/service or energy claims.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe77s90faexxu.json"
+  },
+  {
+    "id": "samsung-qe77s90hatxxu",
+    "brand": "Samsung",
+    "model": "QE77S90HATXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE77S90HATXXU"
+    ],
+    "aliases": [],
+    "scope": "2026 exact UK screen-size SKU XXU; Latvia XXH suffix must be independently matched. Family/size listing correspondence does not establish identical regional specifications.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe77s90hatxxu.json"
+  },
+  {
+    "id": "samsung-qe77s95fatxxu",
+    "brand": "Samsung",
+    "model": "QE77S95FATXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE77S95FATXXU"
+    ],
+    "aliases": [],
+    "scope": "Exact UK screen-size SKU; XXU suffix. Latvia XXH SKU must be independently matched; do not transfer regional tuner/service or energy claims.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe77s95fatxxu.json"
+  },
+  {
+    "id": "samsung-qe83s85faexxu",
+    "brand": "Samsung",
+    "model": "QE83S85FAEXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE83S85FAEXXU"
+    ],
+    "aliases": [],
+    "scope": "Exact UK screen-size SKU; XXU suffix. Latvia XXH SKU must be independently matched; do not transfer regional tuner/service or energy claims.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe83s85faexxu.json"
+  },
+  {
+    "id": "samsung-qe83s85haexxu",
+    "brand": "Samsung",
+    "model": "QE83S85HAEXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE83S85HAEXXU"
+    ],
+    "aliases": [],
+    "scope": "2026 exact UK screen-size SKU XXU; Latvia XXH suffix must be independently matched. Family/size listing correspondence does not establish identical regional specifications.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe83s85haexxu.json"
+  },
+  {
+    "id": "samsung-qe83s90faexxu",
+    "brand": "Samsung",
+    "model": "QE83S90FAEXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE83S90FAEXXU"
+    ],
+    "aliases": [],
+    "scope": "Exact UK screen-size SKU; XXU suffix. Latvia XXH SKU must be independently matched; do not transfer regional tuner/service or energy claims.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe83s90faexxu.json"
+  },
+  {
+    "id": "samsung-qe85qn70hauxxu",
+    "brand": "Samsung",
+    "model": "QE85QN70HAUXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE85QN70HAUXXU"
+    ],
+    "aliases": [],
+    "scope": "2026 exact UK screen-size SKU XXU; Latvia XXH suffix must be independently matched. Family/size listing correspondence does not establish identical regional specifications.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe85qn70hauxxu.json"
+  },
+  {
+    "id": "samsung-qe85qn80fauxxu",
+    "brand": "Samsung",
+    "model": "QE85QN80FAUXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE85QN80FAUXXU"
+    ],
+    "aliases": [],
+    "scope": "Exact UK screen-size SKU; XXU suffix. Latvia XXH SKU must be independently matched; do not transfer regional tuner/service or energy claims.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe85qn80fauxxu.json"
+  },
+  {
+    "id": "samsung-qe85qn80hauxxu",
+    "brand": "Samsung",
+    "model": "QE85QN80HAUXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE85QN80HAUXXU"
+    ],
+    "aliases": [],
+    "scope": "2026 exact UK screen-size SKU XXU; Latvia XXH suffix must be independently matched. Family/size listing correspondence does not establish identical regional specifications.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe85qn80hauxxu.json"
+  },
+  {
+    "id": "samsung-qe85qn90fatxxu",
+    "brand": "Samsung",
+    "model": "QE85QN90FATXXU",
+    "category": "Televisions",
+    "identifiers": [
+      "QE85QN90FATXXU"
+    ],
+    "aliases": [],
+    "scope": "Exact UK screen-size SKU; XXU suffix. Latvia XXH SKU must be independently matched; do not transfer regional tuner/service or energy claims.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe85qn90fatxxu.json"
+  }
+]

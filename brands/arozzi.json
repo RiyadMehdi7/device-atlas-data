@@ -1,0 +1,15 @@
+[
+  {
+    "id": "arozzi-nova-27-ips-180hz",
+    "brand": "Arozzi",
+    "model": "Nova 27\" IPS 180Hz",
+    "category": "Monitors",
+    "identifiers": [
+      "Nova 27\" IPS 180Hz",
+      "AZ-NO-27T2K180"
+    ],
+    "aliases": [],
+    "scope": "Exact Arozzi Nova 27-inch IPS 180Hz manufacturer Swedish reference; colour options listed collectively, not counted as separate products. Tele2 stock SKU/EAN unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/arozzi-nova-27-ips-180hz.json"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "hisense-65e7q-eu",
+    "brand": "Hisense",
+    "model": "65E7Q",
+    "category": "Televisions",
+    "identifiers": [
+      "65E7Q",
+      "20016409",
+      "6942351418902"
+    ],
+    "aliases": [],
+    "scope": "Exact European manufacturer 65E7Q model / product code 20016409; exact Tele2 Latvia model name observed. Belgium sheet has swapped cm/in headings and mislabels video codec list as audio; those errors are explicitly excluded/correctly unit-scoped.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/hisense-65e7q-eu.json"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "soundcore-p40i-manufacturer-model",
+    "brand": "Soundcore",
+    "model": "P40i",
+    "category": "Earbuds",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Spain manufacturer model reference; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/soundcore-p40i-manufacturer-model.json"
+  },
+  {
+    "id": "soundcore-life-q30-eu-model",
+    "brand": "Soundcore",
+    "model": "Life Q30",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "EU manufacturer model reference; colour-specific examples not expanded; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/soundcore-life-q30-eu-model.json"
+  },
+  {
+    "id": "soundcore-q20i-eu-model",
+    "brand": "Soundcore",
+    "model": "Q20i",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "EU manufacturer model reference; colour-specific examples not expanded; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/soundcore-q20i-eu-model.json"
+  },
+  {
+    "id": "soundcore-space-one-eu-model",
+    "brand": "Soundcore",
+    "model": "Space One",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "EU manufacturer model reference; colour-specific examples not expanded; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/soundcore-space-one-eu-model.json"
+  },
+  {
+    "id": "soundcore-space-one-pro-manufacturer-model",
+    "brand": "Soundcore",
+    "model": "Space One Pro",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "EU manufacturer model reference; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/soundcore-space-one-pro-manufacturer-model.json"
+  },
+  {
+    "id": "soundcore-boom-3i-manufacturer-model",
+    "brand": "Soundcore",
+    "model": "Boom 3i",
+    "category": "Speakers",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "USA manufacturer model reference; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/soundcore-boom-3i-manufacturer-model.json"
+  }
+]

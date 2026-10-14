@@ -1,0 +1,102 @@
+[
+  {
+    "id": "amazfit-active-3-premium",
+    "brand": "Amazfit",
+    "model": "Active 3 Premium",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Current German manufacturer storefront model-family specification. Original German field wording/units retained. Any steel/titanium, standard/premium or size alternatives remain expressly grouped; no colour/storage combinations invented. This supports EU relevance, not Latvia SKU or Tele2 availability.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/amazfit-active-3-premium.json"
+  },
+  {
+    "id": "amazfit-active-max",
+    "brand": "Amazfit",
+    "model": "Active Max",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Current German manufacturer storefront model-family specification. Original German field wording/units retained. Any steel/titanium, standard/premium or size alternatives remain expressly grouped; no colour/storage combinations invented. This supports EU relevance, not Latvia SKU or Tele2 availability.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/amazfit-active-max.json"
+  },
+  {
+    "id": "amazfit-balance-3",
+    "brand": "Amazfit",
+    "model": "Balance 3",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Current German manufacturer storefront model-family specification. Original German field wording/units retained. Any steel/titanium, standard/premium or size alternatives remain expressly grouped; no colour/storage combinations invented. This supports EU relevance, not Latvia SKU or Tele2 availability.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/amazfit-balance-3.json"
+  },
+  {
+    "id": "amazfit-balance-ultra",
+    "brand": "Amazfit",
+    "model": "Balance Ultra",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Current German manufacturer storefront model-family specification. Original German field wording/units retained. Any steel/titanium, standard/premium or size alternatives remain expressly grouped; no colour/storage combinations invented. This supports EU relevance, not Latvia SKU or Tele2 availability.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/amazfit-balance-ultra.json"
+  },
+  {
+    "id": "amazfit-bip-max",
+    "brand": "Amazfit",
+    "model": "Bip Max",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Current German manufacturer storefront model-family specification. Original German field wording/units retained. Any steel/titanium, standard/premium or size alternatives remain expressly grouped; no colour/storage combinations invented. This supports EU relevance, not Latvia SKU or Tele2 availability.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/amazfit-bip-max.json"
+  },
+  {
+    "id": "amazfit-helio-strap-pro",
+    "brand": "Amazfit",
+    "model": "Helio Strap Pro",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Current German manufacturer storefront model-family specification. Original German field wording/units retained. Any steel/titanium, standard/premium or size alternatives remain expressly grouped; no colour/storage combinations invented. This supports EU relevance, not Latvia SKU or Tele2 availability.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/amazfit-helio-strap-pro.json"
+  },
+  {
+    "id": "amazfit-t-rex-3",
+    "brand": "Amazfit",
+    "model": "T-Rex 3",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official global T-Rex 3 manufacturer specification; listed colour not separate product. Manufacturer laboratory battery claims and regional apps/features remain conditional. Latvia SKU matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/amazfit-t-rex-3.json"
+  },
+  {
+    "id": "amazfit-t-rex-3-pro",
+    "brand": "Amazfit",
+    "model": "T-Rex 3 Pro",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Current German manufacturer storefront model-family specification. Original German field wording/units retained. Any steel/titanium, standard/premium or size alternatives remain expressly grouped; no colour/storage combinations invented. This supports EU relevance, not Latvia SKU or Tele2 availability.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/amazfit-t-rex-3-pro.json"
+  },
+  {
+    "id": "amazfit-t-rex-dual-solar",
+    "brand": "Amazfit",
+    "model": "T-Rex Dual Solar",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Current German manufacturer storefront model-family specification. Original German field wording/units retained. Any steel/titanium, standard/premium or size alternatives remain expressly grouped; no colour/storage combinations invented. This supports EU relevance, not Latvia SKU or Tele2 availability.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/amazfit-t-rex-dual-solar.json"
+  },
+  {
+    "id": "amazfit-t-rex-ultra-2",
+    "brand": "Amazfit",
+    "model": "T-Rex Ultra 2",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Current German manufacturer storefront model-family specification. Original German field wording/units retained. Any steel/titanium, standard/premium or size alternatives remain expressly grouped; no colour/storage combinations invented. This supports EU relevance, not Latvia SKU or Tele2 availability.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/amazfit-t-rex-ultra-2.json"
+  }
+]

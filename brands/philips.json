@@ -1,0 +1,320 @@
+[
+  {
+    "id": "philips-221v8-00",
+    "brand": "Philips",
+    "model": "221V8/00",
+    "category": "Monitors",
+    "identifiers": [
+      "221V8/00",
+      "87 12581 76017 5"
+    ],
+    "aliases": [],
+    "scope": "Exact /00 European model in manufacturer specification leaflet; leaflet issue date 2026. Specification is a dated manufacturer reference; Tele2 EAN reconciliation remains unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/philips-221v8-00.json"
+  },
+  {
+    "id": "philips-243b1-00",
+    "brand": "Philips",
+    "model": "243B1/00",
+    "category": "Monitors",
+    "identifiers": [
+      "243B1/00",
+      "87 12581 76327 5"
+    ],
+    "aliases": [],
+    "scope": "Exact /00 European model in manufacturer specification leaflet; leaflet issue date 2023-10-27. Specification is a dated manufacturer reference; Tele2 EAN reconciliation remains unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/philips-243b1-00.json"
+  },
+  {
+    "id": "philips-24b2n2200-00",
+    "brand": "Philips",
+    "model": "24B2N2200/00",
+    "category": "Monitors",
+    "identifiers": [
+      "24B2N2200/00",
+      "87 21038 00503 5"
+    ],
+    "aliases": [],
+    "scope": "Exact /00 European model in manufacturer specification leaflet; leaflet issue date 2026. Specification is a dated manufacturer reference; Tele2 EAN reconciliation remains unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/philips-24b2n2200-00.json"
+  },
+  {
+    "id": "philips-24b2u3301-00",
+    "brand": "Philips",
+    "model": "24B2U3301/00",
+    "category": "Monitors",
+    "identifiers": [
+      "24B2U3301/00"
+    ],
+    "aliases": [],
+    "scope": "Official publicly accessible Philips UK product reference on tst.philips.co.uk. Exact /00 model; Tele2 stock identifiers still require reconciliation.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/philips-24b2u3301-00.json"
+  },
+  {
+    "id": "philips-24e1n1300ae-00",
+    "brand": "Philips",
+    "model": "24E1N1300AE/00",
+    "category": "Monitors",
+    "identifiers": [
+      "24E1N1300AE/00",
+      "87 12581 80426 8"
+    ],
+    "aliases": [],
+    "scope": "Exact /00 European model in manufacturer specification leaflet. Specification is a dated manufacturer reference; Tele2 EAN reconciliation remains unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/philips-24e1n1300ae-00.json"
+  },
+  {
+    "id": "philips-27e1n1100a-00",
+    "brand": "Philips",
+    "model": "27E1N1100A/00",
+    "category": "Monitors",
+    "identifiers": [
+      "27E1N1100A/00",
+      "87 12581 80428 2"
+    ],
+    "aliases": [],
+    "scope": "Exact /00 European model in manufacturer specification leaflet; leaflet issue date 2026. Specification is a dated manufacturer reference; Tele2 EAN reconciliation remains unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/philips-27e1n1100a-00.json"
+  },
+  {
+    "id": "philips-27e1n5600he-00",
+    "brand": "Philips",
+    "model": "27E1N5600HE/00",
+    "category": "Monitors",
+    "identifiers": [
+      "27E1N5600HE/00",
+      "87 12581 78342 6"
+    ],
+    "aliases": [],
+    "scope": "Exact /00 European model in manufacturer specification leaflet; leaflet issue date 2026. Specification is a dated manufacturer reference; Tele2 EAN reconciliation remains unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/philips-27e1n5600he-00.json"
+  },
+  {
+    "id": "philips-27e2n1100l-00",
+    "brand": "Philips",
+    "model": "27E2N1100L/00",
+    "category": "Monitors",
+    "identifiers": [
+      "27E2N1100L/00",
+      "87 21038 00037 5"
+    ],
+    "aliases": [],
+    "scope": "Exact /00 European model in manufacturer specification leaflet; leaflet issue date 2026. Specification is a dated manufacturer reference; Tele2 EAN reconciliation remains unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/philips-27e2n1100l-00.json"
+  },
+  {
+    "id": "philips-27e2n2500-00",
+    "brand": "Philips",
+    "model": "27E2N2500/00",
+    "category": "Monitors",
+    "identifiers": [
+      "27E2N2500/00",
+      "87 21038 00447 2"
+    ],
+    "aliases": [],
+    "scope": "Exact /00 European model in manufacturer specification leaflet; leaflet issue date 2026. Specification is a dated manufacturer reference; Tele2 EAN reconciliation remains unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/philips-27e2n2500-00.json"
+  },
+  {
+    "id": "philips-27m2c5200w-00",
+    "brand": "Philips",
+    "model": "27M2C5200W/00",
+    "category": "Monitors",
+    "identifiers": [
+      "27M2C5200W/00"
+    ],
+    "aliases": [],
+    "scope": "Exact European Philips Evnia 27M2C5200W/00 manufacturer reference; Tele2 physical EAN and suffix need reconciliation. Manufacturer states Full HD; Tele2 listing URL contains 2560x1440, so resolution/model discrepancy must be resolved before SKU transfer.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/philips-27m2c5200w-00.json"
+  },
+  {
+    "id": "philips-27m2c5501-00",
+    "brand": "Philips",
+    "model": "27M2C5501/00",
+    "category": "Monitors",
+    "identifiers": [
+      "27M2C5501/00"
+    ],
+    "aliases": [],
+    "scope": "Exact European Philips Evnia 27M2C5501/00 manufacturer reference; Tele2 physical EAN and suffix need reconciliation.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/philips-27m2c5501-00.json"
+  },
+  {
+    "id": "philips-27m2n3500nl-00",
+    "brand": "Philips",
+    "model": "27M2N3500NL/00",
+    "category": "Monitors",
+    "identifiers": [
+      "27M2N3500NL/00"
+    ],
+    "aliases": [],
+    "scope": "Official publicly accessible Philips UK product reference on tst.philips.co.uk. Exact /00 model; Tele2 stock identifiers still require reconciliation.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/philips-27m2n3500nl-00.json"
+  },
+  {
+    "id": "philips-27m2n6501l-00",
+    "brand": "Philips",
+    "model": "27M2N6501L/00",
+    "category": "Monitors",
+    "identifiers": [
+      "27M2N6501L/00",
+      "87 21038 00632 2"
+    ],
+    "aliases": [],
+    "scope": "Exact /00 European model in manufacturer specification leaflet; leaflet issue date 2026. Specification is a dated manufacturer reference; Tele2 EAN reconciliation remains unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/philips-27m2n6501l-00.json"
+  },
+  {
+    "id": "philips-329p1h-00",
+    "brand": "Philips",
+    "model": "329P1H/00",
+    "category": "Monitors",
+    "identifiers": [
+      "329P1H/00"
+    ],
+    "aliases": [],
+    "scope": "Official publicly accessible Philips UK product reference on tst.philips.co.uk. Exact /00 model; Tele2 stock identifiers still require reconciliation.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/philips-329p1h-00.json"
+  },
+  {
+    "id": "philips-32b1n3800-00",
+    "brand": "Philips",
+    "model": "32B1N3800/00",
+    "category": "Monitors",
+    "identifiers": [
+      "32B1N3800/00",
+      "87 21038 00123 5"
+    ],
+    "aliases": [],
+    "scope": "Exact Philips 32B1N3800/00 official manufacturer specification. Tele2 listing currently labels the model AOC; manufacturer identity is Philips. Brand/stock identity discrepancy must be resolved before applying these reference facts to the Tele2 unit.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/philips-32b1n3800-00.json"
+  },
+  {
+    "id": "philips-32e1n1800la-00",
+    "brand": "Philips",
+    "model": "32E1N1800LA/00",
+    "category": "Monitors",
+    "identifiers": [
+      "32E1N1800LA/00",
+      "87 21038 00059 7"
+    ],
+    "aliases": [],
+    "scope": "Exact /00 European model in manufacturer specification leaflet; leaflet issue date 2026. Specification is a dated manufacturer reference; Tele2 EAN reconciliation remains unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/philips-32e1n1800la-00.json"
+  },
+  {
+    "id": "philips-34b2u3600c-00",
+    "brand": "Philips",
+    "model": "34B2U3600C/00",
+    "category": "Monitors",
+    "identifiers": [
+      "34B2U3600C/00",
+      "87 21038 00240 9"
+    ],
+    "aliases": [],
+    "scope": "Exact /00 European model in manufacturer specification leaflet; leaflet issue date 2026. Specification is a dated manufacturer reference; Tele2 EAN reconciliation remains unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/philips-34b2u3600c-00.json"
+  },
+  {
+    "id": "philips-34e1c5600he-00",
+    "brand": "Philips",
+    "model": "34E1C5600HE/00",
+    "category": "Monitors",
+    "identifiers": [
+      "34E1C5600HE/00",
+      "87 12581 78346 4"
+    ],
+    "aliases": [],
+    "scope": "Exact /00 European model in manufacturer specification leaflet; leaflet issue date 2026. Specification is a dated manufacturer reference; Tele2 EAN reconciliation remains unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/philips-34e1c5600he-00.json"
+  },
+  {
+    "id": "philips-40b1u5600-00",
+    "brand": "Philips",
+    "model": "40B1U5600/00",
+    "category": "Monitors",
+    "identifiers": [
+      "40B1U5600/00",
+      "87 12581 79747 8"
+    ],
+    "aliases": [],
+    "scope": "Exact /00 European model in manufacturer specification leaflet; leaflet issue date 2026. Specification is a dated manufacturer reference; Tele2 EAN reconciliation remains unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/philips-40b1u5600-00.json"
+  },
+  {
+    "id": "philips-24phs6050-12",
+    "brand": "Philips",
+    "model": "24PHS6050/12",
+    "category": "Televisions",
+    "identifiers": [
+      "24PHS6050/12",
+      "8718863051535"
+    ],
+    "aliases": [],
+    "scope": "Exact /12 European model, official 2026 product leaflet. Explicit source anomalies excluded rather than repaired by guesswork.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/philips-24phs6050-12.json"
+  },
+  {
+    "id": "philips-40pfs6050-12",
+    "brand": "Philips",
+    "model": "40PFS6050/12",
+    "category": "Televisions",
+    "identifiers": [
+      "40PFS6050/12",
+      "8718863051559"
+    ],
+    "aliases": [],
+    "scope": "Exact /12 European model, official 2026 product leaflet. Explicit source anomalies excluded rather than repaired by guesswork.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/philips-40pfs6050-12.json"
+  },
+  {
+    "id": "philips-40pqs6901-12",
+    "brand": "Philips",
+    "model": "40PQS6901/12",
+    "category": "Televisions",
+    "identifiers": [
+      "40PQS6901/12",
+      "8718863051597"
+    ],
+    "aliases": [],
+    "scope": "Exact /12 European model from 2026 manufacturer leaflet; source anomalies explicitly excluded.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/philips-40pqs6901-12.json"
+  },
+  {
+    "id": "philips-42oled811-12",
+    "brand": "Philips",
+    "model": "42OLED811/12",
+    "category": "Televisions",
+    "identifiers": [
+      "42OLED811/12",
+      "8718863051948"
+    ],
+    "aliases": [],
+    "scope": "Exact /12 European model from 2026 manufacturer leaflet; source anomalies explicitly excluded.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/philips-42oled811-12.json"
+  },
+  {
+    "id": "philips-43pqs8611-manual",
+    "brand": "Philips",
+    "model": "43PQS8611",
+    "category": "Televisions",
+    "identifiers": [
+      "43PQS8611"
+    ],
+    "aliases": [],
+    "scope": "Exact manual-listed model reference; Tele2 observes 43PQS8611/12, but manufacturer manual does not establish /12 suffix. Shared manual claims only; no diagonal, energy, speaker-channel or native refresh inference.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/philips-43pqs8611-manual.json"
+  },
+  {
+    "id": "philips-65oled801-12",
+    "brand": "Philips",
+    "model": "65OLED801/12",
+    "category": "Televisions",
+    "identifiers": [
+      "65OLED801/12"
+    ],
+    "aliases": [],
+    "scope": "Exact /12 European 65-inch model in official 2026 product leaflet; country-specific services need confirmation.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/philips-65oled801-12.json"
+  }
+]

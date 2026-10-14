@@ -1,0 +1,106 @@
+[
+  {
+    "id": "acer-nx-dsgek-001",
+    "brand": "Acer",
+    "model": "Aspire Lite AL15-46P-R2YK",
+    "category": "Laptops",
+    "identifiers": [
+      "NX.DSGEK.001",
+      "AL15-46P-R2YK"
+    ],
+    "aliases": [],
+    "scope": "Exact Acer manufacturer part NX.DSGEK.001 on United Kingdom technical specification page. Different part/panel/storage from Tele2 R4AQ; no family-to-SKU transfer. Availability/keyboard/GTIN unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/acer-nx-dsgek-001.json"
+  },
+  {
+    "id": "acer-nx-dsget-001",
+    "brand": "Acer",
+    "model": "Aspire Lite AL15-46P-R774",
+    "category": "Laptops",
+    "identifiers": [
+      "NX.DSGET.001",
+      "AL15-46P-R774"
+    ],
+    "aliases": [],
+    "scope": "Exact Acer manufacturer part NX.DSGET.001 on Italy technical specification page. Different part/panel/storage from Tele2 R4AQ; no family-to-SKU transfer. Availability/keyboard/GTIN unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/acer-nx-dsget-001.json"
+  },
+  {
+    "id": "acer-b278u-ebemiqprcuzx",
+    "brand": "Acer",
+    "model": "B278U Ebemiqprcuzx",
+    "category": "Monitors",
+    "identifiers": [
+      "B278U Ebemiqprcuzx",
+      "UM.HB8EE.E10"
+    ],
+    "aliases": [],
+    "scope": "Exact B278U Ebemiqprcuzx, manufacturer part UM.HB8EE.E10, official UK technical reference. Tele2 regional part and EAN remain unresolved; bundle power cord is region-specific.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/acer-b278u-ebemiqprcuzx.json"
+  },
+  {
+    "id": "acer-pd163q-bmiuux",
+    "brand": "Acer",
+    "model": "PD163Q bmiuux",
+    "category": "Monitors",
+    "identifiers": [
+      "PD163Q bmiuux",
+      "UM.ZP3EE.009",
+      "4711474029348"
+    ],
+    "aliases": [],
+    "scope": "Exact PD163Q bmiuux / UM.ZP3EE.009 model-specific official Acer UK store specification; two screens explicitly listed. Regional Tele2 EAN/MPN and bundle remain unmatched.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/acer-pd163q-bmiuux.json"
+  },
+  {
+    "id": "acer-pd163qt-regulatory-reference",
+    "brand": "Acer",
+    "model": "PD163QT bmiuux",
+    "category": "Monitors",
+    "identifiers": [
+      "PD163QT",
+      "PD163QT bmiuux",
+      "UM.ZP3EE.011"
+    ],
+    "aliases": [],
+    "scope": "Exact EU-registered Acer PD163QT bmiuux / UM.ZP3EE.011, manufacturer Israel-English page and EU registry reference. Tele2 PD163E title conflicts with its attached PD163QT fiche; this remains an unmatched manufacturer candidate, not a confirmed Tele2 SKU.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/acer-pd163qt-regulatory-reference.json"
+  },
+  {
+    "id": "acer-pm161q-b1bmiuux",
+    "brand": "Acer",
+    "model": "PM161Q B1bmiuux",
+    "category": "Monitors",
+    "identifiers": [
+      "PM161Q B1bmiuux",
+      "UM.ZP1AA.101"
+    ],
+    "aliases": [],
+    "scope": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 US model reference. Complete suffix agrees with observed Tele2 name; Latvia regional part and EAN unresolved. US power cord bundle explicitly scoped.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/acer-pm161q-b1bmiuux.json"
+  },
+  {
+    "id": "acer-vg240y-p6-regulatory-reference",
+    "brand": "Acer",
+    "model": "VG240Y P6",
+    "category": "Monitors",
+    "identifiers": [
+      "VG240Y P6"
+    ],
+    "aliases": [],
+    "scope": "Exact supplier-declared EU regulatory model reference. Base identifier agrees with Tele2 attached product fiche; complete retail suffix, ports, panel subtype and stocked SKU remain unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/acer-vg240y-p6-regulatory-reference.json"
+  },
+  {
+    "id": "acer-vg270-e-regulatory-reference",
+    "brand": "Acer",
+    "model": "VG270 E",
+    "category": "Monitors",
+    "identifiers": [
+      "VG270 E"
+    ],
+    "aliases": [],
+    "scope": "Exact supplier-declared EU regulatory model reference. Base identifier agrees with Tele2 attached product fiche; complete retail suffix, ports, panel subtype and stocked SKU remain unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/acer-vg270-e-regulatory-reference.json"
+  }
+]

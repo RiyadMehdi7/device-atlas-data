@@ -1,0 +1,62 @@
+[
+  {
+    "id": "microsoft-surface-laptop-business-13-inch-snapdragon-1st-edition",
+    "brand": "Microsoft",
+    "model": "Surface Laptop for Business 13-inch Snapdragon 1st Edition",
+    "category": "Laptops",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official global model/platform reference. Size/configuration alternatives explicit; no artificial RAM/storage combination. Latvia SKU, regional power adapter, warranty and keyboard unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/microsoft-surface-laptop-business-13-inch-snapdragon-1st-edition.json"
+  },
+  {
+    "id": "microsoft-surface-laptop-business-7th-edition-intel",
+    "brand": "Microsoft",
+    "model": "Surface Laptop for Business 7th Edition Intel (13.8-inch / 15-inch)",
+    "category": "Laptops",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official global model/platform reference. Size/configuration alternatives explicit; no artificial RAM/storage combination. Latvia SKU, regional power adapter, warranty and keyboard unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/microsoft-surface-laptop-business-7th-edition-intel.json"
+  },
+  {
+    "id": "microsoft-surface-pro-for-business-12-inch-1st-edition-snapdragon",
+    "brand": "Microsoft",
+    "model": "Surface Pro for Business 12-inch (1st Edition, Snapdragon)",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Manufacturer model reference. Official manufacturer business platform fact sheet. Processor, memory, storage and screen alternatives remain options, not an exact purchasable SKU; European availability/SKU matching required.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/microsoft-surface-pro-for-business-12-inch-1st-edition-snapdragon.json"
+  },
+  {
+    "id": "microsoft-surface-pro-for-business-12-inch-2nd-edition-snapdragon",
+    "brand": "Microsoft",
+    "model": "Surface Pro for Business 12-inch (2nd Edition, Snapdragon)",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK business model reference. Wi-Fi/cellular and capacity alternatives explicitly retained; exact Latvia SKU not claimed.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/microsoft-surface-pro-for-business-12-inch-2nd-edition-snapdragon.json"
+  },
+  {
+    "id": "microsoft-surface-pro-for-business-13-inch-12th-edition-intel",
+    "brand": "Microsoft",
+    "model": "Surface Pro for Business 13-inch (12th Edition, Intel)",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Manufacturer model reference. Official manufacturer business platform fact sheet. Processor, memory, storage and screen alternatives remain options, not an exact purchasable SKU; European availability/SKU matching required.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/microsoft-surface-pro-for-business-13-inch-12th-edition-intel.json"
+  },
+  {
+    "id": "microsoft-surface-pro-for-business-13-inch-12th-edition-snapdragon",
+    "brand": "Microsoft",
+    "model": "Surface Pro for Business 13-inch (12th Edition, Snapdragon)",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Manufacturer model reference. Official manufacturer business platform fact sheet. Processor, memory, storage and screen alternatives remain options, not an exact purchasable SKU; European availability/SKU matching required.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/microsoft-surface-pro-for-business-13-inch-12th-edition-snapdragon.json"
+  }
+]

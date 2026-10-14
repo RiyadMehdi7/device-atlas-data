@@ -1,0 +1,52 @@
+[
+  {
+    "id": "suunto-race-2-stainless-steel",
+    "brand": "Suunto",
+    "model": "Race 2 stainless steel",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official European manufacturer selected material/storage model reference; colour used only to anchor source and not separately counted. Country-specific services and Latvian SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/suunto-race-2-stainless-steel.json"
+  },
+  {
+    "id": "suunto-run",
+    "brand": "Suunto",
+    "model": "Run",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official European manufacturer selected material/storage model reference; colour used only to anchor source and not separately counted. Country-specific services and Latvian SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/suunto-run.json"
+  },
+  {
+    "id": "suunto-run-2-4gb",
+    "brand": "Suunto",
+    "model": "Run 2 4GB",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official European manufacturer selected material/storage model reference; colour used only to anchor source and not separately counted. Country-specific services and Latvian SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/suunto-run-2-4gb.json"
+  },
+  {
+    "id": "suunto-vertical-2-stainless-steel",
+    "brand": "Suunto",
+    "model": "Vertical 2 stainless steel",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official European manufacturer selected material/storage model reference; colour used only to anchor source and not separately counted. Country-specific services and Latvian SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/suunto-vertical-2-stainless-steel.json"
+  },
+  {
+    "id": "suunto-vertical-stainless-steel",
+    "brand": "Suunto",
+    "model": "Vertical stainless steel",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official Black Sand stainless-steel model specification; source-anchor colour is not separate product. Solar/titanium variants excluded. Tele2 family listing requires material/MPN matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/suunto-vertical-stainless-steel.json"
+  }
+]

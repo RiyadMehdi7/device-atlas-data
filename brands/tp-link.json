@@ -1,0 +1,512 @@
+[
+  {
+    "id": "tp-link-tc71-global-reference",
+    "brand": "TP-Link",
+    "model": "TC71",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tc71-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-c100-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo C100",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-c100-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-c110-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo C110",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-c110-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-c120-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo C120",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-c120-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-c125-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo C125",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-c125-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-c200-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo C200",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-c200-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-c201-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo C201",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-c201-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-c202-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo C202",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-c202-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-c210-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo C210",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-c210-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-c211-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo C211",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-c211-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-c212-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo C212",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-c212-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-c220-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo C220",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-c220-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-c225-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo C225",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-c225-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-c230-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo C230",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-c230-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-c260-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo C260",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-c260-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-c310-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo C310",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-c310-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-c320ws-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo C320WS",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-c320ws-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-c325wb-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo C325WB",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-c325wb-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-c410-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo C410",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-c410-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-c420-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo C420",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-c420-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-c425-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo C425",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-c425-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-c460-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo C460",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-c460-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-c500-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo C500",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-c500-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-c510w-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo C510W",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-c510w-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-c520ws-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo C520WS",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-c520ws-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-c530ws-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo C530WS",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-c530ws-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-c560ws-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo C560WS",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-c560ws-global-reference.json"
+  },
+  {
+    "id": "tp-link-vigi-c240-global-reference",
+    "brand": "TP-Link",
+    "model": "VIGI C240",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-vigi-c240-global-reference.json"
+  },
+  {
+    "id": "tp-link-deco-x50-global-reference",
+    "brand": "TP-Link",
+    "model": "Deco X50",
+    "category": "Routers",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-deco-x50-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-h100-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo H100",
+    "category": "Smart home",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-h100-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-h200-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo H200",
+    "category": "Smart home",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-h200-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-l510e-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo L510E",
+    "category": "Smart home",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-l510e-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-l530e-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo L530E",
+    "category": "Smart home",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-l530e-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-l535e-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo L535E",
+    "category": "Smart home",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-l535e-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-p100-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo P100",
+    "category": "Smart home",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-p100-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-p110-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo P110",
+    "category": "Smart home",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-p110-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-p110m-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo P110M",
+    "category": "Smart home",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-p110m-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-p115-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo P115",
+    "category": "Smart home",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-p115-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-p125-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo P125",
+    "category": "Smart home",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-p125-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-p300-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo P300",
+    "category": "Smart home",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-p300-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-rv20-max-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo RV20 Max",
+    "category": "Smart home",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-rv20-max-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-rv20-max-plus-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo RV20 Max Plus",
+    "category": "Smart home",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-rv20-max-plus-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-rv30-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo RV30",
+    "category": "Smart home",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-rv30-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-rv30-plus-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo RV30 Plus",
+    "category": "Smart home",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-rv30-plus-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-s200b-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo S200B",
+    "category": "Smart home",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-s200b-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-s200d-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo S200D",
+    "category": "Smart home",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-s200d-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-t100-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo T100",
+    "category": "Smart home",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-t100-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-t110-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo T110",
+    "category": "Smart home",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-t110-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-t300-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo T300",
+    "category": "Smart home",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-t300-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-t310-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo T310",
+    "category": "Smart home",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-t310-global-reference.json"
+  },
+  {
+    "id": "tp-link-tapo-t315-global-reference",
+    "brand": "TP-Link",
+    "model": "Tapo T315",
+    "category": "Smart home",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-t315-global-reference.json"
+  }
+]

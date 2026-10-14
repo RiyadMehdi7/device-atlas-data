@@ -2,6 +2,7 @@
   "records": 1067,
   "specification_entries": 54955,
   "index_url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/index.json",
+  "brands_url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/brands.json",
   "product_url_template": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/{id}.json",
   "source_snapshot": "be0cde340d10ee42c23c0c131aeb2e486f0980a51a8deed5aa3ed7b3834738bd",
   "boundary": "Manufacturer reference claims; exact variants and conditions must be matched. Private Icecat data excluded."

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "logilink-ua0378-manufacturer-reference",
+    "brand": "LogiLink",
+    "model": "UA0378",
+    "category": "Cameras",
+    "identifiers": [
+      "UA0378"
+    ],
+    "aliases": [],
+    "scope": "Official LogiLink/2direct technical datasheet model reference. Legacy OS requirements preserved as manufacturer claims; current OS support must be verified. Exact Latvia revision/GTIN requires matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logilink-ua0378-manufacturer-reference.json"
+  },
+  {
+    "id": "logilink-ua0379-manufacturer-reference",
+    "brand": "LogiLink",
+    "model": "UA0379",
+    "category": "Cameras",
+    "identifiers": [
+      "UA0379"
+    ],
+    "aliases": [],
+    "scope": "Official LogiLink/2direct technical datasheet model reference. Legacy OS requirements preserved as manufacturer claims; current OS support must be verified. Exact Latvia revision/GTIN requires matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logilink-ua0379-manufacturer-reference.json"
+  }
+]

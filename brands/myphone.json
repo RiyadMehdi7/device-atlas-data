@@ -1,0 +1,14 @@
+[
+  {
+    "id": "myphone-halo-3-lte-polish-manufacturer-model-reference",
+    "brand": "MyPhone",
+    "model": "Halo 3 LTE",
+    "category": "Phones",
+    "identifiers": [
+      "TEL000851"
+    ],
+    "aliases": [],
+    "scope": "Polish manufacturer model reference; Tele2 exact product SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/myphone-halo-3-lte-polish-manufacturer-model-reference.json"
+  }
+]

@@ -1,0 +1,374 @@
+[
+  {
+    "id": "tcl-linkhub-hh515l-manufacturer-reference",
+    "brand": "TCL",
+    "model": "LINKHUB HH515L",
+    "category": "Routers",
+    "identifiers": [
+      "HH515L"
+    ],
+    "aliases": [],
+    "scope": "Official manufacturer technical document reference. Exact Latvian SKU/hardware/region requires matching. BROVI Max5 is only a candidate match to generic Tele2 Max Outdoor family. TCL source is UK; H153 source manual includes EU/Latvia regulatory restrictions. Performance conditions preserved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tcl-linkhub-hh515l-manufacturer-reference.json"
+  },
+  {
+    "id": "tcl-43t69c-it",
+    "brand": "TCL",
+    "model": "43T69C",
+    "category": "Televisions",
+    "identifiers": [
+      "43T69C"
+    ],
+    "aliases": [],
+    "scope": "Exact Italy screen-size model; model identity checked in separate publicly disclosed specification response. No family-value transfer; Latvian suffix/GTIN and dimensions order unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tcl-43t69c-it.json"
+  },
+  {
+    "id": "tcl-43v6c-de",
+    "brand": "TCL",
+    "model": "43V6C",
+    "category": "Televisions",
+    "identifiers": [
+      "43V6C"
+    ],
+    "aliases": [],
+    "scope": "Exact Germany screen-size model; model identity checked in separate publicly disclosed specification response. No family-value transfer; Latvian suffix/GTIN and dimensions order unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tcl-43v6c-de.json"
+  },
+  {
+    "id": "tcl-50q6c-de",
+    "brand": "TCL",
+    "model": "50Q6C",
+    "category": "Televisions",
+    "identifiers": [
+      "50Q6C"
+    ],
+    "aliases": [],
+    "scope": "Exact Germany screen-size model; model identity checked in separate publicly disclosed specification response. No family-value transfer; Latvian suffix/GTIN and dimensions order unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tcl-50q6c-de.json"
+  },
+  {
+    "id": "tcl-50t69c-it",
+    "brand": "TCL",
+    "model": "50T69C",
+    "category": "Televisions",
+    "identifiers": [
+      "50T69C"
+    ],
+    "aliases": [],
+    "scope": "Exact Italy screen-size model; model identity checked in separate publicly disclosed specification response. No family-value transfer; Latvian suffix/GTIN and dimensions order unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tcl-50t69c-it.json"
+  },
+  {
+    "id": "tcl-50v6c-de",
+    "brand": "TCL",
+    "model": "50V6C",
+    "category": "Televisions",
+    "identifiers": [
+      "50V6C"
+    ],
+    "aliases": [],
+    "scope": "Exact Germany screen-size model; model identity checked in separate publicly disclosed specification response. No family-value transfer; Latvian suffix/GTIN and dimensions order unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tcl-50v6c-de.json"
+  },
+  {
+    "id": "tcl-55c7l-it",
+    "brand": "TCL",
+    "model": "55C7L",
+    "category": "Televisions",
+    "identifiers": [
+      "55C7L"
+    ],
+    "aliases": [],
+    "scope": "Exact Italy screen-size model; model identity checked in separate publicly disclosed specification response. No family-value transfer; Latvian suffix/GTIN and dimensions order unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tcl-55c7l-it.json"
+  },
+  {
+    "id": "tcl-55c8l-it",
+    "brand": "TCL",
+    "model": "55C8L",
+    "category": "Televisions",
+    "identifiers": [
+      "55C8L"
+    ],
+    "aliases": [],
+    "scope": "Exact Italy screen-size model; model identity checked in separate publicly disclosed specification response. No family-value transfer; Latvian suffix/GTIN and dimensions order unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tcl-55c8l-it.json"
+  },
+  {
+    "id": "tcl-55q6c-de",
+    "brand": "TCL",
+    "model": "55Q6C",
+    "category": "Televisions",
+    "identifiers": [
+      "55Q6C"
+    ],
+    "aliases": [],
+    "scope": "Exact Germany screen-size model; model identity checked in separate publicly disclosed specification response. No family-value transfer; Latvian suffix/GTIN and dimensions order unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tcl-55q6c-de.json"
+  },
+  {
+    "id": "tcl-55t69c-it",
+    "brand": "TCL",
+    "model": "55T69C",
+    "category": "Televisions",
+    "identifiers": [
+      "55T69C"
+    ],
+    "aliases": [],
+    "scope": "Exact Italy screen-size model; model identity checked in separate publicly disclosed specification response. No family-value transfer; Latvian suffix/GTIN and dimensions order unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tcl-55t69c-it.json"
+  },
+  {
+    "id": "tcl-55v6c-de",
+    "brand": "TCL",
+    "model": "55V6C",
+    "category": "Televisions",
+    "identifiers": [
+      "55V6C"
+    ],
+    "aliases": [],
+    "scope": "Exact Germany screen-size model; model identity checked in separate publicly disclosed specification response. No family-value transfer; Latvian suffix/GTIN and dimensions order unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tcl-55v6c-de.json"
+  },
+  {
+    "id": "tcl-65c7l-it",
+    "brand": "TCL",
+    "model": "65C7L",
+    "category": "Televisions",
+    "identifiers": [
+      "65C7L"
+    ],
+    "aliases": [],
+    "scope": "Exact Italy screen-size model; model identity checked in separate publicly disclosed specification response. No family-value transfer; Latvian suffix/GTIN and dimensions order unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tcl-65c7l-it.json"
+  },
+  {
+    "id": "tcl-65c8l-it",
+    "brand": "TCL",
+    "model": "65C8L",
+    "category": "Televisions",
+    "identifiers": [
+      "65C8L"
+    ],
+    "aliases": [],
+    "scope": "Exact Italy screen-size model; model identity checked in separate publicly disclosed specification response. No family-value transfer; Latvian suffix/GTIN and dimensions order unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tcl-65c8l-it.json"
+  },
+  {
+    "id": "tcl-65q6c-de",
+    "brand": "TCL",
+    "model": "65Q6C",
+    "category": "Televisions",
+    "identifiers": [
+      "65Q6C"
+    ],
+    "aliases": [],
+    "scope": "Exact Germany screen-size model; model identity checked in separate publicly disclosed specification response. No family-value transfer; Latvian suffix/GTIN and dimensions order unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tcl-65q6c-de.json"
+  },
+  {
+    "id": "tcl-65t69c-it",
+    "brand": "TCL",
+    "model": "65T69C",
+    "category": "Televisions",
+    "identifiers": [
+      "65T69C"
+    ],
+    "aliases": [],
+    "scope": "Exact Italy screen-size model; model identity checked in separate publicly disclosed specification response. No family-value transfer; Latvian suffix/GTIN and dimensions order unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tcl-65t69c-it.json"
+  },
+  {
+    "id": "tcl-65v6c-de",
+    "brand": "TCL",
+    "model": "65V6C",
+    "category": "Televisions",
+    "identifiers": [
+      "65V6C"
+    ],
+    "aliases": [],
+    "scope": "Exact Germany screen-size model; model identity checked in separate publicly disclosed specification response. No family-value transfer; Latvian suffix/GTIN and dimensions order unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tcl-65v6c-de.json"
+  },
+  {
+    "id": "tcl-75c7l-it",
+    "brand": "TCL",
+    "model": "75C7L",
+    "category": "Televisions",
+    "identifiers": [
+      "75C7L"
+    ],
+    "aliases": [],
+    "scope": "Exact Italy screen-size model; model identity checked in separate publicly disclosed specification response. No family-value transfer; Latvian suffix/GTIN and dimensions order unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tcl-75c7l-it.json"
+  },
+  {
+    "id": "tcl-75c8l-it",
+    "brand": "TCL",
+    "model": "75C8L",
+    "category": "Televisions",
+    "identifiers": [
+      "75C8L"
+    ],
+    "aliases": [],
+    "scope": "Exact Italy screen-size model; model identity checked in separate publicly disclosed specification response. No family-value transfer; Latvian suffix/GTIN and dimensions order unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tcl-75c8l-it.json"
+  },
+  {
+    "id": "tcl-75q6c-de",
+    "brand": "TCL",
+    "model": "75Q6C",
+    "category": "Televisions",
+    "identifiers": [
+      "75Q6C"
+    ],
+    "aliases": [],
+    "scope": "Exact Germany screen-size model; model identity checked in separate publicly disclosed specification response. No family-value transfer; Latvian suffix/GTIN and dimensions order unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tcl-75q6c-de.json"
+  },
+  {
+    "id": "tcl-75t69c-it",
+    "brand": "TCL",
+    "model": "75T69C",
+    "category": "Televisions",
+    "identifiers": [
+      "75T69C"
+    ],
+    "aliases": [],
+    "scope": "Exact Italy screen-size model; model identity checked in separate publicly disclosed specification response. No family-value transfer; Latvian suffix/GTIN and dimensions order unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tcl-75t69c-it.json"
+  },
+  {
+    "id": "tcl-75v6c-de",
+    "brand": "TCL",
+    "model": "75V6C",
+    "category": "Televisions",
+    "identifiers": [
+      "75V6C"
+    ],
+    "aliases": [],
+    "scope": "Exact Germany screen-size model; model identity checked in separate publicly disclosed specification response. No family-value transfer; Latvian suffix/GTIN and dimensions order unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tcl-75v6c-de.json"
+  },
+  {
+    "id": "tcl-75x11l-it",
+    "brand": "TCL",
+    "model": "75X11L",
+    "category": "Televisions",
+    "identifiers": [
+      "75X11L"
+    ],
+    "aliases": [],
+    "scope": "Exact Italy screen-size model; model identity checked in separate publicly disclosed specification response. No family-value transfer; Latvian suffix/GTIN and dimensions order unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tcl-75x11l-it.json"
+  },
+  {
+    "id": "tcl-85c7l-it",
+    "brand": "TCL",
+    "model": "85C7L",
+    "category": "Televisions",
+    "identifiers": [
+      "85C7L"
+    ],
+    "aliases": [],
+    "scope": "Exact Italy screen-size model; model identity checked in separate publicly disclosed specification response. No family-value transfer; Latvian suffix/GTIN and dimensions order unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tcl-85c7l-it.json"
+  },
+  {
+    "id": "tcl-85c8l-it",
+    "brand": "TCL",
+    "model": "85C8L",
+    "category": "Televisions",
+    "identifiers": [
+      "85C8L"
+    ],
+    "aliases": [],
+    "scope": "Exact Italy screen-size model; model identity checked in separate publicly disclosed specification response. No family-value transfer; Latvian suffix/GTIN and dimensions order unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tcl-85c8l-it.json"
+  },
+  {
+    "id": "tcl-85q6c-de",
+    "brand": "TCL",
+    "model": "85Q6C",
+    "category": "Televisions",
+    "identifiers": [
+      "85Q6C"
+    ],
+    "aliases": [],
+    "scope": "Exact Germany screen-size model; model identity checked in separate publicly disclosed specification response. No family-value transfer; Latvian suffix/GTIN and dimensions order unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tcl-85q6c-de.json"
+  },
+  {
+    "id": "tcl-85t69c-it",
+    "brand": "TCL",
+    "model": "85T69C",
+    "category": "Televisions",
+    "identifiers": [
+      "85T69C"
+    ],
+    "aliases": [],
+    "scope": "Exact Italy screen-size model; model identity checked in separate publicly disclosed specification response. No family-value transfer; Latvian suffix/GTIN and dimensions order unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tcl-85t69c-it.json"
+  },
+  {
+    "id": "tcl-85x11l-it",
+    "brand": "TCL",
+    "model": "85X11L",
+    "category": "Televisions",
+    "identifiers": [
+      "85X11L"
+    ],
+    "aliases": [],
+    "scope": "Exact Italy screen-size model; model identity checked in separate publicly disclosed specification response. No family-value transfer; Latvian suffix/GTIN and dimensions order unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tcl-85x11l-it.json"
+  },
+  {
+    "id": "tcl-98c7l-it",
+    "brand": "TCL",
+    "model": "98C7L",
+    "category": "Televisions",
+    "identifiers": [
+      "98C7L"
+    ],
+    "aliases": [],
+    "scope": "Exact Italy screen-size model; model identity checked in separate publicly disclosed specification response. No family-value transfer; Latvian suffix/GTIN and dimensions order unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tcl-98c7l-it.json"
+  },
+  {
+    "id": "tcl-98c8l-it",
+    "brand": "TCL",
+    "model": "98C8L",
+    "category": "Televisions",
+    "identifiers": [
+      "98C8L"
+    ],
+    "aliases": [],
+    "scope": "Exact Italy screen-size model; model identity checked in separate publicly disclosed specification response. No family-value transfer; Latvian suffix/GTIN and dimensions order unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tcl-98c8l-it.json"
+  },
+  {
+    "id": "tcl-98q6c-de",
+    "brand": "TCL",
+    "model": "98Q6C",
+    "category": "Televisions",
+    "identifiers": [
+      "98Q6C"
+    ],
+    "aliases": [],
+    "scope": "Exact Germany screen-size model; model identity checked in separate publicly disclosed specification response. No family-value transfer; Latvian suffix/GTIN and dimensions order unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tcl-98q6c-de.json"
+  },
+  {
+    "id": "tcl-98x11l-it",
+    "brand": "TCL",
+    "model": "98X11L",
+    "category": "Televisions",
+    "identifiers": [
+      "98X11L"
+    ],
+    "aliases": [],
+    "scope": "Exact Italy screen-size model; model identity checked in separate publicly disclosed specification response. No family-value transfer; Latvian suffix/GTIN and dimensions order unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tcl-98x11l-it.json"
+  }
+]

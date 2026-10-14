@@ -1,0 +1,62 @@
+[
+  {
+    "id": "benq-gw2790",
+    "brand": "BenQ",
+    "model": "GW2790",
+    "category": "Monitors",
+    "identifiers": [
+      "GW2790"
+    ],
+    "aliases": [],
+    "scope": "Exact GW2790 manufacturer US technical specification reference; Latvia EAN, regional code and supplied accessories unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/benq-gw2790.json"
+  },
+  {
+    "id": "benq-gw2790c",
+    "brand": "BenQ",
+    "model": "GW2790C",
+    "category": "Monitors",
+    "identifiers": [
+      "GW2790C"
+    ],
+    "aliases": [],
+    "scope": "Exact GW2790C manufacturer US technical specification reference; Latvia EAN, regional code and supplied accessories unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/benq-gw2790c.json"
+  },
+  {
+    "id": "benq-pd2706u",
+    "brand": "BenQ",
+    "model": "PD2706U",
+    "category": "Monitors",
+    "identifiers": [
+      "PD2706U"
+    ],
+    "aliases": [],
+    "scope": "Exact PD2706U manufacturer US technical specification reference; Latvia EAN, regional code and supplied accessories unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/benq-pd2706u.json"
+  },
+  {
+    "id": "benq-rd280ua",
+    "brand": "BenQ",
+    "model": "RD280UA",
+    "category": "Monitors",
+    "identifiers": [
+      "RD280UA"
+    ],
+    "aliases": [],
+    "scope": "Exact RD280UA manufacturer US technical specification reference; Latvia EAN, regional code and supplied accessories unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/benq-rd280ua.json"
+  },
+  {
+    "id": "benq-xl2546x-plus",
+    "brand": "BenQ",
+    "model": "XL2546X+",
+    "category": "Monitors",
+    "identifiers": [
+      "XL2546X+"
+    ],
+    "aliases": [],
+    "scope": "Exact XL2546X+ manufacturer US technical specification reference; Latvia EAN, regional code and supplied accessories unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/benq-xl2546x-plus.json"
+  }
+]

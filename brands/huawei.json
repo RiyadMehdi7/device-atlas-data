@@ -1,0 +1,294 @@
+[
+  {
+    "id": "huawei-freebuds-pro-5-model",
+    "brand": "Huawei",
+    "model": "FreeBuds Pro 5",
+    "category": "Earbuds",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference; Latvia SKU matching required; no colour copies",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/huawei-freebuds-pro-5-model.json"
+  },
+  {
+    "id": "huawei-freebuds-se-4-anc-model",
+    "brand": "Huawei",
+    "model": "FreeBuds SE 4 ANC",
+    "category": "Earbuds",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference; Latvia SKU matching required; no colour copies",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/huawei-freebuds-se-4-anc-model.json"
+  },
+  {
+    "id": "huawei-freeclip-model",
+    "brand": "Huawei",
+    "model": "FreeClip",
+    "category": "Earbuds",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference; Latvia SKU matching required; no colour copies",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/huawei-freeclip-model.json"
+  },
+  {
+    "id": "huawei-band-10",
+    "brand": "Huawei",
+    "model": "Band 10",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer Band 10 reference. Only values assigned to this size column or common model sections included. Battery is manufacturer lab claim; regional services and exact Latvia SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/huawei-band-10.json"
+  },
+  {
+    "id": "huawei-band-11",
+    "brand": "Huawei",
+    "model": "Band 11",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer Band 11 reference. Only values assigned to this size column or common model sections included. Battery is manufacturer lab claim; regional services and exact Latvia SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/huawei-band-11.json"
+  },
+  {
+    "id": "huawei-watch-5-42-mm",
+    "brand": "Huawei",
+    "model": "WATCH 5 42 mm",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer WATCH 5 42 mm reference. Only values assigned to this size column or common model sections included. Battery is manufacturer lab claim; regional services and exact Latvia SKU unresolved. Observed Tele2 42mm Dawnlight listing explicitly offers damaged packaging; manufacturer reference does not establish retail package condition.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/huawei-watch-5-42-mm.json"
+  },
+  {
+    "id": "huawei-watch-5-46-mm",
+    "brand": "Huawei",
+    "model": "WATCH 5 46 mm",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer WATCH 5 46 mm reference. Only values assigned to this size column or common model sections included. Battery is manufacturer lab claim; regional services and exact Latvia SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/huawei-watch-5-46-mm.json"
+  },
+  {
+    "id": "huawei-watch-6-42-mm",
+    "brand": "Huawei",
+    "model": "WATCH 6 42 mm",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer WATCH 6 42 mm reference. Only values assigned to this size column or common model sections included. Battery is manufacturer lab claim; regional services and exact Latvia SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/huawei-watch-6-42-mm.json"
+  },
+  {
+    "id": "huawei-watch-6-46-mm",
+    "brand": "Huawei",
+    "model": "WATCH 6 46 mm",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer WATCH 6 46 mm reference. Only values assigned to this size column or common model sections included. Battery is manufacturer lab claim; regional services and exact Latvia SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/huawei-watch-6-46-mm.json"
+  },
+  {
+    "id": "huawei-watch-d2",
+    "brand": "Huawei",
+    "model": "WATCH D2",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer WATCH D2 reference. Only values assigned to this size column or common model sections included. Battery is manufacturer lab claim; regional services and exact Latvia SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/huawei-watch-d2.json"
+  },
+  {
+    "id": "huawei-watch-d3",
+    "brand": "Huawei",
+    "model": "WATCH D3",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer WATCH D3 reference. Only values assigned to this size column or common model sections included. Battery is manufacturer lab claim; regional services and exact Latvia SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/huawei-watch-d3.json"
+  },
+  {
+    "id": "huawei-watch-fit-4",
+    "brand": "Huawei",
+    "model": "WATCH FIT 4",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer WATCH FIT 4 reference. Only values assigned to this size column or common model sections included. Battery is manufacturer lab claim; regional services and exact Latvia SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/huawei-watch-fit-4.json"
+  },
+  {
+    "id": "huawei-watch-fit-4-pro",
+    "brand": "Huawei",
+    "model": "WATCH FIT 4 Pro",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer WATCH FIT 4 Pro reference. Only values assigned to this size column or common model sections included. Battery is manufacturer lab claim; regional services and exact Latvia SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/huawei-watch-fit-4-pro.json"
+  },
+  {
+    "id": "huawei-watch-fit-5",
+    "brand": "Huawei",
+    "model": "WATCH FIT 5",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer WATCH FIT 5 reference. Only values assigned to this size column or common model sections included. Battery is manufacturer lab claim; regional services and exact Latvia SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/huawei-watch-fit-5.json"
+  },
+  {
+    "id": "huawei-watch-fit-5-pro",
+    "brand": "Huawei",
+    "model": "WATCH FIT 5 Pro",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer WATCH FIT 5 Pro reference. Only values assigned to this size column or common model sections included. Battery is manufacturer lab claim; regional services and exact Latvia SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/huawei-watch-fit-5-pro.json"
+  },
+  {
+    "id": "huawei-watch-gt-6-41-mm",
+    "brand": "Huawei",
+    "model": "WATCH GT 6 41 mm",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer WATCH GT 6 41 mm reference. Only values assigned to this size column or common model sections included. Battery is manufacturer lab claim; regional services and exact Latvia SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/huawei-watch-gt-6-41-mm.json"
+  },
+  {
+    "id": "huawei-watch-gt-6-46-mm",
+    "brand": "Huawei",
+    "model": "WATCH GT 6 46 mm",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer WATCH GT 6 46 mm reference. Only values assigned to this size column or common model sections included. Battery is manufacturer lab claim; regional services and exact Latvia SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/huawei-watch-gt-6-46-mm.json"
+  },
+  {
+    "id": "huawei-watch-gt-6-pro",
+    "brand": "Huawei",
+    "model": "WATCH GT 6 Pro",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer WATCH GT 6 Pro reference. Only values assigned to this size column or common model sections included. Battery is manufacturer lab claim; regional services and exact Latvia SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/huawei-watch-gt-6-pro.json"
+  },
+  {
+    "id": "huawei-watch-gt-7-41-mm",
+    "brand": "Huawei",
+    "model": "WATCH GT 7 41 mm",
+    "category": "Smartwatches",
+    "identifiers": [
+      "NSU-B39"
+    ],
+    "aliases": [],
+    "scope": "Global manufacturer WATCH GT 7 41 mm reference. Only values assigned to this size column or common model sections included. Battery is manufacturer lab claim; regional services and exact Latvia SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/huawei-watch-gt-7-41-mm.json"
+  },
+  {
+    "id": "huawei-watch-gt-7-46-mm",
+    "brand": "Huawei",
+    "model": "WATCH GT 7 46 mm",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer WATCH GT 7 46 mm reference. Only values assigned to this size column or common model sections included. Battery is manufacturer lab claim; regional services and exact Latvia SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/huawei-watch-gt-7-46-mm.json"
+  },
+  {
+    "id": "huawei-watch-gt-7-pro",
+    "brand": "Huawei",
+    "model": "WATCH GT 7 Pro",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer WATCH GT 7 Pro reference. Only values assigned to this size column or common model sections included. Battery is manufacturer lab claim; regional services and exact Latvia SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/huawei-watch-gt-7-pro.json"
+  },
+  {
+    "id": "huawei-watch-gt-runner-2",
+    "brand": "Huawei",
+    "model": "WATCH GT Runner 2",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer WATCH GT Runner 2 reference. Only values assigned to this size column or common model sections included. Battery is manufacturer lab claim; regional services and exact Latvia SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/huawei-watch-gt-runner-2.json"
+  },
+  {
+    "id": "huawei-watch-ultimate-2",
+    "brand": "Huawei",
+    "model": "WATCH Ultimate 2",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer WATCH Ultimate 2 reference. Only values assigned to this size column or common model sections included. Battery is manufacturer lab claim; regional services and exact Latvia SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/huawei-watch-ultimate-2.json"
+  },
+  {
+    "id": "huawei-matepad-11-5-2025",
+    "brand": "HUAWEI",
+    "model": "MatePad 11.5 (2025)",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Manufacturer model reference. UK official manufacturer reference. Capacity options remain options; EU/non-EU battery distinctions retained. PaperMatte scope where named. No Latvia availability claim.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/huawei-matepad-11-5-2025.json"
+  },
+  {
+    "id": "huawei-matepad-11-5-s",
+    "brand": "HUAWEI",
+    "model": "MatePad 11.5 S",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Manufacturer model reference. UK official manufacturer reference. Capacity options remain options; EU/non-EU battery distinctions retained. PaperMatte scope where named. No Latvia availability claim.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/huawei-matepad-11-5-s.json"
+  },
+  {
+    "id": "huawei-matepad-12-x-2025",
+    "brand": "HUAWEI",
+    "model": "MatePad 12 X (2025)",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Manufacturer model reference. UK official manufacturer reference. Capacity options remain options; EU/non-EU battery distinctions retained. PaperMatte scope where named. No Latvia availability claim.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/huawei-matepad-12-x-2025.json"
+  },
+  {
+    "id": "huawei-matepad-pro-12-inch",
+    "brand": "HUAWEI",
+    "model": "MatePad Pro 12-inch",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Manufacturer model reference. UK official manufacturer reference. Capacity options remain options; EU/non-EU battery distinctions retained. PaperMatte scope where named. No Latvia availability claim.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/huawei-matepad-pro-12-inch.json"
+  },
+  {
+    "id": "huawei-matepad-pro-max-papermatte-edition",
+    "brand": "HUAWEI",
+    "model": "MatePad Pro Max PaperMatte Edition",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Manufacturer model reference. UK official manufacturer reference. Capacity options remain options; EU/non-EU battery distinctions retained. PaperMatte scope where named. No Latvia availability claim.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/huawei-matepad-pro-max-papermatte-edition.json"
+  },
+  {
+    "id": "huawei-matepad-se-11",
+    "brand": "HUAWEI",
+    "model": "MatePad SE 11",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Manufacturer model reference. UK official manufacturer reference. Capacity options remain options; EU/non-EU battery distinctions retained. PaperMatte scope where named. No Latvia availability claim.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/huawei-matepad-se-11.json"
+  }
+]

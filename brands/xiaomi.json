@@ -1,0 +1,1354 @@
+[
+  {
+    "id": "xiaomi-xiaomi-120w-hypercharge-combo-type-a",
+    "brand": "Xiaomi",
+    "model": "Xiaomi 120W HyperCharge Combo (Type-A)",
+    "category": "Accessories",
+    "identifiers": [
+      "MDY-14-EE"
+    ],
+    "aliases": [],
+    "scope": "Official Global specification model MDY-14-EE. Regional plug/package variants remain unresolved; model-name Tele2 matching does not prove exact EU SKU.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-xiaomi-120w-hypercharge-combo-type-a.json"
+  },
+  {
+    "id": "xiaomi-xiaomi-33w-power-bank-10000mah-pocket-edition-pro",
+    "brand": "Xiaomi",
+    "model": "Xiaomi 33W Power Bank 10000mAh Pocket Edition Pro",
+    "category": "Accessories",
+    "identifiers": [
+      "PB1030ZM"
+    ],
+    "aliases": [],
+    "scope": "Official Global specification model PB1030ZM. Regional plug/package variants remain unresolved; model-name Tele2 matching does not prove exact EU SKU.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-xiaomi-33w-power-bank-10000mah-pocket-edition-pro.json"
+  },
+  {
+    "id": "xiaomi-xiaomi-33w-power-bank-20000mah-integrated-cable",
+    "brand": "Xiaomi",
+    "model": "Xiaomi 33W Power Bank 20000mAh Integrated Cable",
+    "category": "Accessories",
+    "identifiers": [
+      "PB2030MI"
+    ],
+    "aliases": [],
+    "scope": "Official Global specification model PB2030MI. Regional plug/package variants remain unresolved; model-name Tele2 matching does not prove exact EU SKU. Manufacturer recall affects a specified2024 batch; serial eligibility unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-xiaomi-33w-power-bank-20000mah-integrated-cable.json"
+  },
+  {
+    "id": "xiaomi-xiaomi-3a-usb-a-to-usb-c-cable-1m",
+    "brand": "Xiaomi",
+    "model": "Xiaomi 3A USB-A to USB-C Cable (1m)",
+    "category": "Accessories",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official Global specification model (model code not published). Regional plug/package variants remain unresolved; model-name Tele2 matching does not prove exact EU SKU.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-xiaomi-3a-usb-a-to-usb-c-cable-1m.json"
+  },
+  {
+    "id": "xiaomi-xiaomi-67w-hypercharge-combo-type-a",
+    "brand": "Xiaomi",
+    "model": "Xiaomi 67W HyperCharge Combo (Type-A)",
+    "category": "Accessories",
+    "identifiers": [
+      "MDY-12-EH"
+    ],
+    "aliases": [],
+    "scope": "Official Global specification model MDY-12-EH. Regional plug/package variants remain unresolved; model-name Tele2 matching does not prove exact EU SKU.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-xiaomi-67w-hypercharge-combo-type-a.json"
+  },
+  {
+    "id": "xiaomi-xiaomi-90w-hypercharge-power-adapter-3-port",
+    "brand": "Xiaomi",
+    "model": "Xiaomi 90W HyperCharge Power Adapter (3-Port)",
+    "category": "Accessories",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official Global specification model (model code not published). Regional plug/package variants remain unresolved; model-name Tele2 matching does not prove exact EU SKU.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-xiaomi-90w-hypercharge-power-adapter-3-port.json"
+  },
+  {
+    "id": "xiaomi-xiaomi-magnetic-power-bank-6000mah",
+    "brand": "Xiaomi",
+    "model": "Xiaomi Magnetic Power Bank 6000mAh",
+    "category": "Accessories",
+    "identifiers": [
+      "WPB0620MI"
+    ],
+    "aliases": [],
+    "scope": "Official Global specification model WPB0620MI. Regional plug/package variants remain unresolved; model-name Tele2 matching does not prove exact EU SKU.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-xiaomi-magnetic-power-bank-6000mah.json"
+  },
+  {
+    "id": "xiaomi-xiaomi-super-slim-magnetic-power-bank-5000",
+    "brand": "Xiaomi",
+    "model": "Xiaomi Super Slim Magnetic Power Bank 5000",
+    "category": "Accessories",
+    "identifiers": [
+      "WPB0507S"
+    ],
+    "aliases": [],
+    "scope": "Official Global specification model WPB0507S. Regional plug/package variants remain unresolved; model-name Tele2 matching does not prove exact EU SKU.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-xiaomi-super-slim-magnetic-power-bank-5000.json"
+  },
+  {
+    "id": "redmi-buds-6-manufacturer-model",
+    "brand": "Xiaomi",
+    "model": "Redmi Buds 6",
+    "category": "Earbuds",
+    "identifiers": [
+      "M2429E1"
+    ],
+    "aliases": [],
+    "scope": "Global manufacturer model; Tele2 SKU reconciliation required; no colour duplicates",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/redmi-buds-6-manufacturer-model.json"
+  },
+  {
+    "id": "redmi-buds-6-play-manufacturer-model",
+    "brand": "Xiaomi",
+    "model": "Redmi Buds 6 Play",
+    "category": "Earbuds",
+    "identifiers": [
+      "M2420E1"
+    ],
+    "aliases": [],
+    "scope": "Global manufacturer model; Tele2 SKU reconciliation required; no colour duplicates",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/redmi-buds-6-play-manufacturer-model.json"
+  },
+  {
+    "id": "redmi-buds-6-pro-manufacturer-model",
+    "brand": "Xiaomi",
+    "model": "Redmi Buds 6 Pro",
+    "category": "Earbuds",
+    "identifiers": [
+      "M2430E1"
+    ],
+    "aliases": [],
+    "scope": "Global manufacturer model; Tele2 SKU reconciliation required; no colour duplicates",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/redmi-buds-6-pro-manufacturer-model.json"
+  },
+  {
+    "id": "redmi-buds-8-lite-manufacturer-model",
+    "brand": "Xiaomi",
+    "model": "Redmi Buds 8 Lite",
+    "category": "Earbuds",
+    "identifiers": [
+      "M2539E1"
+    ],
+    "aliases": [],
+    "scope": "Global manufacturer model; Tele2 SKU reconciliation required; no colour duplicates",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/redmi-buds-8-lite-manufacturer-model.json"
+  },
+  {
+    "id": "redmi-buds-8-pro-manufacturer-model",
+    "brand": "Xiaomi",
+    "model": "Redmi Buds 8 Pro",
+    "category": "Earbuds",
+    "identifiers": [
+      "M2535E1"
+    ],
+    "aliases": [],
+    "scope": "Australia manufacturer page after global URL redirect; Tele2 SKU reconciliation required; no colour duplicates",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/redmi-buds-8-pro-manufacturer-model.json"
+  },
+  {
+    "id": "xiaomi-buds-6-manufacturer-model",
+    "brand": "Xiaomi",
+    "model": "Xiaomi Buds 6",
+    "category": "Earbuds",
+    "identifiers": [
+      "M2540E1",
+      "EC2501"
+    ],
+    "aliases": [],
+    "scope": "Global manufacturer model; Tele2 SKU reconciliation required; no colour duplicates",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-buds-6-manufacturer-model.json"
+  },
+  {
+    "id": "xiaomi-g34wqi",
+    "brand": "Xiaomi",
+    "model": "G34WQi",
+    "category": "Monitors",
+    "identifiers": [
+      "G34WQi",
+      "C34WQBA-RGGL"
+    ],
+    "aliases": [],
+    "scope": "Global exact monitor model C34WQBA-RGGL / G34WQi manufacturer reference. Latvia stocked EAN remains unmatched; source does not specify unit for dimensional values.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-g34wqi.json"
+  },
+  {
+    "id": "xiaomi-redmi-15-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "REDMI 15",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-15-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-redmi-15-5g-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "REDMI 15 5G",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-15-5g-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-redmi-15c-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "REDMI 15C",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [
+      "Redmi 15C 4G 4/128GB"
+    ],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-15c-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-redmi-15c-5g-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "REDMI 15C 5G",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-15c-5g-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-redmi-17-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "REDMI 17",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [
+      "Redmi 17 4G 128GB"
+    ],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-17-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-redmi-17-5g-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "REDMI 17 5G",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [
+      "Redmi 17 5G 128GB"
+    ],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-17-5g-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-redmi-a5-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "REDMI A5",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-a5-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-redmi-a7-pro-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "REDMI A7 Pro",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [
+      "Redmi A7 Pro 4G 64GB"
+    ],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-a7-pro-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-redmi-note-14-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "REDMI Note 14",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-note-14-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-redmi-note-14-5g-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "REDMI Note 14 5G",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-note-14-5g-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-redmi-note-14-pro-5g-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "REDMI Note 14 Pro 5G",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-note-14-pro-5g-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-redmi-note-15-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "REDMI Note 15",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [
+      "Redmi Note 15 6/128GB"
+    ],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-note-15-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-redmi-note-15-5g-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "REDMI Note 15 5G",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-note-15-5g-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-redmi-note-15-pro-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "REDMI Note 15 Pro",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-note-15-pro-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-redmi-note-15-pro-5g-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "REDMI Note 15 Pro 5G",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-note-15-pro-5g-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-redmi-note-15-pro-plus-5g-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "REDMI Note 15 Pro+ 5G",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-note-15-pro-plus-5g-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-redmi-note-17-5g-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "REDMI Note 17 5G",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [
+      "Redmi Note 17 5G 128GB"
+    ],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-note-17-5g-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-redmi-note-17-pro-5g-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "REDMI Note 17 Pro 5G",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [
+      "Redmi Note 17 Pro 5G 256GB"
+    ],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-note-17-pro-5g-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-redmi-note-17-pro-max-5g-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "REDMI Note 17 Pro Max 5G",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [
+      "Redmi Note 17 Pro Max 5G 256GB"
+    ],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-note-17-pro-max-5g-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-redmi-13-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "Redmi 13",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-13-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-redmi-a3-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "Redmi A3",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-a3-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-redmi-note-13-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 13",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-note-13-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-redmi-note-13-5g-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 13 5G",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-note-13-5g-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-redmi-note-13-pro-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 13 Pro",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-note-13-pro-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-redmi-note-13-pro-5g-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 13 Pro 5G",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-note-13-pro-5g-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-redmi-note-13-pro-plus-5g-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 13 Pro+ 5G",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-note-13-pro-plus-5g-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-redmi-note-14-pro-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 14 Pro",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-note-14-pro-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-redmi-note-14-pro-plus-5g-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 14 Pro+ 5G",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-note-14-pro-plus-5g-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-redmi-note-17-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 17",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [
+      "Redmi Note 17 4G 128GB"
+    ],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-note-17-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-xiaomi-14-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "Xiaomi 14",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-xiaomi-14-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-xiaomi-14-ultra-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "Xiaomi 14 Ultra",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-xiaomi-14-ultra-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-xiaomi-14t-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "Xiaomi 14T",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-xiaomi-14t-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-xiaomi-14t-pro-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "Xiaomi 14T Pro",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-xiaomi-14t-pro-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-xiaomi-15-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "Xiaomi 15",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-xiaomi-15-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-xiaomi-15-ultra-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "Xiaomi 15 Ultra",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-xiaomi-15-ultra-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-xiaomi-15t-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "Xiaomi 15T",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-xiaomi-15t-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-xiaomi-15t-pro-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "Xiaomi 15T Pro",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-xiaomi-15t-pro-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-xiaomi-17-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "Xiaomi 17",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [
+      "17 5G 256GB",
+      "17 5G 512GB"
+    ],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-xiaomi-17-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-xiaomi-17-ultra-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "Xiaomi 17 Ultra",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [
+      "17 Ultra 5G 512GB"
+    ],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-xiaomi-17-ultra-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-xiaomi-17t-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "Xiaomi 17T",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [
+      "17T 256GB"
+    ],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-xiaomi-17t-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-xiaomi-17t-pro-global-manufacturer-model-reference",
+    "brand": "Xiaomi",
+    "model": "Xiaomi 17T Pro",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [
+      "17T Pro 512GB"
+    ],
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-xiaomi-17t-pro-global-manufacturer-model-reference.json"
+  },
+  {
+    "id": "xiaomi-robot-vacuum-s40c-global-reference",
+    "brand": "Xiaomi",
+    "model": "Xiaomi Robot Vacuum S40C",
+    "category": "Smart home",
+    "identifiers": [
+      "E101",
+      "E101CDZ"
+    ],
+    "aliases": [],
+    "scope": "Official global English model reference; current Tele2 listing observed separately. EU mains adaptor, exact SKU and GTIN require matching. Robot and dock measurements kept separate.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-robot-vacuum-s40c-global-reference.json"
+  },
+  {
+    "id": "xiaomi-smart-air-purifier-4-lite-global-reference",
+    "brand": "Xiaomi",
+    "model": "Xiaomi Smart Air Purifier 4 Lite",
+    "category": "Smart home",
+    "identifiers": [
+      "AC-M17-SC"
+    ],
+    "aliases": [],
+    "scope": "Official global English model reference; current Tele2 listing observed separately. EU mains adaptor, exact SKU and GTIN require matching. Robot and dock measurements kept separate.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-smart-air-purifier-4-lite-global-reference.json"
+  },
+  {
+    "id": "xiaomi-smart-air-purifier-elite-global-reference",
+    "brand": "Xiaomi",
+    "model": "Xiaomi Smart Air Purifier Elite",
+    "category": "Smart home",
+    "identifiers": [
+      "Y-600"
+    ],
+    "aliases": [],
+    "scope": "Official global English model reference; current Tele2 listing observed separately. EU mains adaptor, exact SKU and GTIN require matching. Robot and dock measurements kept separate.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-smart-air-purifier-elite-global-reference.json"
+  },
+  {
+    "id": "xiaomi-smart-pet-food-feeder-2-global-reference",
+    "brand": "Xiaomi",
+    "model": "Xiaomi Smart Pet Food Feeder 2",
+    "category": "Smart home",
+    "identifiers": [
+      "XMWSQ02"
+    ],
+    "aliases": [],
+    "scope": "Official global English model reference; current Tele2 listing observed separately. EU mains adaptor, exact SKU and GTIN require matching. Robot and dock measurements kept separate.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-smart-pet-food-feeder-2-global-reference.json"
+  },
+  {
+    "id": "xiaomi-redmi-watch-4",
+    "brand": "Xiaomi",
+    "model": "Redmi Watch 4",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model-family reference. Strap/colour alternatives do not form separate products. Any NFC, LTE, ceramic or regional subvariants described remain conditional; exact Latvia SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-watch-4.json"
+  },
+  {
+    "id": "xiaomi-redmi-watch-5",
+    "brand": "Xiaomi",
+    "model": "Redmi Watch 5",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model-family reference. Strap/colour alternatives do not form separate products. Any NFC, LTE, ceramic or regional subvariants described remain conditional; exact Latvia SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-watch-5.json"
+  },
+  {
+    "id": "xiaomi-redmi-watch-5-active",
+    "brand": "Xiaomi",
+    "model": "Redmi Watch 5 Active",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model-family reference. Strap/colour alternatives do not form separate products. Any NFC, LTE, ceramic or regional subvariants described remain conditional; exact Latvia SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-watch-5-active.json"
+  },
+  {
+    "id": "xiaomi-redmi-watch-5-lite",
+    "brand": "Xiaomi",
+    "model": "Redmi Watch 5 Lite",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model-family reference. Strap/colour alternatives do not form separate products. Any NFC, LTE, ceramic or regional subvariants described remain conditional; exact Latvia SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-watch-5-lite.json"
+  },
+  {
+    "id": "xiaomi-smart-band-10",
+    "brand": "Xiaomi",
+    "model": "Smart Band 10",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model-family reference. Strap/colour alternatives do not form separate products. Any NFC, LTE, ceramic or regional subvariants described remain conditional; exact Latvia SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-smart-band-10.json"
+  },
+  {
+    "id": "xiaomi-smart-band-10-pro",
+    "brand": "Xiaomi",
+    "model": "Smart Band 10 Pro",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model-family reference. Strap/colour alternatives do not form separate products. Any NFC, LTE, ceramic or regional subvariants described remain conditional; exact Latvia SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-smart-band-10-pro.json"
+  },
+  {
+    "id": "xiaomi-smart-band-9",
+    "brand": "Xiaomi",
+    "model": "Smart Band 9",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model-family reference. Strap/colour alternatives do not form separate products. Any NFC, LTE, ceramic or regional subvariants described remain conditional; exact Latvia SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-smart-band-9.json"
+  },
+  {
+    "id": "xiaomi-smart-band-9-active",
+    "brand": "Xiaomi",
+    "model": "Smart Band 9 Active",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model-family reference. Strap/colour alternatives do not form separate products. Any NFC, LTE, ceramic or regional subvariants described remain conditional; exact Latvia SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-smart-band-9-active.json"
+  },
+  {
+    "id": "xiaomi-smart-band-9-pro",
+    "brand": "Xiaomi",
+    "model": "Smart Band 9 Pro",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model-family reference. Strap/colour alternatives do not form separate products. Any NFC, LTE, ceramic or regional subvariants described remain conditional; exact Latvia SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-smart-band-9-pro.json"
+  },
+  {
+    "id": "xiaomi-watch-2",
+    "brand": "Xiaomi",
+    "model": "Watch 2",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model-family reference. Strap/colour alternatives do not form separate products. Any NFC, LTE, ceramic or regional subvariants described remain conditional; exact Latvia SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-watch-2.json"
+  },
+  {
+    "id": "xiaomi-watch-2-pro",
+    "brand": "Xiaomi",
+    "model": "Watch 2 Pro",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model-family reference. Strap/colour alternatives do not form separate products. Any NFC, LTE, ceramic or regional subvariants described remain conditional; exact Latvia SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-watch-2-pro.json"
+  },
+  {
+    "id": "xiaomi-watch-s4",
+    "brand": "Xiaomi",
+    "model": "Watch S4",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model-family reference. Strap/colour alternatives do not form separate products. Any NFC, LTE, ceramic or regional subvariants described remain conditional; exact Latvia SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-watch-s4.json"
+  },
+  {
+    "id": "xiaomi-watch-s4-41mm",
+    "brand": "Xiaomi",
+    "model": "Watch S4 41mm",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model-family reference. Strap/colour alternatives do not form separate products. Any NFC, LTE, ceramic or regional subvariants described remain conditional; exact Latvia SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-watch-s4-41mm.json"
+  },
+  {
+    "id": "xiaomi-watch-s5-46mm",
+    "brand": "Xiaomi",
+    "model": "Watch S5 46mm",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model-family reference. Strap/colour alternatives do not form separate products. Any NFC, LTE, ceramic or regional subvariants described remain conditional; exact Latvia SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-watch-s5-46mm.json"
+  },
+  {
+    "id": "xiaomi-redmi-pad-2-4g",
+    "brand": "Xiaomi",
+    "model": "REDMI Pad 2 4G",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference. Explicit RAM/storage options remain options. Not an exact Latvia SKU; retail package and radio availability vary.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-pad-2-4g.json"
+  },
+  {
+    "id": "xiaomi-redmi-pad-2-4gb-128gb",
+    "brand": "Xiaomi",
+    "model": "REDMI Pad 2 4GB/128GB",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer reference. Exact RAM/storage pairs enumerated on specs page; Latvia identity unresolved. Standard glass only for Pad 8 Pro. Regional Wi-Fi support and accessories may vary.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-pad-2-4gb-128gb.json"
+  },
+  {
+    "id": "xiaomi-redmi-pad-2-6gb-128gb",
+    "brand": "Xiaomi",
+    "model": "REDMI Pad 2 6GB/128GB",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer reference. Exact RAM/storage pairs enumerated on specs page; Latvia identity unresolved. Standard glass only for Pad 8 Pro. Regional Wi-Fi support and accessories may vary.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-pad-2-6gb-128gb.json"
+  },
+  {
+    "id": "xiaomi-redmi-pad-2-8gb-256gb",
+    "brand": "Xiaomi",
+    "model": "REDMI Pad 2 8GB/256GB",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer reference. Exact RAM/storage pairs enumerated on specs page; Latvia identity unresolved. Standard glass only for Pad 8 Pro. Regional Wi-Fi support and accessories may vary.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-pad-2-8gb-256gb.json"
+  },
+  {
+    "id": "xiaomi-redmi-pad-2-9-7-wi-fi-model-reference",
+    "brand": "Xiaomi",
+    "model": "REDMI Pad 2 9.7 (Wi-Fi model reference)",
+    "category": "Tablets",
+    "identifiers": [
+      "6932554410421"
+    ],
+    "aliases": [],
+    "scope": "Global manufacturer model reference. Explicit RAM/storage options remain options. Not an exact Latvia SKU; retail package and radio availability vary. Tele2 observed 128GB listing; source row retains manufacturer family options, Latvia RAM/MPN unresolved. Tele2 barcode 6932554410421 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-pad-2-9-7-wi-fi-model-reference.json"
+  },
+  {
+    "id": "xiaomi-redmi-pad-2-9-7-4g-model-reference",
+    "brand": "Xiaomi",
+    "model": "REDMI Pad 2 9.7 4G (model reference)",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference. Explicit RAM/storage options remain options. Not an exact Latvia SKU; retail package and radio availability vary.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-pad-2-9-7-4g-model-reference.json"
+  },
+  {
+    "id": "xiaomi-redmi-pad-2-pro-5g-6gb-128gb",
+    "brand": "Xiaomi",
+    "model": "REDMI Pad 2 Pro 5G 6GB/128GB",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer reference. Exact RAM/storage pairs enumerated on specs page; Latvia identity unresolved. Standard glass only for Pad 8 Pro. Regional Wi-Fi support and accessories may vary.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-pad-2-pro-5g-6gb-128gb.json"
+  },
+  {
+    "id": "xiaomi-redmi-pad-2-pro-5g-8gb-256gb",
+    "brand": "Xiaomi",
+    "model": "REDMI Pad 2 Pro 5G 8GB/256GB",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer reference. Exact RAM/storage pairs enumerated on specs page; Latvia identity unresolved. Standard glass only for Pad 8 Pro. Regional Wi-Fi support and accessories may vary.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-pad-2-pro-5g-8gb-256gb.json"
+  },
+  {
+    "id": "xiaomi-redmi-pad-2-pro-6gb-128gb",
+    "brand": "Xiaomi",
+    "model": "REDMI Pad 2 Pro 6GB/128GB",
+    "category": "Tablets",
+    "identifiers": [
+      "6932554463670"
+    ],
+    "aliases": [],
+    "scope": "Global manufacturer reference. Exact RAM/storage pairs enumerated on specs page; Latvia identity unresolved. Standard glass only for Pad 8 Pro. Regional Wi-Fi support and accessories may vary. Tele2 barcode 6932554463670 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-pad-2-pro-6gb-128gb.json"
+  },
+  {
+    "id": "xiaomi-redmi-pad-2-pro-8gb-256gb",
+    "brand": "Xiaomi",
+    "model": "REDMI Pad 2 Pro 8GB/256GB",
+    "category": "Tablets",
+    "identifiers": [
+      "6932554463786"
+    ],
+    "aliases": [],
+    "scope": "Global manufacturer reference. Exact RAM/storage pairs enumerated on specs page; Latvia identity unresolved. Standard glass only for Pad 8 Pro. Regional Wi-Fi support and accessories may vary. Tele2 barcode 6932554463786 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-pad-2-pro-8gb-256gb.json"
+  },
+  {
+    "id": "xiaomi-redmi-pad-pro",
+    "brand": "Xiaomi",
+    "model": "Redmi Pad Pro",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference. Explicit RAM/storage options remain options. Not an exact Latvia SKU; retail package and radio availability vary.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-pad-pro.json"
+  },
+  {
+    "id": "xiaomi-redmi-pad-pro-5g",
+    "brand": "Xiaomi",
+    "model": "Redmi Pad Pro 5G",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference. Explicit RAM/storage options remain options. Not an exact Latvia SKU; retail package and radio availability vary.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-pad-pro-5g.json"
+  },
+  {
+    "id": "xiaomi-redmi-pad-se",
+    "brand": "Xiaomi",
+    "model": "Redmi Pad SE",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference. Explicit RAM/storage options remain options. Not an exact Latvia SKU; retail package and radio availability vary.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-pad-se.json"
+  },
+  {
+    "id": "xiaomi-xiaomi-pad-7",
+    "brand": "Xiaomi",
+    "model": "Xiaomi Pad 7",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference. Explicit RAM/storage options remain options. Not an exact Latvia SKU; retail package and radio availability vary.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-xiaomi-pad-7.json"
+  },
+  {
+    "id": "xiaomi-xiaomi-pad-7-pro",
+    "brand": "Xiaomi",
+    "model": "Xiaomi Pad 7 Pro",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference. Explicit RAM/storage options remain options. Not an exact Latvia SKU; retail package and radio availability vary.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-xiaomi-pad-7-pro.json"
+  },
+  {
+    "id": "xiaomi-xiaomi-pad-8-12gb-512gb",
+    "brand": "Xiaomi",
+    "model": "Xiaomi Pad 8 12GB/512GB",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer reference. Exact RAM/storage pairs enumerated on specs page; Latvia identity unresolved. Standard glass only for Pad 8 Pro. Regional Wi-Fi support and accessories may vary.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-xiaomi-pad-8-12gb-512gb.json"
+  },
+  {
+    "id": "xiaomi-xiaomi-pad-8-8gb-128gb",
+    "brand": "Xiaomi",
+    "model": "Xiaomi Pad 8 8GB/128GB",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer reference. Exact RAM/storage pairs enumerated on specs page; Latvia identity unresolved. Standard glass only for Pad 8 Pro. Regional Wi-Fi support and accessories may vary.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-xiaomi-pad-8-8gb-128gb.json"
+  },
+  {
+    "id": "xiaomi-xiaomi-pad-8-8gb-256gb",
+    "brand": "Xiaomi",
+    "model": "Xiaomi Pad 8 8GB/256GB",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer reference. Exact RAM/storage pairs enumerated on specs page; Latvia identity unresolved. Standard glass only for Pad 8 Pro. Regional Wi-Fi support and accessories may vary.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-xiaomi-pad-8-8gb-256gb.json"
+  },
+  {
+    "id": "xiaomi-xiaomi-pad-8-pro-12gb-512gb",
+    "brand": "Xiaomi",
+    "model": "Xiaomi Pad 8 Pro 12GB/512GB",
+    "category": "Tablets",
+    "identifiers": [
+      "6932554476458"
+    ],
+    "aliases": [],
+    "scope": "Global manufacturer reference. Exact RAM/storage pairs enumerated on specs page; Latvia identity unresolved. Standard glass only for Pad 8 Pro. Regional Wi-Fi support and accessories may vary. Tele2 barcode 6932554476458 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-xiaomi-pad-8-pro-12gb-512gb.json"
+  },
+  {
+    "id": "xiaomi-xiaomi-pad-8-pro-8gb-128gb",
+    "brand": "Xiaomi",
+    "model": "Xiaomi Pad 8 Pro 8GB/128GB",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer reference. Exact RAM/storage pairs enumerated on specs page; Latvia identity unresolved. Standard glass only for Pad 8 Pro. Regional Wi-Fi support and accessories may vary.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-xiaomi-pad-8-pro-8gb-128gb.json"
+  },
+  {
+    "id": "xiaomi-xiaomi-pad-8-pro-8gb-256gb",
+    "brand": "Xiaomi",
+    "model": "Xiaomi Pad 8 Pro 8GB/256GB",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer reference. Exact RAM/storage pairs enumerated on specs page; Latvia identity unresolved. Standard glass only for Pad 8 Pro. Regional Wi-Fi support and accessories may vary.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-xiaomi-pad-8-pro-8gb-256gb.json"
+  },
+  {
+    "id": "xiaomi-tv-a-32-2025",
+    "brand": "Xiaomi",
+    "model": "Xiaomi TV A 32 2025",
+    "category": "Televisions",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Exact marketed screen-size reference on Xiaomi Global. Regional MPN/GTIN and Latvia SKU unresolved; no EU availability assertion.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-tv-a-32-2025.json"
+  },
+  {
+    "id": "xiaomi-tv-a-32-2026",
+    "brand": "Xiaomi",
+    "model": "Xiaomi TV A 32 2026",
+    "category": "Televisions",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Exact marketed screen-size reference on Xiaomi Global. Regional MPN/GTIN and Latvia SKU unresolved; no EU availability assertion.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-tv-a-32-2026.json"
+  },
+  {
+    "id": "xiaomi-tv-a-43-2026",
+    "brand": "Xiaomi",
+    "model": "Xiaomi TV A 43 2026",
+    "category": "Televisions",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Exact marketed screen-size reference on Xiaomi Global. Regional MPN/GTIN and Latvia SKU unresolved; no EU availability assertion.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-tv-a-43-2026.json"
+  },
+  {
+    "id": "xiaomi-tv-a-43-fhd-2026",
+    "brand": "Xiaomi",
+    "model": "Xiaomi TV A 43 FHD 2026",
+    "category": "Televisions",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Exact marketed screen-size reference on Xiaomi Global. Regional MPN/GTIN and Latvia SKU unresolved; no EU availability assertion.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-tv-a-43-fhd-2026.json"
+  },
+  {
+    "id": "xiaomi-tv-a-50-2026",
+    "brand": "Xiaomi",
+    "model": "Xiaomi TV A 50 2026",
+    "category": "Televisions",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Exact marketed screen-size reference on Xiaomi Global. Regional MPN/GTIN and Latvia SKU unresolved; no EU availability assertion.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-tv-a-50-2026.json"
+  },
+  {
+    "id": "xiaomi-tv-a-55-2025",
+    "brand": "Xiaomi",
+    "model": "Xiaomi TV A 55 2025",
+    "category": "Televisions",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Exact marketed screen-size reference on Xiaomi Global. Regional MPN/GTIN and Latvia SKU unresolved; no EU availability assertion.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-tv-a-55-2025.json"
+  },
+  {
+    "id": "xiaomi-tv-a-55-2026",
+    "brand": "Xiaomi",
+    "model": "Xiaomi TV A 55 2026",
+    "category": "Televisions",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Exact marketed screen-size reference on Xiaomi Global. Regional MPN/GTIN and Latvia SKU unresolved; no EU availability assertion.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-tv-a-55-2026.json"
+  },
+  {
+    "id": "xiaomi-tv-a-65-2026",
+    "brand": "Xiaomi",
+    "model": "Xiaomi TV A 65 2026",
+    "category": "Televisions",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Exact marketed screen-size reference on Xiaomi Global. Regional MPN/GTIN and Latvia SKU unresolved; no EU availability assertion.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-tv-a-65-2026.json"
+  },
+  {
+    "id": "xiaomi-tv-a-pro-43-2025",
+    "brand": "Xiaomi",
+    "model": "Xiaomi TV A Pro 43 2025",
+    "category": "Televisions",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Exact marketed screen-size reference on Xiaomi Global. Regional MPN/GTIN and Latvia SKU unresolved; no EU availability assertion.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-tv-a-pro-43-2025.json"
+  },
+  {
+    "id": "xiaomi-tv-a-pro-43-2026",
+    "brand": "Xiaomi",
+    "model": "Xiaomi TV A Pro 43 2026",
+    "category": "Televisions",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Exact marketed screen-size reference on Xiaomi Global. Regional MPN/GTIN and Latvia SKU unresolved; no EU availability assertion.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-tv-a-pro-43-2026.json"
+  },
+  {
+    "id": "xiaomi-tv-a-pro-50-2026",
+    "brand": "Xiaomi",
+    "model": "Xiaomi TV A Pro 50 2026",
+    "category": "Televisions",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Exact marketed screen-size reference on Xiaomi Global. Regional MPN/GTIN and Latvia SKU unresolved; no EU availability assertion.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-tv-a-pro-50-2026.json"
+  },
+  {
+    "id": "xiaomi-tv-a-pro-55-2025",
+    "brand": "Xiaomi",
+    "model": "Xiaomi TV A Pro 55 2025",
+    "category": "Televisions",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Exact marketed screen-size reference on Xiaomi Global. Regional MPN/GTIN and Latvia SKU unresolved; no EU availability assertion.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-tv-a-pro-55-2025.json"
+  },
+  {
+    "id": "xiaomi-tv-a-pro-55-2026",
+    "brand": "Xiaomi",
+    "model": "Xiaomi TV A Pro 55 2026",
+    "category": "Televisions",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Exact marketed screen-size reference on Xiaomi Global. Regional MPN/GTIN and Latvia SKU unresolved; no EU availability assertion.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-tv-a-pro-55-2026.json"
+  },
+  {
+    "id": "xiaomi-tv-a-pro-65-2025",
+    "brand": "Xiaomi",
+    "model": "Xiaomi TV A Pro 65 2025",
+    "category": "Televisions",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Exact marketed screen-size reference on Xiaomi Global. Regional MPN/GTIN and Latvia SKU unresolved; no EU availability assertion.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-tv-a-pro-65-2025.json"
+  },
+  {
+    "id": "xiaomi-tv-a-pro-65-2026",
+    "brand": "Xiaomi",
+    "model": "Xiaomi TV A Pro 65 2026",
+    "category": "Televisions",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Exact marketed screen-size reference on Xiaomi Global. Regional MPN/GTIN and Latvia SKU unresolved; no EU availability assertion.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-tv-a-pro-65-2026.json"
+  },
+  {
+    "id": "xiaomi-tv-a-pro-75-2025",
+    "brand": "Xiaomi",
+    "model": "Xiaomi TV A Pro 75 2025",
+    "category": "Televisions",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Exact marketed screen-size reference on Xiaomi Global. Regional MPN/GTIN and Latvia SKU unresolved; no EU availability assertion.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-tv-a-pro-75-2025.json"
+  },
+  {
+    "id": "xiaomi-tv-a-pro-75-2026",
+    "brand": "Xiaomi",
+    "model": "Xiaomi TV A Pro 75 2026",
+    "category": "Televisions",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Exact marketed screen-size reference on Xiaomi Global. Regional MPN/GTIN and Latvia SKU unresolved; no EU availability assertion.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-tv-a-pro-75-2026.json"
+  },
+  {
+    "id": "xiaomi-tv-f-32-2026",
+    "brand": "Xiaomi",
+    "model": "Xiaomi TV F 32 2026",
+    "category": "Televisions",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Exact marketed screen-size reference on Xiaomi Global. Regional MPN/GTIN and Latvia SKU unresolved; no EU availability assertion.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-tv-f-32-2026.json"
+  },
+  {
+    "id": "xiaomi-tv-f-43-2026",
+    "brand": "Xiaomi",
+    "model": "Xiaomi TV F 43 2026",
+    "category": "Televisions",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Exact marketed screen-size reference on Xiaomi Global. Regional MPN/GTIN and Latvia SKU unresolved; no EU availability assertion.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-tv-f-43-2026.json"
+  },
+  {
+    "id": "xiaomi-tv-f-50-2026",
+    "brand": "Xiaomi",
+    "model": "Xiaomi TV F 50 2026",
+    "category": "Televisions",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Exact marketed screen-size reference on Xiaomi Global. Regional MPN/GTIN and Latvia SKU unresolved; no EU availability assertion.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-tv-f-50-2026.json"
+  },
+  {
+    "id": "xiaomi-tv-f-55-2026",
+    "brand": "Xiaomi",
+    "model": "Xiaomi TV F 55 2026",
+    "category": "Televisions",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Exact marketed screen-size reference on Xiaomi Global. Regional MPN/GTIN and Latvia SKU unresolved; no EU availability assertion.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-tv-f-55-2026.json"
+  },
+  {
+    "id": "xiaomi-tv-f-65-2026",
+    "brand": "Xiaomi",
+    "model": "Xiaomi TV F 65 2026",
+    "category": "Televisions",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Exact marketed screen-size reference on Xiaomi Global. Regional MPN/GTIN and Latvia SKU unresolved; no EU availability assertion.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-tv-f-65-2026.json"
+  },
+  {
+    "id": "xiaomi-tv-f-pro-43-2026",
+    "brand": "Xiaomi",
+    "model": "Xiaomi TV F Pro 43 2026",
+    "category": "Televisions",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Exact marketed screen-size reference on Xiaomi Global. Regional MPN/GTIN and Latvia SKU unresolved; no EU availability assertion.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-tv-f-pro-43-2026.json"
+  },
+  {
+    "id": "xiaomi-tv-f-pro-50-2026",
+    "brand": "Xiaomi",
+    "model": "Xiaomi TV F Pro 50 2026",
+    "category": "Televisions",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Exact marketed screen-size reference on Xiaomi Global. Regional MPN/GTIN and Latvia SKU unresolved; no EU availability assertion.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-tv-f-pro-50-2026.json"
+  },
+  {
+    "id": "xiaomi-tv-f-pro-55-2026",
+    "brand": "Xiaomi",
+    "model": "Xiaomi TV F Pro 55 2026",
+    "category": "Televisions",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Exact marketed screen-size reference on Xiaomi Global. Regional MPN/GTIN and Latvia SKU unresolved; no EU availability assertion.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-tv-f-pro-55-2026.json"
+  },
+  {
+    "id": "xiaomi-tv-f-pro-65-2026",
+    "brand": "Xiaomi",
+    "model": "Xiaomi TV F Pro 65 2026",
+    "category": "Televisions",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Exact marketed screen-size reference on Xiaomi Global. Regional MPN/GTIN and Latvia SKU unresolved; no EU availability assertion.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-tv-f-pro-65-2026.json"
+  },
+  {
+    "id": "xiaomi-tv-s-mini-led-55-2025",
+    "brand": "Xiaomi",
+    "model": "Xiaomi TV S Mini LED 55 2025",
+    "category": "Televisions",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Exact marketed screen-size reference on Xiaomi Global. Regional MPN/GTIN and Latvia SKU unresolved; no EU availability assertion.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-tv-s-mini-led-55-2025.json"
+  },
+  {
+    "id": "xiaomi-tv-s-mini-led-55-2026",
+    "brand": "Xiaomi",
+    "model": "Xiaomi TV S Mini LED 55 2026",
+    "category": "Televisions",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Exact marketed screen-size reference on Xiaomi Global. Regional MPN/GTIN and Latvia SKU unresolved; no EU availability assertion.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-tv-s-mini-led-55-2026.json"
+  },
+  {
+    "id": "xiaomi-tv-s-mini-led-65-2025",
+    "brand": "Xiaomi",
+    "model": "Xiaomi TV S Mini LED 65 2025",
+    "category": "Televisions",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Exact marketed screen-size reference on Xiaomi Global. Regional MPN/GTIN and Latvia SKU unresolved; no EU availability assertion.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-tv-s-mini-led-65-2025.json"
+  },
+  {
+    "id": "xiaomi-tv-s-mini-led-75-2025",
+    "brand": "Xiaomi",
+    "model": "Xiaomi TV S Mini LED 75 2025",
+    "category": "Televisions",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Exact marketed screen-size reference on Xiaomi Global. Regional MPN/GTIN and Latvia SKU unresolved; no EU availability assertion.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-tv-s-mini-led-75-2025.json"
+  },
+  {
+    "id": "xiaomi-tv-s-mini-led-75-2026",
+    "brand": "Xiaomi",
+    "model": "Xiaomi TV S Mini LED 75 2026",
+    "category": "Televisions",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Exact marketed screen-size reference on Xiaomi Global. Regional MPN/GTIN and Latvia SKU unresolved; no EU availability assertion.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-tv-s-mini-led-75-2026.json"
+  },
+  {
+    "id": "xiaomi-tv-s-mini-led-85-2026",
+    "brand": "Xiaomi",
+    "model": "Xiaomi TV S Mini LED 85 2026",
+    "category": "Televisions",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Exact marketed screen-size reference on Xiaomi Global. Regional MPN/GTIN and Latvia SKU unresolved; no EU availability assertion.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-tv-s-mini-led-85-2026.json"
+  },
+  {
+    "id": "xiaomi-tv-s-pro-mini-led-55-2026",
+    "brand": "Xiaomi",
+    "model": "Xiaomi TV S Pro Mini LED 55 2026",
+    "category": "Televisions",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Exact marketed screen-size reference on Xiaomi Global. Regional MPN/GTIN and Latvia SKU unresolved; no EU availability assertion.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-tv-s-pro-mini-led-55-2026.json"
+  }
+]
