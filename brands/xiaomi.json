@@ -354,7 +354,7 @@
     "aliases": [
       "Redmi Note 17 5G 128GB"
     ],
-    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim Requested Black colour and memory pair checked as separate manufacturer-listed options; exact combined colour/Latvia SKU not established. User screenshot says 126GB: manufacturer lists 128GB, not 126GB. Do not silently normalize the request.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-note-17-5g-global-manufacturer-model-reference.json"
   },
   {
@@ -366,7 +366,7 @@
     "aliases": [
       "Redmi Note 17 4G 128GB"
     ],
-    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim Requested Black colour and memory pair checked as separate manufacturer-listed options; exact combined colour/Latvia SKU not established.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-note-17-global-manufacturer-model-reference.json"
   },
   {
@@ -378,7 +378,7 @@
     "aliases": [
       "Redmi Note 17 Pro 5G 256GB"
     ],
-    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim Requested Black colour and memory pair checked as separate manufacturer-listed options; exact combined colour/Latvia SKU not established.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-note-17-pro-5g-global-manufacturer-model-reference.json"
   },
   {
@@ -390,7 +390,7 @@
     "aliases": [
       "Redmi Note 17 Pro Max 5G 256GB"
     ],
-    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim Requested Black colour and memory pair checked as separate manufacturer-listed options; exact combined colour/Latvia SKU not established.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-note-17-pro-max-5g-global-manufacturer-model-reference.json"
   },
   {
@@ -472,7 +472,7 @@
     "category": "Tablets",
     "identifiers": [],
     "aliases": [],
-    "scope": "Global manufacturer reference. Exact RAM/storage pairs enumerated on specs page; Latvia identity unresolved. Standard glass only for Pad 8 Pro. Regional Wi-Fi support and accessories may vary.",
+    "scope": "Global manufacturer reference. Exact RAM/storage pairs enumerated on specs page; Latvia identity unresolved. Standard glass only for Pad 8 Pro. Regional Wi-Fi support and accessories may vary. Requested colour and memory pair verified as manufacturer options, not a joint colour/Latvia SKU match.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-pad-2-pro-5g-8gb-256gb.json"
   },
   {
@@ -496,7 +496,7 @@
       "6932554463786"
     ],
     "aliases": [],
-    "scope": "Global manufacturer reference. Exact RAM/storage pairs enumerated on specs page; Latvia identity unresolved. Standard glass only for Pad 8 Pro. Regional Wi-Fi support and accessories may vary. Tele2 barcode 6932554463786 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
+    "scope": "Global manufacturer reference. Exact RAM/storage pairs enumerated on specs page; Latvia identity unresolved. Standard glass only for Pad 8 Pro. Regional Wi-Fi support and accessories may vary. Tele2 barcode 6932554463786 is only the rendered default colour variant; UK/reference MPN may differ by region and colour. Requested colour and memory pair verified as manufacturer options, not a joint colour/Latvia SKU match.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-pad-2-pro-8gb-256gb.json"
   },
   {
@@ -555,8 +555,10 @@
     "model": "Redmi Watch 5 Lite",
     "category": "Smartwatches",
     "identifiers": [],
-    "aliases": [],
-    "scope": "Global manufacturer model-family reference. Strap/colour alternatives do not form separate products. Any NFC, LTE, ceramic or regional subvariants described remain conditional; exact Latvia SKU unresolved.",
+    "aliases": [
+      "Xiaomi Redmi Watch 5 Lite"
+    ],
+    "scope": "Global manufacturer model-family reference. Strap/colour alternatives do not form separate products. Any NFC, LTE, ceramic or regional subvariants described remain conditional; exact Latvia SKU unresolved. Requested colour/name alias verified where documented; this remains a model reference, not proof of Latvia MPN/GTIN. Variant-dependent specifications carry explicit conditions.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-watch-5-lite.json"
   },
   {
@@ -1024,8 +1026,10 @@
     "model": "Watch S4 41mm",
     "category": "Smartwatches",
     "identifiers": [],
-    "aliases": [],
-    "scope": "Global manufacturer model-family reference. Strap/colour alternatives do not form separate products. Any NFC, LTE, ceramic or regional subvariants described remain conditional; exact Latvia SKU unresolved.",
+    "aliases": [
+      "Xiaomi Watch S4 41mm Milanese Sunset Gold"
+    ],
+    "scope": "Global manufacturer model-family reference. Strap/colour alternatives do not form separate products. Any NFC, LTE, ceramic or regional subvariants described remain conditional; exact Latvia SKU unresolved. Requested colour/name alias verified where documented; this remains a model reference, not proof of Latvia MPN/GTIN. Variant-dependent specifications carry explicit conditions.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-watch-s4-41mm.json"
   },
   {
@@ -1304,7 +1308,7 @@
     "category": "Tablets",
     "identifiers": [],
     "aliases": [],
-    "scope": "Global manufacturer reference. Exact RAM/storage pairs enumerated on specs page; Latvia identity unresolved. Standard glass only for Pad 8 Pro. Regional Wi-Fi support and accessories may vary.",
+    "scope": "Global manufacturer reference. Exact RAM/storage pairs enumerated on specs page; Latvia identity unresolved. Standard glass only for Pad 8 Pro. Regional Wi-Fi support and accessories may vary. Requested colour and memory pair verified as manufacturer options, not a joint colour/Latvia SKU match.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-xiaomi-pad-8-8gb-256gb.json"
   },
   {
@@ -1316,7 +1320,7 @@
       "6932554476458"
     ],
     "aliases": [],
-    "scope": "Global manufacturer reference. Exact RAM/storage pairs enumerated on specs page; Latvia identity unresolved. Standard glass only for Pad 8 Pro. Regional Wi-Fi support and accessories may vary. Tele2 barcode 6932554476458 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
+    "scope": "Global manufacturer reference. Exact RAM/storage pairs enumerated on specs page; Latvia identity unresolved. Standard glass only for Pad 8 Pro. Regional Wi-Fi support and accessories may vary. Tele2 barcode 6932554476458 is only the rendered default colour variant; UK/reference MPN may differ by region and colour. Requested colour and memory pair verified as manufacturer options, not a joint colour/Latvia SKU match.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-xiaomi-pad-8-pro-12gb-512gb.json"
   },
   {

@@ -15,8 +15,10 @@
     "model": "Powerbeats Pro 2",
     "category": "Earbuds",
     "identifiers": [],
-    "aliases": [],
-    "scope": "Official manufacturer reference; USA/global page, Latvia SKU matching required",
+    "aliases": [
+      "Beats Powerbeats Pro 2 Jet Black"
+    ],
+    "scope": "Official manufacturer reference; USA/global page, Latvia SKU matching required Requested colour/name alias verified where documented; this remains a model reference, not proof of Latvia MPN/GTIN. Variant-dependent specifications carry explicit conditions.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/beats-powerbeats-pro-2-manufacturer-model.json"
   },
   {
@@ -25,8 +27,10 @@
     "model": "Solo 4",
     "category": "Headphones",
     "identifiers": [],
-    "aliases": [],
-    "scope": "Official manufacturer reference; USA/global page, Latvia SKU matching required",
+    "aliases": [
+      "Beats Solo 4 Matte Black"
+    ],
+    "scope": "Official manufacturer reference; USA/global page, Latvia SKU matching required Requested colour/name alias verified where documented; this remains a model reference, not proof of Latvia MPN/GTIN. Variant-dependent specifications carry explicit conditions.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/beats-solo-4-manufacturer-model.json"
   },
   {
@@ -35,8 +39,10 @@
     "model": "Studio Buds +",
     "category": "Earbuds",
     "identifiers": [],
-    "aliases": [],
-    "scope": "Official manufacturer reference; USA/global page, Latvia SKU matching required",
+    "aliases": [
+      "Beats Studio Buds+ Black/Gold"
+    ],
+    "scope": "Official manufacturer reference; USA/global page, Latvia SKU matching required Requested colour/name alias verified where documented; this remains a model reference, not proof of Latvia MPN/GTIN. Variant-dependent specifications carry explicit conditions.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/beats-studio-buds-manufacturer-model.json"
   },
   {

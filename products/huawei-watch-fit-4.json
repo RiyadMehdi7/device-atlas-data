@@ -3,9 +3,11 @@
   "brand": "Huawei",
   "model": "WATCH FIT 4",
   "category": "Smartwatches",
-  "scope": "Global manufacturer WATCH FIT 4 reference. Only values assigned to this size column or common model sections included. Battery is manufacturer lab claim; regional services and exact Latvia SKU unresolved.",
+  "scope": "Global manufacturer WATCH FIT 4 reference. Only values assigned to this size column or common model sections included. Battery is manufacturer lab claim; regional services and exact Latvia SKU unresolved. Requested colour/name alias verified where documented; this remains a model reference, not proof of Latvia MPN/GTIN. Variant-dependent specifications carry explicit conditions.",
   "identifiers": [],
-  "aliases": [],
+  "aliases": [
+    "Huawei Watch Fit 4"
+  ],
   "checked_at": "2026-10-14",
   "status": "Manufacturer source checked; Latvia SKU needs matching",
   "source_name": "Huawei WATCH FIT 4 specifications",
@@ -17,97 +19,241 @@
       "label": "Dimensions",
       "value": "43.0 × 38.0 × 9.5 mm",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://consumer.huawei.com/en/wearables/watch-fit4/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Wrist Size",
       "value": "120-190 mm | 130-210 mm",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://consumer.huawei.com/en/wearables/watch-fit4/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Weight",
       "value": "Pink, Grey, White, Purple, Black | Approximately 27 g (without the strap)",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://consumer.huawei.com/en/wearables/watch-fit4/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Display",
       "value": "1.82 inch AMOLED | 480 × 408 pixels, PPI 347 | 2000-nit Peak Brightness",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://consumer.huawei.com/en/wearables/watch-fit4/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Watch Case",
       "value": "Material | Aluminum alloy",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://consumer.huawei.com/en/wearables/watch-fit4/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Sensors",
       "value": "Accelerometer sensor | Gyroscope sensor | Magnetometer sensor | Ambient light sensor | Optical heart rate sensor | Barometer sensor",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://consumer.huawei.com/en/wearables/watch-fit4/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Button",
       "value": "Home Button (Rotating Crown) and Side Button",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://consumer.huawei.com/en/wearables/watch-fit4/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Charging Port",
       "value": "Wireless charging",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://consumer.huawei.com/en/wearables/watch-fit4/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "System Requirements",
       "value": "Android 8.0 or later | iOS 13.0 or later",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://consumer.huawei.com/en/wearables/watch-fit4/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Waterproof Level",
       "value": "5 ATM water-resistant | The product can be worn during shallow water activities such as swimming in a pool or along the coast. After wearing the device in water activities, clean and dry it promptly, remove the water stains from the product surfaces and all holes, and use the device's drainage feature to avoid negative impact on device performance. |",
       "unit": "",
-      "condition": ""
-    },
-    {
-      "label": "Connectivity",
-      "value": "Supported | 2.4 GHz, supports BT5.2 and BR + BLE | L1: GPS + GLONASS + GALILEO + BDS + QZSS | L5: GPS + GALILEO + BDS +QZSS",
-      "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://consumer.huawei.com/en/wearables/watch-fit4/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Speaker",
       "value": "Supported",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://consumer.huawei.com/en/wearables/watch-fit4/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Microphone",
       "value": "Supported",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://consumer.huawei.com/en/wearables/watch-fit4/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Environment",
       "value": "–20°C to +45°C",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://consumer.huawei.com/en/wearables/watch-fit4/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Charging",
       "value": "5V-9V DC/2A",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://consumer.huawei.com/en/wearables/watch-fit4/specs/",
+      "checked_at": "2026-10-14"
     },
     {
-      "label": "Battery Life",
-      "value": "factory default settings, Bluetooth call 30 minutes/week, music playback 30 minutes/week, heart rate always on, science sleep at night, average weekly exercise 90 minutes, and message notification enabled (50 messages, 6 calls, 3 alarms per day) 2. Turn on the screen 200 times a day.",
+      "label": "Maximum battery life",
+      "value": "Up to 10 days",
       "unit": "",
-      "condition": "Manufacturer specification; battery values are laboratory claims, actual use varies"
+      "condition": "Huawei laboratory profile; 90 minutes weekly exercise; actual runtime varies",
+      "source_url": "https://consumer.huawei.com/en/wearables/watch-fit4/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Typical battery life",
+      "value": "Up to 7 days",
+      "unit": "",
+      "condition": "Huawei laboratory typical profile; 180 minutes weekly exercise; actual runtime varies",
+      "source_url": "https://consumer.huawei.com/en/wearables/watch-fit4/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "AOD battery life",
+      "value": "Up to 4 days",
+      "unit": "",
+      "condition": "Always-on display enabled; Huawei laboratory profile",
+      "source_url": "https://consumer.huawei.com/en/wearables/watch-fit4/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "NFC",
+      "value": "Supported on Grey version only",
+      "unit": "",
+      "condition": "Manufacturer explicitly limits NFC to Grey; payment availability regional",
+      "source_url": "https://consumer.huawei.com/en/wearables/watch-fit4/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Grey strap",
+      "value": "Nylon",
+      "unit": "",
+      "condition": "Not recommended for swimming or sweat",
+      "source_url": "https://consumer.huawei.com/en/wearables/watch-fit4/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Pink / Purple / White / Black straps",
+      "value": "Fluoroelastomer",
+      "unit": "",
+      "condition": "Colour-specific manufacturer options",
+      "source_url": "https://consumer.huawei.com/en/wearables/watch-fit4/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Pink / Purple wrist circumference",
+      "value": "120–190 mm",
+      "unit": "",
+      "condition": "Only those colours",
+      "source_url": "https://consumer.huawei.com/en/wearables/watch-fit4/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Grey / White / Black wrist circumference",
+      "value": "130–210 mm",
+      "unit": "",
+      "condition": "Only those colours",
+      "source_url": "https://consumer.huawei.com/en/wearables/watch-fit4/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display diagonal",
+      "value": "1.82 inches",
+      "unit": "",
+      "condition": "",
+      "source_url": "https://consumer.huawei.com/en/wearables/watch-fit4/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display resolution",
+      "value": "480 x 408 pixels",
+      "unit": "",
+      "condition": "",
+      "source_url": "https://consumer.huawei.com/en/wearables/watch-fit4/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display pixel density",
+      "value": "347 ppi",
+      "unit": "",
+      "condition": "",
+      "source_url": "https://consumer.huawei.com/en/wearables/watch-fit4/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display peak brightness",
+      "value": "2000 nits",
+      "unit": "",
+      "condition": "Lab peak; lighting/content affect brightness",
+      "source_url": "https://consumer.huawei.com/en/wearables/watch-fit4/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "5.2 BR + BLE; 2.4 GHz",
+      "unit": "",
+      "condition": "",
+      "source_url": "https://consumer.huawei.com/en/wearables/watch-fit4/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "GNSS L1",
+      "value": "GPS, GLONASS, Galileo, BDS, QZSS",
+      "unit": "",
+      "condition": "",
+      "source_url": "https://consumer.huawei.com/en/wearables/watch-fit4/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "GNSS L5",
+      "value": "GPS, Galileo, BDS, QZSS",
+      "unit": "",
+      "condition": "",
+      "source_url": "https://consumer.huawei.com/en/wearables/watch-fit4/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Package contents",
+      "value": "Watch; charging cradle with cable; documentation",
+      "unit": "",
+      "condition": "Manufacturer package; regional contents may vary",
+      "source_url": "https://consumer.huawei.com/en/wearables/watch-fit4/specs/",
+      "checked_at": "2026-10-14"
     }
   ],
   "missing_fields": [
@@ -120,7 +266,13 @@
       "fetched_at": "2026-10-14",
       "method": "HTTP fetch",
       "notes": "Manufacturer technical specification content parsed; extracted factual fields only"
+    },
+    {
+      "url": "https://consumer.huawei.com/en/wearables/watch-fit4/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "OpenAI web open",
+      "notes": "Official specifications reread for enrichment; existing supported facts retained"
     }
   ],
-  "research_lane": "wearables"
+  "research_lane": "review-audio-watch"
 }

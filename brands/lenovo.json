@@ -125,7 +125,9 @@
     "model": "Idea Tab Plus",
     "category": "Tablets",
     "identifiers": [],
-    "aliases": [],
+    "aliases": [
+      "IdeaTab Plus"
+    ],
     "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-idea-tab-plus.json"
   },
@@ -135,7 +137,9 @@
     "model": "Idea Tab Pro Gen 2",
     "category": "Tablets",
     "identifiers": [],
-    "aliases": [],
+    "aliases": [
+      "IdeaTab Pro Gen 2"
+    ],
     "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-idea-tab-pro-gen-2.json"
   },
@@ -155,7 +159,9 @@
     "model": "Idea Tab",
     "category": "Tablets",
     "identifiers": [],
-    "aliases": [],
+    "aliases": [
+      "IdeaTab"
+    ],
     "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-idea-tab.json"
   },
@@ -499,7 +505,9 @@
     "model": "Tab One",
     "category": "Tablets",
     "identifiers": [],
-    "aliases": [],
+    "aliases": [
+      "Tab One"
+    ],
     "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-tab-one.json"
   },
@@ -1087,7 +1095,9 @@
     "model": "Yoga Tab",
     "category": "Tablets",
     "identifiers": [],
-    "aliases": [],
+    "aliases": [
+      "Yoga Tab"
+    ],
     "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-yoga-tab.json"
   }

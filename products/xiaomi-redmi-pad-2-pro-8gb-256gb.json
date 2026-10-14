@@ -3,7 +3,7 @@
   "brand": "Xiaomi",
   "model": "REDMI Pad 2 Pro 8GB/256GB",
   "category": "Tablets",
-  "scope": "Global manufacturer reference. Exact RAM/storage pairs enumerated on specs page; Latvia identity unresolved. Standard glass only for Pad 8 Pro. Regional Wi-Fi support and accessories may vary. Tele2 barcode 6932554463786 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
+  "scope": "Global manufacturer reference. Exact RAM/storage pairs enumerated on specs page; Latvia identity unresolved. Standard glass only for Pad 8 Pro. Regional Wi-Fi support and accessories may vary. Tele2 barcode 6932554463786 is only the rendered default colour variant; UK/reference MPN may differ by region and colour. Requested colour and memory pair verified as manufacturer options, not a joint colour/Latvia SKU match.",
   "identifiers": [
     "6932554463786"
   ],
@@ -278,6 +278,126 @@
       "condition": "Tele2 current rendered default colour token grey. Retailer labels value EAN; actual length 13. Applies only to that rendered colour variant, not all colours; manufacturer cross-match unresolved unless separately noted.",
       "source_url": "https://www.tele2.lv/plansetes/redmi-pad-2-pro-8256gb/",
       "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Requested colour manufacturer option",
+      "value": "Graphite Gray",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/uk/product/redmi-pad-2-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "CPU layout",
+      "value": "1x Cortex-A720 2.7GHz + 3x Cortex-A720 2.4GHz + 4x Cortex-A520 1.8GHz",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/uk/product/redmi-pad-2-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display aspect ratio",
+      "value": "16:10",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/uk/product/redmi-pad-2-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display colour count",
+      "value": "1.07 billion",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/uk/product/redmi-pad-2-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display certification",
+      "value": "TUV Rheinland low blue light hardware; flicker free; circadian friendly",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/uk/product/redmi-pad-2-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display features",
+      "value": "Dolby Vision; reading mode; wet touch",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/uk/product/redmi-pad-2-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Colour temperature sensor",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/uk/product/redmi-pad-2-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front video additional modes",
+      "value": "720p 30fps",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/uk/product/redmi-pad-2-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear video additional modes",
+      "value": "720p 30fps",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/uk/product/redmi-pad-2-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Package contents reference",
+      "value": "Tablet, USB Type-C cable, quick start guide, warranty card; regional contents vary",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/uk/product/redmi-pad-2-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Power adapter reference",
+      "value": "No adapter included per charging section; local package availability must be checked",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/uk/product/redmi-pad-2-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear camera sensor size",
+      "value": "1/4 inch",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/uk/product/redmi-pad-2-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front camera sensor size",
+      "value": "1/4 inch",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/uk/product/redmi-pad-2-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Camera pixel size",
+      "value": "1.12 micrometres",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/uk/product/redmi-pad-2-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Camera modes",
+      "value": "Photo, video, document, teleprompter, HDR",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/uk/product/redmi-pad-2-pro/specs/",
+      "checked_at": "2026-10-14"
     }
   ],
   "missing_fields": [
@@ -296,6 +416,12 @@
       "fetched_at": "2026-10-14",
       "method": "HTTP fetch",
       "notes": "Retailer product title and rendered #eancode directly read; barcode length/checksum validated; default-colour token retained"
+    },
+    {
+      "url": "https://www.mi.com/uk/product/redmi-pad-2-pro/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "OpenAI web open",
+      "notes": "Official specification page rechecked; granular fields added from explicit facts. Colour and capacity options are not proof of a joint Latvia SKU."
     }
   ],
   "model_family": "REDMI Pad 2 Pro",

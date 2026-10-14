@@ -228,8 +228,11 @@
       "OLED65G61LW.AEU",
       "OLED65G61LW"
     ],
-    "aliases": [],
-    "scope": "Manufacturer Latvia page names exact OLED65G61LW.AEU; Hungarian same base-model page supplies detailed specification rows. Tele2 Latvia base model OLED65G61LW observed; retail AEU suffix still needs confirmation.",
+    "aliases": [
+      "OLED65G61LW",
+      "LG OLED65G61LW"
+    ],
+    "scope": "Official LG Latvia structured SKU OLED65G61LW and sales model code OLED65G61LW.AEU verified. Technical facts are from this exact Latvia page. Retail full suffix/GTIN still requires matching.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-oled65g61lw-aeu.json"
   },
   {
@@ -342,12 +345,14 @@
     "model": "50NU800B3LC",
     "category": "Televisions",
     "identifiers": [
-      "50NU800B3LC"
+      "50NU800B3LC",
+      "50NU800B3LC.AEUQ"
     ],
     "aliases": [
-      "LG 50NU800B3LC"
+      "LG 50NU800B3LC",
+      "50NU800B3LC"
     ],
-    "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 50 collu LG NANO 4K UHD AI NU80 4K Smart TV 2026-50NU800B3LA.AEUQ | LG Latvia Source page URL/model request says 50NU800B3LC but HTML title says 50NU800B3LA.AEUQ; manufacturer identity conflict, do not assume exact suffix equivalence.",
+    "scope": "Official LG Latvia structured SKU 50NU800B3LC and sales model code 50NU800B3LC.AEUQ verified. Technical facts are from this exact Latvia page. Retail full suffix/GTIN still requires matching. Manufacturer title discrepancy retained: HTML title says 50NU800B3LA.AEUQ, while structured SKU, product model name and sales code explicitly identify 50NU800B3LC.AEUQ. Do not alias B3LA to B3LC.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-50nu800b3lc.json"
   },
   {

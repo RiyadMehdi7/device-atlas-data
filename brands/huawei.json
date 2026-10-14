@@ -185,8 +185,10 @@
     "model": "WATCH FIT 4",
     "category": "Smartwatches",
     "identifiers": [],
-    "aliases": [],
-    "scope": "Global manufacturer WATCH FIT 4 reference. Only values assigned to this size column or common model sections included. Battery is manufacturer lab claim; regional services and exact Latvia SKU unresolved.",
+    "aliases": [
+      "Huawei Watch Fit 4"
+    ],
+    "scope": "Global manufacturer WATCH FIT 4 reference. Only values assigned to this size column or common model sections included. Battery is manufacturer lab claim; regional services and exact Latvia SKU unresolved. Requested colour/name alias verified where documented; this remains a model reference, not proof of Latvia MPN/GTIN. Variant-dependent specifications carry explicit conditions.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/huawei-watch-fit-4.json"
   },
   {

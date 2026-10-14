@@ -3,9 +3,11 @@
   "brand": "Xiaomi",
   "model": "Redmi Watch 5 Lite",
   "category": "Smartwatches",
-  "scope": "Global manufacturer model-family reference. Strap/colour alternatives do not form separate products. Any NFC, LTE, ceramic or regional subvariants described remain conditional; exact Latvia SKU unresolved.",
+  "scope": "Global manufacturer model-family reference. Strap/colour alternatives do not form separate products. Any NFC, LTE, ceramic or regional subvariants described remain conditional; exact Latvia SKU unresolved. Requested colour/name alias verified where documented; this remains a model reference, not proof of Latvia MPN/GTIN. Variant-dependent specifications carry explicit conditions.",
   "identifiers": [],
-  "aliases": [],
+  "aliases": [
+    "Xiaomi Redmi Watch 5 Lite"
+  ],
   "checked_at": "2026-10-14",
   "status": "Manufacturer source checked; Latvia SKU needs matching",
   "source_name": "Xiaomi Redmi Watch 5 Lite specifications",
@@ -14,118 +16,188 @@
   "relevance": "future_candidate",
   "specs": [
     {
-      "label": "Specification",
+      "label": "Available colour option",
       "value": "Light Gold",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/redmi-watch-5-lite/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Dimensions",
       "value": "48.1mm x 39.2mm x 10.6mm",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/redmi-watch-5-lite/specs/",
+      "checked_at": "2026-10-14"
     },
     {
-      "label": "Dimensions",
+      "label": "Weight without strap",
       "value": "29.2g (without inbox strap)",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/redmi-watch-5-lite/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Frame",
       "value": "Plastic (NCVM)",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/redmi-watch-5-lite/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "size",
       "value": "135mm ~ 205mm",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/redmi-watch-5-lite/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Sensors",
       "value": "Heart rate sensor (with blood oxygen sensor)",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/redmi-watch-5-lite/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Sensors",
       "value": "Accelerometer",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/redmi-watch-5-lite/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Sensors",
       "value": "Gyroscope",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/redmi-watch-5-lite/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Satellite positioning systems",
       "value": "GPS | Galileo | Glonass | BeiDou | QZSS",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/redmi-watch-5-lite/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Typical use time",
       "value": "18 days",
       "unit": "",
-      "condition": ""
+      "condition": "Manufacturer typical usage claim; actual runtime varies",
+      "source_url": "https://www.mi.com/global/product/redmi-watch-5-lite/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Capacity",
       "value": "470mAh",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/redmi-watch-5-lite/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Display",
       "value": "1.96\" Square AMOLED display",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/redmi-watch-5-lite/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Resolution",
       "value": "410 x 502｜332PPI",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/redmi-watch-5-lite/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Built-in GNSS",
       "value": "supported",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/redmi-watch-5-lite/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Speaker",
       "value": "supported",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/redmi-watch-5-lite/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Bluetooth call",
       "value": "supported",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/redmi-watch-5-lite/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Wireless connectivity",
       "value": "Bluetooth® 5.3",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/redmi-watch-5-lite/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Operating System",
       "value": "Xiaomi HyperOS",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/redmi-watch-5-lite/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Compatibility",
       "value": "only supports smartphones with Android 8.0 and above, iOS 12.0 and above",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/redmi-watch-5-lite/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Available colours",
+      "value": "Black; Light Gold",
+      "unit": "",
+      "condition": "Global manufacturer options; Latvia inventory unconfirmed",
+      "source_url": "https://www.mi.com/global/product/redmi-watch-5-lite/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Strap material",
+      "value": "TPU",
+      "unit": "",
+      "condition": "Black and Light Gold",
+      "source_url": "https://www.mi.com/global/product/redmi-watch-5-lite/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Package contents",
+      "value": "Watch; magnetic charging cable; user manual",
+      "unit": "",
+      "condition": "Global manufacturer package",
+      "source_url": "https://www.mi.com/global/product/redmi-watch-5-lite/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimension measurement condition",
+      "value": "Excludes strap and protrusions",
+      "unit": "",
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/redmi-watch-5-lite/specs/",
+      "checked_at": "2026-10-14"
     }
   ],
   "missing_fields": [
@@ -138,7 +210,13 @@
       "fetched_at": "2026-10-14",
       "method": "HTTP fetch",
       "notes": "Manufacturer technical specification content parsed; extracted factual fields only"
+    },
+    {
+      "url": "https://www.mi.com/global/product/redmi-watch-5-lite/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "OpenAI web open",
+      "notes": "Official specifications reread for enrichment; existing supported facts retained"
     }
   ],
-  "research_lane": "wearables"
+  "research_lane": "review-audio-watch"
 }

@@ -3,9 +3,11 @@
   "brand": "Xiaomi",
   "model": "Watch S4 41mm",
   "category": "Smartwatches",
-  "scope": "Global manufacturer model-family reference. Strap/colour alternatives do not form separate products. Any NFC, LTE, ceramic or regional subvariants described remain conditional; exact Latvia SKU unresolved.",
+  "scope": "Global manufacturer model-family reference. Strap/colour alternatives do not form separate products. Any NFC, LTE, ceramic or regional subvariants described remain conditional; exact Latvia SKU unresolved. Requested colour/name alias verified where documented; this remains a model reference, not proof of Latvia MPN/GTIN. Variant-dependent specifications carry explicit conditions.",
   "identifiers": [],
-  "aliases": [],
+  "aliases": [
+    "Xiaomi Watch S4 41mm Milanese Sunset Gold"
+  ],
   "checked_at": "2026-10-14",
   "status": "Manufacturer source checked; Latvia SKU needs matching",
   "source_name": "Xiaomi Watch S4 41mm specifications",
@@ -14,208 +16,348 @@
   "relevance": "future_candidate",
   "specs": [
     {
-      "label": "Specification",
+      "label": "Available colour option",
       "value": "Sunset gold",
       "unit": "",
-      "condition": ""
+      "condition": "Model colour option, not an exact Latvia SKU",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
     },
     {
-      "label": "Specification",
+      "label": "Available colour option",
       "value": "Mint green",
       "unit": "",
-      "condition": ""
+      "condition": "Model colour option, not an exact Latvia SKU",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
     },
     {
-      "label": "Specification",
+      "label": "Available colour option",
       "value": "White",
       "unit": "",
-      "condition": ""
+      "condition": "Model colour option, not an exact Latvia SKU",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Dimensions",
       "value": "41.2mm × 41.2mm × 9.5mm",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
     },
     {
-      "label": "Dimensions",
+      "label": "Weight without strap",
       "value": "32g approx. (without inbox strap)",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Frame",
       "value": "Stainless steel",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Adjustable strap length",
       "value": "120-190mm approx.",
       "unit": "",
-      "condition": "Range depends on strap/colour variant; model-family reference"
+      "condition": "Range depends on strap/colour variant; model-family reference",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Adjustable strap length",
       "value": "130-190mm approx.",
       "unit": "",
-      "condition": "Range depends on strap/colour variant; model-family reference"
+      "condition": "Range depends on strap/colour variant; model-family reference",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Sensors",
       "value": "Heart rate sensor (with blood oxygen sensor)",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Sensors",
       "value": "Accelerometer",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Sensors",
       "value": "Gyroscope",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Sensors",
       "value": "Ambient light sensor",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Sensors",
       "value": "Electronic compass",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Sensors",
       "value": "Barometer sensor",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Sensors",
       "value": "Temperature sensor",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Satellite positioning systems",
       "value": "GPS | Galileo | Glonass | BeiDou | QZSS",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Light usage time",
       "value": "up to 8 days",
       "unit": "",
-      "condition": ""
+      "condition": "Manufacturer maximum under specified laboratory usage profile; actual runtime varies",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Normal usage time",
       "value": "up to 4 days",
       "unit": "",
-      "condition": ""
+      "condition": "Manufacturer maximum under specified laboratory usage profile; actual runtime varies",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Heavy usage time",
       "value": "up to 3 days",
       "unit": "",
-      "condition": ""
+      "condition": "Manufacturer maximum under specified laboratory usage profile; actual runtime varies",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Capacity",
       "value": "320mAh",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Resolution",
       "value": "466 × 466 pixels，PPI 352",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Display",
       "value": "1.32-inch AMOLED display",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Display",
       "value": "60Hz refresh rate",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Brightness",
       "value": "HBM 1500nits",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Built-in GNSS",
       "value": "Supported",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Water resistance rating",
       "value": "5ATM",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Speaker",
       "value": "Supported",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Microphone",
       "value": "1 mic",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "NFC",
       "value": "Supported",
       "unit": "",
-      "condition": "Manufacturer global model claim; NFC payment support varies by region"
+      "condition": "Manufacturer global model claim; NFC payment support varies by region",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Bluetooth calling",
       "value": "Supported",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Wireless connectivity",
       "value": "Bluetooth® 5.4",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Operating system",
       "value": "Xiaomi HyperOS 3",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Compatibility",
       "value": "Supports smartphones with Android 8.0 and above, or iOS 14.0 and above.",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Charging port",
       "value": "2-Pin magnetic charging dock",
       "unit": "",
-      "condition": ""
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Sunset gold strap type",
+      "value": "Milanese",
+      "unit": "",
+      "condition": "Sunset gold edition only",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Sunset gold adjustable strap length",
+      "value": "Approximately 130–190 mm",
+      "unit": "",
+      "condition": "Sunset gold edition only",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Black / Mint green strap",
+      "value": "Fluororubber",
+      "unit": "",
+      "condition": "These variants only; not Sunset gold",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "White strap",
+      "value": "Leather",
+      "unit": "",
+      "condition": "White variant only",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Black / Mint green / White strap range",
+      "value": "Approximately 120–190 mm",
+      "unit": "",
+      "condition": "Not Sunset gold",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Package contents",
+      "value": "Watch; magnetic charging dock; user manual",
+      "unit": "",
+      "condition": "Global manufacturer package",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth calling limitation",
+      "value": "Connected smartphone required; third-party app calls unsupported",
+      "unit": "",
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimension measurement condition",
+      "value": "Excludes strap and protrusions",
+      "unit": "",
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Water resistance limitations",
+      "value": "Shallow swimming; no hot showers, sauna or diving",
+      "unit": "",
+      "condition": "Resistance can deteriorate; avoid strong currents",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "checked_at": "2026-10-14"
     }
   ],
   "missing_fields": [
@@ -228,7 +370,13 @@
       "fetched_at": "2026-10-14",
       "method": "HTTP fetch",
       "notes": "Manufacturer technical specification content parsed; extracted factual fields only"
+    },
+    {
+      "url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "OpenAI web open",
+      "notes": "Official specifications reread for enrichment; existing supported facts retained"
     }
   ],
-  "research_lane": "wearables"
+  "research_lane": "review-audio-watch"
 }

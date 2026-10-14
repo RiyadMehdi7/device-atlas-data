@@ -3,9 +3,11 @@
   "brand": "Beats",
   "model": "Powerbeats Pro 2",
   "category": "Earbuds",
-  "scope": "Official manufacturer reference; USA/global page, Latvia SKU matching required",
+  "scope": "Official manufacturer reference; USA/global page, Latvia SKU matching required Requested colour/name alias verified where documented; this remains a model reference, not proof of Latvia MPN/GTIN. Variant-dependent specifications carry explicit conditions.",
   "identifiers": [],
-  "aliases": [],
+  "aliases": [
+    "Beats Powerbeats Pro 2 Jet Black"
+  ],
   "checked_at": "2026-10-14",
   "status": "Manufacturer source checked; Latvia SKU needs matching",
   "source_name": "Powerbeats Pro 2 official technical specifications and FAQ",
@@ -17,151 +19,297 @@
       "label": "Chip",
       "value": "Apple H2",
       "unit": "",
-      "condition": "Official manufacturer model reference; regional SKU matching required"
+      "condition": "Official manufacturer model reference; regional SKU matching required",
+      "source_url": "https://www.beatsbydre.com/earbuds/powerbeats-pro-2",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "ANC",
       "value": "Adaptive",
       "unit": "",
-      "condition": "Official manufacturer model reference; regional SKU matching required"
+      "condition": "Official manufacturer model reference; regional SKU matching required",
+      "source_url": "https://www.beatsbydre.com/earbuds/powerbeats-pro-2",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Transparency",
       "value": "Supported",
       "unit": "",
-      "condition": "Official manufacturer model reference; regional SKU matching required"
+      "condition": "Official manufacturer model reference; regional SKU matching required",
+      "source_url": "https://www.beatsbydre.com/earbuds/powerbeats-pro-2",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Spatial audio",
       "value": "Personalised; dynamic head tracking",
       "unit": "",
-      "condition": "Compatible content/devices"
+      "condition": "Compatible content/devices",
+      "source_url": "https://www.beatsbydre.com/earbuds/powerbeats-pro-2",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Earhook",
       "value": "Nickel-titanium alloy",
       "unit": "",
-      "condition": "Official manufacturer model reference; regional SKU matching required"
+      "condition": "Official manufacturer model reference; regional SKU matching required",
+      "source_url": "https://www.beatsbydre.com/earbuds/powerbeats-pro-2",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Earbud protection",
       "value": "IPX4",
       "unit": "",
-      "condition": "Official manufacturer model reference; regional SKU matching required"
+      "condition": "Official manufacturer model reference; regional SKU matching required",
+      "source_url": "https://www.beatsbydre.com/earbuds/powerbeats-pro-2",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Case water resistance",
       "value": "Not water-resistant",
       "unit": "",
-      "condition": "Official manufacturer model reference; regional SKU matching required"
+      "condition": "Official manufacturer model reference; regional SKU matching required",
+      "source_url": "https://www.beatsbydre.com/earbuds/powerbeats-pro-2",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Heart rate sensing",
       "value": "Supported",
       "unit": "",
-      "condition": "Workouts; compatible Apple/Android apps"
+      "condition": "Workouts; compatible Apple/Android apps",
+      "source_url": "https://www.beatsbydre.com/earbuds/powerbeats-pro-2",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Microphones per earbud",
       "value": "3",
       "unit": "",
-      "condition": "Official manufacturer model reference; regional SKU matching required"
+      "condition": "Official manufacturer model reference; regional SKU matching required",
+      "source_url": "https://www.beatsbydre.com/earbuds/powerbeats-pro-2",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Voice accelerometer",
       "value": "Each earbud",
       "unit": "",
-      "condition": "Official manufacturer model reference; regional SKU matching required"
+      "condition": "Official manufacturer model reference; regional SKU matching required",
+      "source_url": "https://www.beatsbydre.com/earbuds/powerbeats-pro-2",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Optical sensor",
       "value": "Each earbud",
       "unit": "",
-      "condition": "Official manufacturer model reference; regional SKU matching required"
+      "condition": "Official manufacturer model reference; regional SKU matching required",
+      "source_url": "https://www.beatsbydre.com/earbuds/powerbeats-pro-2",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Gyroscope",
       "value": "Supported",
       "unit": "",
-      "condition": "Official manufacturer model reference; regional SKU matching required"
+      "condition": "Official manufacturer model reference; regional SKU matching required",
+      "source_url": "https://www.beatsbydre.com/earbuds/powerbeats-pro-2",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Accelerometer",
       "value": "Supported",
       "unit": "",
-      "condition": "Official manufacturer model reference; regional SKU matching required"
+      "condition": "Official manufacturer model reference; regional SKU matching required",
+      "source_url": "https://www.beatsbydre.com/earbuds/powerbeats-pro-2",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Volume control",
       "value": "Tactile rocker each earbud",
       "unit": "",
-      "condition": "Official manufacturer model reference; regional SKU matching required"
+      "condition": "Official manufacturer model reference; regional SKU matching required",
+      "source_url": "https://www.beatsbydre.com/earbuds/powerbeats-pro-2",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Multi-function button",
       "value": "Each earbud",
       "unit": "",
-      "condition": "Official manufacturer model reference; regional SKU matching required"
+      "condition": "Official manufacturer model reference; regional SKU matching required",
+      "source_url": "https://www.beatsbydre.com/earbuds/powerbeats-pro-2",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Ear tip sizes",
       "value": "XS/S/M/L/XL",
       "unit": "",
-      "condition": "Official manufacturer model reference; regional SKU matching required"
+      "condition": "Official manufacturer model reference; regional SKU matching required",
+      "source_url": "https://www.beatsbydre.com/earbuds/powerbeats-pro-2",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Wireless case charging",
       "value": "Supported",
       "unit": "",
-      "condition": "Official manufacturer model reference; regional SKU matching required"
+      "condition": "Official manufacturer model reference; regional SKU matching required",
+      "source_url": "https://www.beatsbydre.com/earbuds/powerbeats-pro-2",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "USB-C cable included",
       "value": "No",
       "unit": "",
-      "condition": "Official manufacturer model reference; regional SKU matching required"
+      "condition": "Official manufacturer model reference; regional SKU matching required",
+      "source_url": "https://www.beatsbydre.com/earbuds/powerbeats-pro-2",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Earbud listening Adaptive EQ",
       "value": "Up to 10 hours",
       "unit": "",
-      "condition": "Adaptive EQ mode"
+      "condition": "Adaptive EQ mode",
+      "source_url": "https://www.beatsbydre.com/earbuds/powerbeats-pro-2",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Additional case listening Adaptive EQ",
       "value": "Up to 35 hours",
       "unit": "",
-      "condition": "Adaptive EQ mode; additional case-supplied playback"
+      "condition": "Adaptive EQ mode; additional case-supplied playback",
+      "source_url": "https://www.beatsbydre.com/earbuds/powerbeats-pro-2",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Total listening Adaptive EQ",
       "value": "Up to 45 hours",
       "unit": "",
-      "condition": "Adaptive EQ mode; including charging case"
+      "condition": "Adaptive EQ mode; including charging case",
+      "source_url": "https://www.beatsbydre.com/earbuds/powerbeats-pro-2",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Earbud listening ANC/Transparency",
       "value": "Up to 8 hours",
       "unit": "",
-      "condition": "ANC/Transparency on"
+      "condition": "ANC/Transparency on",
+      "source_url": "https://www.beatsbydre.com/earbuds/powerbeats-pro-2",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Additional case listening ANC/Transparency",
       "value": "Up to 28 hours",
       "unit": "",
-      "condition": "ANC/Transparency on; additional case-supplied playback"
+      "condition": "ANC/Transparency on; additional case-supplied playback",
+      "source_url": "https://www.beatsbydre.com/earbuds/powerbeats-pro-2",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Total listening ANC/Transparency",
       "value": "Up to 36 hours",
       "unit": "",
-      "condition": "ANC/Transparency on; including charging case"
+      "condition": "ANC/Transparency on; including charging case",
+      "source_url": "https://www.beatsbydre.com/earbuds/powerbeats-pro-2",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Fast Fuel",
       "value": "Up to 1.5 hours playback after 5-min charge",
       "unit": "",
-      "condition": "Adaptive EQ mode"
+      "condition": "Adaptive EQ mode",
+      "source_url": "https://www.beatsbydre.com/earbuds/powerbeats-pro-2",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Verified colour option",
+      "value": "Jet Black",
+      "unit": "",
+      "condition": "Official UK colour reference; Latvia part number unconfirmed",
+      "source_url": "https://www.beatsbydre.com/uk/earbuds/powerbeats-pro-2/MX723/jet-black",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Earbud dimensions",
+      "value": "45 x 41 x 24 mm",
+      "unit": "",
+      "condition": "Height x length x width; model specification",
+      "source_url": "https://www.beatsbydre.com/uk/earbuds/powerbeats-pro-2/MX723/jet-black",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Case dimensions",
+      "value": "75 x 66 x 34 mm",
+      "unit": "",
+      "condition": "Height x length x width; model specification",
+      "source_url": "https://www.beatsbydre.com/uk/earbuds/powerbeats-pro-2/MX723/jet-black",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Earbud weight",
+      "value": "8.7 g",
+      "unit": "",
+      "condition": "Per earbud",
+      "source_url": "https://www.beatsbydre.com/uk/earbuds/powerbeats-pro-2/MX723/jet-black",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Case weight",
+      "value": "69 g",
+      "unit": "",
+      "condition": "Case only",
+      "source_url": "https://www.beatsbydre.com/uk/earbuds/powerbeats-pro-2/MX723/jet-black",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth class",
+      "value": "Class 1",
+      "unit": "",
+      "condition": "",
+      "source_url": "https://www.beatsbydre.com/uk/earbuds/powerbeats-pro-2/MX723/jet-black",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Charging connector",
+      "value": "USB-C",
+      "unit": "",
+      "condition": "",
+      "source_url": "https://www.beatsbydre.com/uk/earbuds/powerbeats-pro-2/MX723/jet-black",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery type",
+      "value": "Rechargeable lithium-ion",
+      "unit": "",
+      "condition": "",
+      "source_url": "https://www.beatsbydre.com/uk/earbuds/powerbeats-pro-2/MX723/jet-black",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wireless charging standard",
+      "value": "Qi",
+      "unit": "",
+      "condition": "Compatible charger required",
+      "source_url": "https://www.beatsbydre.com/uk/earbuds/powerbeats-pro-2/MX723/jet-black",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Adaptive EQ",
+      "value": "Supported",
+      "unit": "",
+      "condition": "",
+      "source_url": "https://www.beatsbydre.com/uk/earbuds/powerbeats-pro-2/MX723/jet-black",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Automatic play/pause",
+      "value": "Optical sensors and motion accelerometers",
+      "unit": "",
+      "condition": "",
+      "source_url": "https://www.beatsbydre.com/uk/earbuds/powerbeats-pro-2/MX723/jet-black",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Heart-rate monitoring compatibility",
+      "value": "Select fitness apps and fitness equipment",
+      "unit": "",
+      "condition": "Workout monitoring; feature optional, not medical diagnosis",
+      "source_url": "https://www.beatsbydre.com/uk/earbuds/powerbeats-pro-2/MX723/jet-black",
+      "checked_at": "2026-10-14"
     }
   ],
   "missing_fields": [
@@ -175,7 +323,19 @@
       "fetched_at": "2026-10-14",
       "method": "web open/find",
       "notes": "Official tech details and FAQ actually read; earbud/case playback separated"
+    },
+    {
+      "url": "https://www.beatsbydre.com/uk/earbuds/powerbeats-pro-2/MX723/jet-black",
+      "fetched_at": "2026-10-14",
+      "method": "OpenAI web open/search",
+      "notes": "Official colour-specific manufacturer evidence"
+    },
+    {
+      "url": "https://www.beatsbydre.com/earbuds/powerbeats-pro-2",
+      "fetched_at": "2026-10-14",
+      "method": "OpenAI web open",
+      "notes": "Official specifications reread for enrichment; existing supported facts retained"
     }
   ],
-  "research_lane": "audio"
+  "research_lane": "review-audio-watch"
 }

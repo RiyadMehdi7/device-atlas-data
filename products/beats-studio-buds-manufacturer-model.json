@@ -3,9 +3,11 @@
   "brand": "Beats",
   "model": "Studio Buds +",
   "category": "Earbuds",
-  "scope": "Official manufacturer reference; USA/global page, Latvia SKU matching required",
+  "scope": "Official manufacturer reference; USA/global page, Latvia SKU matching required Requested colour/name alias verified where documented; this remains a model reference, not proof of Latvia MPN/GTIN. Variant-dependent specifications carry explicit conditions.",
   "identifiers": [],
-  "aliases": [],
+  "aliases": [
+    "Beats Studio Buds+ Black/Gold"
+  ],
   "checked_at": "2026-10-14",
   "status": "Manufacturer source checked; Latvia SKU needs matching",
   "source_name": "Studio Buds + official technical specifications and FAQ",
@@ -17,169 +19,265 @@
       "label": "ANC",
       "value": "Adapts to personal fit",
       "unit": "",
-      "condition": "Official manufacturer model reference; regional SKU matching required"
+      "condition": "Official manufacturer model reference; regional SKU matching required",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/studio-buds-plus-wireless-noise-cancelling",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Transparency",
       "value": "Supported",
       "unit": "",
-      "condition": "Official manufacturer model reference; regional SKU matching required"
+      "condition": "Official manufacturer model reference; regional SKU matching required",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/studio-buds-plus-wireless-noise-cancelling",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Spatial audio",
       "value": "Dolby Atmos",
       "unit": "",
-      "condition": "Compatible content"
+      "condition": "Compatible content",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/studio-buds-plus-wireless-noise-cancelling",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Acoustic vents",
       "value": "3",
       "unit": "",
-      "condition": "Official manufacturer model reference; regional SKU matching required"
+      "condition": "Official manufacturer model reference; regional SKU matching required",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/studio-buds-plus-wireless-noise-cancelling",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Earbud protection",
       "value": "IPX4",
       "unit": "",
-      "condition": "Official manufacturer model reference; regional SKU matching required"
+      "condition": "Official manufacturer model reference; regional SKU matching required",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/studio-buds-plus-wireless-noise-cancelling",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Earbud length",
       "value": "2.05 cm",
       "unit": "",
-      "condition": "Official manufacturer model reference; regional SKU matching required"
+      "condition": "Official manufacturer model reference; regional SKU matching required",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/studio-buds-plus-wireless-noise-cancelling",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Earbud width",
       "value": "1.85 cm",
       "unit": "",
-      "condition": "Official manufacturer model reference; regional SKU matching required"
+      "condition": "Official manufacturer model reference; regional SKU matching required",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/studio-buds-plus-wireless-noise-cancelling",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Earbud height",
       "value": "1.5 cm",
       "unit": "",
-      "condition": "Official manufacturer model reference; regional SKU matching required"
+      "condition": "Official manufacturer model reference; regional SKU matching required",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/studio-buds-plus-wireless-noise-cancelling",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Earbud weight",
       "value": "5.0 g",
       "unit": "",
-      "condition": "Official manufacturer model reference; regional SKU matching required"
+      "condition": "Official manufacturer model reference; regional SKU matching required",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/studio-buds-plus-wireless-noise-cancelling",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Case length",
       "value": "7.2 cm",
       "unit": "",
-      "condition": "Official manufacturer model reference; regional SKU matching required"
+      "condition": "Official manufacturer model reference; regional SKU matching required",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/studio-buds-plus-wireless-noise-cancelling",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Case width",
       "value": "5.1 cm",
       "unit": "",
-      "condition": "Official manufacturer model reference; regional SKU matching required"
+      "condition": "Official manufacturer model reference; regional SKU matching required",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/studio-buds-plus-wireless-noise-cancelling",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Case height",
       "value": "2.55 cm",
       "unit": "",
-      "condition": "Official manufacturer model reference; regional SKU matching required"
+      "condition": "Official manufacturer model reference; regional SKU matching required",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/studio-buds-plus-wireless-noise-cancelling",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Case weight",
       "value": "49.0 g",
       "unit": "",
-      "condition": "Official manufacturer model reference; regional SKU matching required"
+      "condition": "Official manufacturer model reference; regional SKU matching required",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/studio-buds-plus-wireless-noise-cancelling",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Bluetooth class",
       "value": "1",
       "unit": "",
-      "condition": "Official manufacturer model reference; regional SKU matching required"
+      "condition": "Official manufacturer model reference; regional SKU matching required",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/studio-buds-plus-wireless-noise-cancelling",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Siri",
       "value": "Hands-free Hey Siri",
       "unit": "",
-      "condition": "Compatible Apple device"
+      "condition": "Compatible Apple device",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/studio-buds-plus-wireless-noise-cancelling",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Google Fast Pair",
       "value": "Supported",
       "unit": "",
-      "condition": "Official manufacturer model reference; regional SKU matching required"
+      "condition": "Official manufacturer model reference; regional SKU matching required",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/studio-buds-plus-wireless-noise-cancelling",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Android Audio Switch",
       "value": "Supported",
       "unit": "",
-      "condition": "Official manufacturer model reference; regional SKU matching required"
+      "condition": "Official manufacturer model reference; regional SKU matching required",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/studio-buds-plus-wireless-noise-cancelling",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Find My",
       "value": "Supported",
       "unit": "",
-      "condition": "Official manufacturer model reference; regional SKU matching required"
+      "condition": "Official manufacturer model reference; regional SKU matching required",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/studio-buds-plus-wireless-noise-cancelling",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Google Find My Device",
       "value": "Supported",
       "unit": "",
-      "condition": "Official manufacturer model reference; regional SKU matching required"
+      "condition": "Official manufacturer model reference; regional SKU matching required",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/studio-buds-plus-wireless-noise-cancelling",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Earbud listening",
       "value": "Up to 9 hours",
       "unit": "",
-      "condition": "ANC/Transparency off"
+      "condition": "ANC/Transparency off",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/studio-buds-plus-wireless-noise-cancelling",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Listening including case",
       "value": "Up to 36 hours",
       "unit": "",
-      "condition": "ANC/Transparency off; total"
+      "condition": "ANC/Transparency off; total",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/studio-buds-plus-wireless-noise-cancelling",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Earbud ANC/Transparency listening",
       "value": "Up to 6 hours",
       "unit": "",
-      "condition": "ANC/Transparency on"
+      "condition": "ANC/Transparency on",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/studio-buds-plus-wireless-noise-cancelling",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Total ANC/Transparency listening",
       "value": "Up to 24 hours",
       "unit": "",
-      "condition": "ANC/Transparency on; includes case"
+      "condition": "ANC/Transparency on; includes case",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/studio-buds-plus-wireless-noise-cancelling",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Fast Fuel",
       "value": "Up to 1 hour playback after 5-min charge",
       "unit": "",
-      "condition": "Low battery"
+      "condition": "Low battery",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/studio-buds-plus-wireless-noise-cancelling",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Charging",
       "value": "USB-C",
       "unit": "",
-      "condition": "Official manufacturer model reference; regional SKU matching required"
+      "condition": "Official manufacturer model reference; regional SKU matching required",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/studio-buds-plus-wireless-noise-cancelling",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Battery type",
       "value": "Rechargeable lithium-ion",
       "unit": "",
-      "condition": "Official manufacturer model reference; regional SKU matching required"
+      "condition": "Official manufacturer model reference; regional SKU matching required",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/studio-buds-plus-wireless-noise-cancelling",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "Ear tips",
       "value": "XS/S/M/L",
       "unit": "",
-      "condition": "Official manufacturer model reference; regional SKU matching required"
+      "condition": "Official manufacturer model reference; regional SKU matching required",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/studio-buds-plus-wireless-noise-cancelling",
+      "checked_at": "2026-10-14"
     },
     {
       "label": "USB-C cable",
       "value": "Included",
       "unit": "",
-      "condition": "Official manufacturer model reference; regional SKU matching required"
+      "condition": "Official manufacturer model reference; regional SKU matching required",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/studio-buds-plus-wireless-noise-cancelling",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Verified colour option",
+      "value": "Black / Gold",
+      "unit": "",
+      "condition": "Official colour page; no Latvia part number inferred",
+      "source_url": "https://www.beatsbydre.com/earbuds/studio-buds-plus-wireless-noise-cancelling/MQLH3/black-gold",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Form factor",
+      "value": "In-ear",
+      "unit": "",
+      "condition": "",
+      "source_url": "https://www.beatsbydre.com/earbuds/studio-buds-plus-wireless-noise-cancelling/MQLH3/black-gold",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Controls",
+      "value": "One multifunction button per earbud",
+      "unit": "",
+      "condition": "",
+      "source_url": "https://www.beatsbydre.com/earbuds/studio-buds-plus-wireless-noise-cancelling/MQLH3/black-gold",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Microphones",
+      "value": "Voice-targeting microphones",
+      "unit": "",
+      "condition": "",
+      "source_url": "https://www.beatsbydre.com/earbuds/studio-buds-plus-wireless-noise-cancelling/MQLH3/black-gold",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Charging case",
+      "value": "Included",
+      "unit": "",
+      "condition": "Manufacturer regional package; Latvia package unconfirmed",
+      "source_url": "https://www.beatsbydre.com/earbuds/studio-buds-plus-wireless-noise-cancelling/MQLH3/black-gold",
+      "checked_at": "2026-10-14"
     }
   ],
   "missing_fields": [
@@ -193,7 +291,19 @@
       "fetched_at": "2026-10-14",
       "method": "web open/find",
       "notes": "Official tech details and FAQ actually read; earbud/case playback separated"
+    },
+    {
+      "url": "https://www.beatsbydre.com/earbuds/studio-buds-plus-wireless-noise-cancelling/MQLH3/black-gold",
+      "fetched_at": "2026-10-14",
+      "method": "OpenAI web open/search",
+      "notes": "Official colour-specific manufacturer evidence"
+    },
+    {
+      "url": "https://www.beatsbydre.com/us/earbuds/studio-buds-plus-wireless-noise-cancelling",
+      "fetched_at": "2026-10-14",
+      "method": "OpenAI web open",
+      "notes": "Official specifications reread for enrichment; existing supported facts retained"
     }
   ],
-  "research_lane": "audio"
+  "research_lane": "review-audio-watch"
 }

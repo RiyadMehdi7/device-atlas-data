@@ -3,7 +3,7 @@
   "brand": "Xiaomi",
   "model": "Xiaomi Pad 8 Pro 12GB/512GB",
   "category": "Tablets",
-  "scope": "Global manufacturer reference. Exact RAM/storage pairs enumerated on specs page; Latvia identity unresolved. Standard glass only for Pad 8 Pro. Regional Wi-Fi support and accessories may vary. Tele2 barcode 6932554476458 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
+  "scope": "Global manufacturer reference. Exact RAM/storage pairs enumerated on specs page; Latvia identity unresolved. Standard glass only for Pad 8 Pro. Regional Wi-Fi support and accessories may vary. Tele2 barcode 6932554476458 is only the rendered default colour variant; UK/reference MPN may differ by region and colour. Requested colour and memory pair verified as manufacturer options, not a joint colour/Latvia SKU match.",
   "identifiers": [
     "6932554476458"
   ],
@@ -302,11 +302,244 @@
       "condition": "Tele2 current rendered default colour token grey. Retailer labels value EAN; actual length 13. Applies only to that rendered colour variant, not all colours; manufacturer cross-match unresolved unless separately noted.",
       "source_url": "https://www.tele2.lv/plansetes/pad-8-pro-12512gb/",
       "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Requested colour manufacturer option",
+      "value": "Gray",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "CPU layout",
+      "value": "2x Oryon 4.32GHz + 6x Oryon 3.53GHz",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display aspect ratio",
+      "value": "3:2",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display colour count",
+      "value": "68 billion",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display certification",
+      "value": "TUV Rheinland low blue light hardware; flicker free; circadian friendly",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display features",
+      "value": "DCI-P3; Pro HDR; HDR10; Dolby Vision; reading mode; adaptive colours; wet touch; 10x super resolution",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Colour temperature sensor",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front video additional modes",
+      "value": "720p 30fps",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear video additional modes",
+      "value": "720p 30fps",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Package contents reference",
+      "value": "Tablet, USB Type-C cable, quick start guide, warranty card; regional contents vary",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Power adapter reference",
+      "value": "No adapter included per charging section; local package availability must be checked",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Charging protocols",
+      "value": "QC3+, QC3.0, QC2.0, PD3.0, PD2.0, MI FC2.0",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Audio formats",
+      "value": "MP3, FLAC, APE, AAC, OGG, WAV, AMR, AWB",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Video formats",
+      "value": "MP4, MKV, WEBM, 3GP",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Video codec support",
+      "value": "HEVC",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth audio codecs",
+      "value": "AAC, LDAC, LHDC 5.0; LC3 and Auracast",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "IR remote control",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "RGB LED",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear camera sensor size",
+      "value": "1/2.76 inch",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front camera sensor size",
+      "value": "1/3.6 inch",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear camera pixel size",
+      "value": "1.28 micrometres",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front camera pixel size",
+      "value": "1.22 micrometres",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear video Full HD",
+      "value": "1080p 30/60fps",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear camera modes",
+      "value": "Photo, video, portrait, document, teleprompter, dynamic shot, HDR, professional video",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front camera modes",
+      "value": "Photo, video, portrait, teleprompter, dynamic shot, HDR",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Glass variant distinction",
+      "value": "12GB/512GB is listed for both standard and matte glass versions; request does not identify glass variant",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Matte glass variant dimensions",
+      "value": "5.8mm thickness; 494g; standard glass 5.75mm and 485g",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Screen-to-body ratio",
+      "value": "85.4%",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Package source conflict",
+      "value": "Charging section says no adapter; package list includes adapter. Confirm local package contents.",
+      "unit": "",
+      "condition": "Manufacturer model reference. Preserve the grouped specification conditions; regional availability and exact retailer SKU remain unresolved.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8-pro/specs/",
+      "checked_at": "2026-10-14"
     }
   ],
   "missing_fields": [
     "Latvia-specific MPN/GTIN",
-    "Latvia retail package contents"
+    "Latvia retail package contents",
+    "Requested Gray 12GB/512GB glass variant: standard versus matte unresolved"
   ],
   "source_pages": [
     {
@@ -320,6 +553,12 @@
       "fetched_at": "2026-10-14",
       "method": "HTTP fetch",
       "notes": "Retailer product title and rendered #eancode directly read; barcode length/checksum validated; default-colour token retained"
+    },
+    {
+      "url": "https://www.mi.com/global/product/xiaomi-pad-8-pro/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "OpenAI web open",
+      "notes": "Official specification page rechecked; granular fields added from explicit facts. Colour and capacity options are not proof of a joint Latvia SKU."
     }
   ],
   "model_family": "Xiaomi Pad 8 Pro",

@@ -6,7 +6,9 @@
   "category": "Tablets",
   "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
   "identifiers": [],
-  "aliases": [],
+  "aliases": [
+    "Tab One"
+  ],
   "checked_at": "2026-10-14",
   "status": "Manufacturer model source checked; Latvia SKU needs matching",
   "source_name": "Lenovo Tab One technical specifications",
@@ -277,6 +279,198 @@
       "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
       "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_One/Tab_One_Spec.pdf",
       "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Processor model",
+      "value": "MediaTek Helio G85",
+      "unit": "",
+      "condition": "Manufacturer PSREF platform evidence; configuration options are not a confirmed RAM/storage/network combination. WLAN/WWAN-specific fields apply only to that network variant. Exact Latvia MPN, bundle and regional availability remain unverified.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_One/Tab_One_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "CPU core count",
+      "value": "8",
+      "unit": "",
+      "condition": "Manufacturer PSREF platform evidence; configuration options are not a confirmed RAM/storage/network combination. WLAN/WWAN-specific fields apply only to that network variant. Exact Latvia MPN, bundle and regional availability remain unverified.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_One/Tab_One_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "CPU configuration",
+      "value": "2x Cortex-A75 up to 2.0 GHz + 6x Cortex-A55 up to 1.8 GHz",
+      "unit": "",
+      "condition": "Manufacturer PSREF platform evidence; configuration options are not a confirmed RAM/storage/network combination. WLAN/WWAN-specific fields apply only to that network variant. Exact Latvia MPN, bundle and regional availability remain unverified.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_One/Tab_One_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display panel technology",
+      "value": "TFT LCD (IPS)",
+      "unit": "",
+      "condition": "Manufacturer PSREF platform evidence; configuration options are not a confirmed RAM/storage/network combination. WLAN/WWAN-specific fields apply only to that network variant. Exact Latvia MPN, bundle and regional availability remain unverified.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_One/Tab_One_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display contrast ratio",
+      "value": "1500:1",
+      "unit": "",
+      "condition": "Manufacturer PSREF platform evidence; configuration options are not a confirmed RAM/storage/network combination. WLAN/WWAN-specific fields apply only to that network variant. Exact Latvia MPN, bundle and regional availability remain unverified.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_One/Tab_One_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display colour gamut",
+      "value": "60% NTSC",
+      "unit": "",
+      "condition": "Manufacturer PSREF platform evidence; configuration options are not a confirmed RAM/storage/network combination. WLAN/WWAN-specific fields apply only to that network variant. Exact Latvia MPN, bundle and regional availability remain unverified.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_One/Tab_One_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display pixel density",
+      "value": "179 PPI",
+      "unit": "",
+      "condition": "Manufacturer PSREF platform evidence; configuration options are not a confirmed RAM/storage/network combination. WLAN/WWAN-specific fields apply only to that network variant. Exact Latvia MPN, bundle and regional availability remain unverified.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_One/Tab_One_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display viewing angles",
+      "value": "85 degrees left/right/up/down",
+      "unit": "",
+      "condition": "Manufacturer PSREF platform evidence; configuration options are not a confirmed RAM/storage/network combination. WLAN/WWAN-specific fields apply only to that network variant. Exact Latvia MPN, bundle and regional availability remain unverified.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_One/Tab_One_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display surface",
+      "value": "Anti-fingerprint",
+      "unit": "",
+      "condition": "Manufacturer PSREF platform evidence; configuration options are not a confirmed RAM/storage/network combination. WLAN/WWAN-specific fields apply only to that network variant. Exact Latvia MPN, bundle and regional availability remain unverified.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_One/Tab_One_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front camera resolution",
+      "value": "2 MP",
+      "unit": "",
+      "condition": "Manufacturer PSREF platform evidence; configuration options are not a confirmed RAM/storage/network combination. WLAN/WWAN-specific fields apply only to that network variant. Exact Latvia MPN, bundle and regional availability remain unverified.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_One/Tab_One_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front camera focus",
+      "value": "Fixed focus",
+      "unit": "",
+      "condition": "Manufacturer PSREF platform evidence; configuration options are not a confirmed RAM/storage/network combination. WLAN/WWAN-specific fields apply only to that network variant. Exact Latvia MPN, bundle and regional availability remain unverified.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_One/Tab_One_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear camera resolution",
+      "value": "8 MP",
+      "unit": "",
+      "condition": "Manufacturer PSREF platform evidence; configuration options are not a confirmed RAM/storage/network combination. WLAN/WWAN-specific fields apply only to that network variant. Exact Latvia MPN, bundle and regional availability remain unverified.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_One/Tab_One_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear camera focus",
+      "value": "Autofocus",
+      "unit": "",
+      "condition": "Manufacturer PSREF platform evidence; configuration options are not a confirmed RAM/storage/network combination. WLAN/WWAN-specific fields apply only to that network variant. Exact Latvia MPN, bundle and regional availability remain unverified.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_One/Tab_One_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery quick charging support",
+      "value": "15 W",
+      "unit": "",
+      "condition": "Manufacturer PSREF platform evidence; configuration options are not a confirmed RAM/storage/network combination. WLAN/WWAN-specific fields apply only to that network variant. Exact Latvia MPN, bundle and regional availability remain unverified.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_One/Tab_One_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Maximum microSD capacity",
+      "value": "1 TB",
+      "unit": "",
+      "condition": "Manufacturer PSREF platform evidence; configuration options are not a confirmed RAM/storage/network combination. WLAN/WWAN-specific fields apply only to that network variant. Exact Latvia MPN, bundle and regional availability remain unverified.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_One/Tab_One_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Memory capacity",
+      "value": "4 GB soldered, not upgradable",
+      "unit": "",
+      "condition": "Manufacturer PSREF platform evidence; configuration options are not a confirmed RAM/storage/network combination. WLAN/WWAN-specific fields apply only to that network variant. Exact Latvia MPN, bundle and regional availability remain unverified.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_One/Tab_One_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Storage capacity options",
+      "value": "64 GB; 128 GB",
+      "unit": "",
+      "condition": "Manufacturer PSREF platform evidence; configuration options are not a confirmed RAM/storage/network combination. WLAN/WWAN-specific fields apply only to that network variant. Exact Latvia MPN, bundle and regional availability remain unverified.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_One/Tab_One_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Storage interface",
+      "value": "eMMC 5.1",
+      "unit": "",
+      "condition": "Manufacturer PSREF platform evidence; configuration options are not a confirmed RAM/storage/network combination. WLAN/WWAN-specific fields apply only to that network variant. Exact Latvia MPN, bundle and regional availability remain unverified.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_One/Tab_One_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "WWAN model SIM slot",
+      "value": "Nano-SIM + microSD",
+      "unit": "",
+      "condition": "Manufacturer PSREF platform evidence; configuration options are not a confirmed RAM/storage/network combination. WLAN/WWAN-specific fields apply only to that network variant. Exact Latvia MPN, bundle and regional availability remain unverified.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_One/Tab_One_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "WWAN model network support",
+      "value": "4G LTE",
+      "unit": "",
+      "condition": "Manufacturer PSREF platform evidence; configuration options are not a confirmed RAM/storage/network combination. WLAN/WWAN-specific fields apply only to that network variant. Exact Latvia MPN, bundle and regional availability remain unverified.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_One/Tab_One_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "WWAN model FDD LTE bands",
+      "value": "B1/2/3/4/5/7/8/12/13/17/18/19/20/26/28(a+b)/66",
+      "unit": "",
+      "condition": "Manufacturer PSREF platform evidence; configuration options are not a confirmed RAM/storage/network combination. WLAN/WWAN-specific fields apply only to that network variant. Exact Latvia MPN, bundle and regional availability remain unverified.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_One/Tab_One_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "WWAN model TDD LTE bands",
+      "value": "B38/40/41",
+      "unit": "",
+      "condition": "Manufacturer PSREF platform evidence; configuration options are not a confirmed RAM/storage/network combination. WLAN/WWAN-specific fields apply only to that network variant. Exact Latvia MPN, bundle and regional availability remain unverified.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_One/Tab_One_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "WWAN model GSM bands",
+      "value": "850/900/1800/1900 MHz",
+      "unit": "",
+      "condition": "Manufacturer PSREF platform evidence; configuration options are not a confirmed RAM/storage/network combination. WLAN/WWAN-specific fields apply only to that network variant. Exact Latvia MPN, bundle and regional availability remain unverified.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_One/Tab_One_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "WWAN model UMTS bands",
+      "value": "B1/2/4/5/6/8/19",
+      "unit": "",
+      "condition": "Manufacturer PSREF platform evidence; configuration options are not a confirmed RAM/storage/network combination. WLAN/WWAN-specific fields apply only to that network variant. Exact Latvia MPN, bundle and regional availability remain unverified.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_One/Tab_One_Spec.pdf",
+      "checked_at": "2026-10-14"
     }
   ],
   "missing_fields": [
@@ -289,6 +483,12 @@
       "fetched_at": "2026-10-14",
       "method": "HTTP PDF fetch + pdftotext",
       "notes": "Official PSREF PDF read; locally retained as research/tablets/Tab_One.pdf"
+    },
+    {
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_One/Tab_One_Spec.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "Native web PDF read and display table screenshot",
+      "notes": "Rechecked platform PDF and added granular fields; retained all original valid fields and configuration-option scope."
     }
   ],
   "research_lane": "tablets"

@@ -1,0 +1,375 @@
+{
+  "updated_records": [
+    {
+      "id": "beats-studio-buds-manufacturer-model",
+      "model": "Studio Buds +",
+      "before": 28,
+      "after": 33,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/beats-studio-buds-manufacturer-model.json"
+    },
+    {
+      "id": "beats-powerbeats-pro-2-manufacturer-model",
+      "model": "Powerbeats Pro 2",
+      "before": 25,
+      "after": 37,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/beats-powerbeats-pro-2-manufacturer-model.json"
+    },
+    {
+      "id": "beats-solo-4-manufacturer-model",
+      "model": "Solo 4",
+      "before": 25,
+      "after": 30,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/beats-solo-4-manufacturer-model.json"
+    },
+    {
+      "id": "xiaomi-watch-s4-41mm",
+      "model": "Watch S4 41mm",
+      "before": 34,
+      "after": 43,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-watch-s4-41mm.json"
+    },
+    {
+      "id": "xiaomi-redmi-watch-5-lite",
+      "model": "Redmi Watch 5 Lite",
+      "before": 19,
+      "after": 23,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-watch-5-lite.json"
+    },
+    {
+      "id": "huawei-watch-fit-4",
+      "model": "WATCH FIT 4",
+      "before": 16,
+      "after": 30,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/huawei-watch-fit-4.json"
+    },
+    {
+      "id": "lenovo-idea-tab",
+      "model": "Idea Tab",
+      "before": 34,
+      "after": 52,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-idea-tab.json"
+    },
+    {
+      "id": "lenovo-idea-tab-plus",
+      "model": "Idea Tab Plus",
+      "before": 34,
+      "after": 54,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-idea-tab-plus.json"
+    },
+    {
+      "id": "lenovo-idea-tab-pro-gen-2",
+      "model": "Idea Tab Pro Gen 2",
+      "before": 33,
+      "after": 55,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-idea-tab-pro-gen-2.json"
+    },
+    {
+      "id": "lenovo-yoga-tab",
+      "model": "Yoga Tab",
+      "before": 33,
+      "after": 57,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-yoga-tab.json"
+    },
+    {
+      "id": "lenovo-tab-one",
+      "model": "Tab One",
+      "before": 33,
+      "after": 57,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-tab-one.json"
+    },
+    {
+      "id": "lg-oled65g61lw-aeu",
+      "model": "OLED65G61LW.AEU",
+      "before": 77,
+      "after": 77,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-oled65g61lw-aeu.json"
+    },
+    {
+      "id": "lg-50nu800b3lc",
+      "model": "50NU800B3LC",
+      "before": 60,
+      "after": 60,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-50nu800b3lc.json"
+    },
+    {
+      "id": "xiaomi-redmi-note-17-global-manufacturer-model-reference",
+      "model": "Redmi Note 17",
+      "before": 16,
+      "after": 45,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-note-17-global-manufacturer-model-reference.json"
+    },
+    {
+      "id": "xiaomi-redmi-note-17-5g-global-manufacturer-model-reference",
+      "model": "REDMI Note 17 5G",
+      "before": 16,
+      "after": 45,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-note-17-5g-global-manufacturer-model-reference.json"
+    },
+    {
+      "id": "xiaomi-redmi-note-17-pro-5g-global-manufacturer-model-reference",
+      "model": "REDMI Note 17 Pro 5G",
+      "before": 16,
+      "after": 50,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-note-17-pro-5g-global-manufacturer-model-reference.json"
+    },
+    {
+      "id": "xiaomi-redmi-note-17-pro-max-5g-global-manufacturer-model-reference",
+      "model": "REDMI Note 17 Pro Max 5G",
+      "before": 16,
+      "after": 52,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-note-17-pro-max-5g-global-manufacturer-model-reference.json"
+    },
+    {
+      "id": "xiaomi-redmi-pad-2-pro-8gb-256gb",
+      "model": "REDMI Pad 2 Pro 8GB/256GB",
+      "before": 33,
+      "after": 48,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-pad-2-pro-8gb-256gb.json"
+    },
+    {
+      "id": "xiaomi-redmi-pad-2-pro-5g-8gb-256gb",
+      "model": "REDMI Pad 2 Pro 5G 8GB/256GB",
+      "before": 35,
+      "after": 55,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-redmi-pad-2-pro-5g-8gb-256gb.json"
+    },
+    {
+      "id": "xiaomi-xiaomi-pad-8-8gb-256gb",
+      "model": "Xiaomi Pad 8 8GB/256GB",
+      "before": 35,
+      "after": 60,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-xiaomi-pad-8-8gb-256gb.json"
+    },
+    {
+      "id": "xiaomi-xiaomi-pad-8-pro-12gb-512gb",
+      "model": "Xiaomi Pad 8 Pro 12GB/512GB",
+      "before": 36,
+      "after": 65,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-xiaomi-pad-8-pro-12gb-512gb.json"
+    }
+  ],
+  "reports": {
+    "review-audio-watch-report": [
+      {
+        "requested_product": "Beats Studio Buds+ Black/Gold",
+        "catalog_id": "beats-studio-buds-manufacturer-model",
+        "status": "existing_record_enriched",
+        "original_spec_count": 28,
+        "updated_spec_count": 33,
+        "exact_latvia_sku_confirmed": false,
+        "notes": "Official model and requested colour reference matched; no guessed colour MPN/GTIN."
+      },
+      {
+        "requested_product": "Beats Powerbeats Pro 2 Jet Black",
+        "catalog_id": "beats-powerbeats-pro-2-manufacturer-model",
+        "status": "existing_record_enriched",
+        "original_spec_count": 25,
+        "updated_spec_count": 37,
+        "exact_latvia_sku_confirmed": false,
+        "notes": "Official model and requested colour reference matched; no guessed colour MPN/GTIN."
+      },
+      {
+        "requested_product": "Beats Solo 4 Matte Black",
+        "catalog_id": "beats-solo-4-manufacturer-model",
+        "status": "existing_record_enriched",
+        "original_spec_count": 25,
+        "updated_spec_count": 30,
+        "exact_latvia_sku_confirmed": false,
+        "notes": "Official model and requested colour reference matched; no guessed colour MPN/GTIN."
+      },
+      {
+        "requested_product": "Xiaomi Watch S4 41mm Milanese Sunset Gold",
+        "catalog_id": "xiaomi-watch-s4-41mm",
+        "status": "existing_record_enriched",
+        "original_spec_count": 34,
+        "updated_spec_count": 43,
+        "exact_latvia_sku_confirmed": false,
+        "notes": "Official model and requested colour reference matched; no guessed colour MPN/GTIN."
+      },
+      {
+        "requested_product": "Xiaomi Redmi Watch 5 Lite",
+        "catalog_id": "xiaomi-redmi-watch-5-lite",
+        "status": "existing_record_enriched",
+        "original_spec_count": 19,
+        "updated_spec_count": 23,
+        "exact_latvia_sku_confirmed": false,
+        "notes": "Official model and requested colour reference matched; no guessed colour MPN/GTIN."
+      },
+      {
+        "requested_product": "Huawei Watch Fit 4",
+        "catalog_id": "huawei-watch-fit-4",
+        "status": "existing_record_enriched",
+        "original_spec_count": 16,
+        "updated_spec_count": 30,
+        "exact_latvia_sku_confirmed": false,
+        "notes": "Corrected malformed battery/connectivity extraction; NFC explicitly Grey only. Exact Latvia SKU unknown."
+      }
+    ],
+    "review-xiaomi-report": {
+      "checked_at": "2026-10-14",
+      "requests": [
+        {
+          "request": "Redmi Note 17 Black 4GB/128GB",
+          "id": "xiaomi-redmi-note-17-global-manufacturer-model-reference",
+          "match_status": "unresolved exact SKU; manufacturer model, colour option and memory-pair evidence verified",
+          "issue": "Colour and capacity listed separately; joint SKU/GTIN not independently confirmed",
+          "before_entries": 16,
+          "after_entries": 45,
+          "source_url": "https://www.mi.com/global/product/redmi-note-17/specs/"
+        },
+        {
+          "request": "Redmi Note 17 5G Black 6GB/126GB",
+          "id": "xiaomi-redmi-note-17-5g-global-manufacturer-model-reference",
+          "match_status": "unresolved exact SKU; manufacturer model, colour option and memory-pair evidence verified",
+          "issue": "126GB not listed; 128GB candidate requires correction confirmation",
+          "before_entries": 16,
+          "after_entries": 45,
+          "source_url": "https://www.mi.com/global/product/redmi-note-17-5g/specs/"
+        },
+        {
+          "request": "Redmi Note 17 Pro 5G Black 6GB/256GB",
+          "id": "xiaomi-redmi-note-17-pro-5g-global-manufacturer-model-reference",
+          "match_status": "unresolved exact SKU; manufacturer model, colour option and memory-pair evidence verified",
+          "issue": "Colour and capacity listed separately; joint SKU/GTIN not independently confirmed",
+          "before_entries": 16,
+          "after_entries": 50,
+          "source_url": "https://www.mi.com/global/product/redmi-note-17-pro-5g/specs/"
+        },
+        {
+          "request": "Redmi Note 17 Pro Max 5G Black 8GB/256GB",
+          "id": "xiaomi-redmi-note-17-pro-max-5g-global-manufacturer-model-reference",
+          "match_status": "unresolved exact SKU; manufacturer model, colour option and memory-pair evidence verified",
+          "issue": "Colour and capacity listed separately; joint SKU/GTIN not independently confirmed",
+          "before_entries": 16,
+          "after_entries": 52,
+          "source_url": "https://www.mi.com/global/product/redmi-note-17-pro-max-5g/specs/"
+        },
+        {
+          "request": "Redmi Pad 2 Pro Graphite Gray 8GB/256GB",
+          "id": "xiaomi-redmi-pad-2-pro-8gb-256gb",
+          "match_status": "Manufacturer memory pair and colour option supported; exact regional SKU unresolved",
+          "issue": "Separate option lists are not joint colour SKU proof",
+          "before_entries": 33,
+          "after_entries": 48,
+          "source_url": "https://www.mi.com/uk/product/redmi-pad-2-pro/specs/"
+        },
+        {
+          "request": "Redmi Pad 2 Pro 5G Graphite Gray 8GB/256GB",
+          "id": "xiaomi-redmi-pad-2-pro-5g-8gb-256gb",
+          "match_status": "Manufacturer memory pair and colour option supported; exact regional SKU unresolved",
+          "issue": "Separate option lists are not joint colour SKU proof",
+          "before_entries": 35,
+          "after_entries": 55,
+          "source_url": "https://www.mi.com/global/product/redmi-pad-2-pro-5g/specs/"
+        },
+        {
+          "request": "Xiaomi Pad 8 Gray 8GB/256GB",
+          "id": "xiaomi-xiaomi-pad-8-8gb-256gb",
+          "match_status": "Manufacturer memory pair and colour option supported; exact regional SKU unresolved",
+          "issue": "Separate option lists are not joint colour SKU proof",
+          "before_entries": 35,
+          "after_entries": 60,
+          "source_url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/"
+        },
+        {
+          "request": "Xiaomi Pad 8 Pro Gray 12GB/512GB",
+          "id": "xiaomi-xiaomi-pad-8-pro-12gb-512gb",
+          "match_status": "Manufacturer memory pair and colour option supported; exact regional SKU unresolved",
+          "issue": "Standard versus matte glass unresolved",
+          "before_entries": 36,
+          "after_entries": 65,
+          "source_url": "https://www.mi.com/global/product/xiaomi-pad-8-pro/specs/"
+        }
+      ],
+      "note": "Entry increases include atomization of existing grouped facts, not exclusively new facts. All eight official manufacturer specs pages accessed with actual OpenAI web tool."
+    },
+    "review-lenovo-tablets-report": [
+      {
+        "request": "Lenovo IdeaTab 11 8GB 128GB Wi-Fi",
+        "catalog_record_id": "lenovo-idea-tab",
+        "status": "platform_enriched_exact_configuration_unverified",
+        "scope": "Manufacturer confirms the family and relevant individual options, but requested option combination and Latvia exact MPN have not been independently established. No exact SKU record invented.",
+        "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Idea_Tab/Idea_Tab_Spec.pdf",
+        "previous_spec_count": 34,
+        "updated_spec_count": 52,
+        "required_to_confirm": "Exact Lenovo MPN / MTM or a manufacturer model configuration record."
+      },
+      {
+        "request": "Lenovo IdeaTab 11 8GB 256GB Wi-Fi",
+        "catalog_record_id": "lenovo-idea-tab",
+        "status": "platform_enriched_exact_configuration_unverified",
+        "scope": "Manufacturer confirms the family and relevant individual options, but requested option combination and Latvia exact MPN have not been independently established. No exact SKU record invented.",
+        "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Idea_Tab/Idea_Tab_Spec.pdf",
+        "previous_spec_count": 34,
+        "updated_spec_count": 52,
+        "required_to_confirm": "Exact Lenovo MPN / MTM or a manufacturer model configuration record."
+      },
+      {
+        "request": "Lenovo IdeaTab Plus 12.1 8GB 128GB Wi-Fi",
+        "catalog_record_id": "lenovo-idea-tab-plus",
+        "status": "platform_enriched_exact_configuration_unverified",
+        "scope": "Manufacturer confirms the family and relevant individual options, but requested option combination and Latvia exact MPN have not been independently established. No exact SKU record invented.",
+        "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Idea_Tab_Plus/Idea_Tab_Plus_Spec.pdf",
+        "previous_spec_count": 34,
+        "updated_spec_count": 54,
+        "required_to_confirm": "Exact Lenovo MPN / MTM or a manufacturer model configuration record."
+      },
+      {
+        "request": "Lenovo IdeaTab Pro Gen 2 13 8GB 256GB Wi-Fi",
+        "catalog_record_id": "lenovo-idea-tab-pro-gen-2",
+        "status": "platform_enriched_exact_configuration_unverified",
+        "scope": "Manufacturer confirms the family and relevant individual options, but requested option combination and Latvia exact MPN have not been independently established. No exact SKU record invented.",
+        "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Idea_Tab_Pro_Gen_2/Idea_Tab_Pro_Gen_2_Spec.pdf",
+        "previous_spec_count": 33,
+        "updated_spec_count": 55,
+        "required_to_confirm": "Exact Lenovo MPN / MTM or a manufacturer model configuration record."
+      },
+      {
+        "request": "Lenovo Yoga Tab 11.1 12GB 256GB Wi-Fi",
+        "catalog_record_id": "lenovo-yoga-tab",
+        "status": "platform_enriched_exact_configuration_unverified",
+        "scope": "Manufacturer confirms the family and relevant individual options, but requested option combination and Latvia exact MPN have not been independently established. No exact SKU record invented.",
+        "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab/Yoga_Tab_Spec.pdf",
+        "previous_spec_count": 33,
+        "updated_spec_count": 57,
+        "required_to_confirm": "Exact Lenovo MPN / MTM or a manufacturer model configuration record."
+      },
+      {
+        "request": "Lenovo Tab One 8.7 4GB 64GB 4G LTE",
+        "catalog_record_id": "lenovo-tab-one",
+        "status": "platform_enriched_exact_configuration_unverified",
+        "scope": "Manufacturer confirms the family and relevant individual options, but requested option combination and Latvia exact MPN have not been independently established. No exact SKU record invented.",
+        "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_One/Tab_One_Spec.pdf",
+        "previous_spec_count": 33,
+        "updated_spec_count": 57,
+        "required_to_confirm": "Exact Lenovo MPN / MTM or a manufacturer model configuration record."
+      }
+    ],
+    "review-lg-report": {
+      "checked_at": "2026-10-14",
+      "records": [
+        {
+          "id": "lg-oled65g61lw-aeu",
+          "previous_field_count": 77,
+          "new_field_count": 77,
+          "structured_sku": "OLED65G61LW",
+          "sales_model_code": "OLED65G61LW.AEU",
+          "title": "65 collu LG OLED evo AI G6 4K Smart TV 2026 - OLED65G61LW.AEU | LG Latvia",
+          "source_url": "https://www.lg.com/lv/televizori/lg-oled65g61lw",
+          "identity_conflict": null
+        },
+        {
+          "id": "lg-50nu800b3lc",
+          "previous_field_count": 60,
+          "new_field_count": 60,
+          "structured_sku": "50NU800B3LC",
+          "sales_model_code": "50NU800B3LC.AEUQ",
+          "title": "50 collu LG NANO 4K UHD AI NU80 4K Smart TV 2026-50NU800B3LA.AEUQ | LG Latvia",
+          "source_url": "https://www.lg.com/lv/televizori/lg-50nu800b3lc",
+          "identity_conflict": "Title only discrepancy retained"
+        }
+      ]
+    }
+  },
+  "note": "Entry increases include splitting grouped source facts into granular fields; not all entries are newly discovered facts."
+}
