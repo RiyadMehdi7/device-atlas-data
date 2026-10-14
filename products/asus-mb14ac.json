@@ -1,0 +1,260 @@
+{
+  "id": "asus-mb14ac",
+  "brand": "Asus",
+  "model": "MB14AC",
+  "category": "Monitors",
+  "scope": "ASUS global exact-model technical specification reference; Latvian stocked regional suffix and EAN unresolved.",
+  "identifiers": [
+    "MB14AC"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "ZenScreen MB14AC - Tech Specs｜Monitors｜ASUS Global",
+  "source_url": "https://www.asus.com/displays-desktops/monitors/zenscreen/zenscreen-mb14ac/techspec/",
+  "tele2_url": "https://www.tele2.lv/monitori/asus-zenscreen-mb14ac-14/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Panel Size (inch)",
+      "value": "14",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Aspect Ratio",
+      "value": "16:9",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Display Viewing Area (H x V)",
+      "value": "309.312 x 173.99 mm",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Backlight Type",
+      "value": "LED",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Panel Type",
+      "value": "IPS",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Viewing Angle (CR≧10, H/V)",
+      "value": "178°/ 178°",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Pixel Pitch",
+      "value": "0.160mm",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Resolution",
+      "value": "1920x1080",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Display Colors",
+      "value": "16.7M",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Refresh Rate (Max)",
+      "value": "60Hz",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Flicker-free",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Display Surface",
+      "value": "Anti-Glare",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Brightness (Typ.)",
+      "value": "250cd/㎡",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Contrast Ratio (Typ.)",
+      "value": "700:1",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Response Time",
+      "value": "5ms(GTG)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "SPLENDID Technology",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Color Temp. Selection",
+      "value": "Yes (4 modes)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "QuickFit",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Low Blue Light",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Trace Free Technology",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Speaker",
+      "value": "No",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "USB-C x 1 (DP Alt Mode & USB 3.2)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Power Consumption",
+      "value": "4.8 W",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Power Saving Mode",
+      "value": "<0.5W",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Power Off Mode",
+      "value": "<0.5W",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Voltage",
+      "value": "DC: 5V, 3A",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "1/4\" Tripod Socket",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Height Adjustment",
+      "value": "No",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Phys. Dimension (W x H x D)",
+      "value": "32.49 x 20.80 x 0.90 cm (12.79\" x 8.19\" x 0.35\")",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Box Dimension (W x H x D)",
+      "value": "39.20 x 7.70 x 25.70 cm (15.43\" x 3.03\" x 10.12\")",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Net Weight",
+      "value": "0.59 kg (1.30 lbs)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Gross Weight",
+      "value": "1.3 kg (2.87 lbs)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "Warranty Card",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "USB-C cable",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "Quick start guide",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "ASUS Smart Case",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "TÜV Low Blue Light",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "TÜV Flicker-free",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    }
+  ],
+  "missing_fields": [
+    "Latvia stocked unit EAN reconciliation",
+    "Manual input-specific refresh limits and test footnotes where unresolved"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.asus.com/displays-desktops/monitors/zenscreen/zenscreen-mb14ac/techspec/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "HTTP 200; exact model title and technical specification block read"
+    }
+  ],
+  "research_lane": "monitors"
+}

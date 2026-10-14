@@ -1,0 +1,382 @@
+{
+  "id": "honor-honor-200-lite-uk-manufacturer-model-reference",
+  "brand": "Honor",
+  "model": "HONOR 200 Lite",
+  "category": "Phones",
+  "scope": "UK manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Specification of HONOR 200 Lite - HONOR UK",
+  "source_url": "https://www.honor.com/uk/phones/honor-200-lite/spec/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Dimensions and Weight — Height",
+      "value": "161.05 mm",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Dimensions and Weight — Width",
+      "value": "74.55 mm",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Dimensions and Weight — Depth",
+      "value": "6.78 mm",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Dimensions and Weight — Weight",
+      "value": "Approx. 166g (including the battery) | *Product size, weight may vary with its configuration, manufacturing process and measurement methods.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Size",
+      "value": "6.7 inches | *With rounded corners design applying on the display, the diagonal length of screen is 6.7 inches, when measured according to the standard rectangle (the actual viewable area is slightly smaller).",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Aspect Ratio",
+      "value": "20.1:9",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Colour",
+      "value": "16.7 million colours, 100% DCI-P3 | *The screen supports 1.07 billion colors",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Type",
+      "value": "AMOLED",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Resolution",
+      "value": "2412 x 1080 | *The resolution measured as a standard rectangle, thus the effective pixels are slightly less.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Gestures",
+      "value": "Multi-touch gestures, up to 10 touch points supported",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Processor — CPU Model",
+      "value": "MediaTek Dimensity 6080",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Processor — CPU Type",
+      "value": "Octa-core processors",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Processor — CPU Dominant Frequency",
+      "value": "2*A76 2.4GHz + 6*A55 2.0Ghz | * The actual frequency may adjust by application load intelligently.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Processor — GPU",
+      "value": "Mali-G57 MC2",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Processor — Keyboard Type",
+      "value": "Gestures, Three-key navigation, Navigation dock",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Processor — Features",
+      "value": "Face Recognition/One-Handed mode/Dark mode/Device Clone/Multi-Window/App Lock/App Twin",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "System — Operating System",
+      "value": "MagicOS 8.0 (Based on Android 14)",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "System — User Interface",
+      "value": "MagicOS 8.0",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Rear Camera",
+      "value": "108MP Main Camera(f/1.75)+5MP Wide&Depth Camera(f/2.2)+2MP Macro Camera(f/2.4) | *The photo and video pixels may vary depending on the shooting mode. Please refer to the actual situations.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Video Shooting",
+      "value": "Support up to 1080P video shooting",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Focus Mode",
+      "value": "Up to 10x digital zoom | *There are slight differences between various modes. Please refer to actual sitautions.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Image Resolution",
+      "value": "Support up to 12000 x 9000 pixels | *The actual image resolution may vary depending on the shooting mode.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Video Resolution",
+      "value": "Support up to 1080 x 1920 pixels | *The actual video resolution may vary depending on the shooting mode.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Rear Flashlight",
+      "value": "Support",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Capture Mode",
+      "value": "Photo,Video, Portrait, Night,Aperture,Multi-Video,PRO,Slow-Mo,Panorama,HDR, Time-Lapse,Watermark, Super Macro,HIGH-RES, Story,Scan Document,Capture smiles,etc.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Front Camera",
+      "value": "50MP Camera (f/2.1) | *The pixels may vary with different photo and video modes. Please refer to the actual situations.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Image Resolution",
+      "value": "Support up to 8192 x 6144 pixels | *The pixels may vary with different photo modes. Please refer to the actual situations.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Video Resolution",
+      "value": "Support up to 1080 x 1920 pixels | *The pixels may vary with different video modes. Please refer to the actual situations.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Video Shooting",
+      "value": "Support up to 1080P video shooting",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Capture Mode",
+      "value": "Photo,Video, Portrait, Night,Time-lapse,Multi-Video,Watermark, HIGH-RES, Capture smiles,Mirror reflection, Gesture control,etc.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Face Recognition",
+      "value": "Support 2D Face Recognition",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Battery — Capacity",
+      "value": "4500 mAh (typical value) | *The rated capacity is 4400 mAh. (Non-removable Battery)",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Battery — Type",
+      "value": "Li-ion Polymer Battery",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Battery — Wired Charging",
+      "value": "Support up to 11V/3.2A super charge | *The actual charging power may vary with different scenarios intelligently. Please refer to actual situations.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Battery — Standard Charger",
+      "value": "35W HONOR SuperCharge",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Cellular Network — Network Standard",
+      "value": "5G NR 4G LTE-FDD/LTE-TDD 3G WCDMA 2G GSM",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Cellular Network — SIM Card",
+      "value": "Nano Card",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Wi-Fi Protocols",
+      "value": "802.11 a/b/g/n/ac",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Wi-Fi Frequency",
+      "value": "2.4 GHz and 5 GHz",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Wi-Fi Hotspot",
+      "value": "Support",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Wi-Fi Direct",
+      "value": "Support",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Bluetooth",
+      "value": "BT5.1",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Video Call",
+      "value": "Support (operators and third-party software) | *This function may vary with operators in different countries or regions.Please consult local network operator.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — OTG",
+      "value": "Support",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Positioning",
+      "value": "Support GPS/AGPS/GLONASS/BeiDou/Galileo",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Network-Based Positioning",
+      "value": "Support",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Wi-Fi-Based Positioning",
+      "value": "Support",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Sensors — Gravity Sensor",
+      "value": "Support",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Sensors — Fingerprint Sensor",
+      "value": "Support (side fingerprint), support fingerprint unlock",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Sensors — Compass",
+      "value": "Support",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Sensors — Ambient Light Sensor",
+      "value": "Support",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Sensors — Proximity Sensor",
+      "value": "Support (Ultrasonic approach, non-physical approach sensor)",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Media and Audio — Video",
+      "value": "*.3gp,*.mp4,*.webm,*.mkv",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Media and Audio — Audio",
+      "value": "*.mp3,*.amr,*.awb,*.3gp,*.mp4,*.m4a,*.aac,*.wav,*.ogg,*.flac,*.mkv",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Media and Audio — USB",
+      "value": "USB Type-C, USB 2.0",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Media and Audio — Earjack",
+      "value": "Type C",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Memory",
+      "value": "8GB+256GB",
+      "unit": "",
+      "condition": "UK manufacturer model reference; options grouped and manufacturer qualifiers retained.",
+      "source_url": "https://www.honor.com/uk/phones/honor-200-lite/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "In the Box",
+      "value": "1) Phone (battery included) x 1 2) Quick Start Guide x 1 3) Type-C Cable x 1 4) Eject pin x 1 5) Warranty Card x 1 6) TP protective film x 1(Attached on the phone before delivery) | *May vary in different market.",
+      "unit": "",
+      "condition": "UK manufacturer model reference; options grouped and manufacturer qualifiers retained.",
+      "source_url": "https://www.honor.com/uk/phones/honor-200-lite/spec/",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU / model code and GTIN matching",
+    "Colour-specific packaging and regional accessories"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.honor.com/uk/phones/honor-200-lite/spec/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible manufacturer specification content parsed; model-reference scope, not an exact retailer SKU."
+    }
+  ],
+  "research_lane": "phones"
+}

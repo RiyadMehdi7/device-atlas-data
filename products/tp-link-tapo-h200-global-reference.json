@@ -1,0 +1,84 @@
+{
+  "id": "tp-link-tapo-h200-global-reference",
+  "brand": "TP-Link",
+  "model": "Tapo H200",
+  "category": "Smart home",
+  "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "TP-Link Tapo H200 official specifications",
+  "source_url": "https://www.tp-link.com/en/home-networking/smart-hub/tapo-h200/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Frequency",
+      "value": "2.4GHz Wi-Fi & Sub-1G 863.35MHz, 864.35MHz, 868.35MHz (for EU/UK) 920.9MHz, 921.7MHz, 922.3MHz (for US/AU).",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Button",
+      "value": "RESET Button",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Indicator LED",
+      "value": "System LED",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Adapter Input",
+      "value": "100-240V, 50/60Hz",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Adapter Output",
+      "value": "9V, 0.85A",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Dimensions (W x D x H)",
+      "value": "71.45*71.45*31.25 mm(2.8*2.8*1.2 inch)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Package Content",
+      "value": "Tapo H200 RJ45 Ethernet Cable Power Adapter Quick Start Guide",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Operating Temperature",
+      "value": "0-40℃",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Certification",
+      "value": "CE, FCC, RCM",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU/GTIN",
+    "Hardware revision and region-specific differences"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.tp-link.com/en/home-networking/smart-hub/tapo-h200/",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP fetch; HTML specification rows parsed",
+      "notes": "9 factual specification rows read; marketing paragraphs excluded"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

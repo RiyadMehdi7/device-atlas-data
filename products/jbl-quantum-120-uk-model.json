@@ -1,0 +1,95 @@
+{
+  "id": "jbl-quantum-120-uk-model",
+  "brand": "JBL",
+  "model": "Quantum 120",
+  "category": "Headphones",
+  "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "JBL Quantum 120 | Wired multiplatform gaming headset",
+  "source_url": "https://uk.jbl.com/QUANTUM120.html",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Driver size (mm)",
+      "value": "50",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Frequency response",
+      "value": "20 Hz - 40 kHz",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Microphone frequency response",
+      "value": "50 Hz - 15 kHz",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Max input power",
+      "value": "30 mW",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "100 dB SPL@1 kHz",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Microphone sensitivity",
+      "value": "-40 dBV / Pa@1 kHz",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Impedance",
+      "value": "32 ohm",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Microphone pickup pattern",
+      "value": "Cardioid",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Weight (g)",
+      "value": "265",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Gaming Headphone",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Over-ear",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU/GTIN matching"
+  ],
+  "source_pages": [
+    {
+      "url": "https://uk.jbl.com/QUANTUM120.html",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Specification table read; conflicting or ambiguous playback totals omitted"
+    }
+  ],
+  "research_lane": "audio"
+}

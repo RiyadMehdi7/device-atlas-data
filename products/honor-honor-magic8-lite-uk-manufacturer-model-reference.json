@@ -1,0 +1,532 @@
+{
+  "id": "honor-honor-magic8-lite-uk-manufacturer-model-reference",
+  "brand": "Honor",
+  "model": "HONOR Magic8 Lite",
+  "category": "Phones",
+  "scope": "UK manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+  "identifiers": [
+    "MTN-NX1M"
+  ],
+  "aliases": [
+    "Magic8 Lite 8GB/512GB"
+  ],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Specifications of HONOR Magic8 Lite - HONOR UK",
+  "source_url": "https://www.honor.com/uk/phones/honor-magic8-lite/spec/",
+  "tele2_url": "https://www.tele2.lv/telefoni/magic8-lite8512gb-black-5109byrb/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Dimensions and Weight — Height",
+      "value": "161.9mm",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Dimensions and Weight — Width",
+      "value": "76.1mm",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Dimensions and Weight — Depth",
+      "value": "7.76mm",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Dimensions and Weight — Weight",
+      "value": "Approx. 189g (including the battery) | *The actual dimensions, weight may vary depending on the configuration, manufacturing process, and measurement method.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Size",
+      "value": "6.79 inches | *With a rounded corners design on the display, the diagonal length of the screen is 6.79 inches when measured according to the standard rectangle (the actual viewable area is slightly smaller).",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Colour",
+      "value": "100% DCI-P3, 1.07 billion colours",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Type",
+      "value": "AMOLED",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Eye Comfort Technology",
+      "value": "Eye Comfort/Circadian Night Display/Dynamic Dimming/3840Hz Ultra-high Frequency PWM Dimming | *The phone is not medical equipment and is not available for treatment.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Resolution",
+      "value": "2640*1200 | *The phone is not medical equipment and is not available for treatment.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Brightness",
+      "value": "800 nits (typical) 1800 nits (HBM type) 6000 nits (APL type)",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Screen Glass Material",
+      "value": "Aluminosilicate glass",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Processor — CPU Model",
+      "value": "Snapdragon 6 Gen 4",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Processor — CPU Type",
+      "value": "Octa-core",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Processor — CPU Dominant Frequency",
+      "value": "1× A720*2.3GHz + 3× A720*2.2GHz+ 4× A520*1.8GHz",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Processor — GPU",
+      "value": "Adreno A810",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "System — Operating System",
+      "value": "MagicOS 9.0 (Android 15)",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "System — User Interface",
+      "value": "MagicOS 9.0 (Android 15)",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Rear Camera",
+      "value": "108MP Main Camera (F1.75) 5MP Wide (F2.2)",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Video Shooting",
+      "value": "Supported 4K pixels | *The actual image resolution may vary depending on the video recording mode.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Focus Mode",
+      "value": "10X Digital zoom",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Image Resolution",
+      "value": "Supported 12000*9000 pixels | *The actual image resolution may vary depending on the shooting mode.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Video Resolution",
+      "value": "Supported 3840*2160 pixels | *The actual image resolution may vary depending on the video recording mode.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Rear Flashlight",
+      "value": "Rear single LED flash",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Capture Mode",
+      "value": "Highlights Capture, Moving Photo, AI photography, Aperture, Night, Portrait (including beauty mode), Pro, Panorama, Filter, time-lapse photography, High-res, Capture smile, Slow-motion, Wide Angle, Multi-Video, Watermark, Scan Document, Timer",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Stablization Mode",
+      "value": "OIS",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Front Camera",
+      "value": "16MP (F2.45) | *The pixels may vary with different photo and video modes. Please refer to the actual situations.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Image Resolution",
+      "value": "Supported 3456x4608 pixels",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Video Resolution",
+      "value": "Support 2520x1080 pixels | *The actual image resolution may vary depending on the video recording mode.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Video Shooting",
+      "value": "Support 1080P (up to 2520x1080) video recording",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Capture Mode",
+      "value": "Portrait (including beauty mode), Moving Photo, Filter, Capture smile, Mirror reflection, Timer, Gesture control",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Face Recognition",
+      "value": "Supported",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Battery — Capacity",
+      "value": "7500 mAh (typical value)",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Battery — Type",
+      "value": "Li-ion Polymer Battery",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Battery — Wired Charging",
+      "value": "Supported 66W | *The actual charging power may vary with different scenarios intelligently. Please refer to actual situations.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Cellular Network — Network Standard",
+      "value": "5G:NR 4G (LTE FDD/TDD) 3G (WCDMA) 2G (GSM)",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Cellular Network — SIM Card",
+      "value": "Nano SIM card | Nano SIM card/eSIM",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Wi-Fi",
+      "value": "Support Wi-Fi 6 (802.11 ax) and 802.11 a/b/g/n/ac Support 1024 QAM, 80MHz Support 2.4GHz and 5GHz Support Wi-Fi Direct & Wi-Fi Hotspot",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Bluetooth",
+      "value": "BT5.2, Support BLE, SBC, AAC, LDAC, APTX, APTX HD, AptX Adaptive",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Others",
+      "value": "PC Data Sync (Computer need install HonorSuite) Video Call (operator and third-party software) OTG (the maximum output current is 5V/1.5A) USB: Type-C, USB 2.0 Earjack: Type-C digital | *The availability of this function depends on the network operators in different countries or regions. Contact your network operator for details.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Positioning",
+      "value": "GPS/AGPS/Glonass/BeiDou/Galileo",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Sensors — Sensors",
+      "value": "Gravity Sensor Fingerprint Sensor Gyroscope Compass Acceleration Sensor Ambient Light Sensor Proximity Sensor",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Sensors — NFC",
+      "value": "Supported",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Media and Audio — Video",
+      "value": "3gp/mp4",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Media and Audio — Audio",
+      "value": "mp3/mid/amr/awb/3gp/mp4/m4a/aac/wav/ogg/flac/mkv",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Media and Audio — Sound Effect",
+      "value": "HONOR Sound 7.3",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Media and Audio — Stereo",
+      "value": "Supported",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Memory",
+      "value": "8GB+512GB",
+      "unit": "",
+      "condition": "UK manufacturer model reference; options grouped and manufacturer qualifiers retained.",
+      "source_url": "https://www.honor.com/uk/phones/honor-magic8-lite/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Water and Dust Resistance",
+      "value": "IP66 & IP68 & IP69 & IP69K",
+      "unit": "",
+      "condition": "UK manufacturer model reference; options grouped and manufacturer qualifiers retained.",
+      "source_url": "https://www.honor.com/uk/phones/honor-magic8-lite/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "In the Box",
+      "value": "1) Phone (Built-in battery) x1 2) Quick Start Guide x1 3) Type-C Cable x1 4) Eject pin x1 5) Warranty Card x1 6) TP protective film x1 (Attached on the phone before delivery)",
+      "unit": "",
+      "condition": "UK manufacturer model reference; options grouped and manufacturer qualifiers retained.",
+      "source_url": "https://www.honor.com/uk/phones/honor-magic8-lite/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Device type",
+      "value": "Smartphone",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669. Regulatory test/rated value; user-replaceability follows the regulated repair procedure and does not assert a removable battery cover.",
+      "source_url": "https://www.honor.com/content/dam/honor/common/energy/product-information-sheet/english/honor_magic8_lite_data_sheet_en.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Operating system",
+      "value": "Android",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669. Regulatory test/rated value; user-replaceability follows the regulated repair procedure and does not assert a removable battery cover.",
+      "source_url": "https://www.honor.com/content/dam/honor/common/energy/product-information-sheet/english/honor_magic8_lite_data_sheet_en.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Energy efficiency class",
+      "value": "B",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669. Regulatory test/rated value; user-replaceability follows the regulated repair procedure and does not assert a removable battery cover.",
+      "source_url": "https://www.honor.com/content/dam/honor/common/energy/product-information-sheet/english/honor_magic8_lite_data_sheet_en.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Battery user-replaceable under EU regulatory procedure",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669. Regulatory test/rated value; user-replaceability follows the regulated repair procedure and does not assert a removable battery cover.",
+      "source_url": "https://www.honor.com/content/dam/honor/common/energy/product-information-sheet/english/honor_magic8_lite_data_sheet_en.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Battery endurance per cycle (ENDdevice)",
+      "value": "68",
+      "unit": "h",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669. Regulatory test/rated value; user-replaceability follows the regulated repair procedure and does not assert a removable battery cover.",
+      "source_url": "https://www.honor.com/content/dam/honor/common/energy/product-information-sheet/english/honor_magic8_lite_data_sheet_en.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Battery endurance in cycles at default settings",
+      "value": "1 200",
+      "unit": "cycles",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669. Regulatory test/rated value; user-replaceability follows the regulated repair procedure and does not assert a removable battery cover.",
+      "source_url": "https://www.honor.com/content/dam/honor/common/energy/product-information-sheet/english/honor_magic8_lite_data_sheet_en.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Rated battery capacity",
+      "value": "7 330",
+      "unit": "mAh",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669. Regulatory test/rated value; user-replaceability follows the regulated repair procedure and does not assert a removable battery cover.",
+      "source_url": "https://www.honor.com/content/dam/honor/common/energy/product-information-sheet/english/honor_magic8_lite_data_sheet_en.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Shipped with protective cover",
+      "value": "No",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669. Regulatory test/rated value; user-replaceability follows the regulated repair procedure and does not assert a removable battery cover.",
+      "source_url": "https://www.honor.com/content/dam/honor/common/energy/product-information-sheet/english/honor_magic8_lite_data_sheet_en.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Repeated free-fall test — falls without defect",
+      "value": "270",
+      "unit": "falls",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669. Regulatory test/rated value; user-replaceability follows the regulated repair procedure and does not assert a removable battery cover.",
+      "source_url": "https://www.honor.com/content/dam/honor/common/energy/product-information-sheet/english/honor_magic8_lite_data_sheet_en.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Repeated free-fall reliability class",
+      "value": "A",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669. Regulatory test/rated value; user-replaceability follows the regulated repair procedure and does not assert a removable battery cover.",
+      "source_url": "https://www.honor.com/content/dam/honor/common/energy/product-information-sheet/english/honor_magic8_lite_data_sheet_en.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Ingress protection rating",
+      "value": "IP68",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669. Regulatory test/rated value; user-replaceability follows the regulated repair procedure and does not assert a removable battery cover.",
+      "source_url": "https://www.honor.com/content/dam/honor/common/energy/product-information-sheet/english/honor_magic8_lite_data_sheet_en.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Specified immersion depth for IPx8",
+      "value": "1,50",
+      "unit": "m",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669. Regulatory test/rated value; user-replaceability follows the regulated repair procedure and does not assert a removable battery cover.",
+      "source_url": "https://www.honor.com/content/dam/honor/common/energy/product-information-sheet/english/honor_magic8_lite_data_sheet_en.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Screen scratch resistance on Mohs hardness scale",
+      "value": "5",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669. Regulatory test/rated value; user-replaceability follows the regulated repair procedure and does not assert a removable battery cover.",
+      "source_url": "https://www.honor.com/content/dam/honor/common/energy/product-information-sheet/english/honor_magic8_lite_data_sheet_en.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Charger required output power",
+      "value": "10",
+      "unit": "W",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669. Regulatory test/rated value; user-replaceability follows the regulated repair procedure and does not assert a removable battery cover.",
+      "source_url": "https://www.honor.com/content/dam/honor/common/energy/product-information-sheet/english/honor_magic8_lite_data_sheet_en.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Minimum guaranteed availability of OS security/corrective/functionality updates",
+      "value": "5",
+      "unit": "years",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669. Regulatory test/rated value; user-replaceability follows the regulated repair procedure and does not assert a removable battery cover.",
+      "source_url": "https://www.honor.com/content/dam/honor/common/energy/product-information-sheet/english/honor_magic8_lite_data_sheet_en.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Repairability class",
+      "value": "B",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669. Regulatory test/rated value; user-replaceability follows the regulated repair procedure and does not assert a removable battery cover.",
+      "source_url": "https://www.honor.com/content/dam/honor/common/energy/product-information-sheet/english/honor_magic8_lite_data_sheet_en.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Repairability index",
+      "value": "3,57",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669. Regulatory test/rated value; user-replaceability follows the regulated repair procedure and does not assert a removable battery cover.",
+      "source_url": "https://www.honor.com/content/dam/honor/common/energy/product-information-sheet/english/honor_magic8_lite_data_sheet_en.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Disassembly depth score",
+      "value": "3,75",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669. Regulatory test/rated value; user-replaceability follows the regulated repair procedure and does not assert a removable battery cover.",
+      "source_url": "https://www.honor.com/content/dam/honor/common/energy/product-information-sheet/english/honor_magic8_lite_data_sheet_en.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Fasteners score",
+      "value": "3,60",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669. Regulatory test/rated value; user-replaceability follows the regulated repair procedure and does not assert a removable battery cover.",
+      "source_url": "https://www.honor.com/content/dam/honor/common/energy/product-information-sheet/english/honor_magic8_lite_data_sheet_en.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Tools score",
+      "value": "4,00",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669. Regulatory test/rated value; user-replaceability follows the regulated repair procedure and does not assert a removable battery cover.",
+      "source_url": "https://www.honor.com/content/dam/honor/common/energy/product-information-sheet/english/honor_magic8_lite_data_sheet_en.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Spare parts score",
+      "value": "4",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669. Regulatory test/rated value; user-replaceability follows the regulated repair procedure and does not assert a removable battery cover.",
+      "source_url": "https://www.honor.com/content/dam/honor/common/energy/product-information-sheet/english/honor_magic8_lite_data_sheet_en.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Software updates score",
+      "value": "1",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669. Regulatory test/rated value; user-replaceability follows the regulated repair procedure and does not assert a removable battery cover.",
+      "source_url": "https://www.honor.com/content/dam/honor/common/energy/product-information-sheet/english/honor_magic8_lite_data_sheet_en.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Repair information score",
+      "value": "5",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669. Regulatory test/rated value; user-replaceability follows the regulated repair procedure and does not assert a removable battery cover.",
+      "source_url": "https://www.honor.com/content/dam/honor/common/energy/product-information-sheet/english/honor_magic8_lite_data_sheet_en.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Model identifier",
+      "value": "MTN-NX1M",
+      "unit": "",
+      "condition": "EU product information sheet linked by the exact HONOR Magic8 Lite manufacturer UK specification page; Latvia retail SKU still needs matching.",
+      "source_url": "https://www.honor.com/content/dam/honor/common/energy/product-information-sheet/english/honor_magic8_lite_data_sheet_en.pdf",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU / model code and GTIN matching",
+    "Colour-specific packaging and regional accessories"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.honor.com/uk/phones/honor-magic8-lite/spec/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible manufacturer specification content parsed; model-reference scope, not an exact retailer SKU."
+    },
+    {
+      "url": "https://www.honor.com/content/dam/honor/common/energy/product-information-sheet/english/honor_magic8_lite_data_sheet_en.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch + pdftotext",
+      "notes": "Official linked EU Product Information Sheet: regulatory model identifier, rated battery/endurance, repairability and durability test values extracted."
+    }
+  ],
+  "research_lane": "phones"
+}

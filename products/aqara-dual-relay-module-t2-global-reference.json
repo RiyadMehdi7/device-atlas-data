@@ -1,0 +1,96 @@
+{
+  "id": "aqara-dual-relay-module-t2-global-reference",
+  "brand": "Aqara",
+  "model": "Dual Relay Module T2",
+  "category": "Smart home",
+  "scope": "Official Aqara EU English manufacturer reference; exact Latvian SKU and hardware revision require matching. Specifications are EU store claims. Conflicting or suspect manufacturer-store fields withheld and listed below.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Aqara Dual Relay Module T2 official specifications",
+  "source_url": "https://eu.aqara.com/en-eu/products/aqara-dual-relay-module-t2",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/smart-home-relay-module-dualdcm-k01-aqar/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Color",
+      "value": "‎White",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Compatible Platforms",
+      "value": "Aqara Apple Home Alexa Google Home IFTTT",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wireless Protocol",
+      "value": "Zigbee",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Hub Required",
+      "value": "‎Yes（Aqara Zigbee 3.0 HUB）",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Item Net Weight",
+      "value": "‎0.13 Pounds / 60g",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Operating Humidity",
+      "value": "0-95% RH, without condensation",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Operating Temperature",
+      "value": "-10°C ~ 40°C (14°F ~ 104°F)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Product Dimensions",
+      "value": "‎1.79 × 1.89 × 0.94 inches（45.5 × 48 × 24 mm）",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Rated Parameters(AC)",
+      "value": "100-250V, 50/60Hz/Max.10A, Max 2500W (Incandescent Lamp); Max. 1A, Max. 250W (LED, CFL Fluorescent Lamp); Max. 1A, Max. 1/4 HP (Motor) M.1.",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Rated Parameters(DC)",
+      "value": "24-30V: Max.10A, Max. 300W (Resistive Load); 30-60V: Max.1A, Max. 60W (Resistive Load);",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Included Components",
+      "value": "Dual Relay Module T2 × 1, User Manual × 1, DIN Rail Accessory × 1, Jumper Wire × 1",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU/GTIN",
+    "Hardware revision and region-specific differences"
+  ],
+  "source_pages": [
+    {
+      "url": "https://eu.aqara.com/en-eu/products/aqara-dual-relay-module-t2",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP fetch; HTML specification rows parsed",
+      "notes": "11 factual specification rows read; marketing paragraphs excluded"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

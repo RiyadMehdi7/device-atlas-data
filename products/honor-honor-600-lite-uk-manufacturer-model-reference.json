@@ -1,0 +1,330 @@
+{
+  "id": "honor-honor-600-lite-uk-manufacturer-model-reference",
+  "brand": "Honor",
+  "model": "HONOR 600 Lite",
+  "category": "Phones",
+  "scope": "UK manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Specifications of HONOR 600 Lite - HONOR UK",
+  "source_url": "https://www.honor.com/uk/phones/honor-600-lite/spec/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Dimensions and Weight — Height",
+      "value": "157.43mm",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Dimensions and Weight — Width",
+      "value": "75.35mm",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Dimensions and Weight — Depth",
+      "value": "7.34mm",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Dimensions and Weight — Weight",
+      "value": "Approx. 180g (including the battery) | *The actual weight may vary slightly according to configuration, manufacturing process, and measurement method.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Size",
+      "value": "6.6 inches | *With a rounded corners design on the display, the diagonal length of the screen is 6.6 inches when measured according to the standard rectangle (the actual viewable area is slightly smaller).",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Colour",
+      "value": "1.07 billion colors",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Type",
+      "value": "AMOLED",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Eye Comfort Technology",
+      "value": "Eye Comfort/Circadian Night Display/Dynamic Dimming/3840Hz PWM Dimming | *The phone is not medical equipment and is not available for treatment.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Resolution",
+      "value": "1200*2600",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Brightness",
+      "value": "800 nits (typical) 2000 nits (HBM type) 6500 nits (APL type)",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Screen Glass Material",
+      "value": "Aluminosilicate glass",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Processor — CPU Model",
+      "value": "MediaTek Dimensity 7100 Elite",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Processor — CPU Type",
+      "value": "Octa-core",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Processor — CPU Dominant Frequency",
+      "value": "4*A78 2.4Ghz + 4*A55 2.0Ghz | *The actual frequency may adjust by application load intelligently.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Processor — GPU",
+      "value": "G610 MC2",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "System — Operating System",
+      "value": "MagicOS 10 (Based on Android 16)",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "System — User Interface",
+      "value": "MagicOS 10",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Rear Camera",
+      "value": "108MP Main Camera(f/1.75) 5MP Ultra Wide Camera(f/2.2) | *The photo and video pixels may vary depending on the shooting mode. Please refer to the actual situations.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Video Shooting",
+      "value": "Support up to 1080P (1080×2520) video recording | *The actual image resolution may vary depending on the video recording mode.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Focus Mode",
+      "value": "Up to 10X Digital zoom",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Image Resolution",
+      "value": "Support up to 12000x8976 pixels | *The actual image resolution may vary depending on the shooting mode.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Video Resolution",
+      "value": "Support up to 1080x2520 pixels | *The actual video resolution may vary depending on the shooting mode.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Rear Flashlight",
+      "value": "Rear single LED flash",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Capture Mode",
+      "value": "Photo, Video, Portrait, Night, PRO, Multi-video, Slow-Mo, Panorama, Time-Lapse, HIGH-RES, Scan Document, Moving Photo, HDR, Watermark, Capture smiles, etc.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Front Camera",
+      "value": "16MP Camera (f/2.45) | *The pixels may vary with different photo and video modes. Please refer to the actual situations.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Image Resolution",
+      "value": "Support up to 4608x3456 pixels | *The pixels may vary with different photo modes. Please refer to the actual situations.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Video Resolution",
+      "value": "Support up to 1920x1080 pixels | *The actual video resolution may vary depending on the shooting mode.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Video Shooting",
+      "value": "Support up to 1080P (1920×1080) video recording | *The actual image resolution may vary depending on the video recording mode.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Capture Mode",
+      "value": "Photo, Video, Portrait, Multi-video, Moving Photo, Watermark, Capture smiles, Mirror reflection, Gesture control, etc.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Face Recognition",
+      "value": "Support 2D Face Recognition",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Battery — Capacity",
+      "value": "6320mAh (rated value), 6520 mAh (typical value) | *This capacity is the nominal battery capacity. The actual battery capacity for each individual phone may be slightly above or below the nominal battery capacity.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Battery — Type",
+      "value": "Li-ion Polymer Battery",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Battery — Wired Charging",
+      "value": "Support 45W | *The actual charging power may vary with different scenarios intelligently. Please refer to actual situations.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Battery — Standard Charger",
+      "value": "45W HONOR SuperCharge | *The actual charging power may vary with different scenarios intelligently. Please refer to actual situations.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Cellular Network — Network Standard",
+      "value": "5G NR 4G LTE-FDD/LTE-TDD 3G WCDMA 2G GSM | *In Dual SIM version, either card slot can be set to accommodate the primary or secondary SIM card. *Functions available on the live network depend on the situations of carrier's network and related services deployment.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Cellular Network — SIM Card",
+      "value": "Nano SIM card | Nano SIM card/eSIM | *The European model Luna-N31A and Luna-N31C support eSim. SIM Card 2 can be set up as eSIM or Nano SIM card. *eSIM requires a wireless service plan and allows you to activate a mobile network plan without the use of a Nano SIM. eSIM availability may vary depending on country and carrier.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Wi-Fi",
+      "value": "Support 802.11 a/b/g/n/ac, 2.4GHz and 5GHz Support WiFi hotspot/Wi-Fi Direct",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Bluetooth",
+      "value": "BT6.0, support BLE, SBC, AAC, LDAC, aptX, aptX HD, LHDC5.0",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Others",
+      "value": "PC Data Sync (Computer need install HonorSuite) OTG (maximum output current 1.2A/5V during reverse power supply) USB: Type-C, USB 2.0 Earjack: Type-C Video Call (operator and third-party software) | *The availability of this function depends on the network operators in different countries or regions. Contact your network operator for details.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Positioning",
+      "value": "GPS/AGPS/Glonass/BeiDou/Galileo",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Sensors — Sensors",
+      "value": "Gravity Sensor Fingerprint Sensor Compass Ambient Light Sensor Proximity Sensor (Ultrasonic approach, non-physical approach sensor)",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Sensors — NFC",
+      "value": "Supported",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Media and Audio — Video",
+      "value": "*.3gp, *.mp4, *.webm, *.mkv",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Media and Audio — Audio",
+      "value": "*.mp3, *.amr, *.awb, *.3gp, *.mp4, *.m4a, *.aac, *.wav, *.ogg, *.flac, *.mkv",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Media and Audio — Sound Effect",
+      "value": "HONOR Sound",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Media and Audio — Stereo",
+      "value": "300% Stereo Sound Volume",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Memory",
+      "value": "8GB+256GB | *The available internal storage may be smaller as part of the internal storage is occupied by software. Available storage version vary by region. Please consult your local dealer for details.",
+      "unit": "",
+      "condition": "UK manufacturer model reference; options grouped and manufacturer qualifiers retained.",
+      "source_url": "https://www.honor.com/uk/phones/honor-600-lite/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Water and Dust Resistance",
+      "value": "IP66 | *The phone is not professionally water resistant. It is splash-proof, water-resistant and dust-proof under normal use. It has been tested under controlled laboratory conditions and reaches the IP66 level in accordance with GB/T 4208-2017 (China) / IEC 60529 (international) standards. Splash, water, and dust resistances are not permanently effective, and the protective performance may decrease due to daily wear and tear.",
+      "unit": "",
+      "condition": "UK manufacturer model reference; options grouped and manufacturer qualifiers retained.",
+      "source_url": "https://www.honor.com/uk/phones/honor-600-lite/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "In the Box",
+      "value": "1) Phone (battery included) x1 2) Quick Start Guide x1 3) Type-C Cable x1 4) Eject pin x1 5) Warranty Card x1 6) TP protective film x1(Attached on the phone before delivery) | *Dependent on market. *Please make the object as the standard.",
+      "unit": "",
+      "condition": "UK manufacturer model reference; options grouped and manufacturer qualifiers retained.",
+      "source_url": "https://www.honor.com/uk/phones/honor-600-lite/spec/",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU / model code and GTIN matching",
+    "Colour-specific packaging and regional accessories"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.honor.com/uk/phones/honor-600-lite/spec/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible manufacturer specification content parsed; model-reference scope, not an exact retailer SKU."
+    }
+  ],
+  "research_lane": "phones"
+}

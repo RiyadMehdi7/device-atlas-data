@@ -1,0 +1,318 @@
+{
+  "id": "honor-honor-x6c-uk-manufacturer-model-reference",
+  "brand": "Honor",
+  "model": "HONOR X6c",
+  "category": "Phones",
+  "scope": "UK manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Specifications of HONOR X6c - HONOR UK",
+  "source_url": "https://www.honor.com/uk/phones/honor-x6c/spec/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Dimensions and Weight — Height",
+      "value": "163.95 mm",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Dimensions and Weight — Width",
+      "value": "75.6 mm",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Dimensions and Weight — Depth",
+      "value": "8.39 mm",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Dimensions and Weight — Weight",
+      "value": "Approx. 199 g (including the battery) | *Product size, weight may vary with its configuration, manufacturing process and measurement methods. All specifications are subject to the actual product.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Size",
+      "value": "6.61 inches | *With rounded corners design applying on the display, the diagonal length of screen is 6.61 inches, when measured according to the standard rectangle (the actual viewable area is slightly smaller).",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Colour",
+      "value": "16.7M colours",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Type",
+      "value": "TFTLCD",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Resolution",
+      "value": "1604*720 | *The resolution measured as a standard rectangle, thus the effective pixels are slightly less.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Gestures",
+      "value": "Multi-touch geatures, up to 10 touch points supported",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Processor — CPU Model",
+      "value": "MediaTek Helio G81 Ultra",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Processor — CPU Type",
+      "value": "Octa-core",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Processor — CPU Dominant Frequency",
+      "value": "2xA75 *2.0Ghz + 6xA55 *1.7Ghz | *The actual frequency may adjust by application load intelligently.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Processor — GPU",
+      "value": "ARM Mail G52 MC2",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Processor — Keyboard Type",
+      "value": "Gestures,Three keys, Navigation dock",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Processor — Features",
+      "value": "Device Clone/Multi-Window/App Twin/Backup and Restore/Magazine Unlock/Flashlight/Calendar/Gallery/Calculator/AI Translate/Magic Lock Screen/Magic Capsule",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "System — Operating System",
+      "value": "MagicOS 9.0 (based on Android 15)",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "System — User Interface",
+      "value": "MagicOS 9.0",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Rear Camera",
+      "value": "50MP Main Camera (F1.8)+Auxiliary lens | *The pixels may vary with different photo and video modes. Please refer to the actual situations.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Video Shooting",
+      "value": "Support 1080P video shooting",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Focus Mode",
+      "value": "Up to 10x digital zoom | *There are slight differences between various modes. Please refer to actual sitautions.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Image Resolution",
+      "value": "Support up to 8160*6112 pixels | *The actual image resolution may vary depending on the shooting mode.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Video Resolution",
+      "value": "Support up to 1920*1080 pixels | *The actual video resolution may vary depending on the shooting mode.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Rear Flashlight",
+      "value": "Support",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Capture Mode",
+      "value": "Portrait(including beauty mode and bokeh),Time-lapse,Night,Video,Slow-Mo,High-Res,Stickers,Panorama,PRO,Photo,etc.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Front Camera",
+      "value": "5MP (F2.2) | *The pixels may vary with different photo and video modes. Please refer to the actual situations.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Image Resolution",
+      "value": "Support up to 2592*1936 pixels | *The pixels may vary with different photo modes. Please refer to the actual situations.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Video Resolution",
+      "value": "Support up to 1920*1080 pixels | *The pixels may vary with different video modes. Please refer to the actual situations.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Video Shooting",
+      "value": "Support 1080P video shooting",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Capture Mode",
+      "value": "Portrait(including beauty mode and bokeh), Photo,Video,Stickers,etc.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Face Recognition",
+      "value": "Support 2D Face Recognition",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Battery — Capacity",
+      "value": "5300mAh (typical value) | *The rated capacity is 5200 mAh. (Non-removable Battery)",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Battery — Type",
+      "value": "Li-ion Polymer Battery",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Battery — Wired Charging",
+      "value": "Support up to 35W (11V/3.2A) super charge | *The actual charging power will change intelligently with different scenarios, please refer to the actual situation.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Battery — Standard Charger",
+      "value": "35W HONOR SuperCharge",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Cellular Network — Network Standard",
+      "value": "NIC-LX1 4G (LTE FDD) 3G (WCDMA) 2G (GSM) NIC-LX2&NIC-LX3 4G (LTE TDD/LTE FDD) 3G (WCDMA) 2G (GSM) | *Functions available on the live network depend on the situations of carrier's network and related services deployment.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Cellular Network — SIM Card",
+      "value": "Nano SIM card | nano-SIM card or microSD card",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Wi-Fi",
+      "value": "Support 802.11 a/b/g/n/ac 2.4 GHz and 5 GHz WLAN Hotspot Wi-Fi Direct",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Bluetooth",
+      "value": "BT5.1",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Others",
+      "value": "Support OTG USB: USB Type-C, USB 2.0 Earjack: 3.5 mm Support (operators and third-party software) | *This function may vary with operators in different countries or regions.Please consult local network operator.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Positioning",
+      "value": "GPS/AGPS/GLONASS/BeiDou/Galileo Network-Based Positioning WLAN-Based Positioning",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Sensors — Sensors",
+      "value": "Gravity Sensor Fingerprint Sensor Ambient Light Sensor Proximity Sensor",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Sensors — NFC",
+      "value": "Only NIC-LX1&NIC-LX2(Nick-L52D/Nick-L52E) Support",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Media and Audio — Video",
+      "value": "*.3gp,*.mp4,*.webm,*.mkv",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Media and Audio — Audio",
+      "value": "*.mp3,*.mid,*.amr,*.awb,*.3gp,*.mp4,*.m4a,*.aac,*.wav,*.ogg,*.flac,*.mkv",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Memory",
+      "value": "6GB+128GB",
+      "unit": "",
+      "condition": "UK manufacturer model reference; options grouped and manufacturer qualifiers retained.",
+      "source_url": "https://www.honor.com/uk/phones/honor-x6c/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Water and Dust Resistance",
+      "value": "IP63 | *The phone is not professionally water resistant. It is splash-proof, water-resistant and dust-proof under normal use. It has been tested under controlled laboratory conditions and reaches the IP63 level in accordance with GB/T 4208-2017 (China) / IEC 60529 (international) standards. Splash, water, and dust resistances are not permanently effective, and the protective performance may decrease due to daily wear and tear.",
+      "unit": "",
+      "condition": "UK manufacturer model reference; options grouped and manufacturer qualifiers retained.",
+      "source_url": "https://www.honor.com/uk/phones/honor-x6c/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "In the Box",
+      "value": "1) Phone (battery included) x1 2) Quick Start Guide x1 3) Type-C Cable x1 4) Eject pin x1 5) Warranty Card x1 6) TP protective film x1(Attached on the phone before delivery) | *Dependent on market. *Please make the object as the standard.",
+      "unit": "",
+      "condition": "UK manufacturer model reference; options grouped and manufacturer qualifiers retained.",
+      "source_url": "https://www.honor.com/uk/phones/honor-x6c/spec/",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU / model code and GTIN matching",
+    "Colour-specific packaging and regional accessories"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.honor.com/uk/phones/honor-x6c/spec/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible manufacturer specification content parsed; model-reference scope, not an exact retailer SKU."
+    }
+  ],
+  "research_lane": "phones"
+}

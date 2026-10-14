@@ -1,0 +1,290 @@
+{
+  "id": "ezviz-h80x-dual-global-reference",
+  "brand": "EZVIZ",
+  "model": "H80x Dual",
+  "category": "Cameras",
+  "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+  "identifiers": [
+    "CS-H80x-R100-8G82WKFL"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "EZVIZ H80x Dual official specifications",
+  "source_url": "https://www.ezviz.com/product/h80x-dual/61002",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/ezviz-cs-h80x/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Model",
+      "value": "CS-H80x-R100-8G82WKFL",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Image Sensor",
+      "value": "1/2.7” + 1/2.9” Progressive Scan CMOS",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Shutter Speed",
+      "value": "Self-adaptive shutter",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Lens",
+      "value": "4mm @ F1.0, viewing angle: 46° (Vertical), 87° (Horizontal), 103° (Diagonal) (1080p) 4mm @ F1.6, viewing angle: 46° (Vertical), 87° (Horizontal), 103° (Diagonal) (4K)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "PT Angle",
+      "value": "Pan: 340°, Tilt: 70°",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Minimum Illumination",
+      "value": "0.01 Lux @ (F1.0, AGC ON), 0 Lux with IR (*data is obtained from EZVIZ laboratories)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Lens Mount",
+      "value": "M12",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Day / Night Switch",
+      "value": "IR-cut filter with auto switch",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "DNR",
+      "value": "3D DNR",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "WDR",
+      "value": "Digital WDR",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "BLC",
+      "value": "Supports",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Black & White Night",
+      "value": "30m / 98ft",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Max Resolution",
+      "value": "3840 × 2160",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Frame Rate",
+      "value": "Self-Adaptive during network transmission",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Video Compression",
+      "value": "H.265 / H.264",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "H.265 Type",
+      "value": "Main Profile",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Video Bit Rate",
+      "value": "Ultra HD; Quad HD; Full HD;HD. Adaptive bit rate.",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Audio Bit Rate",
+      "value": "Self-Adaptive",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wi-Fi Standard",
+      "value": "IEEE802.11b, 802.11g, 802.11n",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Frequency Range",
+      "value": "2.4 GHz ~ 2.4835 GHz",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Channel Bandwidth",
+      "value": "Supports 20MHz",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Security",
+      "value": "64 / 128 - bit WEP, WPA / WPA2, WPA-PSK / WPA2 - PSK",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Transmission Rate",
+      "value": "11b : 11 Mbps, 11g : 54 Mbps, 11n : 150 Mbps",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wi-Fi Pairing",
+      "value": "AP paring",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Protocol",
+      "value": "EZVIZ Cloud Proprietary Protocol",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Interface Protocol",
+      "value": "EZVIZ Cloud Proprietary Protocol",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wired Network",
+      "value": "RJ45 × 1 (10M / 100M Adaptive Ethernet Port)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Smart Alarm",
+      "value": "AI-powered human shape detection AI-powered vehicle shape detection",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Customized Alert Area",
+      "value": "Supports",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Two-way Talk",
+      "value": "Supports",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Auto Tracking",
+      "value": "Supports",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "General Function",
+      "value": "Anti-Flicker, Dual-Stream, Heart Beat, Password Protection, Watermark",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Local Storage",
+      "value": "Supports microSD Card (Up to 512 GB)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Cloud Storage",
+      "value": "Supports EZVIZ CloudPlay storage (Subscription required)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Operating Conditions",
+      "value": "-30ºC ~ 50ºC Humidity 95% or less (non-condensing)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "IP Grade",
+      "value": "IP65",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Power Supply",
+      "value": "DC 12V/1A",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Power Consumption",
+      "value": "MAX. 12W",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Dimensions",
+      "value": "170 × 112 × 154 mm (6.69 × 4.41 × 6.06 inch)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Packaging Dimensions",
+      "value": "205 × 176 × 194 mm (8.07 × 6.93 × 7.64 inch)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Weight",
+      "value": "Product: 630 g (22.22 oz) Weight with package: 1035 g (36.5 oz)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "In the box",
+      "value": "- H80x Dual 4K Camera",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Certifications",
+      "value": "CE / UL / WEEE / RoHS / REACH",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU/GTIN",
+    "Hardware revision and region-specific differences"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.ezviz.com/product/h80x-dual/61002",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP fetch; HTML specification rows parsed",
+      "notes": "43 factual specification rows read; marketing paragraphs excluded"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

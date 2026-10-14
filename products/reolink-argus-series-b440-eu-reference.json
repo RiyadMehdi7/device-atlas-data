@@ -1,0 +1,166 @@
+{
+  "id": "reolink-argus-series-b440-eu-reference",
+  "brand": "Reolink",
+  "model": "Argus Series B440",
+  "category": "Cameras",
+  "scope": "Manufacturer reference from public web-open content. DK/BE regional scope where indicated; global W330 reference. Exact Latvia hardware, model code and included kit require matching. NVS16 applies only to N6MB01. Conflicting rows withheld.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Reolink Argus Series B440 official specifications",
+  "source_url": "https://reolink.com/dk/product/argus-series-b440/",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/reolink-argus-series-b440/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Sensor",
+      "value": "1/2.7-inch CMOS",
+      "unit": ""
+    },
+    {
+      "label": "Resolution",
+      "value": "3840 × 2160, 8MP at 15fps",
+      "unit": ""
+    },
+    {
+      "label": "Codec",
+      "value": "H.265",
+      "unit": ""
+    },
+    {
+      "label": "Lens",
+      "value": "Fixed",
+      "unit": ""
+    },
+    {
+      "label": "Field of view",
+      "value": "Horizontal90°, vertical47°, diagonal110°",
+      "unit": ""
+    },
+    {
+      "label": "IR night vision",
+      "value": "Up to 10m; two850nm LEDs, 1.2W",
+      "unit": ""
+    },
+    {
+      "label": "Spotlights",
+      "value": "Two, 2.4W, 6500K",
+      "unit": ""
+    },
+    {
+      "label": "Audio",
+      "value": "Two-way",
+      "unit": ""
+    },
+    {
+      "label": "Detection",
+      "value": "PIR, human, vehicle, pet",
+      "unit": ""
+    },
+    {
+      "label": "PIR distance",
+      "value": "Adjustable up to 10m",
+      "unit": ""
+    },
+    {
+      "label": "PIR angle",
+      "value": "120° horizontal",
+      "unit": ""
+    },
+    {
+      "label": "Verbal alerts",
+      "value": "Customizable",
+      "unit": ""
+    },
+    {
+      "label": "Recording",
+      "value": "Motion-triggered",
+      "unit": ""
+    },
+    {
+      "label": "Alerts",
+      "value": "Email and push",
+      "unit": ""
+    },
+    {
+      "label": "Pan/tilt",
+      "value": "355°/140°",
+      "unit": ""
+    },
+    {
+      "label": "Positions",
+      "value": "One guard, up to 32 presets",
+      "unit": ""
+    },
+    {
+      "label": "Wi-Fi bands",
+      "value": "2.4/5GHz",
+      "unit": ""
+    },
+    {
+      "label": "Wi-Fi standard",
+      "value": "IEEE802.11a/b/g/n",
+      "unit": ""
+    },
+    {
+      "label": "Wi-Fi security",
+      "value": "WPA-PSK/WPA2-PSK",
+      "unit": ""
+    },
+    {
+      "label": "Battery energy",
+      "value": "21.6Wh",
+      "unit": ""
+    },
+    {
+      "label": "Solar compatibility",
+      "value": "Reolink Solar Panel2",
+      "unit": ""
+    },
+    {
+      "label": "Charging connector",
+      "value": "USB-C",
+      "unit": ""
+    },
+    {
+      "label": "microSD maximum",
+      "value": "128GB",
+      "unit": ""
+    },
+    {
+      "label": "Cloud",
+      "value": "Selected countries",
+      "unit": ""
+    },
+    {
+      "label": "Assistants",
+      "value": "Google Assistant, Alexa",
+      "unit": ""
+    },
+    {
+      "label": "Operating temperature",
+      "value": "-10°C to55°C",
+      "unit": ""
+    },
+    {
+      "label": "Ingress protection",
+      "value": "IP64",
+      "unit": ""
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU/GTIN and hardware revision",
+    "Dimensions/weight not in retrieved section",
+    "Battery life depends on settings, usage and temperature"
+  ],
+  "source_pages": [
+    {
+      "url": "https://reolink.com/dk/product/argus-series-b440/",
+      "fetched_at": "2026-10-14",
+      "method": "web open; public manufacturer page content read",
+      "notes": "Direct HTTP403; ordinary web open succeeded; no bypass or credentials. Technical rows read, source contradictions withheld"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

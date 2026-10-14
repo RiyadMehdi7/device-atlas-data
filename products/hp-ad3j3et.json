@@ -1,0 +1,203 @@
+{
+  "id": "hp-ad3j3et",
+  "brand": "HP",
+  "model": "HP EliteBook 6 G1a 14 inch Notebook AI PC (AD3J3ET)",
+  "category": "Laptops",
+  "scope": "Exact manufacturer MPN from official HP Ireland localized specification page. Regional keyboard suffix/GTIN and Latvian availability unverified; no claim this matches Tele2 configuration. Source processor-family labels can conflict with actual processor and are kept as claims.",
+  "identifiers": [
+    "AD3J3ET"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Exact variant source checked",
+  "source_name": "HP EliteBook 6 G1a 14 inch Notebook AI PC (AD3J3ET) technical specifications",
+  "source_url": "https://www.hp.com/ie-en/products/laptops/product-details/product-specifications/2103100235",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Operating system",
+      "value": "Windows 11 Pro",
+      "unit": "",
+      "condition": "Official HP Ireland localized page for MPN AD3J3ET. Regional page is not proof of Latvia/EU stock; source values retained as stated."
+    },
+    {
+      "label": "Processor family",
+      "value": "AMD Ryzen™ 5 processor",
+      "unit": "",
+      "condition": "Official HP Ireland localized page for MPN AD3J3ET. Regional page is not proof of Latvia/EU stock; source values retained as stated."
+    },
+    {
+      "label": "Processor",
+      "value": "AMD Ryzen™ 5 230 (up to 4.9 GHz max boost clock, 16 MB L3 cache, 6 cores, 12 threads)",
+      "unit": "",
+      "condition": "Official HP Ireland localized page for MPN AD3J3ET. Regional page is not proof of Latvia/EU stock; source values retained as stated."
+    },
+    {
+      "label": "Graphics",
+      "value": "Integrated,; AMD Radeon™ 760M Graphics",
+      "unit": "",
+      "condition": "Official HP Ireland localized page for MPN AD3J3ET. Regional page is not proof of Latvia/EU stock; source values retained as stated."
+    },
+    {
+      "label": "Memory",
+      "value": "16 GB DDR5-5600 MT/s (1 x 16 GB)",
+      "unit": "",
+      "condition": "Official HP Ireland localized page for MPN AD3J3ET. Regional page is not proof of Latvia/EU stock; source values retained as stated."
+    },
+    {
+      "label": "Memory Slots",
+      "value": "2 SODIMM",
+      "unit": "",
+      "condition": "Official HP Ireland localized page for MPN AD3J3ET. Regional page is not proof of Latvia/EU stock; source values retained as stated."
+    },
+    {
+      "label": "Internal Storage",
+      "value": "512 GB PCIe® NVMe™ SSD",
+      "unit": "",
+      "condition": "Official HP Ireland localized page for MPN AD3J3ET. Regional page is not proof of Latvia/EU stock; source values retained as stated."
+    },
+    {
+      "label": "Display",
+      "value": "14\" diagonal, WUXGA (1920 x 1200), IPS, anti-glare, 300 nits, 62.5% sRGB",
+      "unit": "",
+      "condition": "Official HP Ireland localized page for MPN AD3J3ET. Regional page is not proof of Latvia/EU stock; source values retained as stated."
+    },
+    {
+      "label": "Display",
+      "value": "35.6 cm (14\") diagonal, WUXGA (1920 x 1200), IPS, anti-glare, 300 nits, 62.5% sRGB",
+      "unit": "",
+      "condition": "Official HP Ireland localized page for MPN AD3J3ET. Regional page is not proof of Latvia/EU stock; source values retained as stated."
+    },
+    {
+      "label": "Touchscreen",
+      "value": "No",
+      "unit": "",
+      "condition": "Official HP Ireland localized page for MPN AD3J3ET. Regional page is not proof of Latvia/EU stock; source values retained as stated."
+    },
+    {
+      "label": "Color gamut",
+      "value": "62.5% sRGB",
+      "unit": "",
+      "condition": "Official HP Ireland localized page for MPN AD3J3ET. Regional page is not proof of Latvia/EU stock; source values retained as stated."
+    },
+    {
+      "label": "Brightness",
+      "value": "300 nits",
+      "unit": "",
+      "condition": "Official HP Ireland localized page for MPN AD3J3ET. Regional page is not proof of Latvia/EU stock; source values retained as stated."
+    },
+    {
+      "label": "Dimensions (W x D x H)",
+      "value": "31.86 x 22.43 x 1.09 cm (front); 31.86 x 22.43 x 1.7 cm (rear) (Front height measurement is near the front edge where the chassis bottom cover taper begins. Back height measurement is near the back edge where the chassis bottom cover taper ends.)",
+      "unit": "",
+      "condition": "Official HP Ireland localized page for MPN AD3J3ET. Regional page is not proof of Latvia/EU stock; source values retained as stated."
+    },
+    {
+      "label": "Weight",
+      "value": "Starting at 1.4 kg (Weight will vary by configuration. Does not include power adapter.)",
+      "unit": "",
+      "condition": "Official HP Ireland localized page for MPN AD3J3ET. Regional page is not proof of Latvia/EU stock; source values retained as stated."
+    },
+    {
+      "label": "Battery type",
+      "value": "HP Long Life 3-cell, 56 Wh Li-ion polymer",
+      "unit": "",
+      "condition": "Official HP Ireland localized page for MPN AD3J3ET. Regional page is not proof of Latvia/EU stock; source values retained as stated."
+    },
+    {
+      "label": "Wireless",
+      "value": "MediaTek Wi-Fi 7 MT7925 (2x2) and Bluetooth® 5.4 wireless card",
+      "unit": "",
+      "condition": "Official HP Ireland localized page for MPN AD3J3ET. Regional page is not proof of Latvia/EU stock; source values retained as stated."
+    },
+    {
+      "label": "Mobile broadband",
+      "value": "HP R15 4G LTE Advanced",
+      "unit": "",
+      "condition": "Official HP Ireland localized page for MPN AD3J3ET. Regional page is not proof of Latvia/EU stock; source values retained as stated."
+    },
+    {
+      "label": "Product color",
+      "value": "Pike silver",
+      "unit": "",
+      "condition": "Official HP Ireland localized page for MPN AD3J3ET. Regional page is not proof of Latvia/EU stock; source values retained as stated."
+    },
+    {
+      "label": "Keyboard",
+      "value": "Spill-resistant, backlit keyboard",
+      "unit": "",
+      "condition": "Official HP Ireland localized page for MPN AD3J3ET. Regional page is not proof of Latvia/EU stock; source values retained as stated."
+    },
+    {
+      "label": "Camera",
+      "value": "5 MP IR camera",
+      "unit": "",
+      "condition": "Official HP Ireland localized page for MPN AD3J3ET. Regional page is not proof of Latvia/EU stock; source values retained as stated."
+    },
+    {
+      "label": "Audio",
+      "value": "Audio by Poly Studio, dual stereo speakers, dual array microphones",
+      "unit": "",
+      "condition": "Official HP Ireland localized page for MPN AD3J3ET. Regional page is not proof of Latvia/EU stock; source values retained as stated."
+    },
+    {
+      "label": "Pointing device",
+      "value": "Clickpad with multi-touch gesture support, taps enabled as default",
+      "unit": "",
+      "condition": "Official HP Ireland localized page for MPN AD3J3ET. Regional page is not proof of Latvia/EU stock; source values retained as stated."
+    },
+    {
+      "label": "Memory card device",
+      "value": "1 Smartcard reader",
+      "unit": "",
+      "condition": "Official HP Ireland localized page for MPN AD3J3ET. Regional page is not proof of Latvia/EU stock; source values retained as stated."
+    },
+    {
+      "label": "Ports",
+      "value": "1 HDMI 2.1; 1 stereo headphone/microphone combo jack; 1 RJ-45; 1 security lock slot; 2 USB Type-A 5Gbps signaling rate (powered); 2 Thunderbolt™ 4 with USB Type-C® 40Gbps signaling rate (USB Power Delivery 3.0, DisplayPort™ 1.4)",
+      "unit": "",
+      "condition": "Official HP Ireland localized page for MPN AD3J3ET. Regional page is not proof of Latvia/EU stock; source values retained as stated."
+    },
+    {
+      "label": "Power",
+      "value": "65 W USB Type-C® adapter",
+      "unit": "",
+      "condition": "Official HP Ireland localized page for MPN AD3J3ET. Regional page is not proof of Latvia/EU stock; source values retained as stated."
+    },
+    {
+      "label": "Fingerprint reader",
+      "value": "Fingerprint reader",
+      "unit": "",
+      "condition": "Official HP Ireland localized page for MPN AD3J3ET. Regional page is not proof of Latvia/EU stock; source values retained as stated."
+    },
+    {
+      "label": "Input devices",
+      "value": "HP Sure Platform; Thermal sensor; HP Tamper Lock; Hall effect sensor",
+      "unit": "",
+      "condition": "Official HP Ireland localized page for MPN AD3J3ET. Regional page is not proof of Latvia/EU stock; source values retained as stated."
+    },
+    {
+      "label": "Manufacturer Warranty",
+      "value": "1 year (1/1/0) limited warranty includes 1 year of parts and labor. No on-site repair. Terms and conditions vary by country. Certain restrictions and exclusions apply.",
+      "unit": "",
+      "condition": "Official HP Ireland localized page for MPN AD3J3ET. Regional page is not proof of Latvia/EU stock; source values retained as stated."
+    }
+  ],
+  "missing_fields": [
+    "Latvia availability/retail SKU match",
+    "Regional keyboard suffix/GTIN",
+    "Battery life test conditions omitted"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.hp.com/ie-en/products/laptops/product-details/product-specifications/2103100235",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "http_status": 200,
+      "content_title": "HP EliteBook 6 G1a 14 inch Notebook AI PC (AD3J3ET)",
+      "notes": "Official per-MPN specification table fetched and parsed. Structured extraction retained."
+    }
+  ],
+  "research_lane": "computers"
+}

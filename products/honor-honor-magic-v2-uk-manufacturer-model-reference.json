@@ -1,0 +1,424 @@
+{
+  "id": "honor-honor-magic-v2-uk-manufacturer-model-reference",
+  "brand": "Honor",
+  "model": "HONOR Magic V2",
+  "category": "Phones",
+  "scope": "UK manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "HONOR Magic V2 specification - HONOR UK",
+  "source_url": "https://www.honor.com/uk/phones/honor-magic-v2/spec/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Dimensions and Weight — Height",
+      "value": "156.7 mm",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Dimensions and Weight — Width",
+      "value": "folded: 74.0 mm unfolded: 145.4 mm",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Dimensions and Weight — Depth",
+      "value": "PU Version: folded: 9.9 mm unfolded: 4.7 mm Glass Version: folded: 10.1 mm unfolded: 4.8 mm",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Dimensions and Weight — Weight",
+      "value": "PU Version: Approx. 231 g (including the battery); Glass Version: Approx. 237 g (including the battery)",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Size",
+      "value": "Inner screen: 7.92 inches External screen: 6.43 inches | *With rounded corners design on the display, the diagonal length of the inner screen and external screen is 7.92 inches and 6.43 inches when measured according to the standard rectangle (the actual viewable area is slightly smaller).",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Aspect Ratio",
+      "value": "Inner screen: 9.78:9 External screen: 20:9",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Colour",
+      "value": "1.07 billion colors, DCI-P3 wide color gamut",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Type",
+      "value": "Inner screen: foldable OLED, up to 120 Hz refresh rate External screen: OLED, up to 120 Hz refresh rate",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Resolution",
+      "value": "Inner screen: 2344x2156 Pixels External screen: 2376x1060 Pixels | *The resolution measured as a standard rectangle, thus the effective pixels are slightly less.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Gestures",
+      "value": "Supported",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Processor — CPU Model",
+      "value": "Snapdragon 8 Gen 2",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Processor — CPU Type",
+      "value": "Octa-core",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Processor — CPU Dominant Frequency",
+      "value": "1×Cortex-X3 3.19GHz+ 2×Cortex-A715 2.8GHz+ 2×Cortex-A710 2.8GHz+ 3×Cortex-A510 2.0GHz",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Processor — GPU",
+      "value": "Adreno 740",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Processor — Keyboard Type",
+      "value": "Gestures, Three-key navigation, Navigation dock",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "System — Operating System",
+      "value": "MagicOS 8.0 (Based on Android 14)",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "System — User Interface",
+      "value": "MagicOS 8.0",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Rear Camera",
+      "value": "50MP Wide Camera (f/1.9, OIS) 50MP Ultra Wide Camera (f/2.0) 20MP telephoto Camera (f/2.4, OIS) | *The pixels may vary with different photo and video modes. Please refer to the actual situations.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Video Shooting",
+      "value": "Support for 4K (3840×2160 pixels) | *The actual image resolution may vary depending on the video recording mode.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Focus Mode",
+      "value": "40x Digital zoom",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Image Resolution",
+      "value": "8192×6144 pixels | *The actual image resolution may vary depending on the shooting mode.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Video Resolution",
+      "value": "3840×2160 pixels | *The actual image resolution may vary depending on the video recording mode.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Rear Flashlight",
+      "value": "Rear single LED flash",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Stablization Mode",
+      "value": "EIS+OIS",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Front Camera",
+      "value": "16MP Wide Camera (f/2.2) | *The pixels may vary with different photo and video modes. Please refer to the actual situations.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Image Resolution",
+      "value": "4608×3456 pixels | *The actual image resolution may vary depending on the shooting mode",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Video Resolution",
+      "value": "3840×2160 pixels | *The actual image resolution may vary depending on the video recording mode.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Video Shooting",
+      "value": "Supported 4K (3840×2160 pixels） | *The actual image resolution may vary depending on the video recording mode.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Face Recognition",
+      "value": "Supported 2D",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Battery — Capacity",
+      "value": "5000 mAh (typical value), 4900 mAh (rated value)",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Battery — Type",
+      "value": "Silicon-Carbon",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Battery — Wired Charging",
+      "value": "HONOR 66W SuperCharge The phone supports up to 11V/6A SuperCharge, compatible with 10V/4A and 5V/2A. | *The supported maximum wired charging power is 66W when going with the original SuperCharge charger. The actual charging power will intelligently change depending on different scenarios.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Battery — Standard Charger",
+      "value": "HONOR 66W SuperCharge Charger",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Cellular Network — Network Standard",
+      "value": "Support 5G/4G+/4G/3G/2G | *In Dual SIM version, either card slot can be set to accommodate the primary or secondary SIM card. *Whether 5G/4G is available depends on the deployment of operators' network and related services.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Cellular Network — Data service",
+      "value": "5G NR/TD-LTE/FDD-LTE/WCDMA/HSPA+/DC-HSDPA/CDMA1X/EDGE/GPRS, support VoLTE/ViLTE | *The network and frequency band may vary with regions.The actual situations depend on local operators and your location. *VoLTE/ViLTE depends on the support of operators' network and establishment of related services.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Cellular Network — SIM Card",
+      "value": "Nano SIM card",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Cellular Network — Internet Access on the Secondary SIM Card",
+      "value": "Supported | *Blind mating is supported,which allows you to configure any card as the primary SIM card. *Open\"Switch data connection during calls\" in \"Dual SIM settings\" to enable secondary SIM card Internet accessibility during calls. *VoLTE call via the secondary SIM card depends on the carrier network.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Wi-Fi Protocols",
+      "value": "802.11 a/b/g/n/ac/ax/be | *The 802.11 be feature require OTA upgrade, and needs to be used with a Wi-Fi 7 router.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Wi-Fi Frequency",
+      "value": "2.4GHz and 5GHz",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Wi-Fi Hotspot",
+      "value": "Supported",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Wi-Fi Direct",
+      "value": "Supported",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Bluetooth",
+      "value": "BT5.3,Support BLE,SBC,AAC, LDAC,APTX,APTX HD",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Infrared Remote Control",
+      "value": "Supported",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — PC Data Sync",
+      "value": "Supported",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Video Call",
+      "value": "Supported (operator and third-party software) | *The availability of this function depends on the network operators in different countries or regions. Contact your network operator for details.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — OTG",
+      "value": "Supported (maximum output current 1A/5V during reverse power supply)",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Positioning",
+      "value": "Support GPS(L1+L5) /AGPS/GLONASS/BeiDou(B1I+B1C+B2a)/Galileo(E1 + E5a)",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Network-Based Positioning",
+      "value": "Supported",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Wi-Fi-Based Positioning",
+      "value": "Supported",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Sensors — Gravity Sensor",
+      "value": "Supported",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Sensors — Infrared Sensor",
+      "value": "Supported",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Sensors — Fingerprint Sensor",
+      "value": "Supported",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Sensors — Gyroscope",
+      "value": "Supported",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Sensors — Compass",
+      "value": "Supported",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Sensors — NFC",
+      "value": "Support Reader/Writer Mode,Card Emulation Mode (SIM*, HCE) | *Only SIM1 support.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Sensors — Ambient Light Sensor",
+      "value": "Supported",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Sensors — Proximity Sensor",
+      "value": "Supported",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Media and Audio — Video",
+      "value": "3gp/mp4",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Media and Audio — Audio",
+      "value": "mp3/mp4/3gp/ogg/amr/aac/flac/ wav/midi",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Media and Audio — Sound Effect",
+      "value": "DTS:X® Ultra",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Media and Audio — Stereo",
+      "value": "Supported",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Media and Audio — USB",
+      "value": "USB Type-C, USB 3.1 GEN1",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Media and Audio — Earjack",
+      "value": "USB Type-C | *Supports Type-C digital headset.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Memory",
+      "value": "HONOR Magic V2: 16GB+512GB | *The available internal storage may be smaller as part of the internal storage is occupied by software.",
+      "unit": "",
+      "condition": "UK manufacturer model reference; options grouped and manufacturer qualifiers retained.",
+      "source_url": "https://www.honor.com/uk/phones/honor-magic-v2/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "In the Box",
+      "value": "HONOR Magic V2: 1. Phone(Built-in battery) x 1 2. USB Type-C Cable x 1 3. Quick Start Guide x 1 4. Eject Tool x 1 5. Inner screen protective film (Attached on the phone before delivery) x 1 6. External screen protective film (Attached on the phone before delivery) x 1 7. Warranty Card x 1 8. PU Case x 1 | * Dependent on market",
+      "unit": "",
+      "condition": "UK manufacturer model reference; options grouped and manufacturer qualifiers retained.",
+      "source_url": "https://www.honor.com/uk/phones/honor-magic-v2/spec/",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU / model code and GTIN matching",
+    "Colour-specific packaging and regional accessories"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.honor.com/uk/phones/honor-magic-v2/spec/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible manufacturer specification content parsed; model-reference scope, not an exact retailer SKU."
+    }
+  ],
+  "research_lane": "phones"
+}

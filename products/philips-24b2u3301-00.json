@@ -1,0 +1,476 @@
+{
+  "id": "philips-24b2u3301-00",
+  "brand": "Philips",
+  "model": "24B2U3301/00",
+  "category": "Monitors",
+  "scope": "Official publicly accessible Philips UK product reference on tst.philips.co.uk. Exact /00 model; Tele2 stock identifiers still require reconciliation.",
+  "identifiers": [
+    "24B2U3301/00"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Business Monitor LCD monitor with USB-C 24B2U3301/00 | Philips",
+  "source_url": "https://tst.philips.co.uk/c-p/24B2U3301_00/business-monitor-lcd-monitor-with-usb-c",
+  "tele2_url": "https://www.tele2.lv/monitori/philips-24b2u330100-238inch-ips-fhd/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Panel Size",
+      "value": "23.8 inch/60.47 cm",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Aspect ratio",
+      "value": "16:9",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "LCD panel type",
+      "value": "IPS technology",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Backlight type",
+      "value": "W-LED system",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Pixel pitch",
+      "value": "0.2745 (H) mm x 0.2745 (V) mm",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Optimum resolution",
+      "value": "1920 x 1080 @ 60 Hz",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Brightness",
+      "value": "300 cd/m²",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Display colours",
+      "value": "16.7M (8 bit)",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Colour gamut (typical)",
+      "value": "sRGB 110% , NTSC 96% *",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Contrast ratio (typical)",
+      "value": "1500:1",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "SmartContrast",
+      "value": "50,000,000:1",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Response time (typical)",
+      "value": "4 ms (Grey to Grey)*",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Viewing angle",
+      "value": "178º (H)/178º (V) @ C/R > 10",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Picture enhancement",
+      "value": "SmartImage",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Maximum resolution",
+      "value": "1920 x 1080 @ 120 Hz",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Effective viewing area",
+      "value": "527.04 (H) x 296.46 (V) mm",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Scanning Frequency",
+      "value": "30k-140 k Hz (H) / 48-120 Hz (V)",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "sRGB",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "SoftBlue",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Flicker-free",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Pixel Density",
+      "value": "93 PPI",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Display Screen Coating",
+      "value": "Anti-Glare, 3H, Haze 25%",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "EasyRead",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Adaptive sync",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "EyeSafe",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Signal Input",
+      "value": "HDMI 1.4 x 1, DisplayPort 1.4 x 1, USB-C x 1 (upstream, DP Alt mode, Data, PD)",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Sync Input",
+      "value": "Separate Sync Sync on Green",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Audio (In/Out)",
+      "value": "Audio out",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "RJ45",
+      "value": "Ethernet LAN (USB 2.0: 10 M/100 M; USB 3.0: 1000 M)",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Signal Output",
+      "value": "DP out",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "HDCP",
+      "value": "HDCP 1.4 (HDMI/DisplayPort)",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "USB Hub",
+      "value": "USB3.2, Gen1, 5G, upstream: 1 x USB-C (Full) ,downstream: USB-A x 4 (with x 1 fast charge B.C 1.2)",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Max power delivery",
+      "value": "Up to 90 W (5 V/3 A, 7 V/3 A, 9 V/3 A, 10 V/3 A, 12 V/3 A, 15 V/3 A, 20 V/4.5 A)",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Version",
+      "value": "USB PD version 3.0",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Built-in Speakers",
+      "value": "2 W x 2",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Plug and Play Compatibility",
+      "value": "DDC/CI Mac OS sRGB Windows 11/10",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "User convenience",
+      "value": "SmartImage Input Brightness Menu Power On/Off",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "OSD Languages",
+      "value": "Brazil Portuguese Czech Dutch English French Finnish German Greek Hungarian Italian Japanese Korean Portuguese Polish Russian Simplified Chinese Spanish Swedish Traditional Chinese Turkish Ukrainian",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Other convenience",
+      "value": "Kensington lock VESA mount (100 x 100 mm)",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Control software",
+      "value": "SmartControl",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Height adjustment",
+      "value": "150 mm",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Pivot",
+      "value": "-/+90 degree",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Swivel",
+      "value": "-/+ 180 degree",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Tilt",
+      "value": "-5/30 degree",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "ECO mode",
+      "value": "10.4 W (typ.)",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Power supply",
+      "value": "Built-in 100–240 VAC, 50–60 Hz",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Off mode",
+      "value": "0.3 W (typ)",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "On mode",
+      "value": "13.53 W (typ.) (Energy Star test method)",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Standby mode",
+      "value": "0.3 W (typ)",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Power LED indicator",
+      "value": "Operation - White Standby mode - White (flashing)",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Energy Label Class",
+      "value": "C",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Packaging in mm (W x H x D)",
+      "value": "690 x 395 x 124 mm",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Product without stand (mm)",
+      "value": "542 x 320 x 48 mm",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Product with stand (max height)",
+      "value": "542 x 499 x 228 mm",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Product with packaging (kg)",
+      "value": "7.75 kg",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Product with stand (kg)",
+      "value": "5.72 kg",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Product without stand (kg)",
+      "value": "3.70 kg",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Altitude",
+      "value": "Operation: +12,000 ft (3658 m), Non-operation: +40,000 ft (12,192 m)",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Temperature range (operation)",
+      "value": "0°C to 40 °C",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Relative humidity",
+      "value": "20%-80 %",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Temperature range (storage)",
+      "value": "-20°C to 60 °C",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "MTBF (demonstrated)",
+      "value": "70,000 hrs (excluded backlight)",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Environmental and energy",
+      "value": "Energy Star EPEAT* RoHS",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Post-consumer recycled plastic",
+      "value": "85%",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Recyclable packaging material",
+      "value": "100 %",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Specific Substances",
+      "value": "PVC/BFR free housing",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Regulatory Approvals",
+      "value": "ETL CEC CB TUV/GS TUV Ergo TCO Certified TCO Certified Edge EAC EAEU RoHS MEPS CE Mark UKCA EMF FCC ICES-003 TÜV Rheinland Low Blue Light (Hardware Solution) eyesafe® CERTIFIED 2.0",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Finish",
+      "value": "Texture",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Foot",
+      "value": "Black",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Front bezel",
+      "value": "Black",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Rear cover",
+      "value": "Black",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Cables",
+      "value": "HDMI cable, DisplayPort cable, USB-C to C cable, Power cable",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Monitor with stand",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "User Documentation",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    }
+  ],
+  "missing_fields": [
+    "Latvia stocked unit EAN reconciliation",
+    "Manual input-specific refresh limits and test footnotes where unresolved"
+  ],
+  "source_pages": [
+    {
+      "url": "https://tst.philips.co.uk/c-p/24B2U3301_00/business-monitor-lcd-monitor-with-usb-c",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "HTTP 200; exact model title and technical specification block read"
+    }
+  ],
+  "research_lane": "monitors"
+}

@@ -1,0 +1,448 @@
+{
+  "id": "samsung-ls32fg502euxen",
+  "brand": "Samsung",
+  "model": "LS32FG502EUXEN",
+  "category": "Monitors",
+  "scope": "Exact Latvian Samsung manufacturer reference LS32FG502EUXEN. Tele2 generic listing is connected through its attached regulatory sheet identifying S32FG502EU; complete physical stock SKU/EAN still unresolved.",
+  "identifiers": [
+    "LS32FG502EUXEN",
+    "S32FG502EU"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "27/32 inch QHD 180Hz Odyssey G5 G50F Gaming Monitor | Samsung {Full Country Name}",
+  "source_url": "https://www.samsung.com/lv/monitors/gaming/odyssey-g5-g50f-32-inch-180hz-qhd-ls32fg502euxen/",
+  "tele2_url": "https://www.tele2.lv/monitori/samsung-odyssey-g5-g50f-32inch-qhd-180hz/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Malu attiecība",
+      "value": "16:9",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Spilgtums (tipiskais)",
+      "value": "300 cd/㎡",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Kontrasta attiecība (statisks)",
+      "value": "1,000:1",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Izšķirtspēja",
+      "value": "QHD (2560 x 1440)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Atbildes laiks (ms)",
+      "value": "1 (GTG)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Skata leņķis (H/V)",
+      "value": "178 / 178",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Kadru ātrums",
+      "value": "Maksimums 180 Hz",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Ekrāna izmērs (klase)",
+      "value": "32",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Plakans / ieliekts",
+      "value": "Plakans",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Aktīvais displeja izmērs (H x V) (mm)",
+      "value": "698.112 x 392.688 mm",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Paneļa veids",
+      "value": "IPS",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Spilgtums (min.)",
+      "value": "240 cd/㎡",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "HDR (augsts dinamiskais diapazons)",
+      "value": "HDR10",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Krāsu atbalsts",
+      "value": "Maksimums 16.7M",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "sRGB nodrošinājums",
+      "value": "99 %",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Energy Saving Solution",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Režīms acu saaudzēšanai",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Bez ekrāna mirgošanās",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Attēla izmērs",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Windows sertifikācija",
+      "value": "Windows11",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "FreeSync",
+      "value": "FreeSync",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "G-Sync",
+      "value": "G-Sync Saderīga",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Väljalülitustaimer Plus",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Black Equalizer",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Virtual AIM Point",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Super Arena Gaming UX",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Auto Source Switch",
+      "value": "Auto Source Switch+",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Smart Type",
+      "value": "Nē",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Displeja pieslēgvieta",
+      "value": "1 gab.",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Displeja porta versija",
+      "value": "1.2",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "HDCP Version (DP)",
+      "value": "2.2",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "HDMI",
+      "value": "1 gab.",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "HDMI versija",
+      "value": "2.0",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "HDCP versija (HDMI)",
+      "value": "2.2",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Austiņas",
+      "value": "1 gab.",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Skaļrunis",
+      "value": "Nē",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Temperatūra",
+      "value": "10 ~ 40 ℃",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Mitruma līmenis",
+      "value": "10 ~ 80 (Bez kondensācijas)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Priekšpuses krāsa",
+      "value": "Melna",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Aizmugures krāsa",
+      "value": "Melna",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Statīva krāsa",
+      "value": "Melna",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Statīva tips",
+      "value": "HAS Rotācija",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "HAS (regulējama augstuma statīvs)",
+      "value": "105.0(±5.0)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Noliecams",
+      "value": "-3˚(±2˚) ~ 25˚(±2˚)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Šarnīrs",
+      "value": "-45˚(±3˚) ~ 45˚(±3˚)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Pagriežams",
+      "value": "-92˚(±2˚) ~ 92˚(±2˚)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Sienas stiprinājums",
+      "value": "100 x 100 mm",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Energoefektivitātes klase",
+      "value": "E",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Enerģijas padeve",
+      "value": "AC 100 - 240 V",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Enerģijas patēriņš (maks.)",
+      "value": "59 W",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Strāvas patēriņš (standarts)",
+      "value": "26.4 W",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Enerģijas patēriņš (DPMS)",
+      "value": "0.50 W",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Enerģijas patēriņš (ja izslēgts)",
+      "value": "0.30 W",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Enerģijas patēriņš (ik gadu)",
+      "value": "39 kWh/gadā",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Veids",
+      "value": "Ārējais Adapters",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Izmēri ar statīvu (P x A x Dz)",
+      "value": "714.6 x 625.9 x 250.2 mm",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Izmēri bez statīva (P x A x Dz) (mm)",
+      "value": "714.6 x 418.4 x 45.7 mm",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Iepakojuma izmērs (PxAxG)",
+      "value": "565 x 124 x 790 mm",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Svars ar statīvu",
+      "value": "4.9 kg",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Iestatīt svaru bez statīva",
+      "value": "3.6 kg",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Iepakojuma svars",
+      "value": "8.0 kg",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Strāvas kabeļa garums",
+      "value": "1.5 m",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "HDMI kabelis",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "DP kabelis",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32FG502EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Regulatory model identifier",
+      "value": "S32FG502EU",
+      "unit": "",
+      "condition": "Supplier-declared EU electronic-display product information sheet; not an independent measurement",
+      "source_url": "https://eprel.ec.europa.eu/fiches/electronicdisplays/Fiche_2435801_EN.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EPREL registration number",
+      "value": "2435801",
+      "unit": "",
+      "condition": "Supplier-declared EU electronic-display product information sheet; not an independent measurement",
+      "source_url": "https://eprel.ec.europa.eu/fiches/electronicdisplays/Fiche_2435801_EN.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Declared Union market placement start",
+      "value": "26/11/2025",
+      "unit": "",
+      "condition": "Supplier-declared EU electronic-display product information sheet; not an independent measurement",
+      "source_url": "https://eprel.ec.europa.eu/fiches/electronicdisplays/Fiche_2435801_EN.pdf",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Tele2 physical stock EAN reconciliation",
+    "Manual HDMI/DP timing limits",
+    "Latvian availability of region-limited smart services if applicable"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.samsung.com/lv/monitors/gaming/odyssey-g5-g50f-32-inch-180hz-qhd-ls32fg502euxen/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "HTTP 200; full model code present; explicit manufacturer technical label/value block read"
+    },
+    {
+      "url": "https://eprel.ec.europa.eu/fiches/electronicdisplays/Fiche_2435801_EN.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch and pdftotext -layout",
+      "notes": "HTTP 200; supplier-declared regulatory identity read; agrees with Tele2 attached fiche. No unverified technical transfer from retailer HTML."
+    }
+  ],
+  "research_lane": "monitors"
+}

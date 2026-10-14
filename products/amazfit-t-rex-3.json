@@ -1,0 +1,539 @@
+{
+  "id": "amazfit-t-rex-3",
+  "brand": "Amazfit",
+  "model": "T-Rex 3",
+  "category": "Smartwatches",
+  "scope": "Official global T-Rex 3 manufacturer specification; listed colour not separate product. Manufacturer laboratory battery claims and regional apps/features remain conditional. Latvia SKU matching unresolved.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Amazfit T-Rex 3 specifications",
+  "source_url": "https://www.amazfit.com/products/amazfit-t-rex-3",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/smartwatch-amazfit-t-rex-3lava-w2322gl1n/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Dimensions (without heart rate base)",
+      "value": "48.5x48.5x13.75mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Weight (without strap)",
+      "value": "68.3g",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Body Material",
+      "value": "Stainless steel bezel Polymer middle frame",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Buttons",
+      "value": "4",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Water-resistance Grade",
+      "value": "10 ATM",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Material",
+      "value": "AMOLED",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Resolution",
+      "value": "480x480",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "PPI",
+      "value": "322",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Touchscreen",
+      "value": "Gorilla Glass",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Battery Capacity",
+      "value": "700 mAh (rated value）",
+      "unit": "",
+      "condition": "Manufacturer laboratory maximum for named mode; full enabled features and usage conditions are described in manufacturer footnotes. Actual use varies."
+    },
+    {
+      "label": "Charging Method",
+      "value": "Magnetic charging base",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Theoretical Charging Duration",
+      "value": "Approx. 3 hours",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Typical Usage Scenario Battery Life",
+      "value": "Up to 27 days",
+      "unit": "",
+      "condition": "Manufacturer laboratory maximum for named mode; full enabled features and usage conditions are described in manufacturer footnotes. Actual use varies."
+    },
+    {
+      "label": "Heavy Usage Scenario Battery Life",
+      "value": "Up to 13 days",
+      "unit": "",
+      "condition": "Manufacturer laboratory maximum for named mode; full enabled features and usage conditions are described in manufacturer footnotes. Actual use varies."
+    },
+    {
+      "label": "Battery Saver Mode Battery Life",
+      "value": "Up to 40 days",
+      "unit": "",
+      "condition": "Manufacturer laboratory maximum for named mode; full enabled features and usage conditions are described in manufacturer footnotes. Actual use varies."
+    },
+    {
+      "label": "Clock Mode Battery Life",
+      "value": "Up to 81 days",
+      "unit": "",
+      "condition": "Manufacturer laboratory maximum for named mode; full enabled features and usage conditions are described in manufacturer footnotes. Actual use varies."
+    },
+    {
+      "label": "GNSS Long Battery Life Mode",
+      "value": "Up to 114 hours",
+      "unit": "",
+      "condition": "Manufacturer laboratory maximum for named mode; full enabled features and usage conditions are described in manufacturer footnotes. Actual use varies."
+    },
+    {
+      "label": "GNSS Max Battery Life",
+      "value": "Up to 180 hours",
+      "unit": "",
+      "condition": "Manufacturer laboratory maximum for named mode; full enabled features and usage conditions are described in manufacturer footnotes. Actual use varies."
+    },
+    {
+      "label": "Low Temperature Mode (GNSS on)",
+      "value": "Up to 28 hours",
+      "unit": "",
+      "condition": "Manufacturer laboratory maximum for named mode; full enabled features and usage conditions are described in manufacturer footnotes. Actual use varies."
+    },
+    {
+      "label": "Low Temperature Mode (GNSS off)",
+      "value": "Up to 32 days",
+      "unit": "",
+      "condition": "Manufacturer laboratory maximum for named mode; full enabled features and usage conditions are described in manufacturer footnotes. Actual use varies."
+    },
+    {
+      "label": "Positioning",
+      "value": "Dual-band & 6 satellite positioning systems",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Connection",
+      "value": "WiFi 2.4GHz, Bluetooth 5.2, BLE",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Motor",
+      "value": "Linear motor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Materials",
+      "value": "Liquid silicone",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Min. & Max. Wrist Dimensions",
+      "value": "145mm-210mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Supported Devices",
+      "value": "Android 7.0 and above, iOS 14.0 and above",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sports Modes",
+      "value": "177",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Advanced Running Support",
+      "value": "Track Run mode Smart trajectory correction Virtual pacer",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Connection to Peripheral Workout Devices",
+      "value": "Heart rate belt Running power meter Cycling power meter Cycling speedometer Cycling cadence meter",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sports Coach",
+      "value": "Zepp Coach™",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sports Convenience",
+      "value": "Live broadcast of sports data 22 Live broadcast of turn directions Sports data stays on-screen Conditional pause",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sleep Quality Monitoring",
+      "value": "Sleep heart rate variability Sleep stages (including REM) Daytime naps Sleep schedule Sleep breathing quality Sleep score",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Health Assessment System",
+      "value": "PAI",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Health Reminders",
+      "value": "Abnormally high & low heart rate Low blood-oxygen High stress level Prompts to perform stress-reducing breathing exercise Altitude prompts for blood-oxygen test 23",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Indoor sports",
+      "value": "HYROX Race, Elliptical, Rowing machine, Stair-climbing machine, Stair stepper, Spinning, Indoor fitness, Mixed aerobics, Cross-training, Aerobics, Group calisthenics, Body combat, Strength training, Step training, Core training, Flexibility training, Free training, HIIT, Yoga, Pilates, Gymnastics, Horizontal bar, Parallel bars, Battling ropes, Stretching, Bouldering, Indoor rock climbing",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Combat sports",
+      "value": "Boxing, Wrestling, Martial arts, Tai Chi, Muay Thai, Judo, Taekwondo, Karate, Kickboxing, Fencing, Jiu-Jitsu, Kendo",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Ball sports",
+      "value": "Soccer, Beach soccer, Basketball, Volleyball, Beach volleyball, Baseball, Softball, Rugby, Hockey, Table tennis, Badminton, Tennis, Squash, Gateball, Cricket, Handball, Bowling, Polo, Racquetball, Billiards, Sepak takraw, Dodgeball, Water polo, Ice hockey, Shuttlecock, Indoor soccer, Footbag, Bocce ball, Pelota, Floorball, Golf swing, Pickleball, Padel",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Water sports",
+      "value": "Outdoor boating, Sailing, Kayak, Rowing, Dragon boat, Paddleboarding, Indoor surfing, Tubing, Water skiing, Snorkeling, Kitesurfing, Surfing, Wakesurfing",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Winter sports",
+      "value": "Skiing, Snowboarding, Downhill skiing, Cross-country skiing, Ski orienteering, Biathlon, Outdoor skating, Indoor skating, Curling, Bobsleigh and tobogganing, Sledding, Snowmobile, Snowshoeing",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Leisure sports",
+      "value": "Hula hooping, Frisbee, Darts, Kite flying, Tug-of-war, Jianzi kicking, Esports, Air walker, Swing, Shuffleboard, Foosball, Motion sensing game",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Cadence Sensors",
+      "value": "iGPSPORT CAD70 Magene S3+ Garmin complete series Other devices supporting the standard BLE protocol",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Speed & Cadence Sensors",
+      "value": "CYCPLUS C3 XOSS Garmin complete series Other devices supporting the standard BLE protocol",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Core Body Temperature Monitor",
+      "value": "Core Other devices supporting the standard BLE protocol",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Heart Rate Monitors",
+      "value": "Garmin complete series Polar full series Other devices supporting the standard BLE protocol",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Indoor sports",
+      "value": "Hyrox Race, Elliptical, Rowing machine, Stair-climbing machine, Stair stepper, Spinning, Indoor fitness, Mixed aerobics, Cross-training, Aerobics, Group calisthenics, Body combat, Strength training, Step training, Core training, Flexibility training, Free training, HIIT, Yoga, Pilates, Gymnastics, Horizontal bar, Parallel bars, Battling ropes, Stretching, Bouldering, Indoor rock climbing",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Cadence Sensors",
+      "value": "- iGPSPORT CAD70 - Magene S3+ - Garmin complete series - Other devices supporting the standard BLE protocol",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Speed & Cadence Sensors",
+      "value": "- CYCPLUS C3 - XOSS - Garmin complete series - Other devices supporting the standard BLE protocol",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Core Body Temperature Monitor",
+      "value": "- Core - Other devices supporting the standard BLE protocol",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Heart Rate Monitors",
+      "value": "- Garmin complete series - Polar full series - Other devices supporting the standard BLE protocol",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Power input",
+      "value": "DC 5 V / 700 mA",
+      "unit": "",
+      "condition": "Official product manual, logical pages3–7. Original limits and named conditions preserved.",
+      "source_url": "https://support.amazfit.com/en/amazfit_t-rex_3/imgs/electronic_manual.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi standard",
+      "value": "2.4 GHz IEEE802.11 b/g/n",
+      "unit": "",
+      "condition": "Official product manual, logical pages3–7. Original limits and named conditions preserved.",
+      "source_url": "https://support.amazfit.com/en/amazfit_t-rex_3/imgs/electronic_manual.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi RF output power",
+      "value": "<18 dBm",
+      "unit": "",
+      "condition": "Official product manual, logical pages3–7. Original limits and named conditions preserved.",
+      "source_url": "https://support.amazfit.com/en/amazfit_t-rex_3/imgs/electronic_manual.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth RF output power",
+      "value": "<12 dBm",
+      "unit": "",
+      "condition": "Official product manual, logical pages3–7. Original limits and named conditions preserved.",
+      "source_url": "https://support.amazfit.com/en/amazfit_t-rex_3/imgs/electronic_manual.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "BLE RF output power",
+      "value": "<8 dBm",
+      "unit": "",
+      "condition": "Official product manual, logical pages3–7. Original limits and named conditions preserved.",
+      "source_url": "https://support.amazfit.com/en/amazfit_t-rex_3/imgs/electronic_manual.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth frequency",
+      "value": "2402–2480 MHz",
+      "unit": "",
+      "condition": "Official product manual, logical pages3–7. Original limits and named conditions preserved.",
+      "source_url": "https://support.amazfit.com/en/amazfit_t-rex_3/imgs/electronic_manual.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Working temperature",
+      "value": "-30°C to45°C; low-temperature mode restricts touchscreen and certain features",
+      "unit": "",
+      "condition": "Official product manual, logical pages3–7. Original limits and named conditions preserved.",
+      "source_url": "https://support.amazfit.com/en/amazfit_t-rex_3/imgs/electronic_manual.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Charging temperature",
+      "value": "-10°C to45°C",
+      "unit": "",
+      "condition": "Official product manual, logical pages3–7. Original limits and named conditions preserved.",
+      "source_url": "https://support.amazfit.com/en/amazfit_t-rex_3/imgs/electronic_manual.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Companion app",
+      "value": "Zepp",
+      "unit": "",
+      "condition": "Official product manual, logical pages3–7. Original limits and named conditions preserved.",
+      "source_url": "https://support.amazfit.com/en/amazfit_t-rex_3/imgs/electronic_manual.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Charging base cable connector",
+      "value": "USB Type-C cable connects to charging base",
+      "unit": "",
+      "condition": "Official product manual, logical pages3–7. Original limits and named conditions preserved.",
+      "source_url": "https://support.amazfit.com/en/amazfit_t-rex_3/imgs/electronic_manual.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Recommended adapter current",
+      "value": "1 A or above rated adapter current, per charging instruction",
+      "unit": "",
+      "condition": "Official product manual, logical pages3–7. Original limits and named conditions preserved.",
+      "source_url": "https://support.amazfit.com/en/amazfit_t-rex_3/imgs/electronic_manual.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Built-in battery replacement",
+      "value": "Manual states battery cannot be removed or replaced by user",
+      "unit": "",
+      "condition": "Manufacturer laboratory maximum for named mode; full enabled features and usage conditions are described in manufacturer footnotes. Actual use varies.",
+      "source_url": "https://support.amazfit.com/en/amazfit_t-rex_3/imgs/electronic_manual.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Included strap adapters",
+      "value": "2",
+      "unit": "",
+      "condition": "Official product manual, logical pages3–7. Original limits and named conditions preserved.",
+      "source_url": "https://support.amazfit.com/en/amazfit_t-rex_3/imgs/electronic_manual.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Included strap tool",
+      "value": "Screwdriver",
+      "unit": "",
+      "condition": "Official product manual, logical pages3–7. Original limits and named conditions preserved.",
+      "source_url": "https://support.amazfit.com/en/amazfit_t-rex_3/imgs/electronic_manual.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Local music playback",
+      "value": "MP3 files transferred through Zepp; Bluetooth headphones/audio device required",
+      "unit": "",
+      "condition": "Official global user manual, logical pages34–41; firmware, app and mode dependencies apply.",
+      "source_url": "https://support.amazfit.com/en/amazfit_t-rex_3/files/user-manual.pdf.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Local music transfer",
+      "value": "Uses watch hotspot; phone cannot use another network during transfer",
+      "unit": "",
+      "condition": "Official global user manual, logical pages34–41; firmware, app and mode dependencies apply.",
+      "source_url": "https://support.amazfit.com/en/amazfit_t-rex_3/files/user-manual.pdf.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Phone music remote control",
+      "value": "Play/pause and track switching while connected to phone",
+      "unit": "",
+      "condition": "Official global user manual, logical pages34–41; firmware, app and mode dependencies apply.",
+      "source_url": "https://support.amazfit.com/en/amazfit_t-rex_3/files/user-manual.pdf.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Offline map use",
+      "value": "GPS-positioned workout required; current-location map resource must be downloaded",
+      "unit": "",
+      "condition": "Official global user manual, logical pages34–41; firmware, app and mode dependencies apply.",
+      "source_url": "https://support.amazfit.com/en/amazfit_t-rex_3/files/user-manual.pdf.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Low-temperature mode restrictions",
+      "value": "Buzzer, touchscreen, heart rate and blood oxygen monitoring unavailable",
+      "unit": "",
+      "condition": "Official global user manual, logical pages34–41; firmware, app and mode dependencies apply.",
+      "source_url": "https://support.amazfit.com/en/amazfit_t-rex_3/files/user-manual.pdf.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth audio connection",
+      "value": "Pair audio device through Settings > Bluetooth",
+      "unit": "",
+      "condition": "Official global user manual, logical pages34–41; firmware, app and mode dependencies apply.",
+      "source_url": "https://support.amazfit.com/en/amazfit_t-rex_3/files/user-manual.pdf.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi configuration",
+      "value": "Secure network password entered through Zepp on paired phone",
+      "unit": "",
+      "condition": "Official global user manual, logical pages34–41; firmware, app and mode dependencies apply.",
+      "source_url": "https://support.amazfit.com/en/amazfit_t-rex_3/files/user-manual.pdf.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Off-wrist lock",
+      "value": "Password lock configurable",
+      "unit": "",
+      "condition": "Official global user manual, logical pages34–41; firmware, app and mode dependencies apply.",
+      "source_url": "https://support.amazfit.com/en/amazfit_t-rex_3/files/user-manual.pdf.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Time format",
+      "value": "12-hour or24-hour format",
+      "unit": "",
+      "condition": "Official global user manual, logical pages34–41; firmware, app and mode dependencies apply.",
+      "source_url": "https://support.amazfit.com/en/amazfit_t-rex_3/files/user-manual.pdf.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Date format",
+      "value": "Year/month/day, month/day/year or day/month/year",
+      "unit": "",
+      "condition": "Official global user manual, logical pages34–41; firmware, app and mode dependencies apply.",
+      "source_url": "https://support.amazfit.com/en/amazfit_t-rex_3/files/user-manual.pdf.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Distance/weight/temperature units",
+      "value": "Configurable in Zepp; synchronized to watch",
+      "unit": "",
+      "condition": "Official global user manual, logical pages34–41; firmware, app and mode dependencies apply.",
+      "source_url": "https://support.amazfit.com/en/amazfit_t-rex_3/files/user-manual.pdf.pdf",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU / GTIN matching",
+    "Regional app and payment availability",
+    "PPG hardware revision: desktop/mobile specification grids differ; sensor revision claims withheld",
+    "Product manual Wi-Fi frequency range appears copied from Bluetooth range; Wi-Fi MHz range withheld",
+    "Old global user-manual minimum iOS12 conflicts with product manual/specification iOS14; current compatibility retained from product manual/specification"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.amazfit.com/products/amazfit-t-rex-3",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Manufacturer technical specification content parsed; extracted factual fields only"
+    },
+    {
+      "url": "https://support.amazfit.com/en/amazfit_t-rex_3/imgs/electronic_manual.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP PDF download + pdftotext",
+      "notes": "Exact T-Rex3 official product/user manual content read; variant and firmware restrictions retained"
+    },
+    {
+      "url": "https://support.amazfit.com/en/amazfit_t-rex_3/files/user-manual.pdf.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP PDF download + pdftotext",
+      "notes": "Exact T-Rex3 official product/user manual content read; variant and firmware restrictions retained"
+    }
+  ],
+  "research_lane": "wearables"
+}

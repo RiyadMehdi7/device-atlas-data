@@ -1,0 +1,344 @@
+{
+  "id": "mikrotik-hap-ax3-global-reference",
+  "brand": "MikroTik",
+  "model": "hAP ax³",
+  "category": "Routers",
+  "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+  "identifiers": [
+    "C53UiG+5HPaxD2HPaxD"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "MikroTik hAP ax³ official specifications",
+  "source_url": "https://mikrotik.com/product/hap_ax3",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Product code",
+      "value": "C53UiG+5HPaxD2HPaxD",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Suggested price",
+      "value": "$139.00",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Architecture",
+      "value": "ARM 64bit",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "CPU",
+      "value": "IPQ-6010",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "CPU core count",
+      "value": "4",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "CPU nominal frequency",
+      "value": "auto (864 - 1800) MHz",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "CPU Threads count",
+      "value": "4",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Switch chip model",
+      "value": "IPQ-6010",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "RouterOS license",
+      "value": "6",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Operating System",
+      "value": "RouterOS v7",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Size of RAM",
+      "value": "1 GB",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Storage size",
+      "value": "128 MB",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Storage type",
+      "value": "NAND",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "MTBF",
+      "value": "Approximately 200'000 hours at 25C",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Tested ambient temperature",
+      "value": "-40°C to 70°C",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wireless 2.4 GHz Max data rate",
+      "value": "574 Mbit/s",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wireless 2.4 GHz Number of chains",
+      "value": "2",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wireless 2.4 GHz standards",
+      "value": "802.11b/g/n/ax",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Antenna gain dBi for 2.4 GHz",
+      "value": "3.3",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wireless 2.4 GHz chip model",
+      "value": "QCN-5022",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wireless 2.4 GHz generation",
+      "value": "Wi-Fi 6",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wireless 5 GHz Max data rate",
+      "value": "1200 Mbit/s",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wireless 5 GHz Number of chains",
+      "value": "2",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wireless 5 GHz standards",
+      "value": "802.11a/n/ac/ax",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Antenna gain dBi for 5 GHz",
+      "value": "5.5",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wireless 5 GHz chip model",
+      "value": "QCN-5052",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wireless 5 GHz generation",
+      "value": "Wi-Fi 6",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "WiFi speed",
+      "value": "AX1800",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "10/100/1000 Ethernet ports",
+      "value": "4",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Number of 1G Ethernet ports with PoE-out",
+      "value": "1",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Number of 2.5G Ethernet ports",
+      "value": "1",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Number of USB ports",
+      "value": "1",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "USB Power Reset",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "USB slot type",
+      "value": "USB 3.0 type A",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Max USB current (A)",
+      "value": "1.5",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Number of DC inputs",
+      "value": "2 (DC jack, PoE-IN)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "DC jack input Voltage",
+      "value": "12-28 V",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Max power consumption",
+      "value": "38 W",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Max power consumption without attachments",
+      "value": "15 W",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "PoE in",
+      "value": "Passive PoE",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Cooling type",
+      "value": "Passive",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "PoE in input Voltage",
+      "value": "18-28 V",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "PoE-out ports",
+      "value": "Ether 1",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "PoE out",
+      "value": "Passive PoE",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Low voltage PoE-Out current limit",
+      "value": "0.625 A",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Max total out (A)",
+      "value": "0.625 A",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Total output current",
+      "value": "0.625",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Total output power",
+      "value": "15",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Certification",
+      "value": "CE, FCC, IC, EAC, ROHS",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "IP",
+      "value": "20",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "CPU temperature monitor",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Mode button",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU/GTIN",
+    "Hardware revision and region-specific differences"
+  ],
+  "source_pages": [
+    {
+      "url": "https://mikrotik.com/product/hap_ax3",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP fetch; HTML specification rows parsed",
+      "notes": "52 factual specification rows read; marketing paragraphs excluded"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

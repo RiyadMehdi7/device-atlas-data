@@ -1,0 +1,127 @@
+{
+  "id": "soundcore-space-one-eu-model",
+  "brand": "Soundcore",
+  "model": "Space One",
+  "category": "Headphones",
+  "scope": "EU manufacturer model reference; colour-specific examples not expanded; Latvia SKU matching required",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "soundcore Space One | Upgraded Noise Cancelling Headphones - soundcore EU",
+  "source_url": "https://www.soundcore.com/eu/products/space-one-a3035011",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/space-one-over-ear-headphones/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Sound",
+      "value": "Detailed Sound, 40mm Drivers",
+      "unit": "",
+      "condition": "EU manufacturer specification"
+    },
+    {
+      "label": "Active Noise Cancellation",
+      "value": "Adaptive ANC",
+      "unit": "",
+      "condition": "EU manufacturer specification"
+    },
+    {
+      "label": "Fast Charging",
+      "value": "5 Mins = 4H",
+      "unit": "",
+      "condition": "EU manufacturer specification"
+    },
+    {
+      "label": "Calls",
+      "value": "3 mics with AI",
+      "unit": "",
+      "condition": "EU manufacturer specification"
+    },
+    {
+      "label": "Multipoint Connection",
+      "value": "Yes",
+      "unit": "",
+      "condition": "EU manufacturer specification"
+    },
+    {
+      "label": "Customized EQ",
+      "value": "Hear ID",
+      "unit": "",
+      "condition": "EU manufacturer specification"
+    },
+    {
+      "label": "Weight",
+      "value": "265g (9.35 oz)",
+      "unit": "",
+      "condition": "EU manufacturer specification"
+    },
+    {
+      "label": "Special Features",
+      "value": "Travel Pouch, AUX",
+      "unit": "",
+      "condition": "EU manufacturer specification"
+    },
+    {
+      "label": "Driver",
+      "value": "40 mm dynamic",
+      "unit": "",
+      "condition": "EU manufacturer"
+    },
+    {
+      "label": "Music ANC on",
+      "value": "40 hours",
+      "unit": "",
+      "condition": "ANC on; manufacturer maximum; volume unspecified"
+    },
+    {
+      "label": "Music ANC off",
+      "value": "55 hours",
+      "unit": "",
+      "condition": "ANC off; manufacturer maximum; volume unspecified"
+    },
+    {
+      "label": "Transparency levels",
+      "value": "5",
+      "unit": "",
+      "condition": "Adjustable"
+    },
+    {
+      "label": "Ear cup rotation",
+      "value": "8°",
+      "unit": "",
+      "condition": "Either direction"
+    },
+    {
+      "label": "TCO certified",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Source claim"
+    },
+    {
+      "label": "Bluetooth devices simultaneous",
+      "value": "2",
+      "unit": "",
+      "condition": "Multipoint"
+    },
+    {
+      "label": "LDAC",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Compatible device"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU/GTIN matching",
+    "Battery capacity",
+    "Full playback test settings"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.soundcore.com/eu/products/space-one-a3035011",
+      "fetched_at": "2026-10-14",
+      "method": "web find/open",
+      "notes": "Actual model Specs table and features read; comparison rows not transferred"
+    }
+  ],
+  "research_lane": "audio"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "roborock-f25-ace-global-reference",
+  "brand": "Roborock",
+  "model": "F25 ACE",
+  "category": "Smart home",
+  "scope": "Global manufacturer model reference, extracted only from named model comparison column or explicitly common model section. Latvia SKU and regional package require matching. F25 devices are wet/dry cleaners, not autonomous robots.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Roborock F25 ACE official model comparison",
+  "source_url": "https://global.roborock.com/pages/roborock-f25-series",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/roborock-f25-ace/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Wet/dry cleaner weight",
+      "value": "4.7kg",
+      "unit": "",
+      "condition": "Key Specs: F25 ACE column"
+    },
+    {
+      "label": "Dimensions with dock",
+      "value": "352 × 316 × 1157",
+      "unit": "",
+      "condition": "Dimensions with dock; manufacturer table does not state units in this row"
+    },
+    {
+      "label": "Dirty water tank",
+      "value": "720ml",
+      "unit": "",
+      "condition": "F25 ACE"
+    },
+    {
+      "label": "Detergent tank",
+      "value": "100 ml",
+      "unit": "",
+      "condition": "F25 ACE"
+    },
+    {
+      "label": "Clean water tank",
+      "value": "740 ml",
+      "unit": "",
+      "condition": "F25 ACE"
+    },
+    {
+      "label": "Battery life",
+      "value": "60min",
+      "unit": "",
+      "condition": "Eco Mode"
+    },
+    {
+      "label": "Dirt sensor",
+      "value": "DirTect Smart Sensor",
+      "unit": "",
+      "condition": "F25 ACE"
+    },
+    {
+      "label": "Automatic detergent dispenser",
+      "value": "Supported",
+      "unit": "",
+      "condition": "F25 ACE"
+    },
+    {
+      "label": "Proactive self washing",
+      "value": "Supported",
+      "unit": "",
+      "condition": "F25 ACE"
+    },
+    {
+      "label": "Powered wheel assistance",
+      "value": "SlideTech 2.0",
+      "unit": "",
+      "condition": "F25 ACE"
+    },
+    {
+      "label": "App customization",
+      "value": "Supported",
+      "unit": "",
+      "condition": "F25 ACE"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU/GTIN",
+    "Electrical rating and battery capacity",
+    "Regional package differences"
+  ],
+  "source_pages": [
+    {
+      "url": "https://global.roborock.com/pages/roborock-f25-series",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP fetch; named model comparison column read",
+      "notes": "Family features not transferred across models; performance conditions preserved"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

@@ -1,0 +1,353 @@
+{
+  "id": "samsung-galaxy-tab-s11-5g-128gb",
+  "brand": "Samsung",
+  "model": "Galaxy Tab S11 5G 128GB",
+  "category": "Tablets",
+  "scope": "Exact UK SM-X736BZAREUB manufacturer SKU. UK specification and storage/connectivity scope only; Latvia part number must be matched. Tele2 barcode 8806097706960 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
+  "identifiers": [
+    "SM-X736BZAREUB",
+    "8806097706960"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Exact UK variant source checked; Latvia SKU needs matching",
+  "source_name": "Galaxy Tab S11 5G 128 - manufacturer technical specifications",
+  "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+  "tele2_url": "https://www.tele2.lv/plansetes/tab-s11-5g-128gb/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "CPU type",
+      "value": "Octa-core",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "CPU frequencies",
+      "value": "3.73GHz, 3.3GHz, 2.4GHz",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display diagonal",
+      "value": "11 inches full rectangle; 10.9 rounded corners",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display resolution",
+      "value": "2560 x 1600",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display technology",
+      "value": "Dynamic AMOLED 2X",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display colours",
+      "value": "16M",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear cameras",
+      "value": "13MP",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear autofocus",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front camera",
+      "value": "12MP",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear flash",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "RAM",
+      "value": "12GB",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Storage",
+      "value": "128GB",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Available storage",
+      "value": "100.5GB",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Expandable storage",
+      "value": "microSD up to 2TB",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "USB version",
+      "value": "3.2 Gen 1",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Positioning",
+      "value": "GPS; GLONASS; BeiDou; Galileo; QZSS",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Headphone interface",
+      "value": "USB Type-C",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "MHL",
+      "value": "No",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi Direct",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "NFC",
+      "value": "No",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "OS",
+      "value": "Android",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions H x W x D",
+      "value": "165.3 x 253.8 x 5.5mm",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Weight",
+      "value": "471g",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery capacity",
+      "value": "8400mAh typical",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery removable",
+      "value": "No",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Energy efficiency class",
+      "value": "G",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Minimum battery endurance",
+      "value": "1200 cycles",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "S Pen support",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Video recording",
+      "value": "UHD 4K 30fps",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Cellular",
+      "value": "5G sub-6",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "SIM configuration",
+      "value": "Dual SIM; SIM1 + embedded SIM + microSD",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "5.4",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi",
+      "value": "802.11a/b/g/n/ac/ax, 2.4/5/6GHz HE160 MIMO",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Video playback battery claim",
+      "value": "Up to 18h; internal pre-release lab test, local 720p video, Bluetooth earphones, default settings over LTE; actual results vary",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Tele2 rendered default variant barcode",
+      "value": "8806097706960",
+      "unit": "",
+      "condition": "Tele2 current rendered default colour token grey. Retailer labels value EAN; actual length 13. Applies only to that rendered colour variant, not all colours; manufacturer cross-match unresolved unless separately noted.",
+      "source_url": "https://www.tele2.lv/plansetes/tab-s11-5g-128gb/",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia-specific MPN/GTIN",
+    "Latvia retail package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Official UK product technical specification section read; direct HTTP 403; web-readable page."
+    },
+    {
+      "url": "https://www.tele2.lv/plansetes/tab-s11-5g-128gb/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Retailer product title and rendered #eancode directly read; barcode length/checksum validated; default-colour token retained"
+    },
+    {
+      "url": "https://downloadcenter.samsung.com/content/UM/202509/20250905095633570/SM-X73X_X93X_UG_EU_16_Eng_Rev.1.0_250819.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP PDF fetch + pdftotext",
+      "notes": "Official EU English user guide cover model codes SM-X730, SM-X736B, SM-X930, SM-X936B; retained as s11-user-manual.pdf"
+    }
+  ],
+  "model_family": "Galaxy Tab S11",
+  "identifier_evidence": [
+    {
+      "value": "8806097706960",
+      "scheme": "GTIN-13 / EAN-13",
+      "source_url": "https://www.tele2.lv/plansetes/tab-s11-5g-128gb/",
+      "checked_at": "2026-10-14",
+      "status": "Retailer directly observed; checksum valid; manufacturer match not yet verified",
+      "rendered_colour_token": "grey",
+      "scope": "Tele2 current rendered default colour token grey. Retailer labels value EAN; actual length 13. Applies only to that rendered colour variant, not all colours; manufacturer cross-match unresolved unless separately noted."
+    }
+  ],
+  "manuals": [
+    {
+      "url": "https://downloadcenter.samsung.com/content/UM/202509/20250905095633570/SM-X73X_X93X_UG_EU_16_Eng_Rev.1.0_250819.pdf",
+      "language": "English",
+      "region": "EU",
+      "version": "1.0",
+      "cover_model_codes": [
+        "SM-X730",
+        "SM-X736B",
+        "SM-X930",
+        "SM-X936B"
+      ],
+      "checked_at": "2026-10-14",
+      "scope": "Manufacturer multi-model user guide; covers listed model codes. Guide may contain model-dependent features."
+    }
+  ],
+  "research_lane": "tablets"
+}

@@ -1,0 +1,512 @@
+{
+  "id": "logitech-mx-keys-s",
+  "brand": "Logitech",
+  "model": "MX Keys S",
+  "model_family": "MX Keys S",
+  "category": "Accessories",
+  "scope": "UK manufacturer model reference. Explicit MPN options identify their labelled colour/layout variants; not a Latvia SKU. No colour/layout records generated.",
+  "identifiers": [
+    "920-011593",
+    "920-011571",
+    "920-011573",
+    "920-011565",
+    "920-011567",
+    "920-011575",
+    "920-011577",
+    "920-011568",
+    "920-011570",
+    "920-011581",
+    "920-011583",
+    "920-011584",
+    "920-011586",
+    "920-011587",
+    "920-011589",
+    "920-011574",
+    "920-011579",
+    "920-011590",
+    "920-011591",
+    "920-011592",
+    "920-011572",
+    "920-011566",
+    "920-011576",
+    "920-011578",
+    "920-011569",
+    "920-011582",
+    "920-011585",
+    "920-011588",
+    "920-011580"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Logitech MX Keys S technical specifications",
+  "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "System Requirements / Bluetooth® Low Energy / Requires Bluetooth Low Energy Technology",
+      "value": "Listed requirement",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Bluetooth® Low Energy / Engineered for Intel® Evo™ Laptops",
+      "value": "Listed requirement",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Bluetooth® Low Energy / Windows®",
+      "value": "['10', ' 11'] or later",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Bluetooth® Low Energy / macOS",
+      "value": "10.15 or later",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Bluetooth® Low Energy / Linux®",
+      "value": "Listed requirement [Device basic functions will be supported without software for other systems than Windows and macOS]",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Bluetooth® Low Energy / ChromeOS™",
+      "value": "Listed requirement [Device basic functions will be supported without software for other systems than Windows and macOS]",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Bluetooth® Low Energy / iPadOS",
+      "value": "14 or later [Device basic functions will be supported without software for other systems than Windows and macOS]",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Bluetooth® Low Energy / Android™",
+      "value": "8.0 or later",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Logi Bolt USB Receiver / Requires available USB Port",
+      "value": "Listed requirement",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Logi Bolt USB Receiver / Windows",
+      "value": "['10', ' 11'] or later",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Logi Bolt USB Receiver / macOS",
+      "value": "10.15 or later",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Logi Bolt USB Receiver / Linux",
+      "value": "Listed requirement [Device basic functions will be supported without software for other systems than Windows and macOS]",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Logi Bolt USB Receiver / ChromeOS",
+      "value": "Listed requirement [Device basic functions will be supported without software for other systems than Windows and macOS]",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Not compatible with other Logitech USB receivers.",
+      "value": "Listed requirement",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / MX Keys S / Height",
+      "value": "131.63 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / MX Keys S / Width",
+      "value": "430.2 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / MX Keys S / Depth",
+      "value": "20.5 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / MX Keys S / Weight",
+      "value": "810 g",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Logi Bolt USB Receiver / Height",
+      "value": "6.11 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Logi Bolt USB Receiver / Width",
+      "value": "14.4 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Logi Bolt USB Receiver / Depth",
+      "value": "18.65 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Logi Bolt USB Receiver / Weight",
+      "value": "1.68 g",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Proximity sensor",
+      "value": "Hand proximity sensors that turn the backlighting on",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Light Sensor",
+      "value": "Ambient light sensors that adjust backlighting brightness",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Indicator Lights",
+      "value": "Caps Lock and Battery indicator lights",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Filevault",
+      "value": "FileVault is an encryption system available on some Mac computers. When enabled, it might prevent Bluetooth devices from connecting with your computer if you have not yet logged in. If you have FileVault enabled, we advise purchasing the compatible Logi Bolt USB Receiver.",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Customization app",
+      "value": "Supported by Logi Options+ App for recent versions of Windows and macOS, basic feature support for Googlebook laptops. Basic support in Logi Tune. (Basic customization support is available with Options+ App on Googlebook laptops. Advanced features such as the Actions Ring, Marketplace, Smart Actions, Flow are working only on recent versions of Windows and macOS.)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery type",
+      "value": "Rechargeable Li-Po (1500 mAh) battery",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery life",
+      "value": "Full charge lasts up to 10 days with predefined settings or up to 5 months with backlighting off. * (*Battery life may vary based on user and computing conditions.)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "USB-C rechargeable",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Power switch",
+      "value": "On/Off switch",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connection Type",
+      "value": "Connect via Bluetooth low energy technology or the Logi Bolt USB Receiver*. (*The keyboard is not compatible with other Logitech USB receivers)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Easy-switch",
+      "value": "Connect up to three devices and switch between them at the push of a button",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wireless range",
+      "value": "10 meters wireless range*. (*Wireless range may vary depending on operating environment and computer setup)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "Requires Bluetooth Low Energy Technology Engineered for Intel® Evo™ Laptops Windows® 10, 11 or later macOS 10.15 or later Linux®*, ChromeOS and Googlebook*, iPadOS* 14 or later Android™ 8.0 or later. (*Device basic functions will be supported without software for other systems than Windows and macOS)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Logi Bolt USB receiver",
+      "value": "Requires available USB Port Windows 10, 11 or later macOS 10.15 or later Linux*, ChromeOS and Googlebook*. (*Device basic functions will be supported without software for other systems than Windows and macOS). Not compatible with other Logitech USB receivers.",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Manufacturer warranty",
+      "value": "2-Year Limited Hardware Warranty",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "UK package contents",
+      "value": "Keyboard; Logi Bolt USB receiver; USB-C charging cable (USB-A to USB-C); User documentation",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia MPN/GTIN",
+    "Latvia retail package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.logitech.com/en-gb/shop/p/mx-keys-s",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Official source technical content read; factual extraction retained"
+    }
+  ],
+  "identifier_options": [
+    {
+      "mpn": "920-011593",
+      "name": "MX Keys S - Graphite - Ukrainian (QWERTY)",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "920-011571",
+      "name": "MX Keys S - Graphite - Swiss (QWERTZ)",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "920-011573",
+      "name": "MX Keys S - Graphite - Swiss (QWERTZ)",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "920-011565",
+      "name": "MX Keys S - Graphite - German (QWERTZ)",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "920-011567",
+      "name": "MX Keys S - Graphite - German (QWERTZ)",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "920-011575",
+      "name": "MX Keys S - Graphite - Italian (QWERTY)",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "920-011577",
+      "name": "MX Keys S - Graphite - Spanish (QWERTY)",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "920-011568",
+      "name": "MX Keys S - Graphite - French (AZERTY)",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "920-011570",
+      "name": "MX Keys S - Graphite - French (AZERTY)",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "920-011581",
+      "name": "MX Keys S - Graphite - Danish / Norwegian / Swedish / Finnish (QWERTY)",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "920-011583",
+      "name": "MX Keys S - Graphite - Danish / Norwegian / Swedish / Finnish (QWERTY)",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "920-011584",
+      "name": "MX Keys S - Graphite - English UK (QWERTY)",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "920-011586",
+      "name": "MX Keys S - Graphite - English UK (QWERTY)",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "920-011587",
+      "name": "MX Keys S - Graphite - English International (QWERTY)",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "920-011589",
+      "name": "MX Keys S - Graphite - English International (QWERTY)",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "920-011574",
+      "name": "MX Keys S - Graphite - Belgian (AZERTY)",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "920-011579",
+      "name": "MX Keys S - Graphite - Portuguese (QWERTY)",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "920-011590",
+      "name": "MX Keys S - Graphite - Czech / Slovakian (QWERTZ)",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "920-011591",
+      "name": "MX Keys S - Graphite - Croatian / Slovenian (QWERTZ / QWERTY)",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "920-011592",
+      "name": "MX Keys S - Graphite - Hebrew (QWERTZ)",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "920-011572",
+      "name": "MX Keys S - Pale Gray - Swiss (QWERTZ)",
+      "colour": "Pale Gray"
+    },
+    {
+      "mpn": "920-011566",
+      "name": "MX Keys S - Pale Gray - German (QWERTZ)",
+      "colour": "Pale Gray"
+    },
+    {
+      "mpn": "920-011576",
+      "name": "MX Keys S - Pale Gray - Italian (QWERTY)",
+      "colour": "Pale Gray"
+    },
+    {
+      "mpn": "920-011578",
+      "name": "MX Keys S - Pale Gray - Spanish (QWERTY)",
+      "colour": "Pale Gray"
+    },
+    {
+      "mpn": "920-011569",
+      "name": "MX Keys S - Pale Gray - French (AZERTY)",
+      "colour": "Pale Gray"
+    },
+    {
+      "mpn": "920-011582",
+      "name": "MX Keys S - Pale Gray - Danish / Norwegian / Swedish / Finnish (QWERTY)",
+      "colour": "Pale Gray"
+    },
+    {
+      "mpn": "920-011585",
+      "name": "MX Keys S - Pale Gray - English UK (QWERTY)",
+      "colour": "Pale Gray"
+    },
+    {
+      "mpn": "920-011588",
+      "name": "MX Keys S - Pale Gray - English International (QWERTY)",
+      "colour": "Pale Gray"
+    },
+    {
+      "mpn": "920-011580",
+      "name": "MX Keys S - Pale Gray - Portuguese (QWERTY)",
+      "colour": "Pale Gray"
+    }
+  ],
+  "research_lane": "accessories"
+}

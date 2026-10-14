@@ -1,0 +1,113 @@
+{
+  "id": "logitech-c270-hd-webcam-manufacturer-reference",
+  "brand": "Logitech",
+  "model": "C270 HD Webcam",
+  "category": "Cameras",
+  "scope": "Exact manufacturer model/part reference as identified. UK/EMEA where labelled; global Sandberg/LogiLink/Lenovo references; Dell Japan technical guide. Exact Tele2 SKU, OEM package and revision require matching. Dimensions keep manufacturer orientation/clip scope.",
+  "identifiers": [
+    "960-001063"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Logitech C270 HD Webcam official specifications",
+  "source_url": "https://www.logitech.com/en-gb/products/webcams/c270-hd-webcam.html",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/logitech-web-camera-c270/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Maximum resolution/frame rate",
+      "value": "720p at 30fps",
+      "unit": ""
+    },
+    {
+      "label": "Camera megapixels",
+      "value": "0.9",
+      "unit": ""
+    },
+    {
+      "label": "Focus",
+      "value": "Fixed",
+      "unit": ""
+    },
+    {
+      "label": "Lens",
+      "value": "Plastic",
+      "unit": ""
+    },
+    {
+      "label": "Microphone",
+      "value": "Mono;noise reducing",
+      "unit": ""
+    },
+    {
+      "label": "Diagonal FOV",
+      "value": "55°",
+      "unit": ""
+    },
+    {
+      "label": "Light correction",
+      "value": "RightLight 2",
+      "unit": ""
+    },
+    {
+      "label": "Universal clip",
+      "value": "Laptops, LCD/monitors;foldable tabletop placement",
+      "unit": ""
+    },
+    {
+      "label": "Height including clip",
+      "value": "72.91mm",
+      "unit": ""
+    },
+    {
+      "label": "Width including clip",
+      "value": "31.91mm",
+      "unit": ""
+    },
+    {
+      "label": "Depth including clip",
+      "value": "66.64mm",
+      "unit": ""
+    },
+    {
+      "label": "Weight",
+      "value": "75g",
+      "unit": ""
+    },
+    {
+      "label": "Cable",
+      "value": "1.5m USB-A attached",
+      "unit": ""
+    },
+    {
+      "label": "Windows requirement",
+      "value": "Windows 8 or later",
+      "unit": ""
+    },
+    {
+      "label": "macOS requirement",
+      "value": "10.10 or later",
+      "unit": ""
+    },
+    {
+      "label": "ChromeOS",
+      "value": "Supported",
+      "unit": ""
+    }
+  ],
+  "missing_fields": [
+    "Microphone range conflict: technical facet1m versus marketing1.5m; withheld",
+    "Dimensions use exact published facet labels; no orientation reordering",
+    "Exact Latvia GTIN/MPN and hardware revision"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.logitech.com/en-gb/products/webcams/c270-hd-webcam.html",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP200; published manufacturer specification facets and visible text read",
+      "notes": "Short technical facts only; no marketing prose or source images retained"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

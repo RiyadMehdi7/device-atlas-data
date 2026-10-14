@@ -1,0 +1,294 @@
+{
+  "id": "lenovo-ideapad-slim-3-15arp10-platform",
+  "brand": "Lenovo",
+  "model": "IdeaPad Slim 3 15ARP10",
+  "category": "Laptops",
+  "scope": "Manufacturer global platform/model reference; option lists do not establish an actual RAM/storage/display combination. EU/Latvia exact SKU, keyboard and warranty need matching.",
+  "identifiers": [],
+  "aliases": [
+    "IdeaPad Slim 3 15ARP10"
+  ],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Lenovo PSREF IdeaPad Slim 3 15ARP10",
+  "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/IdeaPad/IdeaPad_Slim_3_15ARP10/IdeaPad_Slim_3_15ARP10_Spec.html",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Processor Family",
+      "value": "AMD Ryzen™ 5 / 7 Processor",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Operating System",
+      "value": "Windows® 11 Pro ; Windows® 11 Home ; Windows® 11 Home Single Language ; Windows® 11 Home Single Language in S mode ; Windows® 11 Home in S mode ; No preload operating system",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Monitor Support",
+      "value": "Supports up to 3 independent displays (native display and 2 external monitors via HDMI® and USB-C®) • HDMI® supports up to 4K@30Hz • USB-C® supports up to 4K@60Hz",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Chipset",
+      "value": "AMD SoC (System on Chip) platform",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Max Memory",
+      "value": "Up to 24GB (8GB soldered + 16GB SO-DIMM) DDR5-4800 offering",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Memory Slots",
+      "value": "One memory soldered to systemboard, one DDR5 SO-DIMM slot, dual-channel capable",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Memory Type",
+      "value": "DDR5-4800",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Storage Support",
+      "value": "Up to two drives, 2x M.2 SSD • M.2 2242 SSD up to 1TB",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Storage Slot",
+      "value": "Two M.2 2242 PCIe® 4.0 x4 slots",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Storage Type",
+      "value": "Disk Type | Interface | Offering | ; M.2 2242 SSD | PCIe® NVMe®, PCIe® 4.0 x4 | 256GB / 512GB / 1TB",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Card Reader",
+      "value": "SD card reader",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Audio Chip",
+      "value": "High Definition (HD) Audio",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Speakers",
+      "value": "Stereo speakers, 2W x2, optimized with Dolby Audio™",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Microphone",
+      "value": "Dual-microphone array",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Camera",
+      "value": "FHD 1080p + IR, with privacy shutter, fixed focus ; HD 720p, with privacy shutter, fixed focus",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Battery",
+      "value": "Integrated Li-Polymer 50Wh battery, supports Rapid Charge Boost (get 2 hours of runtime with a 15-minute charge) ; Integrated Li-Polymer 60Wh battery, supports Rapid Charge Boost (get 2 hours of runtime with a 15-minute charge)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Power Adapter",
+      "value": "65W round tip (3-pin) AC adapter, 100-240V, 50-60Hz",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Display",
+      "value": "Size | Resolution | Touch | Type | Brightness | Surface | Aspect Ratio | Contrast Ratio | Color Gamut | Refresh Rate | Viewing Angle (L/R/U/D) | Key Features | ; 15.1\" | WQXGA (2560x1600) | None | OLED | 500nits | Glossy | 16:10 | 100,000:1 | 100% DCI-P3 | 165Hz | 89° / 89° / 89° / 89° | TÜV Low Blue Light (Hardware), DisplayHDR™ True Black 600 | ; 15.3\" | WUXGA (1920x1200) | Multi-touch | IPS | 300nits | Anti-glare | 16:10 | 1200:1 | 45% NTSC | 60Hz | 89° / 89° / 89° / 89° | TÜV Low Blue Light (Software) | ; 15.3\" | WUXGA (1920x1200) | None | IPS | 300nits | Anti-glare | 16:10 | 1200:1 | 45% NTSC | 60Hz | 89° / 89° / 89° / 89° | TÜV Low Blue Light (Software)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Touchscreen",
+      "value": "On-cell multi-touch, supports 10-point touch ; Non-touch",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Pen",
+      "value": "No support",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Keyboard",
+      "value": "6-row, multimedia Fn keys, numeric keypad, Copilot key",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Keyboard Backlight",
+      "value": "LED backlight ; Non-backlight",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Touchpad",
+      "value": "Buttonless Mylar® surface multi-touch touchpad, supports Precision TouchPad (PTP), 75 x 120 mm (2.95 x 4.72 inches)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Dimensions (WxDxH)",
+      "value": "Models | Dimensions | ; Models with aluminium top cover | 343.4 x 239.5 x 16.9-17.9 mm (13.52 x 9.51 x 0.67-0.70 inches) | ; Models with PC-ABS top cover | 343.4 x 239.5 x 17.9-18.9 mm (13.52 x 9.43 x 0.70-0.74 inches)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Weight",
+      "value": "Models | Weight | ; Models with 50Wh battery and IPS panel | Starting at 1.59 kg (3.51 lbs) | ; Models with 60Wh battery and IPS panel | Starting at 1.63 kg (3.59 lbs) | ; Models with 60Wh battery and OLED panel | Starting at 1.49 kg (3.28 lbs)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Case Color",
+      "value": "Cosmic blue ; Luna grey",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Surface Treatment",
+      "value": "Aluminium Stamping Anodized (Top), Texture (Bottom) ; IMR (Top), Texture (Bottom)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Case Material",
+      "value": "Aluminium (top), PC-ABS (bottom) ; PC-ABS (top), PC-ABS (bottom)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Ethernet",
+      "value": "No onboard Ethernet",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "WLAN + Bluetooth®",
+      "value": "Wi-Fi® 6, 802.11ax 2x2 Wi-Fi® + Bluetooth® 5.3, M.2 card ; Wi-Fi® 7, 802.11be 2x2 Wi-Fi® + Bluetooth® 5.4, M.2 card",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "WWAN",
+      "value": "No support",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Standard Ports",
+      "value": "2x USB-A (USB 5Gbps / USB 3.2 Gen 1) ; 1x USB-C® (USB 5Gbps / USB 3.2 Gen 1), with USB PD 3.0 and DisplayPort™ 1.2 ; 1x HDMI® 1.4 ; 1x Headphone / microphone combo jack (3.5mm) ; 1x SD card reader ; 1x Power connector",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Docking",
+      "value": "Various docking solutions supported via USB-C®. For more compatible docking solutions, please visit Docking for IdeaPad® Slim 3 15ARP10",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Security Chip",
+      "value": "Microsoft® Pluton TPM 2.0 Enabled",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Fingerprint Reader",
+      "value": "No fingerprint reader",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "BIOS Security",
+      "value": "Administrator password ; Master hard disk password ; Power-on password ; User hard disk password ; User password ; Self-healing BIOS",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Other Security",
+      "value": "Camera privacy shutter ; (Optional) IR camera for Windows® Hello (facial recognition)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Base Warranty",
+      "value": "1-year courier or carry-in service ; 1-year courier or carry-in with 2-year system board service (Korea only) ; 2-year (1-yr battery) courier or carry-in service",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Bundled Accessories *",
+      "value": "Lenovo® 16-inch Laptop Backpack B210 black (ECO) ; Lenovo® 16-inch Laptop Topload T210 black (ECO) ; Lenovo® E310 True Wireless Stereo Earbuds ; Lenovo® WL310 Bluetooth® Silent Mouse ; None",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Temperature",
+      "value": "At altitudes up to 2438 m (8,000 ft) - Operating: 5°C to 35°C (41°F to 95°F) - Storage: 5°C to 43°C (41°F to 109°F) ; At altitudes above 2438 m (8,000 ft) - Maximum temperature when operating under the unpressurized condition: 31.3°C (88°F)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Relative Humidity",
+      "value": "Operating: 8% to 95% at wet-bulb temperature 23°C (73°F) ; Storage: 5% to 95% at wet-bulb temperature 27°C (81°F)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Altitude",
+      "value": "Maximum altitude (without pressurization): 3048 m (10,000 ft)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Mil-Spec Test",
+      "value": "MIL-STD-810H military test passed (21 test items)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    }
+  ],
+  "missing_fields": [
+    "Exact EU/Latvia MPN or GTIN",
+    "Actual configured RAM/storage/display",
+    "Regional keyboard",
+    "Regional availability and warranty"
+  ],
+  "source_pages": [
+    {
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/IdeaPad/IdeaPad_Slim_3_15ARP10/IdeaPad_Slim_3_15ARP10_Spec.html",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Structured specifications read; options kept together as platform alternatives. Structured field values preserved in per-product JSON evidence.",
+      "http_status": 200,
+      "content_title": "Lenovo PSREF IdeaPad Slim 3 15ARP10"
+    }
+  ],
+  "research_lane": "computers"
+}

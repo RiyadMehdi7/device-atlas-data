@@ -1,0 +1,155 @@
+{
+  "id": "jbl-partybox-720-no-battery-uk-model",
+  "brand": "JBL",
+  "model": "PartyBox 720 (No Battery)",
+  "category": "Speakers",
+  "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "JBL PartyBox 720 (No Battery) | Party speaker with superior JBL Pro Sound and futuristic lightshow",
+  "source_url": "https://uk.jbl.com/PARTYBOX-720-NO-BATTERY.html",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Power input",
+      "value": "100 – 240 V ~ 50 / 60 Hz",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Output power",
+      "value": "800 W RMS (IEC60268)",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Transducer",
+      "value": "2 x 9 inch (243 mm) woofers, 2 x 1.25 inch (30 mm) dome tweeters",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Frequency response",
+      "value": "32 Hz – 20 kHz",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Signal-to-noise ratio",
+      "value": "> 80dB",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Product dimensions (W x H x D)",
+      "value": "416 x 942 x 406 mm / 16.38\" x 37.1\" x 16.0\"",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Net weight",
+      "value": "31 kg / 68.3 lbs",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Packaging dimensions (W x H x D)",
+      "value": "491 x 1027 x 468mm / 19.33\" x 40.43\" x 18.43\"",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Gross weight",
+      "value": "34.9kg / 76.9 lbs",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Aux-In",
+      "value": "250 mV RMS (3.5 mm connector)",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Mic-In",
+      "value": "20 mV RMS",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Guitar-In / Line-In",
+      "value": "100 mV RMS",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth/USB input",
+      "value": "-12 dBFS",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth® version",
+      "value": "5.4",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth® profile",
+      "value": "A2DP V1.4, AVRCP V1.6",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth® transmitter frequency range",
+      "value": "2.4 GHz - 2.4835 GHz",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth® transmitter power",
+      "value": "≤ 18 dBm (EIRP)",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth® transmitter modulation",
+      "value": "GFSK, π/4 DQPSK, 8DPSK",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Cable type",
+      "value": "AC power cable (type varies by regions)",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Cable length",
+      "value": "2.0m/6.6ft",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Battery type",
+      "value": "2 x JBL BATTERY 600, Li-ion 99.02 Wh (equivalent to 21.6 V / 4584 mAh) (Batteries Not Included)",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU/GTIN matching"
+  ],
+  "source_pages": [
+    {
+      "url": "https://uk.jbl.com/PARTYBOX-720-NO-BATTERY.html",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Specification table read; conflicting or ambiguous playback totals omitted"
+    }
+  ],
+  "research_lane": "audio"
+}

@@ -1,0 +1,199 @@
+{
+  "id": "beats-studio-buds-manufacturer-model",
+  "brand": "Beats",
+  "model": "Studio Buds +",
+  "category": "Earbuds",
+  "scope": "Official manufacturer reference; USA/global page, Latvia SKU matching required",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Studio Buds + official technical specifications and FAQ",
+  "source_url": "https://www.beatsbydre.com/us/earbuds/studio-buds-plus-wireless-noise-cancelling",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "ANC",
+      "value": "Adapts to personal fit",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Transparency",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Spatial audio",
+      "value": "Dolby Atmos",
+      "unit": "",
+      "condition": "Compatible content"
+    },
+    {
+      "label": "Acoustic vents",
+      "value": "3",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Earbud protection",
+      "value": "IPX4",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Earbud length",
+      "value": "2.05 cm",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Earbud width",
+      "value": "1.85 cm",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Earbud height",
+      "value": "1.5 cm",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Earbud weight",
+      "value": "5.0 g",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Case length",
+      "value": "7.2 cm",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Case width",
+      "value": "5.1 cm",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Case height",
+      "value": "2.55 cm",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Case weight",
+      "value": "49.0 g",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Bluetooth class",
+      "value": "1",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Siri",
+      "value": "Hands-free Hey Siri",
+      "unit": "",
+      "condition": "Compatible Apple device"
+    },
+    {
+      "label": "Google Fast Pair",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Android Audio Switch",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Find My",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Google Find My Device",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Earbud listening",
+      "value": "Up to 9 hours",
+      "unit": "",
+      "condition": "ANC/Transparency off"
+    },
+    {
+      "label": "Listening including case",
+      "value": "Up to 36 hours",
+      "unit": "",
+      "condition": "ANC/Transparency off; total"
+    },
+    {
+      "label": "Earbud ANC/Transparency listening",
+      "value": "Up to 6 hours",
+      "unit": "",
+      "condition": "ANC/Transparency on"
+    },
+    {
+      "label": "Total ANC/Transparency listening",
+      "value": "Up to 24 hours",
+      "unit": "",
+      "condition": "ANC/Transparency on; includes case"
+    },
+    {
+      "label": "Fast Fuel",
+      "value": "Up to 1 hour playback after 5-min charge",
+      "unit": "",
+      "condition": "Low battery"
+    },
+    {
+      "label": "Charging",
+      "value": "USB-C",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Battery type",
+      "value": "Rechargeable lithium-ion",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Ear tips",
+      "value": "XS/S/M/L",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "USB-C cable",
+      "value": "Included",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    }
+  ],
+  "missing_fields": [
+    "Battery capacities",
+    "Regional SKU matching",
+    "Full battery lab test protocol"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.beatsbydre.com/us/earbuds/studio-buds-plus-wireless-noise-cancelling",
+      "fetched_at": "2026-10-14",
+      "method": "web open/find",
+      "notes": "Official tech details and FAQ actually read; earbud/case playback separated"
+    }
+  ],
+  "research_lane": "audio"
+}

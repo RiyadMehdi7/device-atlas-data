@@ -1,0 +1,161 @@
+{
+  "id": "jbl-charge-6-uk-model",
+  "brand": "JBL",
+  "model": "Charge 6",
+  "category": "Speakers",
+  "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "JBL Charge 6 | Portable waterproof and drop-proof Bluetooth speaker",
+  "source_url": "https://uk.jbl.com/CHARGE-6.html",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/charge-6/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Output power (W)",
+      "value": "30 W RMS for woofer, 15 W RMS for tweeter",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Dynamic frequency response range (Hz)",
+      "value": "56 Hz - 20 kHz (-6 dB)",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Dimensions (Width x Height x Depth) (cm)",
+      "value": "22.9 x 9.9 x 9.4",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Dimensions (Width x Height x Depth) (in)",
+      "value": "9.0 x 3.9 x 3.7",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Net Weight (kgs)",
+      "value": "1.37",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Net Weight (lbs)",
+      "value": "3",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth profiles",
+      "value": "A2DP 1.4, AVRCP 1.6",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth frequency",
+      "value": "2400 MHz - 2483.5 MHz",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth transmitted modulation",
+      "value": "GFSK, π/4 DQPSK, 8DPSK",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth transmitter power",
+      "value": "< 15 dBm (EIRP)",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth version",
+      "value": "5.4",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Charging time (hrs)",
+      "value": "3",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Charging cable",
+      "value": "No",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Dustproof",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Mobile app available for iOS and Android",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Powerbank",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Supports Auracast",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Waterproof",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Wireless",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "JBL Original Pro Sound",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "IP Code",
+      "value": "IP68",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU/GTIN matching"
+  ],
+  "source_pages": [
+    {
+      "url": "https://uk.jbl.com/CHARGE-6.html",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Specification table read; conflicting or ambiguous playback totals omitted"
+    }
+  ],
+  "research_lane": "audio"
+}

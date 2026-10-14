@@ -1,0 +1,407 @@
+{
+  "id": "xiaomi-redmi-pad-pro",
+  "brand": "Xiaomi",
+  "model": "Redmi Pad Pro",
+  "model_family": "Redmi Pad Pro",
+  "category": "Tablets",
+  "scope": "Global manufacturer model reference. Explicit RAM/storage options remain options. Not an exact Latvia SKU; retail package and radio availability vary.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer model source checked; Latvia SKU needs matching",
+  "source_name": "Xiaomi Redmi Pad Pro technical specifications",
+  "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Dimensions / Height",
+      "value": "280.0mm",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Width",
+      "value": "181.85mm",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Thickness",
+      "value": "7.52mm",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Weight",
+      "value": "571g",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Chipset",
+      "value": "Snapdragon® 7s Gen 2 Mobile Platform",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Processor / detail 2",
+      "value": "Up to 2.4GHz",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Chip process",
+      "value": "4nm process",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Storage & RAM / detail 4",
+      "value": "6GB+128GB / 8GB+128GB / 8GB+256GB",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Storage & RAM / detail 5",
+      "value": "LPDDR4X RAM + UFS 2.2 storage",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Storage & RAM / Supports expandable storage",
+      "value": "Up to 1.5TB",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Storage & RAM / detail 6",
+      "value": "Note",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Size",
+      "value": "12.1\", 16:10 aspect ratio",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Resolution",
+      "value": "2560 x 1600 249 ppi",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Material",
+      "value": "LCD",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Refresh rate",
+      "value": "120Hz AdaptiveSync (30/48/50/60/90/120Hz)",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Brightness",
+      "value": "500 nits (typ)；600 nits (HBM)",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Touch sampling rate",
+      "value": "up to 240Hz",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Screen-to-body ratio",
+      "value": "83.6%",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Contrast ratio",
+      "value": "1500:1",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Color depth",
+      "value": "12-bit, 68.7 billion colors",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Dimming",
+      "value": "4096 levels brightness adjustment, DC dimming",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / detail 7",
+      "value": "Dolby Vision®",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / detail 8",
+      "value": "Adaptive colors",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / detail 9",
+      "value": "Adaptive reading mode",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / detail 10",
+      "value": "TÜV Rheinland Low Blue Light (Hardware Solution) Certified",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / detail 11",
+      "value": "TÜV Rheinland Flicker Free Certified",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / detail 12",
+      "value": "TÜV Rheinland Circadian Friendly Certified",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / detail 13",
+      "value": "Corning® Gorilla® Glass 3",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear camera / detail 14",
+      "value": "8MP ",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear camera / detail 15",
+      "value": "1/4\", f/2, 1.12μm",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear camera / detail 16",
+      "value": "1080P 1920x1080 30fps",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear camera / detail 17",
+      "value": "720P 1280x720 30fps",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front camera / detail 18",
+      "value": "1/4\", f/2.28, 1.12μm",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front camera / detail 19",
+      "value": "1080P 1920x1080 30fps",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front camera / detail 20",
+      "value": "720P 1280x720 30fps",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery&charginig / detail 21",
+      "value": "10000mAh (typ), 9800mAh (min)",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery&charginig / detail 22",
+      "value": "Supports 33W fast charging",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery&charginig / detail 23",
+      "value": "USB Type-C",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Data transfer / detail 24",
+      "value": "USB 2.0",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connectivity / detail 25",
+      "value": "Wi-Fi 6，Wi-Fi 5，Wi-Fi 4 and 802.11a/b/g",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connectivity / detail 26",
+      "value": "2.4GHz Wi-Fi | 5GHz Wi-Fi",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connectivity / detail 27",
+      "value": "Supports 2x2 MIMO, Wi-Fi Direct, Miracast, MU-MIMO",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connectivity / detail 28",
+      "value": "Bluetooth 5.2",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connectivity / detail 29",
+      "value": "AAC/LDAC/SBC/aptX/aptX-HD/aptx-adaptive",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connectivity / detail 30",
+      "value": "IPv6",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Sensors",
+      "value": "Accelerometer | Gyroscope | Ambient light sensor | Color temperature sensor | Electronic compass | Hall sensor",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Operating system",
+      "value": "Xiaomi HyperOS, Android U",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia-specific MPN/GTIN",
+    "Latvia retail configuration and package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible official technical content read; structured facts retained"
+    }
+  ],
+  "research_lane": "tablets"
+}

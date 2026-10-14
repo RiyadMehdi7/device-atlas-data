@@ -1,0 +1,242 @@
+{
+  "id": "xiaomi-g34wqi",
+  "brand": "Xiaomi",
+  "model": "G34WQi",
+  "category": "Monitors",
+  "scope": "Global exact monitor model C34WQBA-RGGL / G34WQi manufacturer reference. Latvia stocked EAN remains unmatched; source does not specify unit for dimensional values.",
+  "identifiers": [
+    "G34WQi",
+    "C34WQBA-RGGL"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Xiaomi Curved Gaming Monitor G34WQi Specs",
+  "source_url": "https://www.mi.com/global/product/xiaomi-curved-gaming-monitor-g34wqi/specs/",
+  "tele2_url": "https://www.tele2.lv/monitori/xiaomi-g34wqi/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Product Model",
+      "value": "C34WQBA-RGGL",
+      "unit": "",
+      "condition": "Global manufacturer G34WQi specification; original typical/MPRT and including-base conditions retained"
+    },
+    {
+      "label": "Power Input",
+      "value": "24V⎓ 2.71A",
+      "unit": "",
+      "condition": "Global manufacturer G34WQi specification; original typical/MPRT and including-base conditions retained"
+    },
+    {
+      "label": "Rated Power",
+      "value": "65W",
+      "unit": "",
+      "condition": "Global manufacturer G34WQi specification; original typical/MPRT and including-base conditions retained"
+    },
+    {
+      "label": "Display Size",
+      "value": "34\"",
+      "unit": "",
+      "condition": "Global manufacturer G34WQi specification; original typical/MPRT and including-base conditions retained"
+    },
+    {
+      "label": "Display Viewing Angle",
+      "value": "178(H)/178(V)",
+      "unit": "",
+      "condition": "Global manufacturer G34WQi specification; original typical/MPRT and including-base conditions retained"
+    },
+    {
+      "label": "Brightness",
+      "value": "350nits (TYP)",
+      "unit": "",
+      "condition": "Global manufacturer G34WQi specification; original typical/MPRT and including-base conditions retained"
+    },
+    {
+      "label": "Contrast Ratio",
+      "value": "4000:1 (TYP)",
+      "unit": "",
+      "condition": "Global manufacturer G34WQi specification; original typical/MPRT and including-base conditions retained"
+    },
+    {
+      "label": "Color",
+      "value": "16.7M",
+      "unit": "",
+      "condition": "Global manufacturer G34WQi specification; original typical/MPRT and including-base conditions retained"
+    },
+    {
+      "label": "Aspect Ratio",
+      "value": "21:9",
+      "unit": "",
+      "condition": "Global manufacturer G34WQi specification; original typical/MPRT and including-base conditions retained"
+    },
+    {
+      "label": "Resolution",
+      "value": "3440 x 1440",
+      "unit": "",
+      "condition": "Global manufacturer G34WQi specification; original typical/MPRT and including-base conditions retained"
+    },
+    {
+      "label": "Maximum Refresh Rate",
+      "value": "180Hz",
+      "unit": "",
+      "condition": "Global manufacturer G34WQi specification; original typical/MPRT and including-base conditions retained"
+    },
+    {
+      "label": "Response Time",
+      "value": "MPRT 1ms (TYP)",
+      "unit": "",
+      "condition": "Global manufacturer G34WQi specification; original typical/MPRT and including-base conditions retained"
+    },
+    {
+      "label": "Product Dimensions (including base)",
+      "value": "811.3(L) x 210(W) x 510.1(H)",
+      "unit": "",
+      "condition": "Global manufacturer G34WQi specification; original typical/MPRT and including-base conditions retained"
+    },
+    {
+      "label": "Product Net Weight (including base)",
+      "value": "6.9kg",
+      "unit": "",
+      "condition": "Global manufacturer G34WQi specification; original typical/MPRT and including-base conditions retained"
+    },
+    {
+      "label": "Wall Mounting Dimensions",
+      "value": "Support (VESA 75 x 75mm)",
+      "unit": "",
+      "condition": "Global manufacturer G34WQi specification; original typical/MPRT and including-base conditions retained"
+    },
+    {
+      "label": "Tilt Angle",
+      "value": "Forward 5°±2 / Back 21°±2",
+      "unit": "",
+      "condition": "Global manufacturer G34WQi specification; original typical/MPRT and including-base conditions retained"
+    },
+    {
+      "label": "Color",
+      "value": "accuracy report x1",
+      "unit": "",
+      "condition": "Global manufacturer G34WQi specification; original typical/MPRT and including-base conditions retained"
+    },
+    {
+      "label": "Package contents",
+      "value": "Display monitor x1; Base suite x1; Base mount suite x1; DP cable x1; Power adapter x1; User manual x1; Color accuracy report x1; Screw kit x1; Warranty card x1",
+      "unit": "",
+      "condition": "Manufacturer package/type and number list on specification page"
+    },
+    {
+      "label": "Port counts",
+      "value": "DP port x2; HDMI port x2; Audio port x1; DC IN power port x1",
+      "unit": "",
+      "condition": "Manufacturer package/type and number list on specification page"
+    },
+    {
+      "label": "Curvature",
+      "value": "1500R",
+      "unit": "",
+      "condition": "Manufacturer homepage",
+      "source_url": "https://www.mi.com/global/product/xiaomi-curved-gaming-monitor-g34wqi/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "DCI-P3 gamut",
+      "value": "95%",
+      "unit": "",
+      "condition": "CIE 1976 coverage ratio",
+      "source_url": "https://www.mi.com/global/product/xiaomi-curved-gaming-monitor-g34wqi/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "sRGB gamut",
+      "value": "100%",
+      "unit": "",
+      "condition": "CIE 1931 coverage ratio",
+      "source_url": "https://www.mi.com/global/product/xiaomi-curved-gaming-monitor-g34wqi/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Average colour accuracy",
+      "value": "ΔE < 2",
+      "unit": "",
+      "condition": "Average value; manufacturer internal-lab claim",
+      "source_url": "https://www.mi.com/global/product/xiaomi-curved-gaming-monitor-g34wqi/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Video connector versions",
+      "value": "DisplayPort 1.4 x2; HDMI 2.0 x2",
+      "unit": "",
+      "condition": "Manufacturer homepage",
+      "source_url": "https://www.mi.com/global/product/xiaomi-curved-gaming-monitor-g34wqi/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Variable refresh certification",
+      "value": "AMD FreeSync Premium",
+      "unit": "",
+      "condition": "Certification applies only to DP ports",
+      "source_url": "https://www.mi.com/global/product/xiaomi-curved-gaming-monitor-g34wqi/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Maximum resolution / refresh",
+      "value": "3440 x 1440 at 180 Hz",
+      "unit": "",
+      "condition": "Manufacturer recommends included DP cable and DP port for optimal output",
+      "source_url": "https://www.mi.com/global/product/xiaomi-curved-gaming-monitor-g34wqi/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Low blue light certification",
+      "value": "TÜV Low Blue Light Certification ID 0217009673",
+      "unit": "",
+      "condition": "Low blue light mode must be turned on manually",
+      "source_url": "https://www.mi.com/global/product/xiaomi-curved-gaming-monitor-g34wqi/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimming method",
+      "value": "DC dimming",
+      "unit": "",
+      "condition": "Manufacturer homepage",
+      "source_url": "https://www.mi.com/global/product/xiaomi-curved-gaming-monitor-g34wqi/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Stand adjustments",
+      "value": "Vertical adjustment; Horizontal rotation; Tilt forward/backward",
+      "unit": "",
+      "condition": "Manufacturer homepage; ranges unresolved",
+      "source_url": "https://www.mi.com/global/product/xiaomi-curved-gaming-monitor-g34wqi/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wall bracket included",
+      "value": "No",
+      "unit": "",
+      "condition": "Homepage explicitly says bracket not included; purchased separately",
+      "source_url": "https://www.mi.com/global/product/xiaomi-curved-gaming-monitor-g34wqi/",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia stocked EAN matching",
+    "Dimensional unit not stated in extracted specification",
+    "Panel technology and user manual HDMI/DP timing limits"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/xiaomi-curved-gaming-monitor-g34wqi/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "Exa web_fetch_exa full page",
+      "notes": "Exact model specification read"
+    },
+    {
+      "url": "https://www.mi.com/global/product/xiaomi-curved-gaming-monitor-g34wqi/",
+      "fetched_at": "2026-10-14",
+      "method": "Exa web_fetch_exa full page",
+      "notes": "Exact model homepage and footnotes read; DP-only FreeSync condition retained"
+    }
+  ],
+  "research_lane": "monitors"
+}

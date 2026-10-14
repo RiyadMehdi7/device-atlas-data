@@ -1,0 +1,153 @@
+{
+  "id": "apple-usb-c-digital-av-multiport-adapter",
+  "brand": "Apple",
+  "model": "USB-C Digital AV Multiport Adapter",
+  "model_family": "USB-C Digital AV Multiport Adapter",
+  "category": "Accessories",
+  "scope": "Official UK manufacturer reference. Dimensions/features are for the namedgeneration. UKplug/part may differfromLatvia; exactretailerbarcode/MPNrequiresmatching.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Apple USB-C Digital AV Multiport Adapter technical specifications",
+  "source_url": "https://www.apple.com/uk/shop/product/mw5m3zm/a/usb-c-digital-av-multiport-adapter",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Host connector",
+      "value": "USB-C orThunderbolt3USB-C",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://www.apple.com/uk/shop/product/mw5m3zm/a/usb-c-digital-av-multiport-adapter",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display output",
+      "value": "HDMI",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://www.apple.com/uk/shop/product/mw5m3zm/a/usb-c-digital-av-multiport-adapter",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Peripheral port",
+      "value": "StandardUSB",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://www.apple.com/uk/shop/product/mw5m3zm/a/usb-c-digital-av-multiport-adapter",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Power pass-through",
+      "value": "USB-Cchargingport",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://www.apple.com/uk/shop/product/mw5m3zm/a/usb-c-digital-av-multiport-adapter",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Video mirroring",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://www.apple.com/uk/shop/product/mw5m3zm/a/usb-c-digital-av-multiport-adapter",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Maximum specified mode",
+      "value": "3840x2160 at60Hz onspecifiedhosts",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://www.apple.com/uk/shop/product/mw5m3zm/a/usb-c-digital-av-multiport-adapter",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Other specified modes",
+      "value": "1080p60Hz or3840x2160 at30Hz onotherlistedhosts",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://www.apple.com/uk/shop/product/mw5m3zm/a/usb-c-digital-av-multiport-adapter",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "4K60 host examples",
+      "value": "iPhone15/16/17/18Profamilies;iPad ProM4/M5;iPad AirM2/M3;specifiedMacmodels",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://www.apple.com/uk/shop/product/mw5m3zm/a/usb-c-digital-av-multiport-adapter",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "4K30 host examples",
+      "value": "iPad Air4thgen;specifiedMacBookAir/Pro,iMac,Macmini",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://www.apple.com/uk/shop/product/mw5m3zm/a/usb-c-digital-av-multiport-adapter",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "USB peripheral functions",
+      "value": "Flashdrive/camera connection;iOSsyncandcharging",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://www.apple.com/uk/shop/product/mw5m3zm/a/usb-c-digital-av-multiport-adapter",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "HDMI cable",
+      "value": "Sold separately",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://www.apple.com/uk/shop/product/mw5m3zm/a/usb-c-digital-av-multiport-adapter",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Output types",
+      "value": "Videoandaudio",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://www.apple.com/uk/shop/product/mw5m3zm/a/usb-c-digital-av-multiport-adapter",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Mac system requirement",
+      "value": "macOSMojave10.14.6 orlater",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://www.apple.com/uk/shop/product/mw5m3zm/a/usb-c-digital-av-multiport-adapter",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "iOS requirement",
+      "value": "iOS12.4 orlater",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://www.apple.com/uk/shop/product/mw5m3zm/a/usb-c-digital-av-multiport-adapter",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Package contents",
+      "value": "USB-CDigitalAVMultiportAdapter",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://www.apple.com/uk/shop/product/mw5m3zm/a/usb-c-digital-av-multiport-adapter",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia MPN/GTIN",
+    "Latvia retail package contents",
+    "Input frequency/current and full negotiated power profiles where unpublished",
+    "EU plug dimensions/mass; UK dimensions cannot be transferred"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.apple.com/uk/shop/product/mw5m3zm/a/usb-c-digital-av-multiport-adapter",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Official source technical content read; factual extraction retained"
+    }
+  ],
+  "research_lane": "accessories"
+}

@@ -1,0 +1,287 @@
+{
+  "id": "xiaomi-redmi-pad-2-8gb-256gb",
+  "brand": "Xiaomi",
+  "model": "REDMI Pad 2 8GB/256GB",
+  "category": "Tablets",
+  "scope": "Global manufacturer reference. Exact RAM/storage pairs enumerated on specs page; Latvia identity unresolved. Standard glass only for Pad 8 Pro. Regional Wi-Fi support and accessories may vary.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "REDMI Pad 2 8 - manufacturer technical specifications",
+  "source_url": "https://www.mi.com/global/product/redmi-pad-2/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "RAM",
+      "value": "8GB",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Storage",
+      "value": "256GB",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "RAM technology",
+      "value": "LPDDR4X",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Chip",
+      "value": "MediaTek Helio G100-Ultra",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Chip process",
+      "value": "6nm",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "GPU",
+      "value": "Mali-G57 MC2",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Height",
+      "value": "254.58mm",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Width",
+      "value": "166.04mm",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Thickness",
+      "value": "7.36mm",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Weight",
+      "value": "510g",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Screen diagonal",
+      "value": "11 inches",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Resolution",
+      "value": "2560 x 1600",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Pixel density",
+      "value": "274ppi",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Maximum refresh rate",
+      "value": "90Hz",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Maximum touch sampling",
+      "value": "360Hz; with pen 240Hz",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Brightness",
+      "value": "500 nits typical; 600 nits outdoor mode",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery capacity",
+      "value": "9000mAh typical",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Charging maximum",
+      "value": "18W",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "USB connector",
+      "value": "Type-C",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "USB version",
+      "value": "USB 2.0",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi",
+      "value": "Wi-Fi 5 capability; regional/network support varies",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear camera",
+      "value": "8MP f/2.0",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front camera",
+      "value": "5MP f/2.2",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear video",
+      "value": "1080p 30fps",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front video",
+      "value": "1080p 30fps",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "OS",
+      "value": "Xiaomi HyperOS 2",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Sensors",
+      "value": "Accelerometer; virtual ambient light; hall",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "IPv6",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Storage technology",
+      "value": "UFS 2.2",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Expandable storage",
+      "value": "Up to 2TB; card separate",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "5.3",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth audio codecs",
+      "value": "SBC, AAC, LDAC",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2/specs/",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia-specific MPN/GTIN",
+    "Latvia retail package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/redmi-pad-2/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Technical specifications read; only structured facts retained"
+    }
+  ],
+  "model_family": "REDMI Pad 2",
+  "research_lane": "tablets"
+}

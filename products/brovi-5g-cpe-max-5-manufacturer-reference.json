@@ -1,0 +1,182 @@
+{
+  "id": "brovi-5g-cpe-max-5-manufacturer-reference",
+  "brand": "BROVI",
+  "model": "5G CPE Max 5",
+  "category": "Routers",
+  "scope": "Official manufacturer technical document reference. Exact Latvian SKU/hardware/region requires matching. BROVI Max5 is only a candidate match to generic Tele2 Max Outdoor family. TCL source is UK; H153 source manual includes EU/Latvia regulatory restrictions. Performance conditions preserved.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "BROVI 5G CPE Max 5 official specifications/manual",
+  "source_url": "https://brovi-tech.com/uploads/soft/20230829/1693275327.pdf",
+  "tele2_url": "https://www.tele2.lv/ruteri/brovi-5g-cpe-max-outdoor/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "3GPP protocol",
+      "value": "Release16",
+      "unit": ""
+    },
+    {
+      "label": "5G/4G interworking",
+      "value": "NSA option3/3x; SA option2",
+      "unit": ""
+    },
+    {
+      "label": "5G FDD bands",
+      "value": "n1/n3/n5/n7/n8/n20/n28",
+      "unit": ""
+    },
+    {
+      "label": "5G TDD bands",
+      "value": "n38/n40/n41/n77/n78/n79",
+      "unit": ""
+    },
+    {
+      "label": "5G SUL bands",
+      "value": "n80/n81/n82/n83/n84",
+      "unit": ""
+    },
+    {
+      "label": "5G SDL band",
+      "value": "n75",
+      "unit": ""
+    },
+    {
+      "label": "TDD bandwidth options",
+      "value": "100/90/80/70/60/50/40/20/15/10MHz",
+      "unit": ""
+    },
+    {
+      "label": "FDD bandwidth options",
+      "value": "40/30/20/15/10/5MHz",
+      "unit": ""
+    },
+    {
+      "label": "5G DL 4×4 MIMO bands",
+      "value": "n1/n3/n7/n38/n40/n41/n77/n78/n79",
+      "unit": ""
+    },
+    {
+      "label": "5G DL 2×2 MIMO bands",
+      "value": "n5/n8/n20/n28/n75",
+      "unit": ""
+    },
+    {
+      "label": "5G UL 2×2 MIMO bands",
+      "value": "n1/n38/n40/n41/n77/n78/n79",
+      "unit": ""
+    },
+    {
+      "label": "5G DL/UL modulation",
+      "value": "256QAM/256QAM",
+      "unit": ""
+    },
+    {
+      "label": "5G DL/UL peak throughput",
+      "value": "5.4Gbps/500Mbps",
+      "unit": ""
+    },
+    {
+      "label": "Throughput test configuration",
+      "value": "DL300MHz/UL200MHz; SA TDD8:2 ratio",
+      "unit": ""
+    },
+    {
+      "label": "Carrier aggregation",
+      "value": "DL3CC300MHz; UL2CC200MHz",
+      "unit": ""
+    },
+    {
+      "label": "4G bands",
+      "value": "B1/B3/B5/B7/B8/B18/B19/B20/B26/B28/B32/B34/B38/B39/B40/B41/B42/B43",
+      "unit": ""
+    },
+    {
+      "label": "4G 4×4 MIMO bands",
+      "value": "B1/B3/B7/B38/B39/B40/B41/B42/B43",
+      "unit": ""
+    },
+    {
+      "label": "4G 2×2 MIMO bands",
+      "value": "B5/B8/B18/B19/B20/B26/B28/B32/B34",
+      "unit": ""
+    },
+    {
+      "label": "4G DL/UL modulation",
+      "value": "256QAM/64QAM",
+      "unit": ""
+    },
+    {
+      "label": "Antenna gain",
+      "value": "11dBi",
+      "unit": ""
+    },
+    {
+      "label": "Management Wi-Fi",
+      "value": "802.11n,1×1MIMO,2.4GHz; management only",
+      "unit": ""
+    },
+    {
+      "label": "App management",
+      "value": "Smartphone app",
+      "unit": ""
+    },
+    {
+      "label": "Dimensions",
+      "value": "230 × 142 × 58mm",
+      "unit": ""
+    },
+    {
+      "label": "Weight",
+      "value": "<1kg",
+      "unit": ""
+    },
+    {
+      "label": "Ethernet",
+      "value": "One RJ45,2.5GE",
+      "unit": ""
+    },
+    {
+      "label": "SIM",
+      "value": "4FF",
+      "unit": ""
+    },
+    {
+      "label": "Indicators",
+      "value": "4G/5G",
+      "unit": ""
+    },
+    {
+      "label": "Reset button",
+      "value": "Supported",
+      "unit": ""
+    },
+    {
+      "label": "Operating temperature",
+      "value": "-40°C to +55°C; without solar radiation",
+      "unit": ""
+    },
+    {
+      "label": "Ingress protection",
+      "value": "IP65",
+      "unit": ""
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvia Max Outdoor model code/revision and power interface",
+    "Tele2 generic outdoor family listing does not resolve manufacturer Max5 suffix",
+    "Wi-Fi is for management only; not a home Wi-Fi access point specification",
+    "Exact Latvian GTIN/MPN and regional package"
+  ],
+  "source_pages": [
+    {
+      "url": "https://brovi-tech.com/uploads/soft/20230829/1693275327.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP fetch; official PDF parsed with pdftotext",
+      "notes": "Technical facts extracted; full copyright source documents not retained"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

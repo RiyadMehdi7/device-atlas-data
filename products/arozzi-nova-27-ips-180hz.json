@@ -1,0 +1,271 @@
+{
+  "id": "arozzi-nova-27-ips-180hz",
+  "brand": "Arozzi",
+  "model": "Nova 27\" IPS 180Hz",
+  "category": "Monitors",
+  "scope": "Exact Arozzi Nova 27-inch IPS 180Hz manufacturer Swedish reference; colour options listed collectively, not counted as separate products. Tele2 stock SKU/EAN unresolved.",
+  "identifiers": [
+    "Nova 27\" IPS 180Hz",
+    "AZ-NO-27T2K180"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Nova 27“ IPS 180Hz - Gaming Monitor",
+  "source_url": "https://arozzi.se/products/nova-27-ips-180hz-gaming-monitor",
+  "tele2_url": "https://www.tele2.lv/monitori/nova-27-ips--2560x1440--180hz/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Screen Size",
+      "value": "27”",
+      "unit": "",
+      "condition": "Arozzi Swedish manufacturer Nova 27 IPS 180Hz specification; original maximum/MPRT and weight conditions retained"
+    },
+    {
+      "label": "Resolution",
+      "value": "2560x1440 @ 180Hz",
+      "unit": "",
+      "condition": "Arozzi Swedish manufacturer Nova 27 IPS 180Hz specification; original maximum/MPRT and weight conditions retained"
+    },
+    {
+      "label": "Aspect Ratio",
+      "value": "16 : 9",
+      "unit": "",
+      "condition": "Arozzi Swedish manufacturer Nova 27 IPS 180Hz specification; original maximum/MPRT and weight conditions retained"
+    },
+    {
+      "label": "Panel type",
+      "value": "IPS",
+      "unit": "",
+      "condition": "Arozzi Swedish manufacturer Nova 27 IPS 180Hz specification; original maximum/MPRT and weight conditions retained"
+    },
+    {
+      "label": "Curvature",
+      "value": "Flat",
+      "unit": "",
+      "condition": "Arozzi Swedish manufacturer Nova 27 IPS 180Hz specification; original maximum/MPRT and weight conditions retained"
+    },
+    {
+      "label": "Backlight type",
+      "value": "LED",
+      "unit": "",
+      "condition": "Arozzi Swedish manufacturer Nova 27 IPS 180Hz specification; original maximum/MPRT and weight conditions retained"
+    },
+    {
+      "label": "Brightness (Max.)",
+      "value": "350 cd/m²",
+      "unit": "",
+      "condition": "Arozzi Swedish manufacturer Nova 27 IPS 180Hz specification; original maximum/MPRT and weight conditions retained"
+    },
+    {
+      "label": "Contrast Ratio (Max.)",
+      "value": "1000:1",
+      "unit": "",
+      "condition": "Arozzi Swedish manufacturer Nova 27 IPS 180Hz specification; original maximum/MPRT and weight conditions retained"
+    },
+    {
+      "label": "Response Time (Max.)",
+      "value": "MPRT 1ms, GtG 2ms",
+      "unit": "",
+      "condition": "Arozzi Swedish manufacturer Nova 27 IPS 180Hz specification; original maximum/MPRT and weight conditions retained"
+    },
+    {
+      "label": "Viewing Angle (Horizontal/Vertical)",
+      "value": "178º/178º (CR>10) IPS",
+      "unit": "",
+      "condition": "Arozzi Swedish manufacturer Nova 27 IPS 180Hz specification; original maximum/MPRT and weight conditions retained"
+    },
+    {
+      "label": "Color Support",
+      "value": "1.07 B Color (8bit+FRC) / 100% sRGB / 90% DCI-P3",
+      "unit": "",
+      "condition": "Arozzi Swedish manufacturer Nova 27 IPS 180Hz specification; original maximum/MPRT and weight conditions retained"
+    },
+    {
+      "label": "DP 1.4",
+      "value": "x2",
+      "unit": "",
+      "condition": "Arozzi Swedish manufacturer Nova 27 IPS 180Hz specification; original maximum/MPRT and weight conditions retained"
+    },
+    {
+      "label": "HDMI 2.0",
+      "value": "x2",
+      "unit": "",
+      "condition": "Arozzi Swedish manufacturer Nova 27 IPS 180Hz specification; original maximum/MPRT and weight conditions retained"
+    },
+    {
+      "label": "Audio Out 3.5mm",
+      "value": "x1",
+      "unit": "",
+      "condition": "Arozzi Swedish manufacturer Nova 27 IPS 180Hz specification; original maximum/MPRT and weight conditions retained"
+    },
+    {
+      "label": "Tilt",
+      "value": "(+5°~-15°)",
+      "unit": "",
+      "condition": "Arozzi Swedish manufacturer Nova 27 IPS 180Hz specification; original maximum/MPRT and weight conditions retained"
+    },
+    {
+      "label": "HDR",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Arozzi Swedish manufacturer Nova 27 IPS 180Hz specification; original maximum/MPRT and weight conditions retained"
+    },
+    {
+      "label": "Adaptive Sync",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Arozzi Swedish manufacturer Nova 27 IPS 180Hz specification; original maximum/MPRT and weight conditions retained"
+    },
+    {
+      "label": "Over Drive (MPRT Mode)",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Arozzi Swedish manufacturer Nova 27 IPS 180Hz specification; original maximum/MPRT and weight conditions retained"
+    },
+    {
+      "label": "Flicker Free",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Arozzi Swedish manufacturer Nova 27 IPS 180Hz specification; original maximum/MPRT and weight conditions retained"
+    },
+    {
+      "label": "Low Blue Light Mode",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Arozzi Swedish manufacturer Nova 27 IPS 180Hz specification; original maximum/MPRT and weight conditions retained"
+    },
+    {
+      "label": "Speakers",
+      "value": "Built-in (2x3W)",
+      "unit": "",
+      "condition": "Arozzi Swedish manufacturer Nova 27 IPS 180Hz specification; original maximum/MPRT and weight conditions retained"
+    },
+    {
+      "label": "RGB Light",
+      "value": "Color fade on / off",
+      "unit": "",
+      "condition": "Arozzi Swedish manufacturer Nova 27 IPS 180Hz specification; original maximum/MPRT and weight conditions retained"
+    },
+    {
+      "label": "Cabinet Color",
+      "value": "Black / White / Pink / Purple / Forest Green",
+      "unit": "",
+      "condition": "Arozzi Swedish manufacturer Nova 27 IPS 180Hz specification; original maximum/MPRT and weight conditions retained"
+    },
+    {
+      "label": "Power Consumption",
+      "value": "Typical 45W",
+      "unit": "",
+      "condition": "Arozzi Swedish manufacturer Nova 27 IPS 180Hz specification; original maximum/MPRT and weight conditions retained"
+    },
+    {
+      "label": "Energy Consumption",
+      "value": "26kWh/1000h",
+      "unit": "",
+      "condition": "Arozzi Swedish manufacturer Nova 27 IPS 180Hz specification; original maximum/MPRT and weight conditions retained"
+    },
+    {
+      "label": "HDR Energy Consumption",
+      "value": "26kWh/1000h",
+      "unit": "",
+      "condition": "Arozzi Swedish manufacturer Nova 27 IPS 180Hz specification; original maximum/MPRT and weight conditions retained"
+    },
+    {
+      "label": "Rating",
+      "value": "F",
+      "unit": "",
+      "condition": "Arozzi Swedish manufacturer Nova 27 IPS 180Hz specification; original maximum/MPRT and weight conditions retained"
+    },
+    {
+      "label": "Stand By Power (DPMS)",
+      "value": "<0.5W",
+      "unit": "",
+      "condition": "Arozzi Swedish manufacturer Nova 27 IPS 180Hz specification; original maximum/MPRT and weight conditions retained"
+    },
+    {
+      "label": "Type",
+      "value": "DC12V,4A",
+      "unit": "",
+      "condition": "Arozzi Swedish manufacturer Nova 27 IPS 180Hz specification; original maximum/MPRT and weight conditions retained"
+    },
+    {
+      "label": "VESA mount",
+      "value": "75x75 mm / 100x100 mm (with included adapter)",
+      "unit": "",
+      "condition": "Arozzi Swedish manufacturer Nova 27 IPS 180Hz specification; original maximum/MPRT and weight conditions retained"
+    },
+    {
+      "label": "Weight Without Foot",
+      "value": "3,6 kg",
+      "unit": "",
+      "condition": "Arozzi Swedish manufacturer Nova 27 IPS 180Hz specification; original maximum/MPRT and weight conditions retained"
+    },
+    {
+      "label": "Net Weight",
+      "value": "4,2 kg",
+      "unit": "",
+      "condition": "Arozzi Swedish manufacturer Nova 27 IPS 180Hz specification; original maximum/MPRT and weight conditions retained"
+    },
+    {
+      "label": "Gross Weight",
+      "value": "5,7 kg",
+      "unit": "",
+      "condition": "Arozzi Swedish manufacturer Nova 27 IPS 180Hz specification; original maximum/MPRT and weight conditions retained"
+    },
+    {
+      "label": "Box Size",
+      "value": "75 x 42,5 x 12 cm",
+      "unit": "",
+      "condition": "Arozzi Swedish manufacturer Nova 27 IPS 180Hz specification; original maximum/MPRT and weight conditions retained"
+    },
+    {
+      "label": "Included Accessories",
+      "value": "Vesa adapter, DP cable (1,5 m), Power supply, User manual",
+      "unit": "",
+      "condition": "Arozzi Swedish manufacturer Nova 27 IPS 180Hz specification; original maximum/MPRT and weight conditions retained"
+    },
+    {
+      "label": "Warranty",
+      "value": "3 years warranty",
+      "unit": "",
+      "condition": "Arozzi Swedish manufacturer Nova 27 IPS 180Hz specification; original maximum/MPRT and weight conditions retained"
+    },
+    {
+      "label": "HDMI inputs maximum QHD timing",
+      "value": "QHD 144Hz",
+      "unit": "",
+      "condition": "HDMI1 and HDMI2; HDR, AdaptiveSync, OD, MPRT supported",
+      "source_url": "https://cdn.shopify.com/s/files/1/0665/3847/1603/files/Nova_27_User_Manual_1.0.pdf?v=1749023422",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "DisplayPort inputs maximum QHD timing",
+      "value": "QHD 180Hz",
+      "unit": "",
+      "condition": "DP1 and DP2; HDR, AdaptiveSync, OD, MPRT supported",
+      "source_url": "https://cdn.shopify.com/s/files/1/0665/3847/1603/files/Nova_27_User_Manual_1.0.pdf?v=1749023422",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Tele2 stock SKU/EAN reconciliation",
+    "Panel exterior dimensions not yet extracted from manufacturer diagram"
+  ],
+  "source_pages": [
+    {
+      "url": "https://arozzi.se/products/nova-27-ips-180hz-gaming-monitor",
+      "fetched_at": "2026-10-14",
+      "method": "Exa full page fetch",
+      "notes": "Model-specific manufacturer specification table read; other screen sizes in comparison block excluded"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0665/3847/1603/files/Nova_27_User_Manual_1.0.pdf?v=1749023422",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch and pdftotext -layout",
+      "notes": "HTTP 200; manual publicly linked by manufacturer; HDMI/DP QHD timing and exact manual model read"
+    }
+  ],
+  "research_lane": "monitors"
+}

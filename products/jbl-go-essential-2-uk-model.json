@@ -1,0 +1,143 @@
+{
+  "id": "jbl-go-essential-2-uk-model",
+  "brand": "JBL",
+  "model": "Go Essential 2",
+  "category": "Speakers",
+  "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "JBL Go Essential 2 | Portable Waterproof Speaker",
+  "source_url": "https://uk.jbl.com/GO-ESSENTIAL-2.html",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Battery Charging Time (Hours)",
+      "value": "2.5",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Operating Temperature",
+      "value": "45 °C",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Output power (W)",
+      "value": "3.1 W RMS",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Signal to Noise Ratio (dB, below rated 1kHz power at 8Ω, A-weighted)",
+      "value": "> 80 dB",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Active Frequency Response",
+      "value": "180Hz – 20kHz",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Dimensions (Width x Height x Depth) (cm)",
+      "value": "8.6 x 7.1 x 3.2",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Dimensions (Width x Height x Depth) (in)",
+      "value": "3.4 x 2.8 x 1.2",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Weight (kgs)",
+      "value": "0.18",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Weight (lbs)",
+      "value": "0.39",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth profiles",
+      "value": "A2DP V1.2, AVRCP V1.5",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth frequency",
+      "value": "2400 MHz - 2483.5 MHz",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth transmitted modulation",
+      "value": "GFSK, π/4 DQPSK, 8DPSK",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth transmitter power",
+      "value": "≤ 6 dBm (EIRP)",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth version",
+      "value": "4.2",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Battery Type",
+      "value": "Li-ion polymer 2.7Wh",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Waterproof",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "JBL Original Pro Sound",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "IP Code",
+      "value": "IP67",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU/GTIN matching"
+  ],
+  "source_pages": [
+    {
+      "url": "https://uk.jbl.com/GO-ESSENTIAL-2.html",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Specification table read; conflicting or ambiguous playback totals omitted"
+    }
+  ],
+  "research_lane": "audio"
+}

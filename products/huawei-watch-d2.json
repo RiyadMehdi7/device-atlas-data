@@ -1,0 +1,126 @@
+{
+  "id": "huawei-watch-d2",
+  "brand": "Huawei",
+  "model": "WATCH D2",
+  "category": "Smartwatches",
+  "scope": "Global manufacturer WATCH D2 reference. Only values assigned to this size column or common model sections included. Battery is manufacturer lab claim; regional services and exact Latvia SKU unresolved.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Huawei WATCH D2 specifications",
+  "source_url": "https://consumer.huawei.com/en/wearables/watch-d2/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Dimensions",
+      "value": "48 × 38 × 13.3 mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Wrist Size",
+      "value": "130-210 mm | 130-160 mm | 161-210 mm | 26.5 mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Weight",
+      "value": "Approximately 40 g (without the strap)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Display",
+      "value": "1.82 inch AMOLED | 480 × 408 pixels, PPI 347",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Watch Case",
+      "value": "Blue | Black | Gold | Aluminum alloy",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "9-axis IMU sensor (Accelerometer sensor, Gyroscope sensor, Magnetometer sensor) | Optical heart rate sensor | ECG sensor | Ambient light sensor | Barometer sensor | Temperature sensor | Differential pressure sensor | Hall sensor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Button",
+      "value": "Rotating crown | Function and ECG button",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Charging Port",
+      "value": "Wireless charging",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "System Requirements",
+      "value": "Android 8.0 or later | iOS 13.0 or later",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Waterproof Level",
+      "value": "IP68",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Connectivity",
+      "value": "supported | 2.4 GHz, Bluetooth 5.2 supporting BR and BLE",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Speaker",
+      "value": "Supported",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Microphone",
+      "value": "Supported",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Environment",
+      "value": "5℃ to 40℃ | -20℃ to 55℃",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Charging",
+      "value": "5V/1A",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Battery Life",
+      "value": "Data comes from Huawei labs. Actual usage may vary depending on product differences, usage habits, and environmental factors. |",
+      "unit": "",
+      "condition": "Manufacturer specification; battery values are laboratory claims, actual use varies"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU / GTIN matching",
+    "Regional app and payment availability"
+  ],
+  "source_pages": [
+    {
+      "url": "https://consumer.huawei.com/en/wearables/watch-d2/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Manufacturer technical specification content parsed; extracted factual fields only"
+    }
+  ],
+  "research_lane": "wearables"
+}

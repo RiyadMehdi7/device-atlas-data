@@ -1,0 +1,422 @@
+{
+  "id": "philips-27m2n3500nl-00",
+  "brand": "Philips",
+  "model": "27M2N3500NL/00",
+  "category": "Monitors",
+  "scope": "Official publicly accessible Philips UK product reference on tst.philips.co.uk. Exact /00 model; Tele2 stock identifiers still require reconciliation.",
+  "identifiers": [
+    "27M2N3500NL/00"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Fast VA Gaming monitor Quad HD gaming monitor 27M2N3500NL/00 | Evnia",
+  "source_url": "https://tst.philips.co.uk/c-p/27M2N3500NL_00/gaming-monitor-quad-gaming-monitor",
+  "tele2_url": "https://www.tele2.lv/monitori/philips-27m2n3500nl00-27-2560x14401691ms/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Panel Size",
+      "value": "27 inch/68.5 cm",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Aspect ratio",
+      "value": "16:9",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "LCD panel type",
+      "value": "VA LCD",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Backlight type",
+      "value": "W-LED system",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Pixel pitch",
+      "value": "0.2331 x 0.2331 mm",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Brightness",
+      "value": "300 cd/m²",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Display colours",
+      "value": "16.7 M",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Colour gamut (typical)",
+      "value": "DCI-P3: 95*, sRGB 127%*, Adobe RGB 92%*",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Contrast ratio (typical)",
+      "value": "5000:1",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "SmartContrast",
+      "value": "Mega Infinity DCR",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Response time (typical)",
+      "value": "1 ms (Grey to Grey)*",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Viewing angle",
+      "value": "178º (H)/178º (V) @ C/R > 10",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Picture enhancement",
+      "value": "SmartImage game",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Maximum resolution",
+      "value": "2560 x 1440 @ 144 Hz (HDMI)/2560 x 1440 @ 180 Hz (DP)",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Effective viewing area",
+      "value": "597.6 (H) x 336.15 (V)",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Scanning Frequency",
+      "value": "HDMI: 30 - 230 kHz (H)/48 - 144 Hz (V); DP: 30 - 270 kHz (H)/48 - 180 Hz (V)",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "sRGB",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Delta E",
+      "value": "<2 (sRGB)",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Flicker-free",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Pixel Density",
+      "value": "108.79 PPI",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "LowBlue Mode",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Display Screen Coating",
+      "value": "Anti-Glare, 3H, Haze 25%",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Low Input Lag",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "EasyRead",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "AMD FreeSync™ technology",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "G-SYNC",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "HDR",
+      "value": "HDR 10 supported",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Smart Crosshair",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Shadow Boost",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Smart MBR",
+      "value": "0.5 ms*",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Signal Input",
+      "value": "HDMI 2.0 x 2, DisplayPort 1.4 x 1",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Sync Input",
+      "value": "Separate Sync",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Audio (In/Out)",
+      "value": "Headphone out",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "HDCP",
+      "value": "HDCP 1.4 (HDMI/DP), HDCP 2.2 (HDMI/DP)",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Plug and Play Compatibility",
+      "value": "DDC/CI Mac OS X sRGB Windows 11/10",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "User convenience",
+      "value": "Power On/Off Menu/OK Input/Up Game Settings/Down SmartImage game/Back",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "OSD Languages",
+      "value": "Brazil Portuguese Czech Dutch English Finnish French German Greek Hungarian Italian Japanese Korean Polish Portuguese Russian Spanish Simplified Chinese Swedish Turkish Traditional Chinese Ukrainian",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Other convenience",
+      "value": "Kensington lock VESA mount (100 x 100 mm)",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Tilt",
+      "value": "-5/20 degree",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Power supply",
+      "value": "Internal 100–240 VAC, 50–60 Hz",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Off mode",
+      "value": "0.3 W (typ.)",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "On mode",
+      "value": "21.6 W (typ.)",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Standby mode",
+      "value": "0.5 W (typ.)",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Power LED indicator",
+      "value": "Operation - White Standby mode - White (flashing)",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Packaging in mm (W x H x D)",
+      "value": "690 x 420 x 141 mm",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Product without stand (mm)",
+      "value": "615 x 369 x 61 mm",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Product with stand (max height)",
+      "value": "615 x 463 x 193 mm",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Product with packaging (kg)",
+      "value": "6.88 kg",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Product with stand (kg)",
+      "value": "4.34 kg",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Product without stand (kg)",
+      "value": "3.73 kg",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Altitude",
+      "value": "Operation: +12,000 ft (3658 m), Non-operation: +40,000 ft (12,192 m)",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Temperature range (operation)",
+      "value": "0°C to 40 °C",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "MTBF",
+      "value": "50 000 (Excluded backlight) hour(s)",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Relative humidity",
+      "value": "20%-80 %",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Temperature range (storage)",
+      "value": "-20°C to 60 °C",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Environmental and energy",
+      "value": "RoHS",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Recyclable packaging material",
+      "value": "100 %",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Specific Substances",
+      "value": "Mercury free PVC/BFR free housing",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Post-consumer recycled plastics",
+      "value": "85%*",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Regulatory Approvals",
+      "value": "CB CE Mark FCC Class B ICES-003 EAC EAEU RoHS TUV/ISO9241-307 TUV-BAUART PSB UKCA EMF",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Colour",
+      "value": "Charcoal",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Finish",
+      "value": "Textured",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Cables",
+      "value": "HDMI cable, DisplayPort cable, Power cable",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "Monitor with stand",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    },
+    {
+      "label": "User Documentation",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Original Philips technical field wording retained; asterisk denotes manufacturer footnote"
+    }
+  ],
+  "missing_fields": [
+    "Latvia stocked unit EAN reconciliation",
+    "Manual input-specific refresh limits and test footnotes where unresolved"
+  ],
+  "source_pages": [
+    {
+      "url": "https://tst.philips.co.uk/c-p/27M2N3500NL_00/gaming-monitor-quad-gaming-monitor",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "HTTP 200; exact model title and technical specification block read"
+    }
+  ],
+  "research_lane": "monitors"
+}

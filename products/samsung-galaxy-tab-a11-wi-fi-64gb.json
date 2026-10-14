@@ -1,0 +1,281 @@
+{
+  "id": "samsung-galaxy-tab-a11-wi-fi-64gb",
+  "brand": "Samsung",
+  "model": "Galaxy Tab A11 Wi-Fi 64GB",
+  "model_family": "Galaxy Tab A11",
+  "category": "Tablets",
+  "scope": "UK official manufacturer reference; explicit variant/options preserved. Latvia manufacturer SKU matching remains unresolved.",
+  "identifiers": [
+    "SM-X130NZAAEUB"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer model source checked; Latvia SKU needs matching",
+  "source_name": "Samsung Galaxy Tab A11 Wi-Fi 64GB technical specifications",
+  "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-a/galaxy-tab-a11-grey-64gb-wi-fi-sm-x130nzaaeub/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "CPU frequencies",
+      "value": "2.2GHz,2GHz",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-a/galaxy-tab-a11-grey-64gb-wi-fi-sm-x130nzaaeub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "CPU cores",
+      "value": "Octa-core",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-a/galaxy-tab-a11-grey-64gb-wi-fi-sm-x130nzaaeub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display diagonal",
+      "value": "8.7 inches rectangular /8.6 rounded",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-a/galaxy-tab-a11-grey-64gb-wi-fi-sm-x130nzaaeub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Resolution",
+      "value": "1340x800",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-a/galaxy-tab-a11-grey-64gb-wi-fi-sm-x130nzaaeub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display",
+      "value": "TFT",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-a/galaxy-tab-a11-grey-64gb-wi-fi-sm-x130nzaaeub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display colours",
+      "value": "16M",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-a/galaxy-tab-a11-grey-64gb-wi-fi-sm-x130nzaaeub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear camera",
+      "value": "8MP",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-a/galaxy-tab-a11-grey-64gb-wi-fi-sm-x130nzaaeub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear autofocus",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-a/galaxy-tab-a11-grey-64gb-wi-fi-sm-x130nzaaeub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front camera",
+      "value": "5MP",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-a/galaxy-tab-a11-grey-64gb-wi-fi-sm-x130nzaaeub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear flash",
+      "value": "No",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-a/galaxy-tab-a11-grey-64gb-wi-fi-sm-x130nzaaeub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "RAM",
+      "value": "4GB",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-a/galaxy-tab-a11-grey-64gb-wi-fi-sm-x130nzaaeub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Storage",
+      "value": "64GB",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-a/galaxy-tab-a11-grey-64gb-wi-fi-sm-x130nzaaeub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Available storage",
+      "value": "44.9GB",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-a/galaxy-tab-a11-grey-64gb-wi-fi-sm-x130nzaaeub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Expandable storage",
+      "value": "microSD up to2TB",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-a/galaxy-tab-a11-grey-64gb-wi-fi-sm-x130nzaaeub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "USB",
+      "value": "2.0",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-a/galaxy-tab-a11-grey-64gb-wi-fi-sm-x130nzaaeub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Positioning",
+      "value": "GPS;GLONASS;BeiDou;Galileo;QZSS",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-a/galaxy-tab-a11-grey-64gb-wi-fi-sm-x130nzaaeub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Headphone",
+      "value": "3.5mm stereo",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-a/galaxy-tab-a11-grey-64gb-wi-fi-sm-x130nzaaeub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "MHL",
+      "value": "No",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-a/galaxy-tab-a11-grey-64gb-wi-fi-sm-x130nzaaeub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi",
+      "value": "802.11a/b/g/n/ac;2.4/5GHz;VHT80",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-a/galaxy-tab-a11-grey-64gb-wi-fi-sm-x130nzaaeub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi Direct",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-a/galaxy-tab-a11-grey-64gb-wi-fi-sm-x130nzaaeub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "5.3",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-a/galaxy-tab-a11-grey-64gb-wi-fi-sm-x130nzaaeub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "NFC",
+      "value": "No",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-a/galaxy-tab-a11-grey-64gb-wi-fi-sm-x130nzaaeub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "OS",
+      "value": "Android",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-a/galaxy-tab-a11-grey-64gb-wi-fi-sm-x130nzaaeub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Sensors",
+      "value": "Accelerometer;geomagnetic;light",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-a/galaxy-tab-a11-grey-64gb-wi-fi-sm-x130nzaaeub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions",
+      "value": "211.0x124.7x8.0mm",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-a/galaxy-tab-a11-grey-64gb-wi-fi-sm-x130nzaaeub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Weight",
+      "value": "335g",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-a/galaxy-tab-a11-grey-64gb-wi-fi-sm-x130nzaaeub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery typical",
+      "value": "5100mAh",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-a/galaxy-tab-a11-grey-64gb-wi-fi-sm-x130nzaaeub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery removable",
+      "value": "No",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-a/galaxy-tab-a11-grey-64gb-wi-fi-sm-x130nzaaeub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Energy class",
+      "value": "C",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-a/galaxy-tab-a11-grey-64gb-wi-fi-sm-x130nzaaeub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Minimum endurance",
+      "value": "1200cycles",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-a/galaxy-tab-a11-grey-64gb-wi-fi-sm-x130nzaaeub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Video playback format resolution",
+      "value": "FHD1920x1080 at60fps",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-a/galaxy-tab-a11-grey-64gb-wi-fi-sm-x130nzaaeub/",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia-specific MPN/GTIN",
+    "Latvia retail configuration and package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.samsung.com/uk/tablets/galaxy-tab-a/galaxy-tab-a11-grey-64gb-wi-fi-sm-x130nzaaeub/",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Accessible official technical content read; structured facts retained"
+    }
+  ],
+  "research_lane": "tablets"
+}

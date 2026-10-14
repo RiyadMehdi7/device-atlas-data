@@ -1,0 +1,192 @@
+{
+  "id": "samsung-galaxy-buds3-fe-regional-model",
+  "brand": "Samsung",
+  "model": "Galaxy Buds3 FE",
+  "category": "Earbuds",
+  "scope": "German manufacturer model reference; selected black source example, Latvia SKU reconciliation required",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Galaxy Buds3 FE Black | Samsung DE",
+  "source_url": "https://www.samsung.com/de/audio-sound/galaxy-buds/galaxy-buds3-fe-black-sm-r420nzkadbt/",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/buds3-fe0/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Earbud weight (g)",
+      "value": "5",
+      "unit": "",
+      "condition": "Manufacturer regional model reference; black example"
+    },
+    {
+      "label": "Bluetooth version",
+      "value": "Bluetooth 5.4",
+      "unit": "",
+      "condition": "Manufacturer regional model reference; black example"
+    },
+    {
+      "label": "Sensors",
+      "value": "Hall-Sensor, Pressure, Proximity, Touchsensor",
+      "unit": "",
+      "condition": "Manufacturer regional model reference; black example"
+    },
+    {
+      "label": "Microphone count",
+      "value": "6",
+      "unit": "",
+      "condition": "Manufacturer regional model reference; black example"
+    },
+    {
+      "label": "Speaker",
+      "value": "1-Weg",
+      "unit": "",
+      "condition": "Manufacturer regional model reference; black example"
+    },
+    {
+      "label": "Ambient Sound",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer regional model reference; black example"
+    },
+    {
+      "label": "ANC",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer regional model reference; black example"
+    },
+    {
+      "label": "360 Audio",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer regional model reference; black example"
+    },
+    {
+      "label": "Audio Codec",
+      "value": "AAC, SBC, SSC (Samsung Seamless Codec)",
+      "unit": "",
+      "condition": "Manufacturer regional model reference; black example"
+    },
+    {
+      "label": "Bluetooth profiles",
+      "value": "A2DP, AVRCP, HFP",
+      "unit": "",
+      "condition": "Manufacturer regional model reference; black example"
+    },
+    {
+      "label": "Auto Switch",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer regional model reference; black example"
+    },
+    {
+      "label": "Earbud dimensions (H×W×D mm)",
+      "value": "21,1 x 18,0 x 33,8",
+      "unit": "",
+      "condition": "Manufacturer regional model reference; black example"
+    },
+    {
+      "label": "Case dimensions (H×W×D mm)",
+      "value": "48,7 x 58,9 x 24,4",
+      "unit": "",
+      "condition": "Manufacturer regional model reference; black example"
+    },
+    {
+      "label": "Case weight (g)",
+      "value": "41,8",
+      "unit": "",
+      "condition": "Manufacturer regional model reference; black example"
+    },
+    {
+      "label": "Earbud IP rating",
+      "value": "IP54",
+      "unit": "",
+      "condition": "Manufacturer regional model reference; black example"
+    },
+    {
+      "label": "Talk time ANC on (hours)",
+      "value": "Up to 4",
+      "unit": "",
+      "condition": "Earbuds single charge; label states activity and ANC mode; other test settings unresolved"
+    },
+    {
+      "label": "Total talk time ANC on (hours)",
+      "value": "Up to 18",
+      "unit": "",
+      "condition": "Includes charging-case playback; ANC on"
+    },
+    {
+      "label": "Music time ANC on (hours)",
+      "value": "Up to 6",
+      "unit": "",
+      "condition": "Earbuds single charge; label states activity and ANC mode; other test settings unresolved"
+    },
+    {
+      "label": "Total music time ANC on (hours)",
+      "value": "Up to 24",
+      "unit": "",
+      "condition": "Includes charging-case playback; ANC on"
+    },
+    {
+      "label": "Talk time ANC off (hours)",
+      "value": "Up to 4",
+      "unit": "",
+      "condition": "Earbuds single charge; label states activity and ANC mode; other test settings unresolved"
+    },
+    {
+      "label": "Total talk time ANC off (hours)",
+      "value": "Up to 18",
+      "unit": "",
+      "condition": "Includes charging-case playback; ANC off"
+    },
+    {
+      "label": "Music time ANC off (hours)",
+      "value": "Up to 8,5",
+      "unit": "",
+      "condition": "Earbuds single charge; label states activity and ANC mode; other test settings unresolved"
+    },
+    {
+      "label": "Total music time ANC off (hours)",
+      "value": "Up to 30",
+      "unit": "",
+      "condition": "Includes charging-case playback; ANC off"
+    },
+    {
+      "label": "Earbud capacity (mAh typical)",
+      "value": "53",
+      "unit": "",
+      "condition": "Manufacturer regional model reference; black example"
+    },
+    {
+      "label": "Case capacity (mAh typical)",
+      "value": "515",
+      "unit": "",
+      "condition": "Manufacturer regional model reference; black example"
+    },
+    {
+      "label": "Samsung Find",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer regional model reference; black example"
+    },
+    {
+      "label": "Bixby Voice Wake-up",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer regional model reference; black example"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU/GTIN reconciliation",
+    "Full playback test protocol"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.samsung.com/de/audio-sound/galaxy-buds/galaxy-buds3-fe-black-sm-r420nzkadbt/",
+      "fetched_at": "2026-10-14",
+      "method": "web find",
+      "notes": "Official specification table read; single-earbud and total-with-case values separated"
+    }
+  ],
+  "research_lane": "audio"
+}

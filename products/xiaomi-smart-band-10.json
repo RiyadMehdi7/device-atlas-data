@@ -1,0 +1,234 @@
+{
+  "id": "xiaomi-smart-band-10",
+  "brand": "Xiaomi",
+  "model": "Smart Band 10",
+  "category": "Smartwatches",
+  "scope": "Global manufacturer model-family reference. Strap/colour alternatives do not form separate products. Any NFC, LTE, ceramic or regional subvariants described remain conditional; exact Latvia SKU unresolved.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Xiaomi Smart Band 10 specifications",
+  "source_url": "https://www.mi.com/global/product/xiaomi-smart-band-10/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Band 10",
+      "value": "46.57×22.54×10.95mm (without the heart rate sensor)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Weight",
+      "value": "15.95g (without strap)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Band 10 Glimmer Edition",
+      "value": "46.57×22.54×10.95mm (without the heart rate sensor)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Weight",
+      "value": "16.25g (without strap)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Band 10 Ceramic Edition",
+      "value": "47.74×23.94×10.95mm (without the heart rate sensor)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Weight",
+      "value": "23.05g (without strap)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Display Size and Type",
+      "value": "1.72-inch AMOLED Touch Display",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Display Resolution",
+      "value": "212 x 520 pixels",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Screen Brightness",
+      "value": "HBM 1500 nits with auto brightness adjustment",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Accelerometer",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Gyroscope",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Electronic compass",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Optical heart rate and pulse oximeter",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Ambient light sensor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Water Resistance Rating",
+      "value": "5ATM",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Data Connection",
+      "value": "Bluetooth® 5.4",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Haptic Motor",
+      "value": "Linear motor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Battery Capacity",
+      "value": "Li-Po battery, 233mAh",
+      "unit": "",
+      "condition": "Manufacturer specification; battery values are laboratory claims, actual use varies"
+    },
+    {
+      "label": "Charging type",
+      "value": "Magnetic charging",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Charging time",
+      "value": "Approx. 1 hour",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Band 10 / Band 10 Ceramic Edition",
+      "value": "135–210mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Band 10 Glimmer Edition",
+      "value": "135-180mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Band 10",
+      "value": "Aluminum alloy frame",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Band strap",
+      "value": "TPU",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Band 10 Glimmer Edition",
+      "value": "Aluminum alloy frame",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Band strap",
+      "value": "Stainless steel + Glass crystal",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Band 10 Ceramic Edition",
+      "value": "Ceramic frame",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Band strap",
+      "value": "Fluororubber",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Operating System",
+      "value": "Android 8.0 or iOS 14.0 and above",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Compatible Apps",
+      "value": "Mi Fitness app",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Package Contents",
+      "value": "Crown × 1",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Package Contents",
+      "value": "Strap × 1",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Package Contents",
+      "value": "Charging cable × 1",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Package Contents",
+      "value": "User manual × 1",
+      "unit": "",
+      "condition": ""
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU / GTIN matching",
+    "Regional app and payment availability"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/xiaomi-smart-band-10/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Manufacturer technical specification content parsed; extracted factual fields only"
+    }
+  ],
+  "research_lane": "wearables"
+}

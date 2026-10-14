@@ -1,0 +1,131 @@
+{
+  "id": "jabra-evolve2-65-manufacturer-model",
+  "brand": "Jabra",
+  "model": "Evolve2 65",
+  "category": "Headphones",
+  "scope": "Official manufacturer technical revision; MS/UC, mono/stereo and USB adapter bundles require exact SKU matching; listed technical sheet revision can differ from Tele2 bundle",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Jabra Evolve2 65 official technical specifications",
+  "source_url": "https://www.jabra.com/_/media/Jabra_VXi_Product-Documentation/Jabra-Evolve2-65/Technical-specifications/RevB/Jabra-Evolve2-65-Techsheet-A4-Web.pdf",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/jabra-evolve2-65-link380c-ms-stereo/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Weight",
+      "value": "incl main wearing style Stereo 176.4g/6.22oz",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Warranty",
+      "value": "2 years",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Speaker size",
+      "value": "40mm Ø",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Speaker sensitivity",
+      "value": "117dB @1mW-1kHz",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Speaker max input power",
+      "value": "30 mW",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Speaker frequency range",
+      "value": "20Hz-20.000Hz",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Microphone type",
+      "value": "3 Digital MEMS",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Microphone sensitivity",
+      "value": "-26 dBFS/Pa",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Microphone frequency range",
+      "value": "100Hz-8.000Hz",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "User hearing protection",
+      "value": "Jabra SafeToneTM",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Music time",
+      "value": "Up to 37hrs",
+      "unit": "",
+      "condition": "Music playback; ANC mode stated in value"
+    },
+    {
+      "label": "Talk time",
+      "value": "Up to 35hrs (with busylight off)/Up to 24hrs (with busylight on)",
+      "unit": "",
+      "condition": "Calls; ANC/busylight settings stated in value"
+    },
+    {
+      "label": "Charging time",
+      "value": "Up to 90min Power consumption 5V/500mA",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Bluetooth version",
+      "value": "Bluetooth 5.0",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Bluetooth profiles",
+      "value": "HSP v1.2 , HFP v1.7, A2DP v1.3, AVRCP v1.6, PBAP v1.1, SPP v1.2",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Simultaneous Bluetooth connections",
+      "value": "2",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Storage temperature",
+      "value": "-5°C to +45°C, 23°F to 113°F",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    }
+  ],
+  "missing_fields": [
+    "Exact Tele2 MS/UC, mono/stereo, adapter and charging bundle reconciliation"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.jabra.com/_/media/Jabra_VXi_Product-Documentation/Jabra-Evolve2-65/Technical-specifications/RevB/Jabra-Evolve2-65-Techsheet-A4-Web.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "web open official PDF",
+      "notes": "Model technical table actually read; bundle-specific accessory claims excluded"
+    }
+  ],
+  "research_lane": "audio"
+}

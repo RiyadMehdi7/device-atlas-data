@@ -1,0 +1,109 @@
+{
+  "id": "soundcore-q20i-eu-model",
+  "brand": "Soundcore",
+  "model": "Q20i",
+  "category": "Headphones",
+  "scope": "EU manufacturer model reference; colour-specific examples not expanded; Latvia SKU matching required",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "soundcore Q20i Noise Cancelling Headphones - soundcore EU",
+  "source_url": "https://www.soundcore.com/eu/products/q20i-a3004g11",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/q20i-over-ear/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Sound",
+      "value": "Hi-Res, BassUp, Customized EQ",
+      "unit": "",
+      "condition": "EU manufacturer specification"
+    },
+    {
+      "label": "Bluetooth Version",
+      "value": "5",
+      "unit": "",
+      "condition": "EU manufacturer specification"
+    },
+    {
+      "label": "Active Noise Cancellation",
+      "value": "Hybrid ANC",
+      "unit": "",
+      "condition": "EU manufacturer specification"
+    },
+    {
+      "label": "Fast Charging",
+      "value": "5 mins = 4 hours",
+      "unit": "",
+      "condition": "EU manufacturer specification"
+    },
+    {
+      "label": "Calls",
+      "value": "Single mic",
+      "unit": "",
+      "condition": "EU manufacturer specification"
+    },
+    {
+      "label": "Multipoint Connection",
+      "value": "Yes",
+      "unit": "",
+      "condition": "EU manufacturer specification"
+    },
+    {
+      "label": "Special Features",
+      "value": "Bluetooth 5, AUX",
+      "unit": "",
+      "condition": "EU manufacturer specification"
+    },
+    {
+      "label": "Driver",
+      "value": "40 mm dynamic",
+      "unit": "",
+      "condition": "EU manufacturer"
+    },
+    {
+      "label": "Music ANC on",
+      "value": "40 hours",
+      "unit": "",
+      "condition": "ANC on; manufacturer maximum; volume unspecified"
+    },
+    {
+      "label": "Music ANC off",
+      "value": "60 hours",
+      "unit": "",
+      "condition": "ANC off; manufacturer maximum; volume unspecified"
+    },
+    {
+      "label": "Noise-detection microphones",
+      "value": "2 internal and 2 external",
+      "unit": "",
+      "condition": "ANC system; call mic separate"
+    },
+    {
+      "label": "Modes",
+      "value": "ANC; normal; transparency",
+      "unit": "",
+      "condition": "Physical control or soundcore app"
+    },
+    {
+      "label": "Bluetooth devices simultaneous",
+      "value": "2",
+      "unit": "",
+      "condition": "Multipoint"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU/GTIN matching",
+    "Battery capacity",
+    "Full playback test settings"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.soundcore.com/eu/products/q20i-a3004g11",
+      "fetched_at": "2026-10-14",
+      "method": "web find/open",
+      "notes": "Actual model Specs table and features read; comparison rows not transferred"
+    }
+  ],
+  "research_lane": "audio"
+}

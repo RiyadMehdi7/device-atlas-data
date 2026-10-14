@@ -1,0 +1,258 @@
+{
+  "id": "tp-link-tapo-c510w-global-reference",
+  "brand": "TP-Link",
+  "model": "Tapo C510W",
+  "category": "Cameras",
+  "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "TP-Link Tapo C510W official specifications",
+  "source_url": "https://www.tp-link.com/en/home-networking/cloud-camera/tapo-c510w/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Image Sensor",
+      "value": "1/2.8\" Progressive Scan CMOS Sensor",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Lens",
+      "value": "Focal Length: 4.0mm Aperture: F2.2 Field of View: 100.3° (Diagonal), 84.3° (Horizontal), 45.2° (Vertical)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Night Vision",
+      "value": "Color Night Vision (or Starlight Color Night Vision) (49 ft / 15 m) Infrared Night Vision (49 ft / 15 m)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Lighting",
+      "value": "2× 850nm IR LED 2× Spotlights",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Interface & Button",
+      "value": "1× RESET Button 1× MicroSD Card Slot",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Pan/Tilt Range",
+      "value": "Pan Mechanical Range: 350° (360° Pan Coverage) Tilt Mechanical Range: 90° (135° Tilt Coverage)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Maximum Resolution",
+      "value": "2K (2304 × 1296 px)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Frame Rate",
+      "value": "Up to 30 fps",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Video Compression",
+      "value": "H.264",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Live View",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Image Enhancement",
+      "value": "WDR",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Audio Input & Output",
+      "value": "Built-in Microphone and Speaker",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Audio Communication",
+      "value": "Two-Way Audio with Noise Cancellation",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Siren Volume",
+      "value": "90 dB (Level measured at 4-inch/10-cm distance)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Local Storage",
+      "value": "MicroSD Card Slot on Camera (Up to 512 GB) General Information about using MicroSD Cards >",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Cloud Storage",
+      "value": "Tapo Care Cloud Storage Services (Subscription required)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "AI Detection",
+      "value": "Motion detection Person detection Tamper detection",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Activity Zones",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Output Notification",
+      "value": "System Notification System Notification with Snapshot (Tapo Care Services)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Network Connectivity",
+      "value": "Connect via Wi-Fi",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wireless Connectivity",
+      "value": "IEEE 802.11b/g/n, 2.4 GHz Wi-Fi",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "RTSP",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "ONVIF",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Security",
+      "value": "128-bit AES Encryption with SSL/TLS WPA/WPA2-PSK/WPA3-PSK",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Power Source",
+      "value": "9V DC Power Adapter",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Input Voltage",
+      "value": "9.0 V, 0.85A, DC Jack Power",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Output Voltage",
+      "value": "/",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Smart Integration",
+      "value": "Google Assistant, Amazon Alexa, Samsung SmartThings",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Weather Resistance",
+      "value": "IP65",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "System Requirements",
+      "value": "Tapo App: iOS 9.0 or higher, Andriod 4.4 or higher",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Mounting Options",
+      "value": "Ceiling-Mounted Wall-Mounted Pole-Mounted (Pole-Mounting loops required but not included)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Operating Temperature",
+      "value": "-30℃~60℃ (-22°F~140°F)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Storage Temperature",
+      "value": "-40℃~60℃ (-40°F~140°F)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Operating Humidity",
+      "value": "10%~90%RH, Non-condensing",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Storage Humidity",
+      "value": "0~90%RH, Non-condensing",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Dimensions ( W x D x H )",
+      "value": "4.9 × 4.8 × 3.5 in (123.8 × 123 × 90 mm)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Package Content",
+      "value": "Tapo C510W Camera x 2 Power Adapter x 2 Mounting Template Sticker x 2 Mounting Bracket x 2 Mounting Anchors x 8 Mounting Screws x 8 Bracket Screws x 4 Waterproof Seal x 2 Quick Start Guide",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Certifications",
+      "value": "CE, FCC, RCM",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU/GTIN",
+    "Hardware revision and region-specific differences"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.tp-link.com/en/home-networking/cloud-camera/tapo-c510w/",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP fetch; HTML specification rows parsed",
+      "notes": "38 factual specification rows read; marketing paragraphs excluded"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

@@ -1,0 +1,90 @@
+{
+  "id": "aqara-cube-t1-pro-global-reference",
+  "brand": "Aqara",
+  "model": "Cube T1 Pro",
+  "category": "Smart home",
+  "scope": "Official Aqara EU English manufacturer reference; exact Latvian SKU and hardware revision require matching. Specifications are EU store claims. Conflicting or suspect manufacturer-store fields withheld and listed below.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Aqara Cube T1 Pro official specifications",
+  "source_url": "https://eu.aqara.com/en-eu/products/aqara-cube-t1-pro",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/aqara-cube-t1-pro--ctp-r01/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Color",
+      "value": "‎White",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Batteries",
+      "value": "CR2450 (Replaceable)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Compatible Platforms",
+      "value": "Aqara, Apple Home, Alexa, and IFTTT",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Hub Required",
+      "value": "‎Yes（Aqara Zigbee 3.0 HUB）",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Item Net Weight",
+      "value": "‎0.17 Pounds/76g",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Operating Humidity",
+      "value": "≤95% RH, no condensation",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Operating Temperature",
+      "value": "-10°C ~ 50°C (14°F ~ 122°F)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Product Dimensions",
+      "value": "‎1.77 × 1.77 × 1.77 inches（45 × 45 × 45mm）",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wireless Protocol",
+      "value": "Zigbee",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Included Components",
+      "value": "Cube T1 Pro × 1, Ejector Tool × 1, User Manual ×1",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU/GTIN",
+    "Hardware revision and region-specific differences"
+  ],
+  "source_pages": [
+    {
+      "url": "https://eu.aqara.com/en-eu/products/aqara-cube-t1-pro",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP fetch; HTML specification rows parsed",
+      "notes": "10 factual specification rows read; marketing paragraphs excluded"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

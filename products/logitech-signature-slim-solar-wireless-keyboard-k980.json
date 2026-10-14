@@ -1,0 +1,320 @@
+{
+  "id": "logitech-signature-slim-solar-wireless-keyboard-k980",
+  "brand": "Logitech",
+  "model": "Signature Slim Solar+ wireless keyboard K980",
+  "model_family": "Signature Slim Solar+ wireless keyboard K980",
+  "category": "Accessories",
+  "scope": "UK manufacturer model reference. Explicit MPN options identify their labelled colour/layout variants; not a Latvia SKU. No colour/layout records generated.",
+  "identifiers": [
+    "920-013756",
+    "920-013759",
+    "920-013757",
+    "920-013758",
+    "920-013761",
+    "920-013760",
+    "920-013763",
+    "920-013762",
+    "920-013764"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Logitech Signature Slim Solar+ wireless keyboard K980 technical specifications",
+  "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-solar-plus",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Dimensions / Height",
+      "value": "142.9 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-solar-plus",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Width",
+      "value": "430.8 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-solar-plus",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Depth",
+      "value": "20.2 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-solar-plus",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Weight",
+      "value": "700 g",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-solar-plus",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Filevault",
+      "value": "FileVault might be enabled on your macOS computer, which could prevent you from entering your password at start or reboot when connected to Bluetooth. In this case, use the embedded keyboard for logging in and/or purchase the Logi Bolt USB Receiver.",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-solar-plus",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Customization app",
+      "value": "Supported by Logi Options+ App on Windows and macOS*",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-solar-plus",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Powered by Logi LightCharge technology",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-solar-plus",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Full-size layout with number pad",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-solar-plus",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Laptop-like typing",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-solar-plus",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Multi-OS printed layout (Windows/macOS/ChromeOS)",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-solar-plus",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Customizable Action Key",
+      "value": "Yes*",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-solar-plus",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Customizable AI Launch Key",
+      "value": "Yes*",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-solar-plus",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Time saving shortcuts",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-solar-plus",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery type",
+      "value": "Self-charged by renewable solar energy and available artificial light*",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-solar-plus",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery life",
+      "value": "Up to 4 months battery life in complete darkness*",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-solar-plus",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Power switch",
+      "value": "On/Off",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-solar-plus",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connection Type",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-solar-plus",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Easy-switch",
+      "value": "Connect up to 3 multi-OS devices",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-solar-plus",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wireless range",
+      "value": "10 m*",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-solar-plus",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Compatible with Logitech Flow technology enabled mouse*",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-solar-plus",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Requirements",
+      "value": "Connection type support; Bluetooth Low Energy Technology.",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-solar-plus",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "Required: Bluetooth Low Energy",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-solar-plus",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Logi Bolt USB receiver",
+      "value": "(not included); Required: USB-A / USB-C Port, Windows 10, 11 or later*, macOS 12 or later*, Linux*, ChromeOS*.",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-solar-plus",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Compatibility",
+      "value": "Engineered for Intel® Evo™ Laptops; Windows 10, 11 or later*; macOS 12 or later*; Linux*; ChromeOS*; iPadOS 15 or later*; iOS 15 or later*; Android OS 12 or later*.",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-solar-plus",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Customization app",
+      "value": "Supported by Logi Options+ App on Windows and macOS*. Internet connection required to download optional customization app Logi Options+*.",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-solar-plus",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Certified for",
+      "value": "This product has been certified to meet Google's compatibility standards. Chromebook and the \"Works With Chromebook\" badge are trademarks of Google LLC.’",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-solar-plus",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Important",
+      "value": "*1) Requires at least 200 lux illuminance. 2) Customizing the device requires the Logi Options+ App, available for recent versions of Windows and macOS at logi.com/optionsplus. 3) Logi Options+ App needs to be installed on all your computers and connected to the same network. 4) Signature Slim Solar+ Keyboard K980 off white recycled plastic content: minimum 52%. Excludes plastic in printed wiring assembly (PWA), and packaging. Signature Slim Solar+ Keyboard K980 graphite recycled plastic content: minimum 70%. Excludes plastic in printed wiring assembly (PWA), and packaging. 5) Wireless range may vary depending on the operating environment and computer setup\n6) Logi Options+ App is currently not supported for ChromeOS, Linux, iPadOS, iOS and Android OS. The device’s basic functions will work without it. 7) With a fully charged battery, battery  life varies with use conditions. 8) Mouse not supported by iOS. 9) Actual key switch lifetime varies with use conditions. Projection is based on one million keystrokes per key switch in a year. 10) Lifetime projections are based on results from an 18 months testing conducted by the battery manufacturer. Actual Battery lifetime may vary based on user, environment and computing conditions. 11) Spare parts may not be available in some countries or regions. For more information, please visit www.logitech.com/support/slimsolarplus. 12) Light effects on strip not representative of product operation. 13) Out of the box, the AI launch key opens Microsoft Copilot in Windows or Gemini for ChromeOS if available on your device. Use of these or other AI tools may require a separate subscription/application and minimum operating system requirements. For more details, please visit www.logitech.com/support/slimsolarplus",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-solar-plus",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Manufacturer warranty",
+      "value": "2-Year Limited Hardware Warranty",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-solar-plus",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "UK package contents",
+      "value": "Signature Slim Solar+ Wireless Keyboard; User documentation",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-solar-plus",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia MPN/GTIN",
+    "Latvia retail package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.logitech.com/en-gb/shop/p/signature-slim-solar-plus",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Official source technical content read; factual extraction retained"
+    }
+  ],
+  "identifier_options": [
+    {
+      "mpn": "920-013756",
+      "name": "Signature Slim Solar+ wireless keyboard K980 - Graphite - Swiss (QWERTZ)",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "920-013759",
+      "name": "Signature Slim Solar+ wireless keyboard K980 - Graphite - Belgian (AZERTY)",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "920-013757",
+      "name": "Signature Slim Solar+ wireless keyboard K980 - Graphite - German (QWERTZ)",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "920-013758",
+      "name": "Signature Slim Solar+ wireless keyboard K980 - Graphite - French (AZERTY)",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "920-013761",
+      "name": "Signature Slim Solar+ wireless keyboard K980 - Graphite - Italian (QWERTY)",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "920-013760",
+      "name": "Signature Slim Solar+ wireless keyboard K980 - Graphite - Spanish (QWERTY)",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "920-013763",
+      "name": "Signature Slim Solar+ wireless keyboard K980 - Graphite - English UK (QWERTY)",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "920-013762",
+      "name": "Signature Slim Solar+ wireless keyboard K980 - Graphite - Danish / Norwegian / Swedish / Finnish (QWERTY)",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "920-013764",
+      "name": "Signature Slim Solar+ wireless keyboard K980 - Graphite - English International (QWERTY)",
+      "colour": "Graphite"
+    }
+  ],
+  "research_lane": "accessories"
+}

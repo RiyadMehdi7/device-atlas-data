@@ -1,0 +1,279 @@
+{
+  "id": "oneplus-pad-2",
+  "brand": "OnePlus",
+  "model": "Pad 2",
+  "model_family": "Pad 2",
+  "category": "Tablets",
+  "scope": "European manufacturer model reference. Regional configurations vary; not a Latvia SKU or availability claim.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer model source checked; Latvia SKU needs matching",
+  "source_name": "OnePlus Pad 2 technical specifications",
+  "source_url": "https://www.oneplus.com/uk/oneplus-pad-2/specs",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Length",
+      "value": "268.66mm",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-2/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Width",
+      "value": "195.06mm",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-2/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Thickness",
+      "value": "6.49mm",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-2/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Weight",
+      "value": "584g",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-2/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Performance",
+      "value": "Qualcomm Snapdragon™ 8 Gen 3 platform",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-2/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "GPU",
+      "value": "Adreno™ 750 @ 903MHz",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-2/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "CPU",
+      "value": "Qualcomm® Kryo™ up to 3.3GHz; 8 Cores; 64-bit Architecture",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-2/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "RAM",
+      "value": "LPDDR5x",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-2/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "ROM",
+      "value": "256GB; UFS3.1 @ 2Lanes HS-Gear4",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-2/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System",
+      "value": "OxygenOS 14.1",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-2/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery and Charge",
+      "value": "9510mAh/36.99Wh (Typical); 67W SUPERVOOC",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-2/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display",
+      "value": "12.1\" (measured diagonally from corner to corner)",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-2/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Resolution",
+      "value": "3000 x 2120 pixels",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-2/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "PPI",
+      "value": "303",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-2/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Refresh Rate",
+      "value": "144/120/90/60/50/48/30 Hz",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-2/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Brightness",
+      "value": "600nit (HBM 900nit)",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-2/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi",
+      "value": "Wi-Fi 7 (802.11be), Wi-Fi 6 (802.11ax), Wi-Fi 5 (802.11ac), 802.11a/b/g/n",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-2/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "Bluetooth BR/EDR/BLE and Bluetooth 5.4 supported",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-2/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Ports",
+      "value": "Type-C; USB3.2 Gen1 @ 5Gbps",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-2/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Audio Device Ports",
+      "value": "Type-C",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-2/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Unlocking Method",
+      "value": "Face unlock",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-2/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear camera",
+      "value": "13MP",
+      "unit": "",
+      "condition": "UK manufacturer reference",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-2/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front camera",
+      "value": "8MP",
+      "unit": "",
+      "condition": "UK manufacturer reference",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-2/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear video",
+      "value": "4K30fps;1080p30fps;720p30fps",
+      "unit": "",
+      "condition": "UK manufacturer reference",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-2/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front video",
+      "value": "1080p/720p30fps",
+      "unit": "",
+      "condition": "UK manufacturer reference",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-2/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear EIS",
+      "value": "Supported",
+      "unit": "",
+      "condition": "UK manufacturer reference",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-2/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front EIS",
+      "value": "Supported",
+      "unit": "",
+      "condition": "UK manufacturer reference",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-2/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display type",
+      "value": "LCD,7:5ReadFit",
+      "unit": "",
+      "condition": "UK manufacturer reference",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-2/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display DeltaE",
+      "value": "Approximately0.7",
+      "unit": "",
+      "condition": "UK manufacturer reference",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-2/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear video zoom",
+      "value": "Supported",
+      "unit": "",
+      "condition": "UK manufacturer reference",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-2/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front video zoom",
+      "value": "Unsupported",
+      "unit": "",
+      "condition": "UK manufacturer reference",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-2/specs",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia-specific MPN/GTIN",
+    "Latvia retail configuration and package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.oneplus.com/uk/oneplus-pad-2/specs",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible official technical content read; structured facts retained"
+    }
+  ],
+  "research_lane": "tablets"
+}

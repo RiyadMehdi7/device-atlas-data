@@ -1,0 +1,200 @@
+{
+  "id": "xiaomi-buds-6-manufacturer-model",
+  "brand": "Xiaomi",
+  "model": "Xiaomi Buds 6",
+  "category": "Earbuds",
+  "scope": "Global manufacturer model; Tele2 SKU reconciliation required; no colour duplicates",
+  "identifiers": [
+    "M2540E1",
+    "EC2501"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Xiaomi Buds 6 Specs",
+  "source_url": "https://www.mi.com/global/product/xiaomi-buds-6/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Model code",
+      "value": "Earbuds: M2540E1; Charging case: EC2501",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Frequency response",
+      "value": "16Hz–40kHz",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Earbud dimensions",
+      "value": "31.77 x 17.17 x 20.56mm",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Case dimensions",
+      "value": "52.34 x 52.57 x 24mm",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Earbud weight",
+      "value": "4.4g (±0.2g)",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Case weight",
+      "value": "34.5g (±1g)",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Total weight",
+      "value": "43.4g (±1g)",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Charging connector",
+      "value": "Type-C",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Earbud input",
+      "value": "5V⎓100mA",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Case input",
+      "value": "5V⎓700mA",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Case output",
+      "value": "5V⎓200mA",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "Bluetooth",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Protocols",
+      "value": "Bluetooth® Low Energy / HFP / A2DP / AVRCP",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Communication range",
+      "value": "10m (open space free of obstacles)",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Product form",
+      "value": "Semi-in-ear true wireless Bluetooth earbuds",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Codecs",
+      "value": "AAC / SBC / aptX Lossless / aptX Adaptive / LC3 (only on selected models)",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Bluetooth version",
+      "value": "BT5.4",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Earbud IP rating",
+      "value": "IP54 (earbuds)",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Earbud capacity",
+      "value": "35mAh",
+      "unit": "",
+      "condition": "Earbuds; source capacity"
+    },
+    {
+      "label": "Case capacity",
+      "value": "475mAh",
+      "unit": "",
+      "condition": "Charging case"
+    },
+    {
+      "label": "Earbud music playback",
+      "value": "6 hours",
+      "unit": "",
+      "condition": "AAC; ANC off; 50% volume; other settings default"
+    },
+    {
+      "label": "Music playback including case",
+      "value": "35 hours",
+      "unit": "",
+      "condition": "AAC; ANC off; 50% volume; other settings default"
+    },
+    {
+      "label": "Earbud music playback",
+      "value": "3.5 hours",
+      "unit": "",
+      "condition": "AAC; ANC on; 50% volume; other settings default"
+    },
+    {
+      "label": "Music playback including case",
+      "value": "20 hours",
+      "unit": "",
+      "condition": "AAC; ANC on; 50% volume; other settings default"
+    },
+    {
+      "label": "Earbud music playback",
+      "value": "5 hours",
+      "unit": "",
+      "condition": "aptX Adaptive; ANC off; 50% volume; other settings default"
+    },
+    {
+      "label": "Music playback including case",
+      "value": "28 hours",
+      "unit": "",
+      "condition": "aptX Adaptive; ANC off; 50% volume; other settings default"
+    },
+    {
+      "label": "Earbud music playback",
+      "value": "3 hours",
+      "unit": "",
+      "condition": "aptX Adaptive; ANC on; 50% volume; other settings default"
+    },
+    {
+      "label": "Music playback including case",
+      "value": "19 hours",
+      "unit": "",
+      "condition": "aptX Adaptive; ANC on; 50% volume; other settings default"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU/GTIN reconciliation"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/xiaomi-buds-6/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Actual manufacturer specification page read; redirect region retained"
+    }
+  ],
+  "research_lane": "audio"
+}

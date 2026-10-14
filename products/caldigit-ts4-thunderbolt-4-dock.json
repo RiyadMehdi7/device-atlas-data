@@ -1,0 +1,294 @@
+{
+  "id": "caldigit-ts4-thunderbolt-4-dock",
+  "brand": "CalDigit",
+  "model": "TS4 Thunderbolt 4 Dock",
+  "model_family": "TS4 Thunderbolt 4 Dock",
+  "category": "Accessories",
+  "scope": "Official global dock reference; EU supply plug/package and Tele2 availability unconfirmed.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "CalDigit TS4 Thunderbolt 4 Dock technical specifications",
+  "source_url": "https://www.caldigit.com/thunderbolt-station-4/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Ports",
+      "value": "3 x Thunderbolt 4 (40Gb/s); 3 x USB-C (10Gb/s); 5 x USB-A (10Gb/s); 1 x DisplayPort 1.4; 1 x SD 4.0 (UHS-II); 1 x microSD 4.0 (UHS-II); 1 x 2.5 Gigabit Ethernet; 1 x Front Combo Audio In/Out (3.5mm); 1 x Rear Audio Out (3.5mm); 1 x Rear Audio In (3.5mm); 1 x DC In (19.5V 11.80A)",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-station-4/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Minimum System Requirements",
+      "value": "macOS 11.4 (Big Sur) or above; Windows 10 (20H2) or above; Thunderbolt 4 Computer; Thunderbolt 3 Computer; USB-C (USB4) Computer; USB-C Computer; Chromebook (Thunderbolt or USB-C); iPad Pro/iPad Air/iPad mini (Thunderbolt or USB-C); Windows Tablet (Thunderbolt or USB-C)",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-station-4/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Power Delivery",
+      "value": "Thunderbolt 4/USB4 Host Port: Up to 98W; (; 5V, 9V, 15V/3A, 20V/4.9A); Each Downstream Thunderbolt 4/USB4 Port: 15W; (5V/3A); Front 20W USB-C Port: 20W; (5V/3A, 9V/2.22A); Remaining USB-C Ports: 7.5W; (5V/1.5A); USB-A Ports: 7.5W; (5V/1.5A)",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-station-4/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Size & Weight",
+      "value": "Height: 5.55” (141.0mm); Width: 1.65” (42.0mm); Length: 4.46” (113.0mm); Weight: 1.41 lbs (0.64kg)",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-station-4/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "In the Box",
+      "value": "1 x CalDigit TS4; 1 x Thunderbolt 4 Cable (0.8m); 2 x Rubber Feet Strips; 1 x Power Cord; 1 x Power Supply (230W)",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-station-4/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Warranty",
+      "value": "2 Years",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-station-4/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: 3 x Thunderbolt 4 (40Gb/s)",
+      "value": "3 x Thunderbolt 4 (40Gb/s)",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-station-4/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: 3 x USB-C (10Gb/s)",
+      "value": "3 x USB-C (10Gb/s)",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-station-4/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: 5 x USB-A (10Gb/s)",
+      "value": "5 x USB-A (10Gb/s)",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-station-4/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: 1 x DisplayPort 1.4",
+      "value": "1 x DisplayPort 1.4",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-station-4/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: 1 x SD 4.0 (UHS-II)",
+      "value": "1 x SD 4.0 (UHS-II)",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-station-4/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: 1 x microSD 4.0 (UHS-II)",
+      "value": "1 x microSD 4.0 (UHS-II)",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-station-4/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: 1 x 2.5 Gigabit Ethernet",
+      "value": "1 x 2.5 Gigabit Ethernet",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-station-4/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: 1 x Front Combo Audio In/Out (3.5mm)",
+      "value": "1 x Front Combo Audio In/Out (3.5mm)",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-station-4/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: 1 x Rear Audio Out (3.5mm)",
+      "value": "1 x Rear Audio Out (3.5mm)",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-station-4/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: 1 x Rear Audio In (3.5mm)",
+      "value": "1 x Rear Audio In (3.5mm)",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-station-4/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: 1 x DC In (19.5V 11.80A)",
+      "value": "1 x DC In (19.5V 11.80A)",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-station-4/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: Thunderbolt 4/USB4 Host Port",
+      "value": "Thunderbolt 4/USB4 Host Port: Up to 98W",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-station-4/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: Each Downstream Thunderbolt 4/USB4 Port",
+      "value": "Each Downstream Thunderbolt 4/USB4 Port: 15W",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-station-4/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: Front 20W USB-C Port",
+      "value": "Front 20W USB-C Port: 20W",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-station-4/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: Remaining USB-C Ports",
+      "value": "Remaining USB-C Ports: 7.5W",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-station-4/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: USB-A Ports",
+      "value": "USB-A Ports: 7.5W",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-station-4/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: 1 x CalDigit TS4",
+      "value": "1 x CalDigit TS4",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-station-4/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: 1 x Thunderbolt 4 Cable (0.8m)",
+      "value": "1 x Thunderbolt 4 Cable (0.8m)",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-station-4/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: 1 x Power Cord",
+      "value": "1 x Power Cord",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-station-4/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: 1 x Power Supply (230W)",
+      "value": "1 x Power Supply (230W)",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-station-4/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Thunderbolt bandwidth",
+      "value": "40 Gbps",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-station-4/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display scope",
+      "value": "Host-dependent; base M1/M2/M3 limited to one external display; resolution/refresh support requires compatible GPU and display",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-station-4/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Full host charging",
+      "value": "98 W maintained when accessories added, manufacturer claim; compatible host negotiation required",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-station-4/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Ethernet host restriction",
+      "value": "2.5 Gigabit Ethernet supported only on Thunderbolt-based hosts",
+      "unit": "",
+      "condition": "TS4 official manual; avoid assuming full function on ordinary USB-C hosts",
+      "source_url": "https://downloads.caldigit.com/TS4/CalDigit_TS4_Manual.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Audio port arbitration",
+      "value": "Front combo or rear audio pair active at one time; front connection takes priority",
+      "unit": "",
+      "condition": "TS4 official manual; avoid assuming full function on ordinary USB-C hosts",
+      "source_url": "https://downloads.caldigit.com/TS4/CalDigit_TS4_Manual.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Host cable requirement",
+      "value": "Supplied or certified 40 Gbps Thunderbolt 4 / USB4 cable",
+      "unit": "",
+      "condition": "TS4 official manual; avoid assuming full function on ordinary USB-C hosts",
+      "source_url": "https://downloads.caldigit.com/TS4/CalDigit_TS4_Manual.pdf",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia MPN/GTIN",
+    "Latvia retail package contents",
+    "Host-specific USB-C fallback function matrix and display resolution matrix"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.caldigit.com/thunderbolt-station-4/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP 200 gzip decoded; official technical section read",
+      "notes": "Official source technical content read; factual extraction retained"
+    },
+    {
+      "url": "https://downloads.caldigit.com/TS4/CalDigit_TS4_Manual.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "Official PDF HTTP 200, downloaded/read",
+      "notes": "Host cable, Ethernet restriction and audio port arbitration read"
+    }
+  ],
+  "research_lane": "accessories"
+}

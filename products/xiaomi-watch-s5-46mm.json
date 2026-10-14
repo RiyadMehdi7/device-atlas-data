@@ -1,0 +1,186 @@
+{
+  "id": "xiaomi-watch-s5-46mm",
+  "brand": "Xiaomi",
+  "model": "Watch S5 46mm",
+  "category": "Smartwatches",
+  "scope": "Global manufacturer model-family reference. Strap/colour alternatives do not form separate products. Any NFC, LTE, ceramic or regional subvariants described remain conditional; exact Latvia SKU unresolved.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Xiaomi Watch S5 46mm specifications",
+  "source_url": "https://www.mi.com/global/product/xiaomi-watch-s5-46mm/specs/",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/watch-s5-46mm/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Dimensions",
+      "value": "46.00mm x 46.00mm x 10.99mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Dimensions",
+      "value": "Approx. 46g (without in-box strap)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Watch body",
+      "value": "stainless steel | Bezel: stainless steel / ceramic / forged carbon | Cover: glass",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Adjustable strap length",
+      "value": "approx. 140–210mm",
+      "unit": "",
+      "condition": "Range depends on strap/colour variant; model-family reference"
+    },
+    {
+      "label": "Adjustable strap length",
+      "value": "approx. 135–205mm",
+      "unit": "",
+      "condition": "Range depends on strap/colour variant; model-family reference"
+    },
+    {
+      "label": "Sensors",
+      "value": "Heart rate sensor (with blood oxygen sensor)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Accelerometer",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Gyroscope",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Ambient light sensor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Electronic compass",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Barometer sensor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Satellite positioning systems",
+      "value": "GPS | Galileo | Glonass | BeiDou | QZSS",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Capacity",
+      "value": "815mAh",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Battery type",
+      "value": "Lithium-ion polymer battery",
+      "unit": "",
+      "condition": "Manufacturer specification; battery values are laboratory claims, actual use varies"
+    },
+    {
+      "label": "Resolution",
+      "value": "480 × 480 pixels, PPI 323",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Display",
+      "value": "1.48-inch AMOLED display",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Brightness",
+      "value": "HBM brightness 1500 nits, peak brightness 2500 nits",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Built-in GNSS",
+      "value": "Supported",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Water resistance rating",
+      "value": "5ATM",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Speaker",
+      "value": "Supported",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Microphone",
+      "value": "Supported",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "NFC",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Manufacturer global model claim; NFC payment support varies by region"
+    },
+    {
+      "label": "Specifications",
+      "value": "Dual-mode Bluetooth BLE/BT 5.4",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Operating system",
+      "value": "Xiaomi HyperOS 3",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Compatibility",
+      "value": "Supports smartphones running Android 8.0 and above, or iOS 14.0 and above.",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Charging port",
+      "value": "2-pin magnetic charging dock",
+      "unit": "",
+      "condition": ""
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU / GTIN matching",
+    "Regional app and payment availability"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/xiaomi-watch-s5-46mm/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Manufacturer technical specification content parsed; extracted factual fields only"
+    }
+  ],
+  "research_lane": "wearables"
+}

@@ -1,0 +1,334 @@
+{
+  "id": "tcl-75v6c-de",
+  "brand": "TCL",
+  "model": "75V6C",
+  "category": "Televisions",
+  "scope": "Exact Germany screen-size model; model identity checked in separate publicly disclosed specification response. No family-value transfer; Latvian suffix/GTIN and dimensions order unresolved.",
+  "identifiers": [
+    "75V6C"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "TCL V6C 4K HDR TV — 75V6C",
+  "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json",
+  "tele2_url": "https://www.tele2.lv/televizori/tv-settcl75-4k-ultra-hd3840-x-2160-pixel/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Grundlegende Eigenschaften - Marke",
+      "value": "TCL",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Grundlegende Eigenschaften - Kategorie",
+      "value": "TV",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Grundlegende Eigenschaften - Familie",
+      "value": "P",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Grundlegende Eigenschaften - Baureihe",
+      "value": "V6C",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Grundlegende Eigenschaften - Kundenmodell",
+      "value": "75V6C",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Grundlegende Eigenschaften - Führendes Land/Region",
+      "value": "EU",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Grundlegende Eigenschaften - Jahr",
+      "value": "2025",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Produkttyp - Flach/gekrümmt",
+      "value": "Flat",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Produkttyp - Bildschirm-Typ",
+      "value": "LCD",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Produkttyp - Technologie-Typ",
+      "value": "4K UHD",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Produkttyp - Hintergrundbeleuchtung",
+      "value": "DLED",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Allgemeine Informationen - Bedienung System",
+      "value": "Google TV",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Allgemeine Informationen - Freihändige Sprachsteuerung",
+      "value": "Nein",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Allgemeine Informationen - Google Assistant Integriert",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Allgemeine Informationen - IMAX Verbessert",
+      "value": "Nein",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Audio - Audio Leistung",
+      "value": "2*15W",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Audio - Sound-Kanal",
+      "value": "2.0 Channel",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Anzeige - Auflösung",
+      "value": "4K UHD",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Anzeige - Panel-Auflösung",
+      "value": "3840*2160",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Anzeige - Bildseitenverhältnis",
+      "value": "16:9",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Refresh / interpolation / VRR modes (manufacturer combined row)",
+      "value": "60Hz",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required. Mixed MEMC/VRR/DLG row is not independent native-panel proof.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Anzeige - HLG",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Anzeige - HDR 10",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Anzeige - System-Helligkeit",
+      "value": "330nit(typ)",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Intelligenter Dienst - Spiele-Master",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Intelligenter Dienst - Video-Chat",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Intelligenter Dienst - Miracast (Drahtlose Anzeige)",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Intelligenter Dienst - Schnell-Einstellungen",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Konnektivität - BlueTooth",
+      "value": "BT5.2",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Konnektivität - Wi-Fi",
+      "value": "WiFi 5",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Konnektivität - HDMI-Version",
+      "value": "HDMI1.4 & HDMI2.0 & HDMI2.1, HDCP1.4 & HDCP2.2",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Konnektivität - HDMI2.1 (eARC&ARC)",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Konnektivität - HDMI-CEC",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Konnektivität - Programmführer (EPG)",
+      "value": "Ja (for DTV programme only)",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Abmessungen und Gewicht - VESA-Wandbefestigung (mm)",
+      "value": "300*300",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Abmessungen und Gewicht - Größe des Geräts mit Standfuß (BxHxT)（mm）",
+      "value": "1667*1027*349",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required. Printed dimension tuple order needs verification; do not infer coordinate order.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Abmessungen und Gewicht - Größe des Sets ohne Standfuß (BxHxT)（mm）",
+      "value": "1667*959*74",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required. Printed dimension tuple order needs verification; do not infer coordinate order.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Abmessungen und Gewicht - Ständer (Basis) (BxT)",
+      "value": "1316*347",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Abmessungen und Gewicht - Abmessungen der Verpackung (LxBxH)",
+      "value": "1850*178*1125 (without pallet)",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required. Printed dimension tuple order needs verification; do not infer coordinate order.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Abmessungen und Gewicht - Nettogewicht ohne Ständer（Kg）",
+      "value": "18",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Abmessungen und Gewicht - Nettogewicht mit Ständer（Kg）",
+      "value": "18.2",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    },
+    {
+      "label": "Abmessungen und Gewicht - Bruttogewicht mit Verpackung（Kg）(ohne Palette）",
+      "value": "27.8",
+      "unit": "",
+      "condition": "Exact Germany public manufacturer specification table. Original field names/values retained; Latvia retail matching required.",
+      "source_url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json"
+    }
+  ],
+  "missing_fields": [
+    "GTIN",
+    "EU energy fiche/manual review",
+    "Native panel refresh separated from MEMC/VRR/DLG",
+    "Dimension tuple coordinate order verification"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.tcl.com/de/de/tvs/75v6c",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "HTTP 200; real model entries explicitly listed in public manufacturer selector pageData."
+    },
+    {
+      "url": "https://www.tcl.com/content/brandsite/de/de/tvs/75v6c/jcr:content/root/container/container/container/subnav_menus/specifications1/product_spec.L2NvbnRlbnQvYnJhbmRzaXRlLXByb2R1Y3QvZGUvZGUvdHZzL3Y2Yy83NXY2Yw==.json",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch of public manufacturer specification JSON",
+      "notes": "HTTP 200; exact model field matched. Endpoint constructor explicitly disclosed in fetched public JavaScript."
+    }
+  ],
+  "research_lane": "televisions"
+}

@@ -1,0 +1,446 @@
+{
+  "id": "nothing-phone-4a-pro-global-manufacturer-model-reference",
+  "brand": "Nothing",
+  "model": "Phone (4a) Pro",
+  "category": "Phones",
+  "scope": "Global manufacturer model reference; region and capacity options grouped, Latvia SKU needs matching",
+  "identifiers": [],
+  "aliases": [
+    "Phone (4a) Pro 12GB/256GB"
+  ],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Phone (4a) Pro | Smartphones | Nothing | UK",
+  "source_url": "https://nothing.tech/products/phone-4a-pro",
+  "tele2_url": "https://www.tele2.lv/telefoni/nothing-phone-4a-pro-12256gb/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "In the box",
+      "value": "Nothing Phone (4a) Pro | Nothing Cable (c-c) 100 cm | Phone (4a) Pro Screen Protector (pre-applied) | Phone (4a) Pro Case | SIM tray ejector tool | Safety information and warranty card",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Colours & capacity — Colours",
+      "value": "Silver | Black | Pink",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Colours & capacity — Capacity",
+      "value": "8GB+128GB | 8GB+256GB | 12GB+256GB",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Dimensions — Height",
+      "value": "163.6 mm",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Dimensions — Width",
+      "value": "76.6 mm",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Dimensions — Depth",
+      "value": "7.9 mm",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Dimensions — Weight",
+      "value": "210 g",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Qualcomm Snapdragon 7 Gen 4 — CPU",
+      "value": "4 nm TSMC process | Qualcomm® Kryo™, 8-core, up to 2.8 GHz | 1 Prime core, up to 2.8 GHz | 3 Performance cores, up to 2.4 GHz | 4 Efficiency cores, up to 1.8 GHz",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Qualcomm Snapdragon 7 Gen 4 — GPU",
+      "value": "Qualcomm® Adreno™ 722",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Qualcomm Snapdragon 7 Gen 4 — NPU",
+      "value": "Qualcomm® Hexagon™ NPU | Qualcomm® AI Engine",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Qualcomm Snapdragon 7 Gen 4 — ISP",
+      "value": "Qualcomm Spectra™ Image Signal Processor | LPDDR5x | UFS3.1",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Main camera — Resolution",
+      "value": "50 MP",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Main camera — Aperture",
+      "value": "f/1.88",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Main camera — Sensor",
+      "value": "1/1.56\"",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Main camera — Features",
+      "value": "OIS & EIS | Auto focus, 2x2 OCL PDAF | 2x in-sensor zoom | Rapid shutter | Image Super Resolution(ISR) algorithm",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Periscope camera — Resolution",
+      "value": "50 MP",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Periscope camera — Aperture",
+      "value": "f/2.88",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Periscope camera — Sensor",
+      "value": "1/2.75”",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Periscope camera — Features",
+      "value": "OIS & EIS | Auto focus, PDAF | 3.5x optical zoom | 7x in-sensor zoom | 140x ultra zoom",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Ultra-wide camera — Aperture",
+      "value": "F/2.2",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Ultra-wide camera — Sensor",
+      "value": "1/4\"",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Ultra-wide camera — Field of view",
+      "value": "120°",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Front camera — Resolution",
+      "value": "32 MP",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Front camera — Aperture",
+      "value": "F/2.2",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Front camera — Sensor",
+      "value": "1/3.44\"",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Front camera — Field of view",
+      "value": "89°",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "TrueLens Engine 4",
+      "value": "Ultra XDR | Ultra XDR motion photo | AI Semantic Segmentation (12 layers) | Portrait Optimiser | Macro capability (built into the default mode) | Night Mode",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Video recording",
+      "value": "4K Ultra XDR recording at 30 FPS | 1080p Ultra XDR recording at 30 or 60 FPS | Slo-mo at 1080p 120 FPS | Time Lapse at 4K / 1080p",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Display — Size",
+      "value": "6.83” flexible AMOLED",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Display — Screen material",
+      "value": "Corning® Gorilla® Glass 7i",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Display — Resolution",
+      "value": "1260 x 2800 (450 PPI)",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Display — Colour depth",
+      "value": "10-bit",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Display — Colors",
+      "value": "1.07 billion",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Display — Contrast ratio",
+      "value": "1,000,000:1",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Brightness — Peak brightness",
+      "value": "5000 nits",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Brightness — Outdoor brightness",
+      "value": "1600 nits",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Brightness — Typical brightness",
+      "value": "800 nits",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Refresh — Adaptive refresh rate",
+      "value": "144 Hz",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Refresh — Touch sampling rate",
+      "value": "Up to 2500 Hz",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Refresh — PWM frequency",
+      "value": "2160 Hz",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Battery — Capacity",
+      "value": "5,080 mAh | 5,400 mAh (India only)",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Battery — Charging speed",
+      "value": "50W",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Battery — Reverse wired charging",
+      "value": "7.5 W",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Battery — Protocol",
+      "value": "PPS / PD3.0 / PD2.0 / QC3.0 / QC2.0 / DCP / SDP / CDP / UFCS",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Multimedia — Audio Supported Formats",
+      "value": "Playback: MP3, AAC, AAC+, WMA, AMR-NB, AMR-WB, WAV, FLAC, APE, OGG, MID, M4A, IMY, AC3, EAC3, EAC3-JOC, AC4 | Recording: WAV, AAC, AMR",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Multimedia — Video Supported Formats",
+      "value": "Playback: MKV, MOV, MP4, H.265 (HEVC), AVI, WMV, TS, 3GP, FLV, WEBM | Recording: MP4",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Multimedia — Image Supported Formats",
+      "value": "Playback: JPEG, PNG, BMP, GIF, WEB, HEIF, HEIC, DNG | Output: JPEG, DNG",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Audio — Audio",
+      "value": "2 high-definition mics | Dual stereo speakers",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Connectivity — SIM card type",
+      "value": "Nano-SIM (4FF), Dual SIM",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Connectivity — e-SIM",
+      "value": "Yes (Excluding India)",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Connectivity — 2G GSM",
+      "value": "850 / 900 / 1800 / 1900",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Connectivity — 3G UMTS (WCDMA) bands",
+      "value": "B1, 2, 4, 5, 6, 8, 19",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Connectivity — 4G LTE bands",
+      "value": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 38, 40, 41, 42, 48, 66, 71",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Connectivity — 5G NR bands",
+      "value": "n1, n2, n3, n5, n7, n8, n12, n20, n25, n28, n38, n40, n41, n48, n66, n71, n77, n78",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Connectivity — Wi-Fi",
+      "value": "WiFi 6, 802.11a/b/g/n/ac/ax, 2.4G/5G, 2x2 MIMO, TWT, MU-MIMO, OFDMA",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Connectivity — Bluetooth",
+      "value": "5.4",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Connectivity — Location",
+      "value": "GPS (L1), GLONASS (G1), BDS (B1I), GALILEO (E1), QZSS (L1)",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Connectivity — NFC",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Design — IP rated",
+      "value": "IP65 Certified Tested for water and dust resistance",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Design — Additional support",
+      "value": "Tested for water immersion up to 25 cm for up to 20 minutes",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Other features — Linear Haptic Motor",
+      "value": "More tactile vibration responses",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Other features — Fingerprint Sensor",
+      "value": "In-screen optical scanner",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Other features — Additional",
+      "value": "Accelerometer | Electronic Compass | Front Ambient Light Sensor | Gyroscope | Proximity Sensor",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Operating system — Operating system",
+      "value": "Nothing OS 4.1 powered by Android 16",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Operating system — Software support",
+      "value": "3 years of Android updates 6 years of security patches | *The Nothing Phone (4a) Pro will get updates for 6 years starting from when the device first became available on nothing.tech. This includes three years of Android updates and six years of security updates in addition to corrective and functionality updates.",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Sustainability — Recycled materials",
+      "value": "30% recycled plastic is used for 6 plastic parts | 100% recycled aluminum is used for the back cover | 100% recycled tin is used in 6 circuit boards | 80% recycled steel is used for 32 steel parts",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Sustainability — Carbon footprint",
+      "value": "50.5 kg CO₂e, our lowest-ever carbon footprint in a smartphone",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Sustainability — Packaging",
+      "value": "100% plastic-free",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Sustainability — Manufacturing",
+      "value": "100% renewable energy for final assembly process",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU / model code and GTIN matching",
+    "Colour-specific packaging and regional accessories"
+  ],
+  "source_pages": [
+    {
+      "url": "https://nothing.tech/products/phone-4a-pro",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible manufacturer specification content parsed; model-reference scope, not an exact retailer SKU."
+    }
+  ],
+  "research_lane": "phones"
+}

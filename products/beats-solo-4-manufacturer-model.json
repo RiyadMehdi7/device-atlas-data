@@ -1,0 +1,181 @@
+{
+  "id": "beats-solo-4-manufacturer-model",
+  "brand": "Beats",
+  "model": "Solo 4",
+  "category": "Headphones",
+  "scope": "Official manufacturer reference; USA/global page, Latvia SKU matching required",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Solo 4 official technical specifications and FAQ",
+  "source_url": "https://www.beatsbydre.com/us/headphones/solo4-wireless",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Form",
+      "value": "On-ear",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Spatial audio",
+      "value": "Personalised; dynamic head tracking",
+      "unit": "",
+      "condition": "Compatible content/devices"
+    },
+    {
+      "label": "Lossless",
+      "value": "USB-C or 3.5 mm cable",
+      "unit": "",
+      "condition": "Compatible audio source"
+    },
+    {
+      "label": "Length",
+      "value": "17.7 cm",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Width",
+      "value": "15.8 cm",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Height",
+      "value": "6.8 cm",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Weight",
+      "value": "217 g",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Bluetooth class",
+      "value": "1",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Bluetooth version",
+      "value": "5.3",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "USB-C audio",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Analog audio",
+      "value": "3.5 mm",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Microphones",
+      "value": "Multiple digital beamforming",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Apple compatibility",
+      "value": "One-touch pairing; Find My",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Android compatibility",
+      "value": "One-touch pairing; Find My Device",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Listening",
+      "value": "Up to 50 hours",
+      "unit": "",
+      "condition": "Single charge; manufacturer maximum"
+    },
+    {
+      "label": "Fast Fuel",
+      "value": "Up to 5 hours playback after 10-min charge",
+      "unit": "",
+      "condition": "Manufacturer maximum"
+    },
+    {
+      "label": "Passive cable use",
+      "value": "No battery power required",
+      "unit": "",
+      "condition": "3.5 mm audio"
+    },
+    {
+      "label": "Charging",
+      "value": "USB-C",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Battery type",
+      "value": "Rechargeable lithium-ion",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Music/call control",
+      "value": "b button",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Volume control",
+      "value": "Up/down rocker",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Power/pairing",
+      "value": "Multi-function button",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Case",
+      "value": "Included",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "USB-C cable",
+      "value": "Included",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "3.5 mm cable",
+      "value": "Included",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    }
+  ],
+  "missing_fields": [
+    "Battery capacities",
+    "Regional SKU matching",
+    "Full battery lab test protocol"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.beatsbydre.com/us/headphones/solo4-wireless",
+      "fetched_at": "2026-10-14",
+      "method": "web open/find",
+      "notes": "Official tech details and FAQ actually read; earbud/case playback separated"
+    }
+  ],
+  "research_lane": "audio"
+}

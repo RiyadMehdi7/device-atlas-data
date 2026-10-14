@@ -1,0 +1,212 @@
+{
+  "id": "samsung-galaxy-watch9-40mm-lte",
+  "brand": "Samsung",
+  "model": "Galaxy Watch9 40mm LTE",
+  "category": "Smartwatches",
+  "scope": "Exact UK manufacturer connectivity/size SKU specification; colour used solely as source anchor. Latvia GTIN and regional services need matching.",
+  "identifiers": [
+    "L345FZKAEUB"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Samsung Galaxy Watch9 40mm LTE specifications",
+  "source_url": "https://www.samsung.com/uk/watches/galaxy-watch/galaxy-watch9-40mm-graphite-lte-sm-l345fzkaeub/",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/galaxy-watch-9-40mm-lte/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "NFC",
+      "value": "NFC",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Bluetooth Version",
+      "value": "Bluetooth v6.0",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Size (Main Display)",
+      "value": "1.3\" (34mm)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Processor",
+      "value": "2.1GHz, 1.95GHz",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Body Weight (g)",
+      "value": "31.5",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Accelerometer, Barometer, Bioelectrical Impedance Analysis Sensor, Electrical Heart Sensor, Gyro Sensor, Geomagnetic Sensor, Light Sensor, Optical Heart Rate Sensor, Temperature Sensor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Storage (GB)",
+      "value": "32",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Body Dimension (HxWxD, mm)",
+      "value": "42.7 x 40.4 x 8.6",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "SIM size",
+      "value": "Embedded-SIM",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Infra",
+      "value": "3G WCDMA, 4G LTE FDD, 4G LTE TDD",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "3G UMTS",
+      "value": "B1(2100), B2(1900), B4(AWS), B5(850), B8(900)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "4G FDD LTE",
+      "value": "B1(2100), B2(1900), B3(1800), B4(AWS), B5(850), B7(2600), B8(900), B12(700), B13(700), B14(700), B18(800), B19(800), B20(800), B25(1900), B26(850), B28(700), B66(AWS-3), B71(600)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "4G TDD LTE",
+      "value": "B34(2010), B38(2600), B39(1900), B40(2300), B41(2500)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Audio Playing Format",
+      "value": "MP3, M4A, 3GA, AAC, OGG, OGA, WAV, AMR, AWB",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Location Technology",
+      "value": "GPS, Glonass, Beidou, Galileo, QZSS",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Wi-Fi",
+      "value": "802.11a/b/g/n 2.4GHz+5GHz",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "NFC",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Bluetooth Profiles",
+      "value": "A2DP, AVRCP, HFP, HSP",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Technology (Main Display)",
+      "value": "Super AMOLED",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Resolution (Main Display)",
+      "value": "438 x 438",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Colour Depth (Main Display)",
+      "value": "16M",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "CPU Speed",
+      "value": "2.1GHz, 1.95GHz",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "CPU Type",
+      "value": "Penta-Core",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Memory (GB)",
+      "value": "2",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Available Storage (GB)",
+      "value": "20.1",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Durability",
+      "value": "5 ATM",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Battery Capacity (mAh, Typical)",
+      "value": "390",
+      "unit": "",
+      "condition": "Manufacturer specification; battery values are laboratory claims, actual use varies"
+    },
+    {
+      "label": "Removable",
+      "value": "No",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Usage Time (Hours, AOD Off)",
+      "value": "Up to 40",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Usage Time (Hours, AOD On)",
+      "value": "Up to 30",
+      "unit": "",
+      "condition": ""
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU / GTIN matching",
+    "Regional app and payment availability"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.samsung.com/uk/watches/galaxy-watch/galaxy-watch9-40mm-graphite-lte-sm-l345fzkaeub/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Manufacturer technical specification content parsed; extracted factual fields only"
+    }
+  ],
+  "research_lane": "wearables"
+}

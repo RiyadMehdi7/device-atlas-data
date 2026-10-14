@@ -1,0 +1,106 @@
+{
+  "id": "xiaomi-xiaomi-67w-hypercharge-combo-type-a",
+  "brand": "Xiaomi",
+  "model": "Xiaomi 67W HyperCharge Combo (Type-A)",
+  "model_family": "Xiaomi 67W HyperCharge Combo (Type-A)",
+  "category": "Accessories",
+  "scope": "Official Global specification model MDY-12-EH. Regional plug/package variants remain unresolved; model-name Tele2 matching does not prove exact EU SKU.",
+  "identifiers": [
+    "MDY-12-EH"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Xiaomi Xiaomi 67W HyperCharge Combo (Type-A) technical specifications",
+  "source_url": "https://www.mi.com/global/product/xiaomi-67w-hypercharge-combo-type-a/",
+  "tele2_url": "https://www.tele2.lv/aksesuari/67w-hypercharge-combo-type-a-eu/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Product name",
+      "value": "Xiaomi 67W HyperCharge Combo (Type-A)",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-67w-hypercharge-combo-type-a/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Normal Output",
+      "value": "5.0V ⎓ 3.0A 15.0W",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-67w-hypercharge-combo-type-a/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Fast Output",
+      "value": "5.0-20.0V⎓6.2-3.25A (67.0W Max)",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-67w-hypercharge-combo-type-a/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Operating temperature",
+      "value": "-10°C~40 °C",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-67w-hypercharge-combo-type-a/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Product model",
+      "value": "MDY-12-EH",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-67w-hypercharge-combo-type-a/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Input parameters",
+      "value": "100–240V~, 50/60Hz, 1.7A",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-67w-hypercharge-combo-type-a/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions",
+      "value": "49.3*73*28mm (excl.prongs)",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-67w-hypercharge-combo-type-a/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Net weight",
+      "value": "102g",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-67w-hypercharge-combo-type-a/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Package Contents",
+      "value": "Charger ×1; USB-C cable ×1; User manual ×1; Warranty notice ×1",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-67w-hypercharge-combo-type-a/",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia MPN/GTIN",
+    "Latvia retail package contents",
+    "Exact Tele2 EU MPN and regional plug match"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/xiaomi-67w-hypercharge-combo-type-a/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Official source technical content read; factual extraction retained"
+    }
+  ],
+  "research_lane": "accessories"
+}

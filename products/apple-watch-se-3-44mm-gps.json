@@ -1,0 +1,612 @@
+{
+  "id": "apple-watch-se-3-44mm-gps",
+  "brand": "Apple",
+  "model": "Watch SE 3 44mm GPS",
+  "category": "Smartwatches",
+  "scope": "UK manufacturer 44mm GPS reference, aluminium case for Series/SE, titanium Ultra. Common series fields plus explicitly labelled size/connectivity statements. Exact Latvian SKU and services need matching.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Apple Watch SE 3 44mm GPS specifications",
+  "source_url": "https://www.apple.com/uk/apple-watch-se-3/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Case size",
+      "value": "44 mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Connectivity variant",
+      "value": "GPS",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Height",
+      "value": "44mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Width",
+      "value": "38mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Depth",
+      "value": "10.7mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Size and Weight",
+      "value": "368x448 pixels",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Size and Weight",
+      "value": "977 sq mm display area",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Weight (GPS)",
+      "value": "32.9 grams",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Size and Weight",
+      "value": "Fits 140–245mm wrists",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Controls",
+      "value": "Digital Crown with haptic feedback",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Controls",
+      "value": "Side button",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Controls",
+      "value": "Single tap, double tap and wrist flick gestures",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Controls",
+      "value": "Siri powered by Apple Intelligence 1",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Chip",
+      "value": "S10 chip with 64‑bit dual core processor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Chip",
+      "value": "4‑core Neural Engine",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Chip",
+      "value": "64GB capacity",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Second-generation optical heart sensor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Temperature sensor 2",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Compass",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Always-on altimeter",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "High-g accelerometer",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "High dynamic range gyroscope",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Ambient light sensor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Health and Wellness",
+      "value": "Heart Rate app",
+      "unit": "",
+      "condition": "UK manufacturer specification; availability, compatible phone and service requirements apply as footnoted on source"
+    },
+    {
+      "label": "Health and Wellness",
+      "value": "High and low heart rate notifications",
+      "unit": "",
+      "condition": "UK manufacturer specification; availability, compatible phone and service requirements apply as footnoted on source"
+    },
+    {
+      "label": "Health and Wellness",
+      "value": "Irregular rhythm notifications 3",
+      "unit": "",
+      "condition": "UK manufacturer specification; availability, compatible phone and service requirements apply as footnoted on source"
+    },
+    {
+      "label": "Health and Wellness",
+      "value": "Advanced Cycle Tracking app with fertile window estimates, retrospective ovulation estimates, and perimenopause and menopause support 4",
+      "unit": "",
+      "condition": "UK manufacturer specification; availability, compatible phone and service requirements apply as footnoted on source"
+    },
+    {
+      "label": "Health and Wellness",
+      "value": "Medications app 5",
+      "unit": "",
+      "condition": "UK manufacturer specification; availability, compatible phone and service requirements apply as footnoted on source"
+    },
+    {
+      "label": "Health and Wellness",
+      "value": "Mindfulness app",
+      "unit": "",
+      "condition": "UK manufacturer specification; availability, compatible phone and service requirements apply as footnoted on source"
+    },
+    {
+      "label": "Health and Wellness",
+      "value": "Noise app",
+      "unit": "",
+      "condition": "UK manufacturer specification; availability, compatible phone and service requirements apply as footnoted on source"
+    },
+    {
+      "label": "Health and Wellness",
+      "value": "Sleep app including sleep stages",
+      "unit": "",
+      "condition": "UK manufacturer specification; availability, compatible phone and service requirements apply as footnoted on source"
+    },
+    {
+      "label": "Health and Wellness",
+      "value": "Sleep score",
+      "unit": "",
+      "condition": "UK manufacturer specification; availability, compatible phone and service requirements apply as footnoted on source"
+    },
+    {
+      "label": "Health and Wellness",
+      "value": "Sleep apnoea notifications 6",
+      "unit": "",
+      "condition": "UK manufacturer specification; availability, compatible phone and service requirements apply as footnoted on source"
+    },
+    {
+      "label": "Display",
+      "value": "Always-On Retina display with OLED and LTPO",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Display",
+      "value": "Tough Ion-X front glass with 4x crack resistance 7",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Display",
+      "value": "1,000 nits peak brightness",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Display",
+      "value": "2 nits minimum brightness",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Display",
+      "value": "326 pixels per inch",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Audio",
+      "value": "Speaker",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Audio",
+      "value": "Microphone",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Audio",
+      "value": "Media playback",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Power and Battery Life",
+      "value": "All‑day battery life, up to 18 hours of normal use 8",
+      "unit": "",
+      "condition": "Manufacturer test estimate; named mode retained. Exact test usage and charging equipment conditions in source footnotes; actual use varies."
+    },
+    {
+      "label": "Power and Battery Life",
+      "value": "Up to 32 hours in Low Power Mode 8",
+      "unit": "",
+      "condition": "Manufacturer test estimate; named mode retained. Exact test usage and charging equipment conditions in source footnotes; actual use varies."
+    },
+    {
+      "label": "Power and Battery Life",
+      "value": "Up to 7 hours outdoor workout 9",
+      "unit": "",
+      "condition": "Manufacturer test estimate; named mode retained. Exact test usage and charging equipment conditions in source footnotes; actual use varies."
+    },
+    {
+      "label": "Power and Battery Life",
+      "value": "Built‑in rechargeable lithium‑ion battery",
+      "unit": "",
+      "condition": "Manufacturer test estimate; named mode retained. Exact test usage and charging equipment conditions in source footnotes; actual use varies."
+    },
+    {
+      "label": "Power and Battery Life",
+      "value": "Fast‑charge capable 10",
+      "unit": "",
+      "condition": "Manufacturer test estimate; named mode retained. Exact test usage and charging equipment conditions in source footnotes; actual use varies."
+    },
+    {
+      "label": "Power and Battery Life",
+      "value": "Up to 80% charge in about 45 minutes 10",
+      "unit": "",
+      "condition": "Manufacturer test estimate; named mode retained. Exact test usage and charging equipment conditions in source footnotes; actual use varies."
+    },
+    {
+      "label": "Power and Battery Life",
+      "value": "15 minutes for up to 8 hours of normal use 11",
+      "unit": "",
+      "condition": "Manufacturer test estimate; named mode retained. Exact test usage and charging equipment conditions in source footnotes; actual use varies."
+    },
+    {
+      "label": "Power and Battery Life",
+      "value": "8 minutes for up to 8 hours of sleep tracking 11",
+      "unit": "",
+      "condition": "Manufacturer test estimate; named mode retained. Exact test usage and charging equipment conditions in source footnotes; actual use varies."
+    },
+    {
+      "label": "Operating System",
+      "value": "watchOS",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Operating System",
+      "value": "watchOS is the world’s most advanced wearable operating system, with apps and features designed to keep you active, healthy, safe and connected.",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Workouts and Activity",
+      "value": "Custom workouts",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Workouts and Activity",
+      "value": "Customisable Workout Views",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Workouts and Activity",
+      "value": "Training Load",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Workouts and Activity",
+      "value": "Heart Rate Zones (customisable)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Workouts and Activity",
+      "value": "Post‑workout heart rate",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Workouts and Activity",
+      "value": "VO 2 max",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Workouts and Activity",
+      "value": "Race Route",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Workouts and Activity",
+      "value": "Pacer",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Workouts and Activity",
+      "value": "Cadence, Stride Length, Ground Contact Time, Vertical Oscillation and Running Power",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Workouts and Activity",
+      "value": "Automatic track detection",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Workouts and Activity",
+      "value": "Multisport workout",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Workouts and Activity",
+      "value": "Heart Rate Zone, pace and target alerts",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Workouts and Activity",
+      "value": "Compass with bearing, incline, elevation and coordinates",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Workouts and Activity",
+      "value": "Custom waypoints",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Workouts and Activity",
+      "value": "Backtrack GPS data",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Workouts and Activity",
+      "value": "Offline maps with custom route creation 12",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Workouts and Activity",
+      "value": "Topographic maps for thousands of national and regional parks (US only)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Workouts and Activity",
+      "value": "Hundreds of curated hikes across all 63 US national parks",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Workouts and Activity",
+      "value": "Average speed, elevation gained and distance",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Workouts and Activity",
+      "value": "Connection to cycling accessories via Bluetooth",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Workouts and Activity",
+      "value": "Functional Threshold Power",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Workouts and Activity",
+      "value": "Power Zones",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Workouts and Activity",
+      "value": "Cadence",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Workouts and Activity",
+      "value": "Live Activity on iPhone",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Workouts and Activity",
+      "value": "Pool swim or open water swim",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Workouts and Activity",
+      "value": "Custom workouts for pool swims",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Workouts and Activity",
+      "value": "Splits and auto sets",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Workouts and Activity",
+      "value": "SWOLF score",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Workouts and Activity",
+      "value": "Automatic stroke detection",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Workouts and Activity",
+      "value": "Kickboard detection",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Workouts and Activity",
+      "value": "Average pace, total distance and lengths",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Safety",
+      "value": "Emergency SOS 13",
+      "unit": "",
+      "condition": "UK manufacturer specification; availability, compatible phone and service requirements apply as footnoted on source"
+    },
+    {
+      "label": "Safety",
+      "value": "International emergency calling 14",
+      "unit": "",
+      "condition": "UK manufacturer specification; availability, compatible phone and service requirements apply as footnoted on source"
+    },
+    {
+      "label": "Safety",
+      "value": "Fall Detection 13",
+      "unit": "",
+      "condition": "UK manufacturer specification; availability, compatible phone and service requirements apply as footnoted on source"
+    },
+    {
+      "label": "Safety",
+      "value": "Crash Detection 13",
+      "unit": "",
+      "condition": "UK manufacturer specification; availability, compatible phone and service requirements apply as footnoted on source"
+    },
+    {
+      "label": "Safety",
+      "value": "Noise monitoring",
+      "unit": "",
+      "condition": "UK manufacturer specification; availability, compatible phone and service requirements apply as footnoted on source"
+    },
+    {
+      "label": "Safety",
+      "value": "Backtrack",
+      "unit": "",
+      "condition": "UK manufacturer specification; availability, compatible phone and service requirements apply as footnoted on source"
+    },
+    {
+      "label": "Safety",
+      "value": "Check In",
+      "unit": "",
+      "condition": "UK manufacturer specification; availability, compatible phone and service requirements apply as footnoted on source"
+    },
+    {
+      "label": "Durability",
+      "value": "Water resistance 50m (swimproof) 15",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Connectivity",
+      "value": "Support for 2.4GHz Wi‑Fi networks",
+      "unit": "",
+      "condition": "UK manufacturer specification; availability, compatible phone and service requirements apply as footnoted on source"
+    },
+    {
+      "label": "Connectivity",
+      "value": "Wi‑Fi 4 (802.11n)",
+      "unit": "",
+      "condition": "UK manufacturer specification; availability, compatible phone and service requirements apply as footnoted on source"
+    },
+    {
+      "label": "Connectivity",
+      "value": "Bluetooth 5.3",
+      "unit": "",
+      "condition": "UK manufacturer specification; availability, compatible phone and service requirements apply as footnoted on source"
+    },
+    {
+      "label": "Connectivity",
+      "value": "L1 GPS (GLONASS, Galileo, QZSS and BeiDou)",
+      "unit": "",
+      "condition": "UK manufacturer specification; availability, compatible phone and service requirements apply as footnoted on source"
+    },
+    {
+      "label": "Connectivity",
+      "value": "Apple Pay 16",
+      "unit": "",
+      "condition": "UK manufacturer specification; availability, compatible phone and service requirements apply as footnoted on source"
+    },
+    {
+      "label": "Connectivity",
+      "value": "GymKit",
+      "unit": "",
+      "condition": "UK manufacturer specification; availability, compatible phone and service requirements apply as footnoted on source"
+    },
+    {
+      "label": "Connectivity",
+      "value": "Support for Apple Watch For Your Kids 19",
+      "unit": "",
+      "condition": "UK manufacturer specification; availability, compatible phone and service requirements apply as footnoted on source"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU / GTIN matching",
+    "Regional app and payment availability"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.apple.com/uk/apple-watch-se-3/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Manufacturer technical specification content parsed; extracted factual fields only"
+    }
+  ],
+  "research_lane": "wearables"
+}

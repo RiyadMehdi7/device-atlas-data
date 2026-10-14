@@ -1,0 +1,362 @@
+{
+  "id": "asus-mb16awp",
+  "brand": "Asus",
+  "model": "MB16AWP",
+  "category": "Monitors",
+  "scope": "Global exact ZenScreen GO MB16AWP specification; battery capacity distinct from runtime. No battery runtime inferred. Regional stock suffix and EAN unresolved.",
+  "identifiers": [
+    "MB16AWP"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "ASUS ZenScreen GO MB16AWP - Tech Specs",
+  "source_url": "https://www.asus.com/displays-desktops/monitors/zenscreen/asus-zenscreen-go-mb16awp/techspec/",
+  "tele2_url": "https://www.tele2.lv/monitori/asus-mb16awp-156/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Panel Size (inch)",
+      "value": "15.6",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Aspect Ratio",
+      "value": "16:9",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Display Viewing Area (H x V)",
+      "value": "344.16(H) x 193.59(V) mm",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Display Surface",
+      "value": "Anti-Glare",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Backlight Type",
+      "value": "LED",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Panel Type",
+      "value": "IPS",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Viewing Angle (CR≧10, H/V)",
+      "value": "178°/ 178°",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Pixel Pitch",
+      "value": "0.179mm",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Resolution",
+      "value": "1920x1080",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Color Space (sRGB)",
+      "value": "100%",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Brightness (Typ.)",
+      "value": "250cd/㎡",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Contrast Ratio (Typ.)",
+      "value": "1200:1",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Display Colors",
+      "value": "16.7M",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Response Time",
+      "value": "5ms(GTG)",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Refresh Rate (Max)",
+      "value": "60Hz",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Flicker-free",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Trace Free Technology",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "SPLENDID Technology",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Color Temp. Selection",
+      "value": "Yes (4 modes)",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "GamePlus",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "QuickFit",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "HDCP",
+      "value": "Yes, 1.4",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "DisplayWidget",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Low Blue Light",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Wireless Projection",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "WiFi",
+      "value": "Yes(Embedded)",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Speaker",
+      "value": "Yes(1Wx2)",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "USB-C x 1 (DP Alt Mode)",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "Mini HDMI x 1",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Earphone Jack",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Digital Signal Frequency",
+      "value": "53~77KHz(H) / 48~61Hz(V)",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Battery",
+      "value": "7800mah",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Power Consumption",
+      "value": "7.6W",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Power Saving Mode",
+      "value": "<0.5W",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Power Off Mode",
+      "value": "<0.3W",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Voltage",
+      "value": "DC: 5V, 3A",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Tilt",
+      "value": "Yes (+15° ~ +35°)",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Height Adjustment",
+      "value": "No",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "1/4\" Tripod Socket",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Phys. Dimension (W x H x D)",
+      "value": "35.79 x 22.48 x 1.15 cm (14.09\" x 8.85\" x 0.45\")",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Box Dimension (W x H x D)",
+      "value": "45.60 x 30.00 x 13.80 cm (17.95\" x 11.81\" x 5.43\")",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "44.60 x 29.10 x 13.90 cm (17.56\" x 11.46\" x 5.47\")",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Net Weight",
+      "value": "1.09 kg (2.40 lbs)",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Gross Weight",
+      "value": "2.3 kg (5.07 lbs)",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "ZenScreen tripod hole cover",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "ZenScreen sleeve",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "Warranty Card",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "USB-C cable",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "Quick start guide",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "Power cord",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "Power adapter",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "Mini HDMI to HDMI adapter",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "TÜV Low Blue Light",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "TÜV Flicker-free",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "*Box dimension is depending on actual size.",
+      "unit": "",
+      "condition": "Global exact-model reference; dimensions/weights estimated and may vary by region"
+    }
+  ],
+  "missing_fields": [
+    "Latvia stocked unit EAN reconciliation",
+    "Manual input-specific refresh limits and test footnotes where unresolved"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.asus.com/displays-desktops/monitors/zenscreen/asus-zenscreen-go-mb16awp/techspec/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "HTTP 200; exact model title and technical specification block read"
+    }
+  ],
+  "research_lane": "monitors"
+}

@@ -1,0 +1,393 @@
+{
+  "id": "hp-series-5-pro-524pn",
+  "brand": "HP",
+  "model": "Series 5 Pro 524pn",
+  "category": "Monitors",
+  "scope": "Exact model on HP UK technical specification page; manufacturer regional product number and Tele2 EU unit still require matching.",
+  "identifiers": [
+    "Series 5 Pro 524pn",
+    "9D9A7AA"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "HP Series 5 Pro 24 inch WUXGA Monitor - 524pn | HP® United Kingdom",
+  "source_url": "https://www.hp.com/gb-en/products/monitors/product-details/product-specifications/2102108111",
+  "tele2_url": "https://www.tele2.lv/monitori/hp-series-5-pro-524pn-238i-wuxga-eu/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Display size (diagonal)",
+      "value": "24\"",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Display size (diagonal)",
+      "value": "61 cm (24\")",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Panel technology",
+      "value": "IPS; LCD *",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Display features",
+      "value": "Height Adjust/Tilt/Swivel/Pivot *",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Color gamut",
+      "value": "100% sRGB",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Onscreen controls",
+      "value": "Brightness+; Color; Image; Input; Power; Menu; Management; Information; Exit",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Native resolution",
+      "value": "WUXGA (1920 x 1200) * *",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Resolutions supported",
+      "value": "640 x 480 @ 60 Hz; 640 x 480 @ 75 Hz; 720 x 400 @ 70 Hz; 800 x 600 @ 60 Hz; 800 x 600 @ 75 Hz; 1024 x 768 @ 60 Hz; 1280 x 720 @ 60 Hz; 1280 x 1024 @ 60 Hz; 1440 x 900 @ 60 Hz; 1600 x 900 @ 60 Hz; 1680 x 1050 @ 60 Hz; 1920 x 1080 @ 50 Hz; 1920 x 1080 @ 60 Hz; 1920 x 1080 @ 100 Hz; 1920 x 1200 @ 60 Hz; 1280 x 1024 @ 75 Hz; 720 x 480 @ 60 Hz; 720 x 576 @ 50 Hz; 1024 x 768 @ 75 Hz; 1280 x 720 @ 50 Hz; 1280 x 720 @ 100 Hz; 1280 x 800 @ 60 Hz; 1920 x 1080 @ 75 Hz; 1920 x 1200 @ 75 Hz; 1920 x 1200 @ 100 Hz",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Contrast ratio",
+      "value": "1500:1 *",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Display contrast ratio (dynamic)",
+      "value": "10000000:1",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Brightness",
+      "value": "350 nits *",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Pixel pitch",
+      "value": "0.27 x 0.27 mm *",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "USB Type-A",
+      "value": "4 USB Type-A 5Gbps signaling rate (1 charging)",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Usb b (hub enablement)",
+      "value": "1 USB-B",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "DisplayPort™",
+      "value": "1 DisplayPort™ 1.2",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "HDCP",
+      "value": "Yes, DisplayPort™ and HDMI",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "HDMI",
+      "value": "1 HDMI 1.4",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Camera",
+      "value": "No integrated camera",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "VESA mounting",
+      "value": "100 x 100 mm",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Dimensions (W x D x H)",
+      "value": "53.28 x 4.7 x 34.29 cm (without stand)",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Dimensions With Stand (W x D x H)",
+      "value": "53.28 x 18.95 x 51.75 cm",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Package dimensions (W x D x H)",
+      "value": "62.1 x 14 x 41.1 cm",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Weight",
+      "value": "5.1 kg (with stand)",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Package weight",
+      "value": "7.4 kg (with stand)",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Screen treatment",
+      "value": "Anti-glare",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Swivel",
+      "value": "±45°",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Tilt",
+      "value": "-5 to +23°",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Horizontal viewing angle",
+      "value": "178°",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Vertical viewing angle",
+      "value": "178°",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Aspect ratio",
+      "value": "16:10 *",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Backlight type",
+      "value": "Edge-lit; WLED",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Bezel",
+      "value": "3-sided borderless with micro-edge bezel",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Curvature",
+      "value": "Flat",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Display area (metric)",
+      "value": "51.84 x 32.4 cm",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Height adjustment range",
+      "value": "150 mm",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Response time (typical)",
+      "value": "5ms GtG (with overdrive) *",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Display scan frequency (horizontal)",
+      "value": "30-130 kHz",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Display scan frequency (vertical)",
+      "value": "50-100 Hz",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Flicker-free",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Hardness",
+      "value": "3H",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Low blue light",
+      "value": "HP Eye Ease (TÜV Low Blue Light Hardware Solution certified) *",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Panel bit depth",
+      "value": "8 bit (6 bit + FRC)",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "pivot",
+      "value": "±90°",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Pixels per inch (ppi)",
+      "value": "94 ppi",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Resolution (maximum)",
+      "value": "WUXGA (1920 x 1200 @ 100 Hz）",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Management Software",
+      "value": "HP Display Center; HP Client Management Script Library",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Physical security",
+      "value": "Standard lock slot *",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Power",
+      "value": "100 - 240 VAC 50/60 Hz",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Power supply type",
+      "value": "Internal",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Standby mode power demand",
+      "value": "0.5 W",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Operating humidity range",
+      "value": "20 to 80% RH (non-condensing)",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Non-Operating Humidity Range",
+      "value": "5–95%",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Operating temperature range",
+      "value": "5 to 35°C",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Operating temperature range",
+      "value": "41 to 95°F",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Sustainability specifications",
+      "value": "At least 85% ITE-derived closed loop plastic; Contains ocean-bound plastic; At least 30% recycled metal including 90% recycled aluminum in the stand; Contains 20% recycled glass in the monitor panel; Molded paper pulp cushion inside box is made of 100% recycled or certified sources; Low halogen; Outside box and corrugated cushions are made of 100% recycled or certified sources * * * * * *",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Energy efficiency class",
+      "value": "C",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Energy efficiency class external url",
+      "value": "https://eprel.ec.europa.eu/screen/product/electronicdisplays/2000332",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Energy efficiency class logo",
+      "value": "Energy efficiency class label image",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "What's in the box",
+      "value": "Monitor; DisplayPort™ cable; HDMI cable; Warranty card; USB Type-B to A cable; Quick Setup Poster; AC power cord *",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    },
+    {
+      "label": "Manufacturer Warranty",
+      "value": "HP three-year limited warranty",
+      "unit": "",
+      "condition": "Official HP UK exact model technical reference; stated units and W x D x H order retained. Asterisks refer to manufacturer footnotes."
+    }
+  ],
+  "missing_fields": [
+    "Tele2 EU regional product number and EAN matching",
+    "Footnote test and input timing details from official manual"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.hp.com/gb-en/products/monitors/product-details/product-specifications/2102108111",
+      "fetched_at": "2026-10-14",
+      "method": "Exa web_fetch_exa full page",
+      "notes": "Full manufacturer UK technical table read"
+    }
+  ],
+  "research_lane": "monitors"
+}

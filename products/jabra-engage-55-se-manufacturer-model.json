@@ -1,0 +1,137 @@
+{
+  "id": "jabra-engage-55-se-manufacturer-model",
+  "brand": "Jabra",
+  "model": "Engage 55 SE",
+  "category": "Headphones",
+  "scope": "Official manufacturer technical revision; MS/UC, mono/stereo and USB adapter bundles require exact SKU matching; listed technical sheet revision can differ from Tele2 bundle",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Jabra Engage 55 SE official technical specifications",
+  "source_url": "https://www.jabra.com/_/media/Jabra_VXi_Product-Documentation/Jabra-Engage-55-SE/Technical-specifications/RevA/EN-Jabra-Engage-55-SE-Tech-sheet-A4-Web-050824.pdf",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Stereo weight",
+      "value": "83 g",
+      "unit": "",
+      "condition": "Stereo"
+    },
+    {
+      "label": "Mono weight",
+      "value": "57 g",
+      "unit": "",
+      "condition": "Mono"
+    },
+    {
+      "label": "Convertible weight",
+      "value": "21 g",
+      "unit": "",
+      "condition": "Convertible"
+    },
+    {
+      "label": "Warranty",
+      "value": "2 years",
+      "unit": "",
+      "condition": "All listed forms"
+    },
+    {
+      "label": "Speaker frequency",
+      "value": "40 Hz-16000 Hz",
+      "unit": "",
+      "condition": "All listed forms"
+    },
+    {
+      "label": "Music bandwidth",
+      "value": "40 Hz-16000 Hz",
+      "unit": "",
+      "condition": "All listed forms"
+    },
+    {
+      "label": "Speech bandwidth",
+      "value": "150 Hz-6800 Hz",
+      "unit": "",
+      "condition": "All listed forms"
+    },
+    {
+      "label": "Stereo talk",
+      "value": "Up to 13 hours",
+      "unit": "",
+      "condition": "Stereo; busylight off"
+    },
+    {
+      "label": "Mono talk",
+      "value": "Up to 13 hours",
+      "unit": "",
+      "condition": "Mono; busylight off"
+    },
+    {
+      "label": "Convertible talk",
+      "value": "Up to 9 hours",
+      "unit": "",
+      "condition": "Convertible; busylight off"
+    },
+    {
+      "label": "Charging connector",
+      "value": "USB-C",
+      "unit": "",
+      "condition": "All listed forms"
+    },
+    {
+      "label": "Charge time",
+      "value": "Up to 90 minutes",
+      "unit": "",
+      "condition": "All listed forms"
+    },
+    {
+      "label": "Battery type",
+      "value": "Rechargeable lithium-ion",
+      "unit": "",
+      "condition": "All listed forms"
+    },
+    {
+      "label": "Software",
+      "value": "Jabra Direct, Jabra SDK, Jabra Xpress",
+      "unit": "",
+      "condition": "All listed forms"
+    },
+    {
+      "label": "Technology",
+      "value": "DECT",
+      "unit": "",
+      "condition": "All listed forms"
+    },
+    {
+      "label": "Range",
+      "value": "Up to 150 m / 490 ft",
+      "unit": "",
+      "condition": "Manufacturer maximum; obstacles may affect range"
+    },
+    {
+      "label": "Connectivity",
+      "value": "USB-A, USB-C",
+      "unit": "",
+      "condition": "Adapter variant matching required"
+    },
+    {
+      "label": "Operating temperature",
+      "value": "-10 C to 55 C",
+      "unit": "",
+      "condition": "All listed forms"
+    }
+  ],
+  "missing_fields": [
+    "Exact Tele2 MS/UC, mono/stereo, adapter and charging bundle reconciliation"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.jabra.com/_/media/Jabra_VXi_Product-Documentation/Jabra-Engage-55-SE/Technical-specifications/RevA/EN-Jabra-Engage-55-SE-Tech-sheet-A4-Web-050824.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "web open official PDF",
+      "notes": "Model technical table actually read; bundle-specific accessory claims excluded"
+    }
+  ],
+  "research_lane": "audio"
+}

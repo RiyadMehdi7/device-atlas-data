@@ -1,0 +1,169 @@
+{
+  "id": "reolink-w437-eu-reference",
+  "brand": "Reolink",
+  "model": "W437",
+  "category": "Cameras",
+  "scope": "Manufacturer reference from public web-open content. DK/BE regional scope where indicated; global W330 reference. Exact Latvia hardware, model code and included kit require matching. NVS16 applies only to N6MB01. Conflicting rows withheld.",
+  "identifiers": [
+    "W437"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Reolink W437 official specifications",
+  "source_url": "https://reolink.com/product/w437/",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/reolink-w437/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Resolution class",
+      "value": "4K UHD",
+      "unit": ""
+    },
+    {
+      "label": "Wi-Fi technology",
+      "value": "Wi-Fi 6",
+      "unit": ""
+    },
+    {
+      "label": "Optical zoom",
+      "value": "5×",
+      "unit": ""
+    },
+    {
+      "label": "Impact resistance",
+      "value": "IK10",
+      "unit": ""
+    },
+    {
+      "label": "Ingress protection",
+      "value": "IP67",
+      "unit": ""
+    },
+    {
+      "label": "Housing",
+      "value": "Aluminum",
+      "unit": ""
+    },
+    {
+      "label": "Color night vision",
+      "value": "Spotlight-assisted",
+      "unit": ""
+    },
+    {
+      "label": "IR night vision",
+      "value": "Supported",
+      "unit": ""
+    },
+    {
+      "label": "Detection",
+      "value": "Person, vehicle, animal",
+      "unit": ""
+    },
+    {
+      "label": "Spotlight warning",
+      "value": "Supported",
+      "unit": ""
+    },
+    {
+      "label": "Siren",
+      "value": "Built-in",
+      "unit": ""
+    },
+    {
+      "label": "Audio",
+      "value": "Two-way; microphone and speaker",
+      "unit": ""
+    },
+    {
+      "label": "Recording modes",
+      "value": "Continuous, motion-triggered, scheduled",
+      "unit": ""
+    },
+    {
+      "label": "microSD maximum",
+      "value": "256GB",
+      "unit": ""
+    },
+    {
+      "label": "Other storage",
+      "value": "Compatible Reolink NVR, FTP",
+      "unit": ""
+    },
+    {
+      "label": "Cloud",
+      "value": "Selected countries",
+      "unit": ""
+    },
+    {
+      "label": "Time lapse",
+      "value": "Supported",
+      "unit": ""
+    },
+    {
+      "label": "Motion zones",
+      "value": "Customizable",
+      "unit": ""
+    },
+    {
+      "label": "EU Wi-Fi 2.4GHz frequency/power",
+      "value": "2412–2472MHz; ≤19dBm EIRP",
+      "unit": "",
+      "condition": "Official German W437 manual regulatory section; exact EU hardware must match",
+      "source_url": "https://m.reolink.com/files/docs/specs/QSG/w437/DE-W437.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU Wi-Fi low 5GHz frequency/power",
+      "value": "5150–5250MHz; ≤21dBm EIRP",
+      "unit": "",
+      "condition": "Official German W437 manual regulatory section; exact EU hardware must match",
+      "source_url": "https://m.reolink.com/files/docs/specs/QSG/w437/DE-W437.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU Wi-Fi mid 5GHz frequency/power",
+      "value": "5250–5350MHz; ≤21dBm EIRP",
+      "unit": "",
+      "condition": "Official German W437 manual regulatory section; exact EU hardware must match",
+      "source_url": "https://m.reolink.com/files/docs/specs/QSG/w437/DE-W437.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU Wi-Fi upper 5GHz frequency/power",
+      "value": "5470–5725MHz; ≤21dBm EIRP",
+      "unit": "",
+      "condition": "Official German W437 manual regulatory section; exact EU hardware must match",
+      "source_url": "https://m.reolink.com/files/docs/specs/QSG/w437/DE-W437.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU Wi-Fi high 5GHz frequency/power",
+      "value": "5725–5875MHz; ≤15dBm EIRP",
+      "unit": "",
+      "condition": "Official German W437 manual regulatory section; exact EU hardware must match",
+      "source_url": "https://m.reolink.com/files/docs/specs/QSG/w437/DE-W437.pdf",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU/GTIN and hardware revision",
+    "Detailed sensor/lens/aperture, power, dimensions, weight not in retrieved page",
+    "Alexa and Google marked coming soon; not confirmed current"
+  ],
+  "source_pages": [
+    {
+      "url": "https://reolink.com/product/w437/",
+      "fetched_at": "2026-10-14",
+      "method": "web open; public manufacturer page content read",
+      "notes": "Direct HTTP403; ordinary web open succeeded; no bypass or credentials. Technical rows read, source contradictions withheld"
+    },
+    {
+      "url": "https://m.reolink.com/files/docs/specs/QSG/w437/DE-W437.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "web open; official German W437 manual PDF read",
+      "notes": "Eight-page German official manual; regulatory frequencies/power on page8 read. Package contents explicitly vary by version/platform."
+    }
+  ],
+  "research_lane": "smart-devices"
+}

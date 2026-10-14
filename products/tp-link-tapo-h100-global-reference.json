@@ -1,0 +1,78 @@
+{
+  "id": "tp-link-tapo-h100-global-reference",
+  "brand": "TP-Link",
+  "model": "Tapo H100",
+  "category": "Smart home",
+  "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "TP-Link Tapo H100 official specifications",
+  "source_url": "https://www.tp-link.com/en/home-networking/smart-hub/tapo-h100/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Protocol",
+      "value": "2.4GHz Wi-Fi & Sub-1G 863.35MHz, 864.35MHz, 868.35MHz (for EU/UK) 920.9MHz, 921.7MHz, 922.3MHz (for US/AU).",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wireless Type",
+      "value": "2.4GHz Wi-Fi",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Operating Temperature",
+      "value": "0~40°C",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Dimensions( H X W X D )",
+      "value": "72 x 51 x 70.3 mm (2.8 x 2 x 2.8 inch)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Material",
+      "value": "UL94-V0 Flame Ratardant",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Buttons",
+      "value": "SYNC/Mute Button",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Power Requirements",
+      "value": "AC, 100~240V, 50/60Hz",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Package Content",
+      "value": "1 x Tapo H100 1 x Quick Start Guide",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU/GTIN",
+    "Hardware revision and region-specific differences"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.tp-link.com/en/home-networking/smart-hub/tapo-h100/",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP fetch; HTML specification rows parsed",
+      "notes": "8 factual specification rows read; marketing paragraphs excluded"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

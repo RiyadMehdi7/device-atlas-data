@@ -1,0 +1,89 @@
+{
+  "id": "apple-20w-usb-c-power-adapter",
+  "brand": "Apple",
+  "model": "20W USB-C Power Adapter",
+  "model_family": "20W USB-C Power Adapter",
+  "category": "Accessories",
+  "scope": "Official UK manufacturer reference. Dimensions/features are for the namedgeneration. UKplug/part may differfromLatvia; exactretailerbarcode/MPNrequiresmatching.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Apple 20W USB-C Power Adapter technical specifications",
+  "source_url": "https://www.apple.com/uk/shop/product/muvt3b/a/20w-usb-c-power-adapter",
+  "tele2_url": "https://www.tele2.lv/aksesuari/20w-usb-c-power-adapter1/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Advertised output",
+      "value": "20W",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://www.apple.com/uk/shop/product/muvt3b/a/20w-usb-c-power-adapter",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connector",
+      "value": "USB-C",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://www.apple.com/uk/shop/product/muvt3b/a/20w-usb-c-power-adapter",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Charging cable",
+      "value": "Sold separately",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://www.apple.com/uk/shop/product/muvt3b/a/20w-usb-c-power-adapter",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Fast-charge host claim",
+      "value": "iPhone8 orlater",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://www.apple.com/uk/shop/product/muvt3b/a/20w-usb-c-power-adapter",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Fast-charge battery claim",
+      "value": "Up to50% around35minutes; Appletestconditions; varieswithdevice/usage",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://www.apple.com/uk/shop/product/muvt3b/a/20w-usb-c-power-adapter",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "iPad charge compatibility",
+      "value": "iPad Pro,iPad Air",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://www.apple.com/uk/shop/product/muvt3b/a/20w-usb-c-power-adapter",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Package contents",
+      "value": "20WUSB-Cpoweradapter",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://www.apple.com/uk/shop/product/muvt3b/a/20w-usb-c-power-adapter",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia MPN/GTIN",
+    "Latvia retail package contents",
+    "Input frequency/current and full negotiated power profiles where unpublished",
+    "EU plug dimensions/mass; UK dimensions cannot be transferred"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.apple.com/uk/shop/product/muvt3b/a/20w-usb-c-power-adapter",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Official source technical content read; factual extraction retained"
+    }
+  ],
+  "research_lane": "accessories"
+}

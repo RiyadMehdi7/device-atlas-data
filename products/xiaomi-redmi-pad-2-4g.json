@@ -1,0 +1,407 @@
+{
+  "id": "xiaomi-redmi-pad-2-4g",
+  "brand": "Xiaomi",
+  "model": "REDMI Pad 2 4G",
+  "model_family": "REDMI Pad 2 4G",
+  "category": "Tablets",
+  "scope": "Global manufacturer model reference. Explicit RAM/storage options remain options. Not an exact Latvia SKU; retail package and radio availability vary.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer model source checked; Latvia SKU needs matching",
+  "source_name": "Xiaomi REDMI Pad 2 4G technical specifications",
+  "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Dimensions / Height",
+      "value": "254.58 mm",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Width",
+      "value": "166.04 mm",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Thickness",
+      "value": "7.36 mm",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Weight",
+      "value": "519g",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Chipset",
+      "value": "MediaTek Helio G100-Ultra",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Chip process",
+      "value": "6nm manufacturing process",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Processor / CPU",
+      "value": "A76+A55, 2xA76@2.2GHz+6xA55@2.0 GHz",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Processor / GPU",
+      "value": "Mali-G57 MC2",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Storage & RAM / detail 3",
+      "value": "4GB + 128GB, 6GB + 128GB, 8GB + 256GB",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Storage & RAM / detail 4",
+      "value": "LPDDR4X + UFS 2.2",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Storage & RAM / Supports expandable storage",
+      "value": "Up to 2TB",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Size",
+      "value": "11\" , 16:10 aspect ratio",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Resolution",
+      "value": "2560 x 1600, 274 ppi",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Refresh rate",
+      "value": "Up to 90Hz",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Touch sampling rate",
+      "value": "Up to 360Hz",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / detail 5",
+      "value": "240Hz (with pen)",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Brightness",
+      "value": "500 nits (typ), 600 nits (Outdoor mode)",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / detail 6",
+      "value": "TÜV Rheinland Low Blue Light (Software Solution) Certified",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / detail 7",
+      "value": "TÜV Rheinland Flicker Free Certified",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / detail 8",
+      "value": "TÜV Rheinland Circadian Friendly Certified",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / detail 9",
+      "value": "1.07 billion color | Reading mode | Wet touch technology | 10x super resolution",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear camera / detail 10",
+      "value": "8M, 1/4\", 1.12μm pixel size",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear camera / detail 11",
+      "value": "f/2.0",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear camera / detail 12",
+      "value": "1080P video at 30fps",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear camera / detail 13",
+      "value": "720P video at 30fps",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front camera / detail 14",
+      "value": "5M, 1/5\", 1.12μm pixel size",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front camera / detail 15",
+      "value": "f/2.2",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front camera / detail 16",
+      "value": "1080P video at 30fps",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front camera / detail 17",
+      "value": "720P video at 30fps",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery & charging / detail 18",
+      "value": "9000mAh (typ)",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery & charging / detail 19",
+      "value": "18W Fast charging (inbox 15W）",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery & charging / detail 20",
+      "value": "USB Type-C",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery & charging / detail 21",
+      "value": "PD2.0/ QC2.0",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Data transfer / detail 22",
+      "value": "USB 2.0",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connectivity / detail 23",
+      "value": "Dual SIM Dual 4G",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connectivity / detail 24",
+      "value": "4G FDD: B1/2/3/4/5/7/8/13/18/19/20/26/28/66",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connectivity / detail 25",
+      "value": "4G TDD: B38/40/41",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connectivity / detail 26",
+      "value": "3G WCDMA: B1/2/4/5/6/8/19",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connectivity / detail 27",
+      "value": "2G GSM: 2/3/5/8",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connectivity / GPS",
+      "value": "L1 | A-GPS supplementary positioning | GLONASS: G1 | BDS: B1I | Galileo E1 | Electronic compass | Wireless network | Data network | Sensor Assisted Positioning",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connectivity / detail 28",
+      "value": "Wi-Fi 5 capability",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connectivity / detail 29",
+      "value": "802.11a/b/g/n/ac, 2.4GHz&5GHz, 1x1 SISO, Wi-Fi Direct, Miracast",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connectivity / detail 30",
+      "value": "SBC, AAC, LDAC",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connectivity / detail 31",
+      "value": "Bluetooth 5.3",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connectivity / detail 32",
+      "value": "IPv6",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Sensors",
+      "value": "Accelerometer |Gyroscope | Virtual ambient light sensor | Hall sensor | Magnetometer",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Operating system",
+      "value": "Xiaomi HyperOS 2",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia-specific MPN/GTIN",
+    "Latvia retail configuration and package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/redmi-pad-2-4g/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible official technical content read; structured facts retained"
+    }
+  ],
+  "research_lane": "tablets"
+}

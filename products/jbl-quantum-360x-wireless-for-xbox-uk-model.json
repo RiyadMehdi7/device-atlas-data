@@ -1,0 +1,215 @@
+{
+  "id": "jbl-quantum-360x-wireless-for-xbox-uk-model",
+  "brand": "JBL",
+  "model": "Quantum 360X Wireless for XBOX",
+  "category": "Headphones",
+  "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "JBL Quantum 360X Wireless for XBOX | Wireless over-ear console gaming headset with detachable boom mic",
+  "source_url": "https://uk.jbl.com/QUANTUM360XWIRELESS.html",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Driver size (mm)",
+      "value": "40",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Driver sensitivity at 1kHz/1mW (dB)",
+      "value": "115 dB SPL @1 kHz",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Impedance (ohms)",
+      "value": "32",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Dynamic frequency response range (Hz)",
+      "value": "20 Hz - 20 kHz",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Audio Cable Length (ft)",
+      "value": "3.3",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Audio Cable Length (m)",
+      "value": "1",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Earpiece Weight (oz)",
+      "value": "8.9",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Earpiece Weight (g)",
+      "value": "252",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Ear Cup External Height (in)",
+      "value": "4",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Ear Cup External Width (in)",
+      "value": "3.5",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Ear Cup Internal Height (in)",
+      "value": "2.4",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Ear Cup Internal Width (in)",
+      "value": "1.9",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Ear Cup Depth (in)",
+      "value": "1",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Ear Cup External Height (cm)",
+      "value": "10.2",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Ear Cup External Width (cm)",
+      "value": "8.9",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Ear Cup Internal Height (cm)",
+      "value": "6.1",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Ear Cup Internal Width (cm)",
+      "value": "4.9",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Ear Cup Depth (cm)",
+      "value": "2.5",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "2.4GHz Wireless transmitter power",
+      "value": "<7 dBm",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "2.4GHz Wireless modulation",
+      "value": "GFSK, π/4-DQPSK",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "2.4GHz Wireless carrier frequency",
+      "value": "2402 MHz - 2480 MHz",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth transmitted power",
+      "value": "<12 dBm @BR - <3 dBm @ EDR2M",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth transmitted modulation",
+      "value": "GFSK, π/4-DQPSK",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth frequency",
+      "value": "2402 MHz - 2480 MHz",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth version",
+      "value": "5.2",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Charging time (hours from empty)",
+      "value": "2",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Built-in Microphone",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Over-ear",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Wireless",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Charging cable",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU/GTIN matching"
+  ],
+  "source_pages": [
+    {
+      "url": "https://uk.jbl.com/QUANTUM360XWIRELESS.html",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Specification table read; conflicting or ambiguous playback totals omitted"
+    }
+  ],
+  "research_lane": "audio"
+}

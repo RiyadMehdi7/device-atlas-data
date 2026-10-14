@@ -1,0 +1,200 @@
+{
+  "id": "nokia-225-4g-2024-uk-hmd-manufacturer-2024-model-reference",
+  "brand": "Nokia",
+  "model": "225 4G (2024)",
+  "category": "Phones",
+  "scope": "UK HMD manufacturer 2024 model reference; retailer generation and SKU need matching",
+  "identifiers": [
+    "TA-1610"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Nokia 225 4G (2024) specifications",
+  "source_url": "https://www.hmd.com/en_gb/nokia-225-4g-2024/specs",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Resolution",
+      "value": "QVGA",
+      "unit": "",
+      "condition": "Manufacturer maxima; standby/talk use and SIM/network conditions preserved in field labels."
+    },
+    {
+      "label": "Rear camera",
+      "value": "Main",
+      "unit": "",
+      "condition": "Manufacturer maxima; standby/talk use and SIM/network conditions preserved in field labels."
+    },
+    {
+      "label": "Bluetooth®",
+      "value": "5.0",
+      "unit": "",
+      "condition": "Manufacturer maxima; standby/talk use and SIM/network conditions preserved in field labels."
+    },
+    {
+      "label": "USB connection",
+      "value": "USB Type-C™",
+      "unit": "",
+      "condition": "Manufacturer maxima; standby/talk use and SIM/network conditions preserved in field labels."
+    },
+    {
+      "label": "Battery",
+      "value": "Removable",
+      "unit": "",
+      "condition": "Manufacturer maxima; standby/talk use and SIM/network conditions preserved in field labels."
+    },
+    {
+      "label": "Battery life",
+      "value": "Up to 9.8 h talk time in laboratory conditions.",
+      "unit": "",
+      "condition": "Manufacturer maxima; standby/talk use and SIM/network conditions preserved in field labels."
+    },
+    {
+      "label": "Charging",
+      "value": "USB Type-C™",
+      "unit": "",
+      "condition": "Manufacturer maxima; standby/talk use and SIM/network conditions preserved in field labels."
+    },
+    {
+      "label": "CPU",
+      "value": "Unisoc T107",
+      "unit": "",
+      "condition": "Manufacturer maxima; standby/talk use and SIM/network conditions preserved in field labels."
+    },
+    {
+      "label": "Operating System",
+      "value": "S30+​",
+      "unit": "",
+      "condition": "Manufacturer maxima; standby/talk use and SIM/network conditions preserved in field labels."
+    },
+    {
+      "label": "Features",
+      "value": "MP3 Player",
+      "unit": "",
+      "condition": "Manufacturer maxima; standby/talk use and SIM/network conditions preserved in field labels."
+    },
+    {
+      "label": "FM Radio receiver",
+      "value": "FM Radio (Wired/Wireless)",
+      "unit": "",
+      "condition": "Manufacturer maxima; standby/talk use and SIM/network conditions preserved in field labels."
+    },
+    {
+      "label": "Max network speed",
+      "value": "4G",
+      "unit": "",
+      "condition": "Manufacturer maxima; standby/talk use and SIM/network conditions preserved in field labels."
+    },
+    {
+      "label": "Network bands (GSM)",
+      "value": "3,5,8",
+      "unit": "",
+      "condition": "Manufacturer maxima; standby/talk use and SIM/network conditions preserved in field labels."
+    },
+    {
+      "label": "Network bands (LTE)",
+      "value": "EU + AMEA + Rest of APAC: 1, 3, 5, 7, 8, 20, 28, 38, 40, 41(full band)",
+      "unit": "",
+      "condition": "Manufacturer maxima; standby/talk use and SIM/network conditions preserved in field labels."
+    },
+    {
+      "label": "Network bands (WCDMA)",
+      "value": "1, 5, 8",
+      "unit": "",
+      "condition": "Manufacturer maxima; standby/talk use and SIM/network conditions preserved in field labels."
+    },
+    {
+      "label": "Networks",
+      "value": "GSM/GPRS 900/1800, WCDMA, LTE Cat1",
+      "unit": "",
+      "condition": "Manufacturer maxima; standby/talk use and SIM/network conditions preserved in field labels."
+    },
+    {
+      "label": "Sim size",
+      "value": "4FF+4FF",
+      "unit": "",
+      "condition": "Manufacturer maxima; standby/talk use and SIM/network conditions preserved in field labels."
+    },
+    {
+      "label": "Height",
+      "value": "121.53 mm",
+      "unit": "",
+      "condition": "2024 HMD UK manufacturer model reference.",
+      "source_url": "https://www.hmd.com/en_gb/nokia-225-4g-2024/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Width",
+      "value": "52 mm",
+      "unit": "",
+      "condition": "2024 HMD UK manufacturer model reference.",
+      "source_url": "https://www.hmd.com/en_gb/nokia-225-4g-2024/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Depth",
+      "value": "11.63 mm",
+      "unit": "",
+      "condition": "2024 HMD UK manufacturer model reference.",
+      "source_url": "https://www.hmd.com/en_gb/nokia-225-4g-2024/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU ecodesign model identifier",
+      "value": "TA-1610",
+      "unit": "",
+      "condition": "Official Nokia 225 4G 2024 product information sheet under EU Regulation 2023/1670, model TA-1610; exact Latvian GTIN/variant matching remains unresolved.",
+      "source_url": "https://www.hmd.com/assets/wcfotm6rrl7u/1urftzIGmpb263yEifx7J8/508e3b6f85c106b799633f300d21c607/Ecodesign_product_information_sheet_-_Nokia_225_4G_2024.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU ecodesign product type",
+      "value": "Feature Phone",
+      "unit": "",
+      "condition": "Official Nokia 225 4G 2024 product information sheet under EU Regulation 2023/1670, model TA-1610; exact Latvian GTIN/variant matching remains unresolved.",
+      "source_url": "https://www.hmd.com/assets/wcfotm6rrl7u/1urftzIGmpb263yEifx7J8/508e3b6f85c106b799633f300d21c607/Ecodesign_product_information_sheet_-_Nokia_225_4G_2024.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU ecodesign general parameters",
+      "value": "Screen: 2.4-inch QVGA; Battery 1450 mAh (rated 1400 mAh); Dual SIM + SD slots; rear camera 0.38 MP; USB Type C (USB 2.0); 128 MB + 64 MB",
+      "unit": "",
+      "condition": "Official Nokia 225 4G 2024 product information sheet under EU Regulation 2023/1670, model TA-1610; exact Latvian GTIN/variant matching remains unresolved.",
+      "source_url": "https://www.hmd.com/assets/wcfotm6rrl7u/1urftzIGmpb263yEifx7J8/508e3b6f85c106b799633f300d21c607/Ecodesign_product_information_sheet_-_Nokia_225_4G_2024.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU ecodesign removable memory card compatibility",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Official Nokia 225 4G 2024 product information sheet under EU Regulation 2023/1670, model TA-1610; exact Latvian GTIN/variant matching remains unresolved.",
+      "source_url": "https://www.hmd.com/assets/wcfotm6rrl7u/1urftzIGmpb263yEifx7J8/508e3b6f85c106b799633f300d21c607/Ecodesign_product_information_sheet_-_Nokia_225_4G_2024.pdf",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU / model code and GTIN matching",
+    "Colour-specific packaging and regional accessories",
+    "Tele2 Nokia 225 4G generation is unresolved; 2020/2024 specifications are separate references",
+    "Tele2 Nokia 225 4G generation is unresolved; 2020/2024 specifications are separate references",
+    "Tele2 Nokia 225 4G generation is unresolved; 2020/2024 specifications are separate references",
+    "Tele2 Nokia 225 4G generation is unresolved; 2020/2024 specifications are separate references"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.hmd.com/en_gb/nokia-225-4g-2024/specs",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible manufacturer specification content parsed; model-reference scope, not an exact retailer SKU."
+    },
+    {
+      "url": "https://www.hmd.com/assets/wcfotm6rrl7u/1urftzIGmpb263yEifx7J8/508e3b6f85c106b799633f300d21c607/Ecodesign_product_information_sheet_-_Nokia_225_4G_2024.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch + pdftotext",
+      "notes": "Manufacturer EU ecodesign sheet explicitly identifies 2024 Nokia225 TA-1610 and rated battery/general parameters."
+    }
+  ],
+  "research_lane": "phones"
+}

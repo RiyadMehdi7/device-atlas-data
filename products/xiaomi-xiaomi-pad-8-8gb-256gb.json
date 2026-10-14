@@ -1,0 +1,311 @@
+{
+  "id": "xiaomi-xiaomi-pad-8-8gb-256gb",
+  "brand": "Xiaomi",
+  "model": "Xiaomi Pad 8 8GB/256GB",
+  "category": "Tablets",
+  "scope": "Global manufacturer reference. Exact RAM/storage pairs enumerated on specs page; Latvia identity unresolved. Standard glass only for Pad 8 Pro. Regional Wi-Fi support and accessories may vary.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Xiaomi Pad 8 8 - manufacturer technical specifications",
+  "source_url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "RAM",
+      "value": "8GB",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Storage",
+      "value": "256GB",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "RAM technology",
+      "value": "LPDDR5X",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Chip",
+      "value": "Snapdragon 8s Gen 4",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Chip process",
+      "value": "4nm",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "GPU",
+      "value": "Adreno 825",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Height",
+      "value": "251.22mm",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Width",
+      "value": "173.42mm",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Thickness",
+      "value": "5.75mm",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Weight",
+      "value": "485g",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Screen diagonal",
+      "value": "11.2 inches",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Resolution",
+      "value": "3200 x 2136",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Pixel density",
+      "value": "345ppi",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Maximum refresh rate",
+      "value": "144Hz",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Maximum touch sampling",
+      "value": "360Hz; with pen 240Hz",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Brightness",
+      "value": "800 nits peak",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery capacity",
+      "value": "9200mAh typical",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Charging maximum",
+      "value": "45W",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "USB connector",
+      "value": "Type-C",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "USB version",
+      "value": "USB 3.2 Gen 1 up to 5Gbps; compatible cable required",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi",
+      "value": "Wi-Fi 7 capability; regional/network support varies",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear camera",
+      "value": "13MP f/2.2 PDAF",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front camera",
+      "value": "8MP f/2.28",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear video",
+      "value": "4K 30fps",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front video",
+      "value": "1080p 30fps",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "OS",
+      "value": "Xiaomi HyperOS 3",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Sensors",
+      "value": "Accelerometer; gyroscope; front/rear ambient light; flicker; hall; magnetic; proximity",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "IPv6",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Speakers",
+      "value": "Quad speakers",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Audio technology",
+      "value": "Dolby Atmos; Hi-Res / Hi-Res Wireless",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "HDR formats",
+      "value": "HDR10; Dolby Vision",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi MIMO",
+      "value": "2x2 MIMO; 8x8 sounding for MU-MIMO",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wireless display",
+      "value": "Miracast; Wi-Fi Direct",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Security",
+      "value": "AI face unlock",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Storage technology",
+      "value": "UFS 4.1",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia-specific MPN/GTIN",
+    "Latvia retail package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/xiaomi-pad-8/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Technical specifications read; only structured facts retained"
+    }
+  ],
+  "model_family": "Xiaomi Pad 8",
+  "research_lane": "tablets"
+}

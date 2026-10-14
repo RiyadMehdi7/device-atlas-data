@@ -1,0 +1,114 @@
+{
+  "id": "xiaomi-xiaomi-120w-hypercharge-combo-type-a",
+  "brand": "Xiaomi",
+  "model": "Xiaomi 120W HyperCharge Combo (Type-A)",
+  "model_family": "Xiaomi 120W HyperCharge Combo (Type-A)",
+  "category": "Accessories",
+  "scope": "Official Global specification model MDY-14-EE. Regional plug/package variants remain unresolved; model-name Tele2 matching does not prove exact EU SKU.",
+  "identifiers": [
+    "MDY-14-EE"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Xiaomi Xiaomi 120W HyperCharge Combo (Type-A) technical specifications",
+  "source_url": "https://www.mi.com/global/product/xiaomi-120w-hypercharge-combo-type-a/",
+  "tele2_url": "https://www.tele2.lv/aksesuari/120w-hypercharge-combo-type-a-eu/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Product name",
+      "value": "Xiaomi 120W HyperCharge Combo (Type-A)",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-120w-hypercharge-combo-type-a/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Product model",
+      "value": "MDY-14-EE",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-120w-hypercharge-combo-type-a/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Product material",
+      "value": "PC",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-120w-hypercharge-combo-type-a/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Input parameters",
+      "value": "100-240V~，50/60Hz，3A",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-120w-hypercharge-combo-type-a/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Output",
+      "value": "5.0V⎓3.0V 15.0W/9.0V⎓3.0A 27.0W/11.0V⎓6.0A 66.0W Max /20.0V⎓6.0A 120.0W Max/5.0-20.0V⎓3.0-6.0A(120W Max)",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-120w-hypercharge-combo-type-a/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions",
+      "value": "56.1*77.2*28.8mm (excl.prongs)",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-120w-hypercharge-combo-type-a/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Net weight",
+      "value": "170g",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-120w-hypercharge-combo-type-a/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Operating temperature",
+      "value": "-10°C~40 °C",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-120w-hypercharge-combo-type-a/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Package Contents",
+      "value": "Charger ×1; USB-C cable ×1; User manual ×1; Warranty notice ×1",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-120w-hypercharge-combo-type-a/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Source output unit caveat",
+      "value": "First5V profile prints3.0V in current position; unresolved unit typo preserved. Other profiles explicitly quoted.",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-120w-hypercharge-combo-type-a/",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia MPN/GTIN",
+    "Latvia retail package contents",
+    "Exact Tele2 EU MPN and regional plug match"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/xiaomi-120w-hypercharge-combo-type-a/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Official source technical content read; factual extraction retained"
+    }
+  ],
+  "research_lane": "accessories"
+}

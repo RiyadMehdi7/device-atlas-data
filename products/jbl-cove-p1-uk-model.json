@@ -1,0 +1,149 @@
+{
+  "id": "jbl-cove-p1-uk-model",
+  "brand": "JBL",
+  "model": "Cove P1",
+  "category": "Speakers",
+  "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "JBL Cove P1 | Portable Wi-Fi home speaker",
+  "source_url": "https://uk.jbl.com/COVE-P1.html",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Sound system",
+      "value": "3.0.1 channel",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Total speaker power output (RMS @THD 1%)",
+      "value": "120 W",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Transducer",
+      "value": "1 x 0.75\" (20 mm) tweeter + 3 x 1.25\" (30 mm) tweeters + 1 x 4\" (105 mm) woofer",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Networked standby power",
+      "value": "< 2.0 W",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Frequency Response",
+      "value": "50 Hz - 20 kHz (-6 dB)",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Transducer - Woofer (Inch)",
+      "value": "1 x 4",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Transducer - Woofer (mm)",
+      "value": "1 x 105",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Transducer - Tweeter (Inch)",
+      "value": "1 x 0.75 + 3 x 1.25",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Transducer - Tweeter (mm)",
+      "value": "1 x 20 + 3 x 30",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Audio Inputs",
+      "value": "Wi-Fi, Bluetooth, USB (USB playback is available in US & Central American versions.)",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Dimensions (Width x Height x Depth) (in)",
+      "value": "5.8 x 9.2 x 5.8",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Dimensions (Width x Height x Depth) (cm)",
+      "value": "14.6 x 23.3 x 14.7",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Charging Dock Weight (kg)",
+      "value": "0.22",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Charging Dock Weight (lbs)",
+      "value": "0.49",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Charging Dock Dimensions (W x H x D) (inch)",
+      "value": "5.9 x 1.1 x 6.2",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Charging Dock Dimensions (W x H x D) (cm)",
+      "value": "15.1 x 2.7 x 15.8",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Packaging Weight (lbs)",
+      "value": "9.59",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Packaging Dimensions (W x H x D) (in)",
+      "value": "7.2 x 11.3 x 8.4",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Packaging Weight (kg)",
+      "value": "4.35",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Alexa",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU/GTIN matching"
+  ],
+  "source_pages": [
+    {
+      "url": "https://uk.jbl.com/COVE-P1.html",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Specification table read; conflicting or ambiguous playback totals omitted"
+    }
+  ],
+  "research_lane": "audio"
+}

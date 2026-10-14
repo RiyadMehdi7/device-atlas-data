@@ -1,0 +1,115 @@
+{
+  "id": "lenovo-thinkvision-mc60-monitor-webcam-manufacturer-reference",
+  "brand": "Lenovo",
+  "model": "ThinkVision MC60 Monitor Webcam",
+  "category": "Cameras",
+  "scope": "Exact manufacturer model/part reference as identified. UK/EMEA where labelled; global Sandberg/LogiLink/Lenovo references; Dell Japan technical guide. Exact Tele2 SKU, OEM package and revision require matching. Dimensions keep manufacturer orientation/clip scope.",
+  "identifiers": [
+    "4XC1J05150"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Lenovo ThinkVision MC60 Monitor Webcam official specifications",
+  "source_url": "https://techtoday.lenovo.com/sites/default/files/2024-09/Lenovo-Audio-and-Video-Brochure.pdf",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/lenovo-mc60/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Part number",
+      "value": "4XC1J05150",
+      "unit": ""
+    },
+    {
+      "label": "Camera types",
+      "value": "1080p IR and RGB dual",
+      "unit": ""
+    },
+    {
+      "label": "Microphones",
+      "value": "Dual;noise cancellation",
+      "unit": ""
+    },
+    {
+      "label": "Face framing",
+      "value": "Smart Face Framing",
+      "unit": ""
+    },
+    {
+      "label": "Zoom",
+      "value": "Supported",
+      "unit": ""
+    },
+    {
+      "label": "Light correction",
+      "value": "Supported",
+      "unit": ""
+    },
+    {
+      "label": "Anti flicker",
+      "value": "Supported",
+      "unit": ""
+    },
+    {
+      "label": "Activity indicators",
+      "value": "Smart Traffic Light and microphone indicator",
+      "unit": ""
+    },
+    {
+      "label": "Connectivity",
+      "value": "Cableless",
+      "unit": ""
+    },
+    {
+      "label": "Anti theft",
+      "value": "Physical key lock",
+      "unit": ""
+    },
+    {
+      "label": "Video modes",
+      "value": "640×480,1280×720,1920×1080 at 30fps",
+      "unit": ""
+    },
+    {
+      "label": "Capture resolution",
+      "value": "1920×1080",
+      "unit": ""
+    },
+    {
+      "label": "Diagonal FOV options",
+      "value": "65°/78°/90°",
+      "unit": ""
+    },
+    {
+      "label": "Hardware interface",
+      "value": "USB 2.0",
+      "unit": ""
+    },
+    {
+      "label": "I/O connector",
+      "value": "USB-A",
+      "unit": ""
+    },
+    {
+      "label": "Teams certification",
+      "value": "Manufacturer certified; firmware applicability needs matching",
+      "unit": ""
+    }
+  ],
+  "missing_fields": [
+    "MC60 source brochure includes XXX dimension and xxxxxx weight placeholders; withheld",
+    "MC50 adjacent-column dimensions and features not transferred",
+    "MC60(S)4XC1K97399 is another model reference; not transferred",
+    "Latvia part/revision and compatible monitor list require matching",
+    "Exact Latvia GTIN/MPN and hardware revision"
+  ],
+  "source_pages": [
+    {
+      "url": "https://techtoday.lenovo.com/sites/default/files/2024-09/Lenovo-Audio-and-Video-Brochure.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "web open; official Lenovo PDF page11 named MC60 column read",
+      "notes": "Short technical facts only; no marketing prose or source images retained"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

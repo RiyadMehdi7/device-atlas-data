@@ -1,0 +1,132 @@
+{
+  "id": "xiaomi-redmi-watch-5-active",
+  "brand": "Xiaomi",
+  "model": "Redmi Watch 5 Active",
+  "category": "Smartwatches",
+  "scope": "Global manufacturer model-family reference. Strap/colour alternatives do not form separate products. Any NFC, LTE, ceramic or regional subvariants described remain conditional; exact Latvia SKU unresolved.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Xiaomi Redmi Watch 5 Active specifications",
+  "source_url": "https://www.mi.com/global/product/redmi-watch-5-active/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Specification",
+      "value": "Matte Silver",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Dimensions",
+      "value": "49.1mm x 40.4mm x 11.4mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Dimensions",
+      "value": "30.6g (without inbox strap)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Frame",
+      "value": "Plastic (with metal spray coating)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "size",
+      "value": "135mm-205mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Heart rate sensor (with blood oxygen sensor)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Accelerometer",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Typical use time",
+      "value": "18 days",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Capacity",
+      "value": "470mAh",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Display",
+      "value": "2\" Square LCD display",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Resolution",
+      "value": "320 x 385｜250PPI",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Bluetooth call",
+      "value": "supported",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Speaker",
+      "value": "supported",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Specifications",
+      "value": "5ATM water resistance",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Wireless connectivity",
+      "value": "Bluetooth® 5.3",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Operating system",
+      "value": "Xiaomi HyperOS",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Compatibility",
+      "value": "only supports smartphones with Android 8.0 and above, iOS 12.0 and above",
+      "unit": "",
+      "condition": ""
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU / GTIN matching",
+    "Regional app and payment availability"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/redmi-watch-5-active/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Manufacturer technical specification content parsed; extracted factual fields only"
+    }
+  ],
+  "research_lane": "wearables"
+}

@@ -1,0 +1,157 @@
+{
+  "id": "xiaomi-xiaomi-3a-usb-a-to-usb-c-cable-1m",
+  "brand": "Xiaomi",
+  "model": "Xiaomi 3A USB-A to USB-C Cable (1m)",
+  "model_family": "Xiaomi 3A USB-A to USB-C Cable (1m)",
+  "category": "Accessories",
+  "scope": "Official Global specification model (model code not published). Regional plug/package variants remain unresolved; model-name Tele2 matching does not prove exact EU SKU.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Xiaomi Xiaomi 3A USB-A to USB-C Cable (1m) technical specifications",
+  "source_url": "https://www.mi.com/global/product/xiaomi-3a-usb-a-to-usb-c-cable-1m/specs/",
+  "tele2_url": "https://www.tele2.lv/aksesuari/3a-usb-a-to-usb-c-cable-1m/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Product name",
+      "value": "Xiaomi 3A USB-A to USB-C Cable (1m)",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-3a-usb-a-to-usb-c-cable-1m/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Length",
+      "value": "1m",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-3a-usb-a-to-usb-c-cable-1m/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Transmission speed",
+      "value": "480Mbps",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-3a-usb-a-to-usb-c-cable-1m/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rated current",
+      "value": "3A",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-3a-usb-a-to-usb-c-cable-1m/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Main material (outer)",
+      "value": "TPE, stainless steel",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-3a-usb-a-to-usb-c-cable-1m/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port type",
+      "value": "USB 2.0 USB-A to USB-C",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-3a-usb-a-to-usb-c-cable-1m/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Product weight",
+      "value": "22.7g (without box)",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-3a-usb-a-to-usb-c-cable-1m/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Cable diameter",
+      "value": "3.4mm",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-3a-usb-a-to-usb-c-cable-1m/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Product colour",
+      "value": "White",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-3a-usb-a-to-usb-c-cable-1m/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Charging protocol",
+      "value": "Supports BC1.2 and QC protocols",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-3a-usb-a-to-usb-c-cable-1m/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Phone-end plug/unplug lab cycles",
+      "value": "10000+",
+      "unit": "",
+      "condition": "Xiaomi internal laboratory claim; not a guarantee of field durability",
+      "source_url": "https://www.mi.com/global/product/xiaomi-3a-usb-a-to-usb-c-cable-1m/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Charger-end plug/unplug lab cycles",
+      "value": "3000+",
+      "unit": "",
+      "condition": "Xiaomi internal laboratory claim; not a guarantee of field durability",
+      "source_url": "https://www.mi.com/global/product/xiaomi-3a-usb-a-to-usb-c-cable-1m/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Plus/minus90degree bend lab cycles",
+      "value": "10000+",
+      "unit": "",
+      "condition": "Xiaomi internal laboratory claim; not a guarantee of field durability",
+      "source_url": "https://www.mi.com/global/product/xiaomi-3a-usb-a-to-usb-c-cable-1m/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Tensile strength lab test",
+      "value": "100N+",
+      "unit": "",
+      "condition": "Xiaomi internal laboratory claim; not a guarantee of field durability",
+      "source_url": "https://www.mi.com/global/product/xiaomi-3a-usb-a-to-usb-c-cable-1m/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Safety standard claim",
+      "value": "IEC62368-1:2018; CQC certification; varies by market",
+      "unit": "",
+      "condition": "Xiaomi internal laboratory claim; not a guarantee of field durability",
+      "source_url": "https://www.mi.com/global/product/xiaomi-3a-usb-a-to-usb-c-cable-1m/",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia MPN/GTIN",
+    "Latvia retail package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/xiaomi-3a-usb-a-to-usb-c-cable-1m/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Official source technical content read; factual extraction retained"
+    },
+    {
+      "url": "https://www.mi.com/global/product/xiaomi-3a-usb-a-to-usb-c-cable-1m/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Cable overview laboratory conditions/durability figures read"
+    }
+  ],
+  "research_lane": "accessories"
+}

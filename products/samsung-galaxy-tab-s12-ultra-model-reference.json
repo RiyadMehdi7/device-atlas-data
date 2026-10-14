@@ -1,0 +1,313 @@
+{
+  "id": "samsung-galaxy-tab-s12-ultra-model-reference",
+  "brand": "Samsung",
+  "model": "Galaxy Tab S12 Ultra (model reference)",
+  "model_family": "Galaxy Tab S12 Ultra",
+  "category": "Tablets",
+  "scope": "UK official manufacturer reference; explicit variant/options preserved. Latvia manufacturer SKU matching remains unresolved. Tele2 barcode 8806099397975 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
+  "identifiers": [
+    "8806099397975"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer model source checked; Latvia SKU needs matching",
+  "source_name": "Samsung Galaxy Tab S12 Ultra (model reference) technical specifications",
+  "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-tab-s12-series-the-ultimate-productivity-powerhouse-built-for-growth",
+  "tele2_url": "https://www.tele2.lv/plansetes/galaxy-tab-s12-ultra-wifi-256gb/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Dimensions",
+      "value": "208.5x326.3x5.1mm",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-tab-s12-series-the-ultimate-productivity-powerhouse-built-for-growth",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Weight variants",
+      "value": "Wi-Fi692g /5G695g",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-tab-s12-series-the-ultimate-productivity-powerhouse-built-for-growth",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "OS",
+      "value": "Android17",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-tab-s12-series-the-ultimate-productivity-powerhouse-built-for-growth",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "UI",
+      "value": "OneUI9",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-tab-s12-series-the-ultimate-productivity-powerhouse-built-for-growth",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Screen",
+      "value": "14.6 inches rectangular /14.5 rounded",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-tab-s12-series-the-ultimate-productivity-powerhouse-built-for-growth",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Resolution",
+      "value": "2960x1848",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-tab-s12-series-the-ultimate-productivity-powerhouse-built-for-growth",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Refresh",
+      "value": "120Hz",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-tab-s12-series-the-ultimate-productivity-powerhouse-built-for-growth",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display technology",
+      "value": "Dynamic AMOLED2X",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-tab-s12-series-the-ultimate-productivity-powerhouse-built-for-growth",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Peak brightness",
+      "value": "1600nits",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-tab-s12-series-the-ultimate-productivity-powerhouse-built-for-growth",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Outdoor HBM",
+      "value": "1000nits",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-tab-s12-series-the-ultimate-productivity-powerhouse-built-for-growth",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Processor",
+      "value": "MediaTek Dimensity9500",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-tab-s12-series-the-ultimate-productivity-powerhouse-built-for-growth",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "RAM/storage options",
+      "value": "16GB+1TB /12GB+512GB /12GB+256GB",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-tab-s12-series-the-ultimate-productivity-powerhouse-built-for-growth",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Expandable storage",
+      "value": "microSD up to2TB",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-tab-s12-series-the-ultimate-productivity-powerhouse-built-for-growth",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery",
+      "value": "11600mAh",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-tab-s12-series-the-ultimate-productivity-powerhouse-built-for-growth",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Charging",
+      "value": "45W",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-tab-s12-series-the-ultimate-productivity-powerhouse-built-for-growth",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Optional network",
+      "value": "5G variant",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-tab-s12-series-the-ultimate-productivity-powerhouse-built-for-growth",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi",
+      "value": "Wi-Fi7",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-tab-s12-series-the-ultimate-productivity-powerhouse-built-for-growth",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "6.0",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-tab-s12-series-the-ultimate-productivity-powerhouse-built-for-growth",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear cameras",
+      "value": "13MP+8MP ultrawide",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-tab-s12-series-the-ultimate-productivity-powerhouse-built-for-growth",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front camera",
+      "value": "12MP ultrawide",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-tab-s12-series-the-ultimate-productivity-powerhouse-built-for-growth",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Speakers",
+      "value": "Quad;4-channel spatial audio",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-tab-s12-series-the-ultimate-productivity-powerhouse-built-for-growth",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "S Pen",
+      "value": "Inbox;BLE unsupported",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-tab-s12-series-the-ultimate-productivity-powerhouse-built-for-growth",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dust/water",
+      "value": "IP68;1.5m freshwater30minutes lab test",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-tab-s12-series-the-ultimate-productivity-powerhouse-built-for-growth",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "SIM cellular variant",
+      "value": "Dual pSIM+eSIM;5G models only",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-tab-s12-series-the-ultimate-productivity-powerhouse-built-for-growth",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Biometrics",
+      "value": "In-display fingerprint",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-tab-s12-series-the-ultimate-productivity-powerhouse-built-for-growth",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Cooling",
+      "value": "3D vapour chamber",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-tab-s12-series-the-ultimate-productivity-powerhouse-built-for-growth",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Video playback battery claim",
+      "value": "Up to23h; pre-release local 720p video/defaults/Bluetooth earphones over LTE",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-tab-s12-series-the-ultimate-productivity-powerhouse-built-for-growth",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "OS upgrades",
+      "value": "Up to7",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-tab-s12-series-the-ultimate-productivity-powerhouse-built-for-growth",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "UK availability date",
+      "value": "2026-10-07",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-tab-s12-series-the-ultimate-productivity-powerhouse-built-for-growth",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Tele2 rendered default variant barcode",
+      "value": "8806099397975",
+      "unit": "",
+      "condition": "Tele2 current rendered default colour token grey. Retailer labels value EAN; actual length 13. Applies only to that rendered colour variant, not all colours; manufacturer cross-match unresolved unless separately noted.",
+      "source_url": "https://www.tele2.lv/plansetes/galaxy-tab-s12-ultra-wifi-256gb/",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia-specific MPN/GTIN",
+    "Latvia retail configuration and package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://news.samsung.com/uk/samsung-introduces-galaxy-tab-s12-series-the-ultimate-productivity-powerhouse-built-for-growth",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Accessible official technical content read; structured facts retained"
+    },
+    {
+      "url": "https://www.tele2.lv/plansetes/galaxy-tab-s12-ultra-wifi-256gb/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Retailer product title and rendered #eancode directly read; barcode length/checksum validated; default-colour token retained"
+    },
+    {
+      "url": "https://downloadcenter.samsung.com/content/UM/202610/20261001105039544/SM-X84X_X94X_UG_EU_17_Eng_Rev.1.0_260825.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP PDF fetch + pdftotext",
+      "notes": "Official EU English user guide cover model codes SM-X840, SM-X846B, SM-X846E, SM-X940, SM-X946B; retained as s12-user-manual.pdf"
+    }
+  ],
+  "identifier_evidence": [
+    {
+      "value": "8806099397975",
+      "scheme": "GTIN-13 / EAN-13",
+      "source_url": "https://www.tele2.lv/plansetes/galaxy-tab-s12-ultra-wifi-256gb/",
+      "checked_at": "2026-10-14",
+      "status": "Retailer directly observed; checksum valid; manufacturer match not yet verified",
+      "rendered_colour_token": "grey",
+      "scope": "Tele2 current rendered default colour token grey. Retailer labels value EAN; actual length 13. Applies only to that rendered colour variant, not all colours; manufacturer cross-match unresolved unless separately noted."
+    }
+  ],
+  "manuals": [
+    {
+      "url": "https://downloadcenter.samsung.com/content/UM/202610/20261001105039544/SM-X84X_X94X_UG_EU_17_Eng_Rev.1.0_260825.pdf",
+      "language": "English",
+      "region": "EU",
+      "version": "1.0",
+      "cover_model_codes": [
+        "SM-X840",
+        "SM-X846B",
+        "SM-X846E",
+        "SM-X940",
+        "SM-X946B"
+      ],
+      "checked_at": "2026-10-14",
+      "scope": "Manufacturer multi-model user guide; covers listed model codes. Guide may contain model-dependent features."
+    }
+  ],
+  "research_lane": "tablets"
+}

@@ -1,0 +1,380 @@
+{
+  "id": "mikrotik-chateau-5g-r17-ax-global-reference",
+  "brand": "MikroTik",
+  "model": "Chateau 5G R17 ax",
+  "category": "Routers",
+  "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+  "identifiers": [
+    "S53UG+5HaxD2HaxD-TC&RG650E-EU"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "MikroTik Chateau 5G R17 ax official specifications",
+  "source_url": "https://mikrotik.com/product/chateau_5g_r17_ax",
+  "tele2_url": "https://www.tele2.lv/ruteri/chateau-5g-r17-ax/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Product code",
+      "value": "S53UG+5HaxD2HaxD-TC&RG650E-EU",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Suggested price",
+      "value": "$349.00",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Architecture",
+      "value": "ARM 64bit",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "CPU",
+      "value": "IPQ-6010",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "CPU core count",
+      "value": "4",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "CPU nominal frequency",
+      "value": "864-1800 MHz",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "CPU Threads count",
+      "value": "4",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Switch chip model",
+      "value": "IPQ-6010",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "RouterOS license",
+      "value": "4",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Operating System",
+      "value": "RouterOS v7",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Size of RAM",
+      "value": "1 GB",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Storage size",
+      "value": "128 MB",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Storage type",
+      "value": "NAND",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "MTBF",
+      "value": "Approximately 200'000 hours at 25C",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Tested ambient temperature",
+      "value": "-40°C to 70°C",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Number of DC inputs",
+      "value": "1 (DC jack)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "DC jack input Voltage",
+      "value": "12-28 V",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Max power consumption",
+      "value": "27 W",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Max power consumption without attachments",
+      "value": "18 W",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Cooling type",
+      "value": "Passive",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "3G Category",
+      "value": "R8 (42.2Mbps Downlink, 5.76Mbps Uplink)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "3G bands",
+      "value": "1 (2100MHz) ; 5 (850MHz) ; 8 (900MHz) ;",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "LTE Category",
+      "value": "20 (2.0 Gbps Downlink, 211 Mbps Uplink)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "MIMO DL",
+      "value": "4x4",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "MIMO UL",
+      "value": "1x1 (5G SA MIMO UL 2x2)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "LTE FDD bands",
+      "value": "1 (2100MHz) ; 3 (1800MHz) ; 5 (850MHz) ; 7 (2600MHz) ; 8 (900 MHz) ; 20 (800MHz) ; 28 (700MHz) ; 32 (1500 MHz) ;",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "LTE TDD bands",
+      "value": "38 (2600MHz) ; 40 (2300MHz) ; 41 (2500MHz) ; 42 (3500MHz) ; 43 (3700MHz) ;",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "5G NSA FDD bands",
+      "value": "1 (2100 MHz) ; 3 (1800 MHz) ; 5 (850 MHz) ; 7 (2600 MHz) ; 8 (900 MHz) ; 20 (800 MHz) ; 26 (850 MHz) ; 28 (700 MHz) ; 67 (700 MHz) ; 75 (1500 MHz) ; 76 (1500 MHz) ;",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "5G NSA TDD bands",
+      "value": "38 (2600 MHz) ; 40 (2300 MHz) ; 41 (2500 MHz) ; 77 (3700 MHz) ; 78 (3500 MHz) ;",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "5G SA FDD bands",
+      "value": "1 (2100 MHz) ; 3 (1800 MHz) ; 5 (850 MHz) ; 7 (2600 MHz) ; 8 (900 MHz) ; 20 (800 MHz) ; 26 (850 MHz) ; 28 (700 MHz) ; 67 (700 MHz) ; 75 (1500 MHz) ; 76 (1500 MHz) ;",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "5G SA TDD bands",
+      "value": "38 (2600 MHz) ; 40 (2300 MHz) ; 41 (2500 MHz) ; 77 (3700 MHz) ; 78 (3500 MHz) ;",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "TAC",
+      "value": "86896506",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wireless 2.4 GHz Max data rate",
+      "value": "574 Mbit/s",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wireless 2.4 GHz Number of chains",
+      "value": "2",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wireless 2.4 GHz standards",
+      "value": "802.11b/g/n/ax",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Antenna gain dBi for 2.4 GHz",
+      "value": "3",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wireless 2.4 GHz chip model",
+      "value": "QCN-5022",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wireless 2.4 GHz generation",
+      "value": "Wi-Fi 6",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wireless 5 GHz Max data rate",
+      "value": "1200 Mbit/s",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wireless 5 GHz Number of chains",
+      "value": "2",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wireless 5 GHz standards",
+      "value": "802.11a/n/ac/ax",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Antenna gain dBi for 5 GHz",
+      "value": "6",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wireless 5 GHz chip model",
+      "value": "QCN-5052",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wireless 5 GHz generation",
+      "value": "Wi-Fi 6",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "10/100/1000 Ethernet ports",
+      "value": "4",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Number of 2.5G Ethernet ports",
+      "value": "1",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Number of SIM slots",
+      "value": "1 Modem (Micro SIM)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Number of USB ports",
+      "value": "1",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "USB Power Reset",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "USB slot type",
+      "value": "USB type A",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Max USB current (A)",
+      "value": "1.5",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "CPU temperature monitor",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "PCB temperature monitor",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Voltage Monitor",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Mode button",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "eSIM",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Certification",
+      "value": "CE, EAC, ROHS",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "IP",
+      "value": "20",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU/GTIN",
+    "Hardware revision and region-specific differences"
+  ],
+  "source_pages": [
+    {
+      "url": "https://mikrotik.com/product/chateau_5g_r17_ax",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP fetch; HTML specification rows parsed",
+      "notes": "58 factual specification rows read; marketing paragraphs excluded"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

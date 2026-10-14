@@ -1,0 +1,96 @@
+{
+  "id": "aqara-smart-plug-eu-global-reference",
+  "brand": "Aqara",
+  "model": "Smart Plug EU",
+  "category": "Smart home",
+  "scope": "Official Aqara EU English manufacturer reference; exact Latvian SKU and hardware revision require matching. Specifications are EU store claims. Conflicting or suspect manufacturer-store fields withheld and listed below.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Aqara Smart Plug EU official specifications",
+  "source_url": "https://eu.aqara.com/en-eu/products/aqara-smart-plug-eu",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/aqara-vieda-rozete-eusp-euc01/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Color",
+      "value": "‎White",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Compatible Devices",
+      "value": "Aqara Apple Home Alexa Google Home SmartThings IFTTT",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Controller Type",
+      "value": "‎Remote Control",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Electrical Rating",
+      "value": "250 V AC, 50/60 Hz, 10 A, MAX. 2300 W",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Hub Required",
+      "value": "‎Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Item Net Weight",
+      "value": "‎0.24 Pounds/110g",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Operating Humidity",
+      "value": "0~95% RH, no condensation",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Operating Temperature",
+      "value": "0°C~35°C (32℉~95℉)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Product Dimensions",
+      "value": "‎Φ 2.44 × 3.05 inches（Φ 62 × 77.5 mm）",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wireless Protocol",
+      "value": "Zigbee 3.0",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Included Components",
+      "value": "Smart Plug*1, Quick Start Guide*1",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU/GTIN",
+    "Hardware revision and region-specific differences"
+  ],
+  "source_pages": [
+    {
+      "url": "https://eu.aqara.com/en-eu/products/aqara-smart-plug-eu",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP fetch; HTML specification rows parsed",
+      "notes": "11 factual specification rows read; marketing paragraphs excluded"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

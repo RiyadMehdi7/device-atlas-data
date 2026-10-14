@@ -1,0 +1,223 @@
+{
+  "id": "honor-pad-20",
+  "brand": "HONOR",
+  "model": "Pad 20",
+  "model_family": "Pad 20",
+  "category": "Tablets",
+  "scope": "European manufacturer model reference. Regional configurations vary; not a Latvia SKU or availability claim.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer model source checked; Latvia SKU needs matching",
+  "source_name": "HONOR Pad 20 technical specifications",
+  "source_url": "https://www.honor.com/uk/tablets/honor-pad-20/spec/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Width",
+      "value": "277.07mm",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-20/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Height",
+      "value": "179.28mm",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-20/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Thickness",
+      "value": "6.29mm",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-20/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Weight",
+      "value": "Approx. 525 g (including battery)",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-20/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Size",
+      "value": "12.1 Inches",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-20/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Screen-to-body Ratio",
+      "value": "88%",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-20/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "PPI",
+      "value": "292 PPI",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-20/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Brightness",
+      "value": "HDR Peak Brightness: 700 nits",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-20/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Contrast Ratio",
+      "value": "1500:1 (typical)",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-20/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Type",
+      "value": "LCD",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-20/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Resolution",
+      "value": "3000 x 1872",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-20/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Refresh Rate",
+      "value": "The  screen refresh rate is the highest 120Hz (Support 3 gears, 120Hz/90Hz/60Hz)",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-20/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Screen Color",
+      "value": "1.07 billion colors, DCI-P3 wide color gamut",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-20/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "CPU model",
+      "value": "Snapdragon® 7 Gen 3 Mobile Platform",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-20/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Number of CPU Cores",
+      "value": "Octa-core",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-20/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Operating System",
+      "value": "MagicOS 10 (Android 16)",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-20/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear Camera",
+      "value": "8MP camera (Fno2.0 AF)",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-20/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front Camera",
+      "value": "8MP Main camera (Fno2.0 FF)",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-20/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery Capacity",
+      "value": "10100 mAh (typical)",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-20/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery Type",
+      "value": "Lithium-ion polymer battery",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-20/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-20/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi Protocol",
+      "value": "Support Wi-Fi 6 (802.11ax), and 802.11 a/b/g/n/ac Support 2x2 MIMO, 4096 QAM",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-20/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi Frequency",
+      "value": "2.4GHz and 5GHz WLAN",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-20/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "Bluetooth 5.3,  Supports Low Energy Bluetooth (BLE), LE Audio, Auracast Supports SBC, AAC, LDAC, aptX, aptX HD, aptX Adaptive, aptX Lossless, LC3, LHDC5.0 Supports ASHA, LE Audio hearing aid protocol",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-20/spec/",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia-specific MPN/GTIN",
+    "Latvia retail configuration and package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.honor.com/uk/tablets/honor-pad-20/spec/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible official technical content read; structured facts retained"
+    }
+  ],
+  "research_lane": "tablets"
+}

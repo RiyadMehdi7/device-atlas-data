@@ -1,0 +1,275 @@
+{
+  "id": "logitech-meetup-2-manufacturer-reference",
+  "brand": "Logitech",
+  "model": "MeetUp 2",
+  "category": "Cameras",
+  "scope": "Exact manufacturer model/part reference as identified. UK/EMEA where labelled; global Sandberg/LogiLink/Lenovo references; Dell Japan technical guide. Exact Tele2 SKU, OEM package and revision require matching. Dimensions keep manufacturer orientation/clip scope.",
+  "identifiers": [
+    "960-001681"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Logitech MeetUp 2 official specifications",
+  "source_url": "https://www.logitech.com/content/dam/logitech/en/video-collaboration/pdf/meetup2-datasheet.pdf",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/logi-meetup-2-graphite-usb-uken/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "EMEA part number",
+      "value": "960-001681",
+      "unit": ""
+    },
+    {
+      "label": "Dimensions",
+      "value": "73.3 × 469.2 × 73mm, H×W×D",
+      "unit": ""
+    },
+    {
+      "label": "Weight",
+      "value": "1.8kg",
+      "unit": ""
+    },
+    {
+      "label": "Windows",
+      "value": "Windows 10 and later",
+      "unit": ""
+    },
+    {
+      "label": "macOS",
+      "value": "Two latest versions",
+      "unit": ""
+    },
+    {
+      "label": "Microphone array",
+      "value": "Six digital MEMS microphones",
+      "unit": ""
+    },
+    {
+      "label": "Camera",
+      "value": "Digital PTZ",
+      "unit": ""
+    },
+    {
+      "label": "Speaker count",
+      "value": "One",
+      "unit": ""
+    },
+    {
+      "label": "Platform",
+      "value": "Logitech CollabOS",
+      "unit": ""
+    },
+    {
+      "label": "Auto framing",
+      "value": "RightSight 2",
+      "unit": ""
+    },
+    {
+      "label": "Audio processing",
+      "value": "RightSound 2",
+      "unit": ""
+    },
+    {
+      "label": "Management",
+      "value": "Logitech Sync",
+      "unit": ""
+    },
+    {
+      "label": "Deployment",
+      "value": "BYOD or dedicated PC",
+      "unit": ""
+    },
+    {
+      "label": "Displays in BYOD",
+      "value": "One",
+      "unit": ""
+    },
+    {
+      "label": "Display output resolution",
+      "value": "1080p",
+      "unit": ""
+    },
+    {
+      "label": "IP protocols",
+      "value": "IPv4, IPv6",
+      "unit": ""
+    },
+    {
+      "label": "Proxy support",
+      "value": "IP, FQDN, PAC-file",
+      "unit": ""
+    },
+    {
+      "label": "Digital pan",
+      "value": "±48° at 4× zoom",
+      "unit": ""
+    },
+    {
+      "label": "Digital tilt",
+      "value": "±32° at 4× zoom",
+      "unit": ""
+    },
+    {
+      "label": "Digital zoom",
+      "value": "4× HD",
+      "unit": ""
+    },
+    {
+      "label": "FOV",
+      "value": "Diagonal120°, horizontal113°, vertical80°",
+      "unit": ""
+    },
+    {
+      "label": "Camera resolution",
+      "value": "4K",
+      "unit": "",
+      "condition": "4K output requires USB3.0 or higher cable; conferencing application may limit to1080p"
+    },
+    {
+      "label": "Speaker driver",
+      "value": "55mm;bass-reflex",
+      "unit": ""
+    },
+    {
+      "label": "Speaker sensitivity",
+      "value": "83dB SPL at 1W,±2dB at 1m",
+      "unit": ""
+    },
+    {
+      "label": "Speaker rated power",
+      "value": "8W",
+      "unit": ""
+    },
+    {
+      "label": "Speaker impedance",
+      "value": "4Ω",
+      "unit": ""
+    },
+    {
+      "label": "Speaker sample rate",
+      "value": "48kHz",
+      "unit": ""
+    },
+    {
+      "label": "Mic frequency response",
+      "value": "90Hz–16kHz",
+      "unit": ""
+    },
+    {
+      "label": "Mic sensitivity",
+      "value": "-36dBFS±1dB at 1Pa",
+      "unit": ""
+    },
+    {
+      "label": "Mic sample rate",
+      "value": "48kHz",
+      "unit": ""
+    },
+    {
+      "label": "Mic pickup range",
+      "value": "Up to 7m",
+      "unit": ""
+    },
+    {
+      "label": "Audio processing",
+      "value": "AEC, VAD, AI noise suppression",
+      "unit": ""
+    },
+    {
+      "label": "HDMI ports",
+      "value": "One in;one out",
+      "unit": ""
+    },
+    {
+      "label": "USB",
+      "value": "One USB-C3.1",
+      "unit": ""
+    },
+    {
+      "label": "Ethernet",
+      "value": "10/100/1G",
+      "unit": ""
+    },
+    {
+      "label": "Bluetooth",
+      "value": "Low Energy",
+      "unit": ""
+    },
+    {
+      "label": "AC/DC power",
+      "value": "100–240V;19V,2.1A",
+      "unit": ""
+    },
+    {
+      "label": "DC cable",
+      "value": "3m",
+      "unit": ""
+    },
+    {
+      "label": "Included USB cable",
+      "value": "3m USB-C to USB-C2.0",
+      "unit": ""
+    },
+    {
+      "label": "Operating temperature",
+      "value": "0–40°C",
+      "unit": ""
+    },
+    {
+      "label": "Storage temperature",
+      "value": "-25–70°C",
+      "unit": ""
+    },
+    {
+      "label": "Humidity",
+      "value": "10–90%",
+      "unit": ""
+    },
+    {
+      "label": "File encryption",
+      "value": "AES128",
+      "unit": ""
+    },
+    {
+      "label": "Physical security",
+      "value": "Kensington slot",
+      "unit": ""
+    },
+    {
+      "label": "Warranty",
+      "value": "Two-year limited hardware",
+      "unit": ""
+    },
+    {
+      "label": "4K output cable requirement",
+      "value": "USB3.0 or higher",
+      "unit": "",
+      "source_url": "https://hub.sync.logitech.com/meetup2/post/2-meetup-2---what-s-in-the-box-system-requirements-rGr7ln9Mx7pfdvy",
+      "checked_at": "2026-10-14",
+      "condition": "Manufacturer support article; app video limits may differ"
+    }
+  ],
+  "missing_fields": [
+    "Tele2 UK/EN package must match EMEA part960-001681 and regional plugs",
+    "Wi-Fi generation conflict between datasheetac and US pageax; withheld",
+    "4K output requires USB3.0 or higher cable; supplied USB2.0 limits capability",
+    "DisplayPort Alt Mode requires compatible user-supplied cable",
+    "Exact Latvia GTIN/MPN and hardware revision"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.logitech.com/content/dam/logitech/en/video-collaboration/pdf/meetup2-datasheet.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP200; official regional part-number PDF read",
+      "notes": "Short technical facts only; no marketing prose or source images retained"
+    },
+    {
+      "url": "https://hub.sync.logitech.com/meetup2/post/2-meetup-2---what-s-in-the-box-system-requirements-rGr7ln9Mx7pfdvy",
+      "fetched_at": "2026-10-14",
+      "method": "web open; public Logitech support article read",
+      "notes": "4K output requires USB3.0+ cable; DisplayPort Alt Mode requires compatible cable; regional mains plugs differ. Article marked AI translated."
+    }
+  ],
+  "research_lane": "smart-devices"
+}

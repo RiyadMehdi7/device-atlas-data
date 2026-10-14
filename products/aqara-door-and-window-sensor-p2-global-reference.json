@@ -1,0 +1,84 @@
+{
+  "id": "aqara-door-and-window-sensor-p2-global-reference",
+  "brand": "Aqara",
+  "model": "Door and Window Sensor P2",
+  "category": "Smart home",
+  "scope": "Official Aqara EU English manufacturer reference; exact Latvian SKU and hardware revision require matching. Specifications are EU store claims. Conflicting or suspect manufacturer-store fields withheld and listed below.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Aqara Door and Window Sensor P2 official specifications",
+  "source_url": "https://eu.aqara.com/en-eu/products/aqara-door-and-window-sensor-p2",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/aqara-durvju-un-logu-sensors-p2--dw-s02d/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Color",
+      "value": "‎White",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Batteries",
+      "value": "‎Lithium Metal (CR123A, Included)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Operating Humidity",
+      "value": "0 - 95%RH, non-condensing",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Operating Temperature",
+      "value": "-10 °C ~ 50 °C (14 °F ~ 122 °F)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Item Net Weight",
+      "value": "‎0.089 Pounds /40g",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wireless Protocols",
+      "value": "Thread, BLE",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Compatible Platforms",
+      "value": "Aqara, Apple Home, Alexa, Google Home, and SmartThings",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Product Dimensions",
+      "value": "3.03 × 0.87 × 0.87 inch (77 × 22 × 22 mm) & 1.42 × 0.45 × 0.29 inch(36 × 11.5 × 7.3 mm)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Included Components",
+      "value": "Sensor Main Unit × 1, Sensor Accessory Unit × 1, Flat Magnet × 1, Sticker × 2, User Manual × 1",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU/GTIN",
+    "Hardware revision and region-specific differences"
+  ],
+  "source_pages": [
+    {
+      "url": "https://eu.aqara.com/en-eu/products/aqara-door-and-window-sensor-p2",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP fetch; HTML specification rows parsed",
+      "notes": "9 factual specification rows read; marketing paragraphs excluded"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

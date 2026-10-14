@@ -1,0 +1,156 @@
+{
+  "id": "aqara-presence-sensor-fp2-global-reference",
+  "brand": "Aqara",
+  "model": "Presence Sensor FP2",
+  "category": "Smart home",
+  "scope": "Official Aqara EU English manufacturer reference; exact Latvian SKU and hardware revision require matching. Specifications are EU store claims. Conflicting or suspect manufacturer-store fields withheld and listed below.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Aqara Presence Sensor FP2 official specifications",
+  "source_url": "https://eu.aqara.com/en-eu/products/aqara-presence-sensor-fp2",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/aqara-klatbutnes-sensors-fp2ps-s02d/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Power Source",
+      "value": "‎DC （wired）",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Ports",
+      "value": "USB-C",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Hub Required",
+      "value": "No",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Color",
+      "value": "‎White",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Compatible Platforms",
+      "value": "Aqara Apple Home Alexa Google Home IFTTT",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Input Power",
+      "value": "5V==1A",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Item Weight",
+      "value": "‎0.17 Pounds /77g",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Maximum Range",
+      "value": "‎15 Meters",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Mounting Type",
+      "value": "‎Ceiling/Wall Mount",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Operating Humidity",
+      "value": "0 ~ 95% RH, no condensation",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Operating Temperature",
+      "value": "14°F ~ 104°F(-10°C ~ 40°C )",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Product Dimensions",
+      "value": "‎2.51\"D x 2.51\"W x 1.14\"H（64 × 64 × 29.5 mm)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "International Protection Rating",
+      "value": "IPX5",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Radar Maximum Output Power",
+      "value": "≤ 20 dBm (Only applicable to the EU region)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Radar Operation Frequency",
+      "value": "60-64 GHz",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wi-Fi Maximum Output Power",
+      "value": "≤ 20 dBm",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wi-Fi Operation Frequency",
+      "value": "2412-2472 MHz",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Bluetooth Maximum Output Power",
+      "value": "≤ 13 dBm",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Bluetooth Operation Frequency",
+      "value": "2402-2480 MHz",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wireless Protocols",
+      "value": "Wi-Fi IEEE 802.11 b/g/n 2.4 GHz, Bluetooth 4.2",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Included Components",
+      "value": "‎Presence Sensor FP2 ×1, User manual ×1, USB-C to USB-A Cable × 1, Metal Plate × 1, Sticker × 1, Screw Kit × 1",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU/GTIN",
+    "Hardware revision and region-specific differences"
+  ],
+  "source_pages": [
+    {
+      "url": "https://eu.aqara.com/en-eu/products/aqara-presence-sensor-fp2",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP fetch; HTML specification rows parsed",
+      "notes": "21 factual specification rows read; marketing paragraphs excluded"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

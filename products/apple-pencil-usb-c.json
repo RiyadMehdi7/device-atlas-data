@@ -1,0 +1,167 @@
+{
+  "id": "apple-pencil-usb-c",
+  "brand": "Apple",
+  "model": "Pencil (USB-C)",
+  "model_family": "Pencil (USB-C)",
+  "category": "Accessories",
+  "scope": "Official UK manufacturer reference. Dimensions/features are for the namedgeneration. UKplug/part may differfromLatvia; exactretailerbarcode/MPNrequiresmatching.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Apple Pencil (USB-C) technical specifications",
+  "source_url": "https://support.apple.com/en-gb/121318",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Year introduced",
+      "value": "2023",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/121318",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Length",
+      "value": "155 mm / 6.10 in.",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/121318",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Diameter",
+      "value": "8.9 mm / 0.35 in.",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/121318",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Weight",
+      "value": "20.5 g / 0.72 oz.",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/121318",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connection",
+      "value": "Bluetooth",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/121318",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Magnetic attachment",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/121318",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "UK package contents",
+      "value": "Apple Pencil (USB-C)",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/121318",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Manufacturer compatible iPads",
+      "value": "iPad Models; iPad Pro 13-inch (M5); iPad Pro 13-inch (M4); iPad Pro 12.9-inch (5th generation); iPad Pro 12.9-inch (4th generation); iPad Pro 12.9-inch (3rd generation); iPad Pro 11-inch (M5); iPad Pro 11-inch (M4); iPad Pro 11-inch (3rd generation); iPad Pro 11-inch (2nd generation); iPad Pro 11-inch (1st generation); iPad Air 13-inch (M4); iPad Air 11-inch (M4); iPad Air 13-inch (M3); iPad Air 11-inch (M3); iPad Air 13-inch (M2); iPad Air 11-inch (M2); iPad Air (5th generation); iPad Air (4th generation); iPad (A16); iPad (10th generation); iPad mini (A17 Pro)",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/121318",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Pairing",
+      "value": "USB-C charge cable",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/121318",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Charging",
+      "value": "USB-C charge cable",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/121318",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connector",
+      "value": "USB-C",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/121318",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Tilt sensitivity",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/121318",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Latency claim",
+      "value": "Low latency; no quantifiedvalue",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/121318",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Magnetic attachment purpose",
+      "value": "Storage",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/121318",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System requirement",
+      "value": "iPadOS 17.1.1 orlater",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/121318",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Hover condition",
+      "value": "Specified compatible iPad Pro/Air generations in source; not universal",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/121318",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Additional listed compatibility",
+      "value": "iPhone Duo is listed on current manufacturer page; feature/OS scope unresolved",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/121318",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia MPN/GTIN",
+    "Latvia retail package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://support.apple.com/en-gb/121318",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Official source technical content read; factual extraction retained"
+    }
+  ],
+  "research_lane": "accessories"
+}

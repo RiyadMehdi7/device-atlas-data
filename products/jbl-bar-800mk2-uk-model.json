@@ -1,0 +1,149 @@
+{
+  "id": "jbl-bar-800mk2-uk-model",
+  "brand": "JBL",
+  "model": "Bar 800MK2",
+  "category": "Speakers",
+  "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "JBL Bar 800MK2 | 7.1 channel soundbar system with detachable speakers, Dolby Atmos® and DTS Virtual:X®",
+  "source_url": "https://uk.jbl.com/BAR-800MK2.html",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Sound system",
+      "value": "7.1 channel",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Power supply",
+      "value": "100 - 240V AC, ~ 50/60Hz",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Total speaker power output* (Max. @THD 1%)",
+      "value": "780W",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Soundbar output power** (Max. @THD 1%)",
+      "value": "400W",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Surround speaker output power*** (Max. @THD 1%)",
+      "value": "2x 40W",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Subwoofer output power**** (Max. @THD 1%)",
+      "value": "300W",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "* RMS @THD 1% 200W *** RMS @THD 1%",
+      "value": "390W ** RMS @THD 1%",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Soundbar transducer",
+      "value": "6x (44x80)mm racetrack drivers, 2x 1\" (25mm) tweeters",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Surround speaker transducer",
+      "value": "2x (44x90)mm racetrack drivers",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Subwoofer transducer",
+      "value": "10” (260mm)",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Networked standby power",
+      "value": "< 2.0 W",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Operating temperature",
+      "value": "0°C - 45 °C",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Lithium battery",
+      "value": "3.635V, 3283mAh",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Detachable surround speaker playtime",
+      "value": "up to 10 hours (may vary according to content type and volume level)",
+      "unit": "",
+      "condition": "Manufacturer maximum; volume/test settings not specified in table"
+    },
+    {
+      "label": "Frequency response",
+      "value": "35Hz - 20kHz (-6dB)",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Audio inputs",
+      "value": "Optical, Bluetooth, USB (USB playback",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Total soundbar dimensions (W x H x D)",
+      "value": "1163 x 52 x 128mm / 45.8\" x 2.0\" x 5.0\"",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Soundbar dimensions (W x H x D)",
+      "value": "854 x 52 x 128mm / 35.6\" x 2.0\" x 5.0\"",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Detachable surround speaker dimensions (each) (W x H x D)",
+      "value": "169 x 52 x 128mm / 6.7\" x 2.0\" x 5.0\"",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth version",
+      "value": "v5.3",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU/GTIN matching"
+  ],
+  "source_pages": [
+    {
+      "url": "https://uk.jbl.com/BAR-800MK2.html",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Specification table read; conflicting or ambiguous playback totals omitted"
+    }
+  ],
+  "research_lane": "audio"
+}

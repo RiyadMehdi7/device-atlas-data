@@ -1,0 +1,236 @@
+{
+  "id": "apple-airpods-5-uk-model",
+  "brand": "Apple",
+  "model": "AirPods 5",
+  "category": "Earbuds",
+  "scope": "UK model family covering USB-C Charging Case and Wireless Charging Case variants; variant-specific values explicitly conditioned. Latvia SKU matching required",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "AirPods 5 Technical Specifications - Apple UK",
+  "source_url": "https://www.apple.com/uk/airpods-5/specs/",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/airpods-5/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "ANC",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK manufacturer reference"
+    },
+    {
+      "label": "Adaptive Audio",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK manufacturer reference"
+    },
+    {
+      "label": "Transparency",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK manufacturer reference"
+    },
+    {
+      "label": "Conversation Awareness",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK manufacturer reference"
+    },
+    {
+      "label": "Voice Isolation",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK manufacturer reference"
+    },
+    {
+      "label": "Spatial audio",
+      "value": "Personalised, dynamic head tracking",
+      "unit": "",
+      "condition": "UK manufacturer reference"
+    },
+    {
+      "label": "Adaptive EQ",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK manufacturer reference"
+    },
+    {
+      "label": "Audio recording",
+      "value": "Studio quality",
+      "unit": "",
+      "condition": "UK manufacturer reference"
+    },
+    {
+      "label": "Driver",
+      "value": "Custom high excursion",
+      "unit": "",
+      "condition": "UK manufacturer reference"
+    },
+    {
+      "label": "Amplifier",
+      "value": "Custom high dynamic range",
+      "unit": "",
+      "condition": "UK manufacturer reference"
+    },
+    {
+      "label": "Microphones",
+      "value": "Dual beamforming; inward facing",
+      "unit": "",
+      "condition": "UK manufacturer reference"
+    },
+    {
+      "label": "In-ear sensor",
+      "value": "Optical",
+      "unit": "",
+      "condition": "UK manufacturer reference"
+    },
+    {
+      "label": "Accelerometers",
+      "value": "Motion; speech detecting",
+      "unit": "",
+      "condition": "UK manufacturer reference"
+    },
+    {
+      "label": "Force sensor",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK manufacturer reference"
+    },
+    {
+      "label": "Chip",
+      "value": "H2",
+      "unit": "",
+      "condition": "UK manufacturer reference"
+    },
+    {
+      "label": "IP rating",
+      "value": "IP57",
+      "unit": "",
+      "condition": "UK manufacturer reference"
+    },
+    {
+      "label": "Earbud height",
+      "value": "30.2 mm",
+      "unit": "",
+      "condition": "UK manufacturer reference"
+    },
+    {
+      "label": "Earbud width",
+      "value": "18.3 mm",
+      "unit": "",
+      "condition": "UK manufacturer reference"
+    },
+    {
+      "label": "Earbud depth",
+      "value": "18.1 mm",
+      "unit": "",
+      "condition": "UK manufacturer reference"
+    },
+    {
+      "label": "Earbud weight",
+      "value": "4.3 g",
+      "unit": "",
+      "condition": "UK manufacturer reference"
+    },
+    {
+      "label": "Case height",
+      "value": "46.2 mm",
+      "unit": "",
+      "condition": "UK manufacturer reference"
+    },
+    {
+      "label": "Case width",
+      "value": "50.1 mm",
+      "unit": "",
+      "condition": "UK manufacturer reference"
+    },
+    {
+      "label": "Case depth",
+      "value": "21.2 mm",
+      "unit": "",
+      "condition": "UK manufacturer reference"
+    },
+    {
+      "label": "USB-C case weight",
+      "value": "32.3 g",
+      "unit": "",
+      "condition": "USB-C case variant"
+    },
+    {
+      "label": "Wireless case weight",
+      "value": "34.7 g",
+      "unit": "",
+      "condition": "Wireless Charging Case variant"
+    },
+    {
+      "label": "USB-C case charging",
+      "value": "USB-C",
+      "unit": "",
+      "condition": "USB-C case variant"
+    },
+    {
+      "label": "Wireless case charging",
+      "value": "USB-C; Apple Watch; Qi",
+      "unit": "",
+      "condition": "Wireless Charging Case variant"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "5.3",
+      "unit": "",
+      "condition": "UK manufacturer reference"
+    },
+    {
+      "label": "Earbud playback ANC on",
+      "value": "Up to 4 hours",
+      "condition": "USB-C case variant; single charge",
+      "unit": ""
+    },
+    {
+      "label": "Earbud playback noise control off",
+      "value": "Up to 6 hours",
+      "condition": "USB-C case variant; single charge",
+      "unit": ""
+    },
+    {
+      "label": "Playback with charging case ANC on",
+      "value": "Up to 20 hours",
+      "condition": "USB-C case variant; total including case",
+      "unit": ""
+    },
+    {
+      "label": "Earbud playback ANC on",
+      "value": "Up to 5 hours",
+      "condition": "Wireless Charging Case variant; single charge",
+      "unit": ""
+    },
+    {
+      "label": "Earbud playback noise control off",
+      "value": "Up to 7 hours",
+      "condition": "Wireless Charging Case variant; single charge",
+      "unit": ""
+    },
+    {
+      "label": "Playback with charging case ANC on",
+      "value": "Up to 22 hours",
+      "condition": "Wireless Charging Case variant; total including case",
+      "unit": ""
+    }
+  ],
+  "missing_fields": [
+    "Earbud battery capacity",
+    "Charging case battery capacity",
+    "Manufacturer playback test protocol footnotes",
+    "Latvia SKU/GTIN matching"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.apple.com/uk/airpods-5/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Actual current AirPods 5 page read; AirPods 4 URL redirected to AirPods 5 and was not used for AirPods 4 facts"
+    }
+  ],
+  "research_lane": "audio"
+}

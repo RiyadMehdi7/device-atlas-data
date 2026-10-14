@@ -1,0 +1,180 @@
+{
+  "id": "huawei-freebuds-pro-5-model",
+  "brand": "Huawei",
+  "model": "FreeBuds Pro 5",
+  "category": "Earbuds",
+  "scope": "Global manufacturer model reference; Latvia SKU matching required; no colour copies",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "FreeBuds Pro 5 Official specifications",
+  "source_url": "https://consumer.huawei.com/en/headphones/freebuds-pro-5/specs/",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/freebuds-pro-5/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Earbud dimensions",
+      "value": "29.1 x 21.8 x 23.7 mm (HxWxD)",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Earbud weight",
+      "value": "Approx. 5.5 g",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Case dimensions standard",
+      "value": "65.5 x 46.7 x 22.98 mm",
+      "unit": "",
+      "condition": "Sand/Grey/White"
+    },
+    {
+      "label": "Case weight standard",
+      "value": "Approx. 43 g",
+      "unit": "",
+      "condition": "Sand/Grey/White"
+    },
+    {
+      "label": "Case dimensions blue",
+      "value": "66.11 x 46.98 x 24.06 mm",
+      "unit": "",
+      "condition": "Blue"
+    },
+    {
+      "label": "Case weight blue",
+      "value": "Approx. 46 g",
+      "unit": "",
+      "condition": "Blue"
+    },
+    {
+      "label": "Drivers",
+      "value": "Ultra-linear dual-magnet; ultra-thin micro planar",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Frequency response",
+      "value": "10 Hz-48 kHz",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Earbud capacity",
+      "value": "60 mAh",
+      "unit": "",
+      "condition": "Minimum each"
+    },
+    {
+      "label": "Case capacity",
+      "value": "537 mAh",
+      "unit": "",
+      "condition": "Minimum"
+    },
+    {
+      "label": "Wired charging",
+      "value": "USB-C; 5 V/0.5 A or above",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Wireless charging",
+      "value": "Up to 5 W",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Earbud charging",
+      "value": "About 40 min",
+      "unit": "",
+      "condition": "In case"
+    },
+    {
+      "label": "Case wired charging",
+      "value": "About 1 hour",
+      "unit": "",
+      "condition": "Without earbuds"
+    },
+    {
+      "label": "Case wireless charging",
+      "value": "About 150 min",
+      "unit": "",
+      "condition": "Without earbuds"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "6",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Dual-device connection",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Sensors",
+      "value": "Infrared/Hall/touch/gyro/accelerometer/bone acoustic/press",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "ANC",
+      "value": "Intelligent dual-engine",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Awareness",
+      "value": "Intelligent dynamic; human voice transparency",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Conversation awareness",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Adaptive volume",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "EQ",
+      "value": "Dynamic",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Earbud protection",
+      "value": "IP57",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Case protection",
+      "value": "IP54",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU/GTIN matching",
+    "Playback codec conditions and lab footnote need reconciliation"
+  ],
+  "source_pages": [
+    {
+      "url": "https://consumer.huawei.com/en/headphones/freebuds-pro-5/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Official specification page actually read; separate case/earbud values"
+    }
+  ],
+  "research_lane": "audio"
+}

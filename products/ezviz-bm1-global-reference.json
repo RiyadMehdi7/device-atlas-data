@@ -1,0 +1,242 @@
+{
+  "id": "ezviz-bm1-global-reference",
+  "brand": "EZVIZ",
+  "model": "BM1",
+  "category": "Cameras",
+  "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+  "identifiers": [
+    "CS-BM1 (1080P)"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "EZVIZ BM1 official specifications",
+  "source_url": "https://www.ezviz.com/product/BM1/42147",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/ezviz-bm1/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Model",
+      "value": "CS-BM1 (1080P)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Image Sensor",
+      "value": "1/2.8” 2-Megapixel Progressive Scan CMOS Sensor",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Minimum Illumination",
+      "value": "0.1 lux",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Lens",
+      "value": "4 mm @ F1.6, viewing angle: 100° (Diagonal) , 85° (Horizontal), 46° (Vertical)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Day & Night",
+      "value": "IR-cut filter with auto-switching",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "DNR",
+      "value": "3D DNR",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Night Vision",
+      "value": "Up to 5 m / 16 ft",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Max Resolution",
+      "value": "1920 x 1080",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Frame Rate",
+      "value": "15fps. Self-Adaptive during Network Transmission",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Video Compression",
+      "value": "H.265 / H.264",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Video Bit Rate",
+      "value": "Full HD; Hi-Def; Standard. Adaptive Bit Rate.",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Audio Bit Rate",
+      "value": "Self-adaptive",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Max. Bitrate",
+      "value": "1 Mbps",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Detection",
+      "value": "Crying Detection, Out-of-Crib (Baby Leaving), Detection Baby Activity (Smart Human) Detection",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Smart Alarm",
+      "value": "Supports",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Two-way Talk",
+      "value": "Supports",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Auto-play Music",
+      "value": "Supports",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wi-Fi Standard",
+      "value": "IEEE802.11b, 802.11g, 802.11n",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Frequency Range",
+      "value": "2.4 GHz ~ 2.4835 GHz",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Channel Bandwidth",
+      "value": "Supports 20 MHz",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Security",
+      "value": "64 / 128-bit WEP, WPA / WPA2, WPA-PSK / WPA2-PSK",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Transmission Rate",
+      "value": "11b: 11 Mbps, 11g: 54 Mbps, 11n: 150 Mbps",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wi-Fi Pairing",
+      "value": "AP pairing",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Protocol",
+      "value": "EZVIZ cloud proprietary protocol",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Interface Protocol",
+      "value": "EZVIZ cloud proprietary protocol",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Minimum Network Requirement",
+      "value": "2 Mbps",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Local Storage",
+      "value": "Supports microSD card (Up to 256 GB)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Cloud Storage",
+      "value": "Supports EZVIZ CloudPlay storage (Subscription required)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Operating Conditions",
+      "value": "-10 °C to 45 °C (14 °F to 113 °F ), humidity 95% or less (Non-condensing)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Power Supply",
+      "value": "DC 5V / 2A （Power adaptor purchased separately)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Battery Capacity",
+      "value": "2000 mAh",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Packaging Dimensions",
+      "value": "225 × 127 × 65 mm (8.86 × 5.00 × 2.56 inch)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Rabbit Version: 249 × 50 × 67 mm (9.80 × 1.97 × 2.64 inch) Bear Version: 240 × 50 × 67 mm (9.44 × 1.97 × 2.64 inch)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Net Weight",
+      "value": "Rabbit Version: 222 g (7.83 oz) Bear Version: 221 g (7.80 oz)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Certifications",
+      "value": "CE / FCC / UL / WEEE / RoHS / REACH / UKCA",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU/GTIN",
+    "Hardware revision and region-specific differences"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.ezviz.com/product/BM1/42147",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP fetch; HTML specification rows parsed",
+      "notes": "35 factual specification rows read; marketing paragraphs excluded"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

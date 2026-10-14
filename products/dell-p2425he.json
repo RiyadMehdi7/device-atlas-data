@@ -1,0 +1,314 @@
+{
+  "id": "dell-p2425he",
+  "brand": "Dell",
+  "model": "P2425HE",
+  "category": "Monitors",
+  "scope": "Exact Dell en-uk manufacturer product technical specification. Regional units, supplied cables and warranty may differ; Tele2 stocked unit EAN/part reconciliation remains unresolved.",
+  "identifiers": [
+    "P2425HE"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Dell Pro 24 Inch Plus FHD USB-C Monitor - P2425HE | Dell UK",
+  "source_url": "https://www.dell.com/en-uk/shop/dell-pro-24-plus-usb-c-hub-monitor-p2425he/apd/210-bnsd/monitors-monitor-accessories",
+  "tele2_url": "https://www.tele2.lv/monitori/dell-p2425he/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Diagonal Viewing Size",
+      "value": "23.8\"",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Preset Display Area (H x V)",
+      "value": "527.04 mm x 296.46 mm (20.75\" x 11.67\") Area: 156,246.28 mm2 (242.18 inches2)",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Panel Type",
+      "value": "In-Plane Switching (IPS) technology",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Display Screen Coating",
+      "value": "Anti-glare with 3H hardness",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Maximum Preset Resolution",
+      "value": "1920 x 1080",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Viewing Angle",
+      "value": "178° vertical / 178° horizontal",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Pixel Pitch",
+      "value": "0.2745 mm x 0.2745 mm",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Pixel Per Inch (PPI)",
+      "value": "92.53",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Contrast Ratio",
+      "value": "1,500: 1 (typical)",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Aspect Ratio",
+      "value": "16:9",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Backlight Technology",
+      "value": "LED edgelight system",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Brightness",
+      "value": "250 cd/m2 (typical)",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Response Time Details",
+      "value": "5ms gray-to-gray (Fast mode) 8ms gray-to-gray (Normal mode)",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Color Gamut",
+      "value": "99% sRGB",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "TÜV Eye Comfort",
+      "value": "Yes, 4-Star",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Connectivity",
+      "value": "- 1x HDMI 1.4 (HDCP 1.4) (Supports up to FHD 1920 x 1080 100Hz TMDS as per specified in HDMI 1.4) - 1x DP 1.4 (HDCP 1.4) - 1x DP-out (1.4) with MST (HDCP 1.4) - 1x RJ45 Ethernet port, 1GbE - 1x USB 3.2 Gen1 Type-C upstream (Alt. mode with DP1.4) with up to 90W PD - 3x USB 3.2 Gen1 Type-A downstream - 1x USB 3.2 Gen1 Type-C downstream with up to 15W PD (data only)",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Built-in Speaker",
+      "value": "No",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "USB Power Delivery",
+      "value": "Yes, up to 90W via USB-C upstream (Alt. mode with DP1.4) port, and up to 15W via USB-C downstream port",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Adjustability",
+      "value": "Height, Tilt, Swivel, Pivot",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Height",
+      "value": "Up to 150 mm (5.9\")",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Tilt",
+      "value": "-5°/+21°",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Swivel",
+      "value": "-45°/+45°",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Pivot",
+      "value": "-90°/+90°",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Daisy Chain Availability",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Dell Power Button Sync",
+      "value": "Yes, via USB Type-C upstream port",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Dell Display Manager Compatibility",
+      "value": "Yes with Easy Arrange",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Remote Asset Management",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Voltage Required",
+      "value": "100 VAC to 240 VAC / 50 Hz or 60 Hz ± 3 Hz / 2 A (typ)",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Power Consumption (Operational) (typical)",
+      "value": "0.3 W (Off mode) 0.3 W (Standby mode) 1.0 W (Networked Standby mode) 13.9 W (On mode) 180 W (Max) 15.2 W (Pon) 49.8 kWh (TEC)",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Audio Output",
+      "value": "Optional soundbar (sold separately)",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Security",
+      "value": "Security-lock slot (based on Kensington Security Slot™)",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Compliant Standards",
+      "value": "ENERGY STAR certified monitor EPEAT GOLD EPEAT Climate+ TCO Certified Displays TCO Certified Edge RoHS-compliant BFR / PVC free monitor (excluding external cables) Arsenic-free glass and mercury-free (panel only)",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Flat Panel Mount Interface",
+      "value": "VESA (100 mm x 100mm)",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Temperature Range",
+      "value": "Operating: 0°C ~ 40°C (32°F ~ 104°F) Non-operating: -20° ~ 60°C (-4° ~ 140°F)",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Humidity Range",
+      "value": "Operating: 10% ~ 80% (non-condensing) Non-operating: 5% ~ 90% (non-condensing)",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Altitude",
+      "value": "Operating: 5,000 m (16,404 ft) max Non-operating: 12,192 m (40,000 ft) max",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "What's Included",
+      "value": "- 1x Monitor panel - 1x Stand riser and base - 1x Cable tie - 1x Quick setup guide - 1x Safety, Environmental, and Regulatory Information",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Cables Included",
+      "value": "- 1x Power cord - 1x DP-to-DP cable, 1.8m - 1x USB 3.2 Gen2 Type C-to-C cable, 1.0m",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Height with stand (Compressed ~ Extended)",
+      "value": "364.00 mm ~ 496.53 mm",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Width with stand",
+      "value": "538.64 mm",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Depth with stand",
+      "value": "181.75 mm",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Height without stand",
+      "value": "314.23 mm",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Width without stand",
+      "value": "538.64 mm",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Depth without stand",
+      "value": "50.03 mm",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Weight (panel only - for VESA mount)",
+      "value": "3.69 kg",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Weight (with packaging)",
+      "value": "7.24 kg",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Specifications - Service / Support Details",
+      "value": "3 Year Limited Hardware Warranty with Advanced Exchange Service and Premium Panel Exchange",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    }
+  ],
+  "missing_fields": [
+    "Latvia stocked unit EAN / manufacturer part reconciliation",
+    "Input timing table from official user manual"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.dell.com/en-uk/shop/dell-pro-24-plus-usb-c-hub-monitor-p2425he/apd/210-bnsd/monitors-monitor-accessories",
+      "fetched_at": "2026-10-14",
+      "method": "Exa full page fetch; technical block only",
+      "notes": "Full manufacturer page fetched; factual technical block read. Empty extractor values excluded; search snippets not used."
+    }
+  ],
+  "research_lane": "monitors"
+}

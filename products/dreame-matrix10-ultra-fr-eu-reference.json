@@ -1,0 +1,199 @@
+{
+  "id": "dreame-matrix10-ultra-fr-eu-reference",
+  "brand": "Dreame",
+  "model": "Matrix10 Ultra",
+  "category": "Smart home",
+  "scope": "Official France/EU manufacturer model reference. Complete package explicitly named where applicable; exact Latvia SKU/GTIN and bundle contents require matching. Original French specification wording and units retained.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Dreame Matrix10 Ultra Caractéristiques techniques",
+  "source_url": "https://fr.dreametech.com/products/dreame-matrix10-ultra-robot-aspirateur-laveur",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/vacuum-cleaner-robot-ultra-matrix-10-rlx/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Nom du produit",
+      "value": "Dreame Matrix10 Ultra",
+      "unit": "",
+      "condition": "France/EU official model specification, original French wording; laboratory performance claim where relevant"
+    },
+    {
+      "label": "Dimensions du robot aspirateur",
+      "value": "350 x 351 x 89 mm (capteur VersaLift rétracté); 350 x 351 x 111 mm (capteur VersaLift non rétracté)",
+      "unit": "",
+      "condition": "France/EU official model specification, original French wording; laboratory performance claim where relevant"
+    },
+    {
+      "label": "Dimensions de la base",
+      "value": "416 x 457 x 590 mm",
+      "unit": "",
+      "condition": "France/EU official model specification, original French wording; laboratory performance claim where relevant"
+    },
+    {
+      "label": "Poids de la base",
+      "value": "16,6 kg",
+      "unit": "",
+      "condition": "France/EU official model specification, original French wording; laboratory performance claim where relevant"
+    },
+    {
+      "label": "Poids du robot aspirateur",
+      "value": "4,7 kg",
+      "unit": "",
+      "condition": "France/EU official model specification, original French wording; laboratory performance claim where relevant"
+    },
+    {
+      "label": "Hauteur de franchissement d'obstacles",
+      "value": "8 cm (marches à deux niveaux); 4,2 cm (marches à un seul niveau)",
+      "unit": "",
+      "condition": "France/EU official model specification, original French wording; laboratory performance claim where relevant"
+    },
+    {
+      "label": "Navigation",
+      "value": "VersaLift DToF",
+      "unit": "",
+      "condition": "France/EU official model specification, original French wording; laboratory performance claim where relevant"
+    },
+    {
+      "label": "Type de brosse principale",
+      "value": "Brosse duo démêlante HyperStream",
+      "unit": "",
+      "condition": "France/EU official model specification, original French wording; laboratory performance claim where relevant"
+    },
+    {
+      "label": "Évitement des obstacles",
+      "value": "IA RVB + éclairage 3D",
+      "unit": "",
+      "condition": "France/EU official model specification, original French wording; laboratory performance claim where relevant"
+    },
+    {
+      "label": "Aspiration maximale",
+      "value": "30 000 Pa",
+      "unit": "",
+      "condition": "Manufacturer internal laboratory maximum; actual performance may vary."
+    },
+    {
+      "label": "Levage de la brosse principale",
+      "value": "✓",
+      "unit": "",
+      "condition": "France/EU official model specification, original French wording; laboratory performance claim where relevant"
+    },
+    {
+      "label": "Levage de la brosse latérale",
+      "value": "✓",
+      "unit": "",
+      "condition": "France/EU official model specification, original French wording; laboratory performance claim where relevant"
+    },
+    {
+      "label": "Extension de la brosse latérale",
+      "value": "✓",
+      "unit": "",
+      "condition": "France/EU official model specification, original French wording; laboratory performance claim where relevant"
+    },
+    {
+      "label": "Extension de la serpillière",
+      "value": "✓",
+      "unit": "",
+      "condition": "France/EU official model specification, original French wording; laboratory performance claim where relevant"
+    },
+    {
+      "label": "Retrait des serpillières",
+      "value": "✓",
+      "unit": "",
+      "condition": "France/EU official model specification, original French wording; laboratory performance claim where relevant"
+    },
+    {
+      "label": "Capacité de la batterie (mAh)",
+      "value": "6 400 mAh",
+      "unit": "",
+      "condition": "France/EU official model specification, original French wording; laboratory performance claim where relevant"
+    },
+    {
+      "label": "Capacité du sac à poussière",
+      "value": "3,2 L",
+      "unit": "",
+      "condition": "France/EU official model specification, original French wording; laboratory performance claim where relevant"
+    },
+    {
+      "label": "Capacité du bac à poussière",
+      "value": "310 ml",
+      "unit": "",
+      "condition": "France/EU official model specification, original French wording; laboratory performance claim where relevant"
+    },
+    {
+      "label": "Commande vocale",
+      "value": "Intégrée et tierce",
+      "unit": "",
+      "condition": "France/EU official model specification, original French wording; laboratory performance claim where relevant"
+    },
+    {
+      "label": "Capacité du réservoir d'eau propre/sale",
+      "value": "5,5 L/4 L",
+      "unit": "",
+      "condition": "France/EU official model specification, original French wording; laboratory performance claim where relevant"
+    },
+    {
+      "label": "Nettoyage automatique de la serpillière avec de l'eau chaude",
+      "value": "✓ (100 °C)",
+      "unit": "",
+      "condition": "Manufacturer lab temperature claim at heating system under room-temperature conditions; actual delivered temperature may vary."
+    },
+    {
+      "label": "Séchage à l'air chaud",
+      "value": "✓",
+      "unit": "",
+      "condition": "France/EU official model specification, original French wording; laboratory performance claim where relevant"
+    },
+    {
+      "label": "Détection de la saleté/renettoyage de la serpillière et relavage du sol",
+      "value": "✓ (spectre multiple)*",
+      "unit": "",
+      "condition": "France/EU official model specification, original French wording; laboratory performance claim where relevant"
+    },
+    {
+      "label": "Plaque de lavage avec nettoyage automatique",
+      "value": "✓ (technologie AceClean™ DryBoard)",
+      "unit": "",
+      "condition": "France/EU official model specification, original French wording; laboratory performance claim where relevant"
+    },
+    {
+      "label": "Remplissage automatique de la solution",
+      "value": "✓",
+      "unit": "",
+      "condition": "France/EU official model specification, original French wording; laboratory performance claim where relevant"
+    },
+    {
+      "label": "Remplissage automatique du réservoir d'eau",
+      "value": "✓",
+      "unit": "",
+      "condition": "France/EU official model specification, original French wording; laboratory performance claim where relevant"
+    },
+    {
+      "label": "Vidage automatique",
+      "value": "✓",
+      "unit": "",
+      "condition": "France/EU official model specification, original French wording; laboratory performance claim where relevant"
+    },
+    {
+      "label": "Kit de raccordement à l'eau pour le remplissage et la vidange automatiques",
+      "value": "✓ (à acheter séparément)",
+      "unit": "",
+      "condition": "France/EU official model specification, original French wording; laboratory performance claim where relevant"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU/GTIN and mains adaptor",
+    "Performance test conditions for maximum suction/threshold clearance",
+    "Two similarly named clean/used water entries require robot/base scope reconciliation"
+  ],
+  "source_pages": [
+    {
+      "url": "https://fr.dreametech.com/products/dreame-matrix10-ultra-robot-aspirateur-laveur",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP fetch; technical specification section parsed",
+      "notes": "Only two-cell technical list entries; general marketing and related product comparison excluded"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

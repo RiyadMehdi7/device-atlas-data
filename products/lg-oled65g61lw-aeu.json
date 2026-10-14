@@ -1,0 +1,501 @@
+{
+  "id": "lg-oled65g61lw-aeu",
+  "brand": "LG",
+  "model": "OLED65G61LW.AEU",
+  "category": "Televisions",
+  "scope": "Manufacturer Latvia page names exact OLED65G61LW.AEU; Hungarian same base-model page supplies detailed specification rows. Tele2 Latvia base model OLED65G61LW observed; retail AEU suffix still needs confirmation.",
+  "identifiers": [
+    "OLED65G61LW.AEU",
+    "OLED65G61LW"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "65 colos LG OLED evo AI G6 Smart TV OLED65G61LW | LG HU",
+  "source_url": "https://www.lg.com/hu/tv-es-hangprojektor/oled-evo-tv/oled65g61lw/",
+  "tele2_url": "https://www.tele2.lv/televizori/lg-tv-oled-oled65g61lw-65inch/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "KÉP/KIJELZŐ - Kijelző típusa",
+      "value": "4K OLED",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "KÉP/KIJELZŐ - Kijelző Felbontása",
+      "value": "4K Ultra HD (3,840 x 2,160)",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "KÉP/KIJELZŐ - Képfrissítés",
+      "value": "Natív 120Hz (VRR 165Hz)",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "KÉP/KIJELZŐ - Wide Color Gamut",
+      "value": "Tökéletes Szín",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "KÉPFELDOLGOZÁS - Processzor",
+      "value": "Alpha 11 3. generációs 4K AI processzor Kettős AI Modullal",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "KÉPFELDOLGOZÁS - AI Műfaj Választás",
+      "value": "Igen (SDR/HDR)",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "KÉPFELDOLGOZÁS - AI Picture Pro",
+      "value": "Igen",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "KÉPFELDOLGOZÁS - AI Felskálázás",
+      "value": "Alpha 11 AI 4K Szuper Felskálázás",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "KÉPFELDOLGOZÁS - Automatikus kalibrálás",
+      "value": "Igen",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "KÉPFELDOLGOZÁS - Dimming Technológia",
+      "value": "Pixel Dimming",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "KÉPFELDOLGOZÁS - Dynamic Tone Mapping",
+      "value": "Igen (Dynamic Tone Mapping Ultra (Ultra Dinamikus színárnyalat-leképezés))",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "KÉPFELDOLGOZÁS - FILMMAKER MODE™",
+      "value": "Igen",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "KÉPFELDOLGOZÁS - HDR (High Dynamic Range)",
+      "value": "Dolby Vision / HDR10 / HLG",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "KÉPFELDOLGOZÁS - HFR (High Frame Rate)",
+      "value": "4K 120 fps (HDMI, RF, USB)",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "KÉPFELDOLGOZÁS - Kép üzemmód",
+      "value": "9 mód",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "KÉPFELDOLGOZÁS - Mozgásmegjelenítés",
+      "value": "OLED Motion",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "KÉPFELDOLGOZÁS - QMS (Quick Media Switching)",
+      "value": "Igen",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "KÉPFELDOLGOZÁS - QFT (Quick Frame Transport)",
+      "value": "Igen",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "GAMING - G-Sync Kompatibilis (Nvidia)",
+      "value": "Igen",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "GAMING - ALLM (Auto Low Latency Mode)",
+      "value": "Igen",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "GAMING - Dolby Vision játék (4K 120Hz)",
+      "value": "Igen",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "GAMING - FreeSync Kompatibilis (AMD)",
+      "value": "Igen",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "GAMING - Játékoptimalizáló",
+      "value": "Igen (Játékirányítópult)",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "GAMING - HGIG Mód",
+      "value": "Igen",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "GAMING - Válaszidő",
+      "value": "Kevesebb mint 0.1ms",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "GAMING - VRR (Variable Refresh Rate)",
+      "value": "Igen (165Hz-ig)",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "SMART TV - Operációs Rendszer (OS)",
+      "value": "webOS 26",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "SMART TV - Telefonos Applikáció",
+      "value": "Igen (LG ThinQ)",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "SMART TV - USB Kamera Kompatibilis",
+      "value": "Igen",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "SMART TV - Apple Airplay-el működik",
+      "value": "Igen",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "SMART TV - Multi View",
+      "value": "Igen",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "SMART TV - Intelligens Hangfelismerés",
+      "value": "Igen",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "SMART TV - Kezdőlap Hub",
+      "value": "Igen (Google Home, LG ThinQ)",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "SMART TV - Kéz nélküli hangvezérlés",
+      "value": "Igen",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "SMART TV - Google Cast",
+      "value": "Igen",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "SMART TV - Böngésző",
+      "value": "Igen",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "SMART TV - Folyamatos Készenlét",
+      "value": "Igen",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "SMART TV - Apple Home kompatibilis",
+      "value": "Igen",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "SMART TV - AI Chatbot",
+      "value": "Igen",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "AUDIÓ - Audio Teljesítmény",
+      "value": "60W",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "AUDIÓ - Hangszórók Iránya",
+      "value": "Lefelé szóló",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "AUDIÓ - AI Sound",
+      "value": "Alpha 11 AI Sound Pro (Virtuális 11.1.2 csatorna)",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "AUDIÓ - Audió Kodek",
+      "value": "AC4, AC3(Dolby Digital), EAC3, HE-AAC, AAC, MP2, MP3, PCM, apt-X (Használati útmutató szerint)",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "AUDIÓ - Clear Voice Pro",
+      "value": "Igen",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "AUDIÓ - Dolby Atmos",
+      "value": "Igen",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "AUDIÓ - LG Sound Sync",
+      "value": "Igen",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "AUDIÓ - Egyidejű hangkimenet",
+      "value": "Igen",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "AUDIÓ - Sound Mode Share",
+      "value": "Igen",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "AUDIÓ - Hangrendszer",
+      "value": "4.2 Csatorna",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "AUDIÓ - WOW Orchestra",
+      "value": "Igen",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "CSATLAKOZÓK - HDMI Bemenet",
+      "value": "4db (4K 120Hz, eARC, VRR, ALLM, QMS, QFT támogatással)",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "CSATLAKOZÓK - SPDIF (Optikai Digitális Hang Kimenet)",
+      "value": "1db",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "CSATLAKOZÓK - Wi-Fi",
+      "value": "Igen (Wi-Fi 6E)",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "CSATLAKOZÓK - USB Bemenet",
+      "value": "3db (v 2.0)",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "CSATLAKOZÓK - Simplink (HDMI CEC)",
+      "value": "Igen",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "CSATLAKOZÓK - RF Bement (Antenna/Cable)",
+      "value": "2db",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "CSATLAKOZÓK - Bluetooth Támogatás",
+      "value": "Igen (v 5.3)",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "CSATLAKOZÓK - CI Foglalat",
+      "value": "1db",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "CSATLAKOZÓK - Ethernet Bemenet",
+      "value": "1db",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "CSATLAKOZÓK - HDMI Audio Return Channel",
+      "value": "eARC (HDMI 2)",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "KISEGÍTŐ LEHETŐSÉGEK - Nagy Kontraszt",
+      "value": "Igen",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "KISEGÍTŐ LEHETŐSÉGEK - Szürkeárnyalat",
+      "value": "Igen",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "KISEGÍTŐ LEHETŐSÉGEK - Fordított Színek",
+      "value": "Igen",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "MÉRETEK ÉS TÖMEG - TV mérete talp nélkül (SzéxMaxMé mm)",
+      "value": "1 441 x 826 x 24,3",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "MÉRETEK ÉS TÖMEG - TV tömege talp nélkül (kg)",
+      "value": "22",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "MÉRETEK ÉS TÖMEG - TV tömege talppal (kg)",
+      "value": "27,3",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "MÉRETEK ÉS TÖMEG - VESA (SzéxMa mm)",
+      "value": "300 x 300",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "MÉRETEK ÉS TÖMEG - TV mérete talppal (SzéxMaxMé mm)",
+      "value": "1 441 x 865/910 x 263",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "MÉRETEK ÉS TÖMEG - Csomag tömege (kg)",
+      "value": "30,5",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "MÉRETEK ÉS TÖMEG - Csomagolás mérete (SzéxMaxMé mm)",
+      "value": "1 600 x 970 x 172",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "MÉRETEK ÉS TÖMEG - TV Állvány (SzéxMé mm)",
+      "value": "485 x 263",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "ENERGIA - Energiaellátás (Feszültség, Hz)",
+      "value": "AC 100~240V 50-60Hz",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "ENERGIA - Készenléti Fogyasztás",
+      "value": "0.5W alatt",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "TARTOZÉKOK A CSOMAGBAN - Távirányító",
+      "value": "AI Magic Remote MR26GA / MR26GB (Számgombokkal , Egyesült Királyság / Olaszország)",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "TARTOZÉKOK A CSOMAGBAN - Tápkábel",
+      "value": "Igen (Integrált)",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "MŰSORSZÓRÁS VÉTELE - Analóg TV vétel",
+      "value": "Igen",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    },
+    {
+      "label": "MŰSORSZÓRÁS VÉTELE - Digitális TV vétel",
+      "value": "DVB-T2 (Földfelszíni), DVB-C (Kábel), DVB-S2 (Szatelit)",
+      "unit": "",
+      "condition": "Exact Hungarian manufacturer OLED65G61LW specifications; Latvia full AEU model independently named by manufacturer. Service availability remains regional."
+    }
+  ],
+  "missing_fields": [
+    "Latvia retail AEU suffix confirmation",
+    "Exact energy fiche review"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.lg.com/hu/tv-es-hangprojektor/oled-evo-tv/oled65g61lw/",
+      "fetched_at": "2026-10-14",
+      "method": "web find and open",
+      "notes": "Exact base-model all-specification table read; original Hungarian field names retained."
+    },
+    {
+      "url": "https://www.lg.com/lv/televizori/lg-oled65g61lw",
+      "fetched_at": "2026-10-14",
+      "method": "web find",
+      "notes": "Manufacturer Latvia title independently names OLED65G61LW.AEU; repeated deeper specification reads failed."
+    }
+  ],
+  "research_lane": "televisions"
+}

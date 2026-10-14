@@ -1,0 +1,173 @@
+{
+  "id": "sony-wf-1000xm5-uk-model",
+  "brand": "Sony",
+  "model": "WF-1000XM5",
+  "category": "Earbuds",
+  "scope": "UK manufacturer model reference; Latvia variant matching required",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "WF-1000XM5 | Wireless Noise Cancelling Specifications| Headphones | Sony UK",
+  "source_url": "https://www.sony.co.uk/headphones/products/wf-1000xm5/spec",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "WEIGHT",
+      "value": "Approx. 5.9 g x 2 (including earbud tips (M) )",
+      "unit": "",
+      "condition": "Earbuds; UK manufacturer model reference"
+    },
+    {
+      "label": "HEADPHONE TYPE",
+      "value": "Closed, dynamic",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "DRIVER UNIT",
+      "value": "8.4 mm",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "FREQUENCY RESPONSE(BLUETOOTH® COMMUNICATION)",
+      "value": "20 Hz - 20,000 Hz (44.1 kHz sampling) / 20 Hz - 40,000 Hz (LDAC 96 kHz sampling 990 kbps)",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "VOLUME CONTROL",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "WATERPROOF",
+      "value": "Yes (IPX4 equivalent)",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "MULTIPOINT CONNECTION",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "DSEE Extreme",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "AMBIENT SOUND MODE",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "BATTERY CHARGE TIME",
+      "value": "Approx. 1.5 Hrs",
+      "unit": "",
+      "condition": "Earbuds; UK manufacturer model reference"
+    },
+    {
+      "label": "BATTERY CHARGE METHOD",
+      "value": "USB charge / Wireless charge (with case)",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "BATTERY LIFE(CONTINUOUS MUSIC PLAYBACK TIME)",
+      "value": "Max. 8 hrs (NC ON) / Max. 12 hrs (NC OFF)",
+      "unit": "",
+      "condition": "Earbuds; BATTERY LIFE(CONTINUOUS MUSIC PLAYBACK TIME)"
+    },
+    {
+      "label": "BATTERY LIFE(CONTINUOUS COMMUNICATION TIME)",
+      "value": "Max. 6 hrs (NC ON) / Max. 7 hrs (NC OFF)",
+      "unit": "",
+      "condition": "Earbuds; BATTERY LIFE(CONTINUOUS COMMUNICATION TIME)"
+    },
+    {
+      "label": "BLUETOOTH® VERSION",
+      "value": "Bluetooth Specification Version 5.3",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "EFFECTIVE RANGE",
+      "value": "10 m",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "FREQUENCY RANGE",
+      "value": "2.4 GHz band (2.400 0 GHz - 2.483 5 GHz)",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "PROFILE",
+      "value": "A2DP, AVRCP, HFP, HSP, TMAP, CSIP, MCP, VCP, CCP",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "SUPPORTED AUDIO FORMAT(S)",
+      "value": "SBC, AAC, LDAC, LC3",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "SUPPORTED CONTENT PROTECTION",
+      "value": "SCMS-T",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "QUICK ATTENTION",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "Charging case weight",
+      "value": "Approx. 39 g",
+      "unit": "",
+      "condition": "Charging case"
+    },
+    {
+      "label": "DIMENSION",
+      "value": "Approx. 64.6 x 40.0 x 26.5 mm",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "Charging case battery charge time",
+      "value": "Approx. 2 Hrs (USB charging)",
+      "unit": "",
+      "condition": "Charging case"
+    },
+    {
+      "label": "POWER CONSUMPTION (OFF MODE)",
+      "value": "not available",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU/GTIN matching"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.sony.co.uk/headphones/products/wf-1000xm5/spec",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Manufacturer specification table read"
+    }
+  ],
+  "research_lane": "audio"
+}

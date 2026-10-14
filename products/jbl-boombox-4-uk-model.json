@@ -1,0 +1,167 @@
+{
+  "id": "jbl-boombox-4-uk-model",
+  "brand": "JBL",
+  "model": "Boombox 4",
+  "category": "Speakers",
+  "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "JBL Boombox 4 | Most powerful JBL portable waterproof speaker with massive JBL Pro Sound",
+  "source_url": "https://uk.jbl.com/BOOMBOX-4.html",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Power Input",
+      "value": "100 - 240 Vac; 50/60 Hz",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Signal-to-Noise Ratio",
+      "value": "> 80 Db",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Output power (W)",
+      "value": "(AC mode) - 2 x 65W RMS Woofer, 2 x 40W RMS Tweeter (Battery mode) - 2 60W RMS Woofer, 2 x 40W RMS Tweeter",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Frequency Response",
+      "value": "37Hz - 20 kHz",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Transducer",
+      "value": "2 x 5 inch / 2 x 123mm woofer, 2 x 0.75 inch / 2 x 20mm Tweeter, 2 pcs circle + 1 pc racetrack passive radiator",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Dimensions (Width x Height x Depth) (in)",
+      "value": "20 x 10 x 8",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Dimensions (Width x Height x Depth) (cm)",
+      "value": "51 x 26 x 21",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Net Weight (kgs)",
+      "value": "5.89",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Net Weight (lbs)",
+      "value": "13",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Connection",
+      "value": "AC-in, USB-C",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth Profile",
+      "value": "A2DP 1.4, AVRCP 1.6",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth Transmitter Frequency Range (GHz)",
+      "value": "2.4 - 2.4835",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth Transmitter Modulation",
+      "value": "GFSK, π/4 DQPSK, 8DPSK",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth Transmitter Power",
+      "value": "≤ 14dBm (EIRP)",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Connection Ports",
+      "value": "AC-in, USB-C",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth version",
+      "value": "5.4",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth frequency",
+      "value": "2.4 GHz - 2.4835 GHz",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth profiles",
+      "value": "A2DP 1.4, AVRCP 1.6",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth transmitted modulation",
+      "value": "GFSK, π/4 DQPSK, 8DPSK",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth transmitter power",
+      "value": "≤ 14dBm (EIRP)",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Battery Charge Time (hours)",
+      "value": "3",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Battery Type",
+      "value": "Rechargeable Li-ion Battery Pack 99.02Wh",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Supports Auracast",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU/GTIN matching"
+  ],
+  "source_pages": [
+    {
+      "url": "https://uk.jbl.com/BOOMBOX-4.html",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Specification table read; conflicting or ambiguous playback totals omitted"
+    }
+  ],
+  "research_lane": "audio"
+}

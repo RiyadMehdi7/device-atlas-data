@@ -1,0 +1,213 @@
+{
+  "id": "samsung-portable-ssd-t7",
+  "brand": "Samsung",
+  "model": "Portable SSD T7",
+  "model_family": "Portable SSD T7",
+  "category": "Accessories",
+  "scope": "Manufacturer current document index, specific revision and capacity matrix. Single model-family reference; capacity/colour options are not separate products. EU GTIN and Tele2 stock unconfirmed.",
+  "identifiers": [
+    "MU-PC4T0T/AM",
+    "MU-PC4T0",
+    "MU-PC4T0T/WW",
+    "MU-PC2T0H/AM",
+    "MU-PC2T0H/WW",
+    "MU-PC2T0",
+    "MU-PC2T0T/AM",
+    "MU-PC2T0T/WW",
+    "MU-PC1T0H/AM",
+    "MU-PC1T0H/WW",
+    "MU-PC1T0",
+    "MU-PC1T0T/AM",
+    "MU-PC1T0T/WW"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Samsung Portable SSD T7 technical specifications",
+  "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Portable_SSD_T7_Datasheet_Rev.2.0.pdf",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Capacity options",
+      "value": "1/2/4 TB",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Portable_SSD_T7_Datasheet_Rev.2.0.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Interface",
+      "value": "USB 3.2 Gen 2, 10 Gbps",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Portable_SSD_T7_Datasheet_Rev.2.0.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions",
+      "value": "85 × 57 × 8 mm",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Portable_SSD_T7_Datasheet_Rev.2.0.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Nominal mass",
+      "value": "72 g",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Portable_SSD_T7_Datasheet_Rev.2.0.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Sequential read maximum MB/s",
+      "value": "1050",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Portable_SSD_T7_Datasheet_Rev.2.0.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Sequential write maximum MB/s",
+      "value": "1000",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Portable_SSD_T7_Datasheet_Rev.2.0.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Laboratory drop test height",
+      "value": "2 m",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Portable_SSD_T7_Datasheet_Rev.2.0.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Limited warranty years",
+      "value": "3",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Portable_SSD_T7_Datasheet_Rev.2.0.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Mass qualification",
+      "value": "Exact weight may vary by capacity",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Portable_SSD_T7_Datasheet_Rev.2.0.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Performance condition",
+      "value": "Samsung internal testing, supplied cable; depends on host, cable and environment",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Portable_SSD_T7_Datasheet_Rev.2.0.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Encryption",
+      "value": "AES 256-bit hardware",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Portable_SSD_T7_Datasheet_Rev.2.0.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Operating case temperature",
+      "value": "0–60 °C; measured at hottest case point; airflow recommended under heavy load",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Portable_SSD_T7_Datasheet_Rev.2.0.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Storage temperature",
+      "value": "−40–85 °C",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Portable_SSD_T7_Datasheet_Rev.2.0.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Humidity",
+      "value": "5–95%, non-condensing",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Portable_SSD_T7_Datasheet_Rev.2.0.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Non-operating shock",
+      "value": "1500 G, 0.5 ms, 3 axes",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Portable_SSD_T7_Datasheet_Rev.2.0.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Non-operating vibration",
+      "value": "20–2000 Hz, 20 G",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Portable_SSD_T7_Datasheet_Rev.2.0.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Software",
+      "value": "Samsung Portable SSD 1.0; Samsung Magician",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Portable_SSD_T7_Datasheet_Rev.2.0.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Software minimum OS",
+      "value": "Windows 7; Mac OS X 10.10; Android Lollipop or later",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Portable_SSD_T7_Datasheet_Rev.2.0.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Capacity convention",
+      "value": "1 TB = 10^12 bytes; usable capacity may differ",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Portable_SSD_T7_Datasheet_Rev.2.0.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Box contents",
+      "value": "SSD, quick user manual/warranty; USB-C to C cable and C to A cable",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Portable_SSD_T7_Datasheet_Rev.2.0.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Drop scope",
+      "value": "Controlled metal-plate free-fall test; physical/drop damage excluded from warranty",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Portable_SSD_T7_Datasheet_Rev.2.0.pdf",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia MPN/GTIN",
+    "Latvia retail package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Portable_SSD_T7_Datasheet_Rev.2.0.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "Official PDF downloaded HTTP 200; pdftotext table read",
+      "notes": "Official source technical content read; factual extraction retained"
+    }
+  ],
+  "research_lane": "accessories"
+}

@@ -1,0 +1,239 @@
+{
+  "id": "microsoft-surface-pro-for-business-12-inch-1st-edition-snapdragon",
+  "brand": "Microsoft",
+  "model": "Surface Pro for Business 12-inch (1st Edition, Snapdragon)",
+  "model_family": "Surface Pro for Business 12-inch (1st Edition, Snapdragon)",
+  "category": "Tablets",
+  "scope": "Manufacturer model reference. Official manufacturer business platform fact sheet. Processor, memory, storage and screen alternatives remain options, not an exact purchasable SKU; European availability/SKU matching required.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer model source checked; Latvia SKU needs matching",
+  "source_name": "Microsoft Surface Pro for Business 12-inch (1st Edition, Snapdragon) technical specifications",
+  "source_url": "https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-product-and-services/surface/surface-pro/surface-pro-12-inch-snapdragon/MSFT-surface-pro-12-inch-snapdragon-techspecs-factsheet.pdf",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Processor options",
+      "value": "Snapdragon X Plus, 8 cores",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-product-and-services/surface/surface-pro/surface-pro-12-inch-snapdragon/MSFT-surface-pro-12-inch-snapdragon-techspecs-factsheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "NPU",
+      "value": "Qualcomm Hexagon 45 TOPS",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-product-and-services/surface/surface-pro/surface-pro-12-inch-snapdragon/MSFT-surface-pro-12-inch-snapdragon-techspecs-factsheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Graphics",
+      "value": "Qualcomm Adreno",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-product-and-services/surface/surface-pro/surface-pro-12-inch-snapdragon/MSFT-surface-pro-12-inch-snapdragon-techspecs-factsheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Memory options",
+      "value": "16GB / 24GB LPDDR5x",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-product-and-services/surface/surface-pro/surface-pro-12-inch-snapdragon/MSFT-surface-pro-12-inch-snapdragon-techspecs-factsheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Storage options",
+      "value": "256GB / 512GB / 1TB UFS",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-product-and-services/surface/surface-pro/surface-pro-12-inch-snapdragon/MSFT-surface-pro-12-inch-snapdragon-techspecs-factsheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Screen size",
+      "value": "12 inches",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-product-and-services/surface/surface-pro/surface-pro-12-inch-snapdragon/MSFT-surface-pro-12-inch-snapdragon-techspecs-factsheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display",
+      "value": "PixelSense LCD",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-product-and-services/surface/surface-pro/surface-pro-12-inch-snapdragon/MSFT-surface-pro-12-inch-snapdragon-techspecs-factsheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "USB ports",
+      "value": "2 x USB-C / USB 3.2",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-product-and-services/surface/surface-pro/surface-pro-12-inch-snapdragon/MSFT-surface-pro-12-inch-snapdragon-techspecs-factsheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Biometrics",
+      "value": "Windows Hello facial recognition; Enhanced Sign-in Security",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-product-and-services/surface/surface-pro/surface-pro-12-inch-snapdragon/MSFT-surface-pro-12-inch-snapdragon-techspecs-factsheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Security",
+      "value": "Microsoft Pluton TPM2.0; Windows 11 Secured-core; BitLocker",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-product-and-services/surface/surface-pro/surface-pro-12-inch-snapdragon/MSFT-surface-pro-12-inch-snapdragon-techspecs-factsheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "NFC authentication",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-product-and-services/surface/surface-pro/surface-pro-12-inch-snapdragon/MSFT-surface-pro-12-inch-snapdragon-techspecs-factsheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi",
+      "value": "Wi-Fi 7; 6GHz availability regional",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-product-and-services/surface/surface-pro/surface-pro-12-inch-snapdragon/MSFT-surface-pro-12-inch-snapdragon-techspecs-factsheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "Core 5.4",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-product-and-services/surface/surface-pro/surface-pro-12-inch-snapdragon/MSFT-surface-pro-12-inch-snapdragon-techspecs-factsheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Local video battery claim",
+      "value": "Up to 16h",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-product-and-services/surface/surface-pro/surface-pro-12-inch-snapdragon/MSFT-surface-pro-12-inch-snapdragon-techspecs-factsheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Microphones",
+      "value": "Dual Studio Mics; voice focus requires activation",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-product-and-services/surface/surface-pro/surface-pro-12-inch-snapdragon/MSFT-surface-pro-12-inch-snapdragon-techspecs-factsheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Speakers",
+      "value": "Stereo Dolby Atmos",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-product-and-services/surface/surface-pro/surface-pro-12-inch-snapdragon/MSFT-surface-pro-12-inch-snapdragon-techspecs-factsheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Stylus",
+      "value": "Surface Slim Pen; pen and keyboard separate",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-product-and-services/surface/surface-pro/surface-pro-12-inch-snapdragon/MSFT-surface-pro-12-inch-snapdragon-techspecs-factsheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Kickstand",
+      "value": "165-degree full-friction hinge",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-product-and-services/surface/surface-pro/surface-pro-12-inch-snapdragon/MSFT-surface-pro-12-inch-snapdragon-techspecs-factsheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Anti-reflective display",
+      "value": "ISO 9241-307 certified",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-product-and-services/surface/surface-pro/surface-pro-12-inch-snapdragon/MSFT-surface-pro-12-inch-snapdragon-techspecs-factsheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Adaptive colour",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-product-and-services/surface/surface-pro/surface-pro-12-inch-snapdragon/MSFT-surface-pro-12-inch-snapdragon-techspecs-factsheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Adaptive contrast",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-product-and-services/surface/surface-pro/surface-pro-12-inch-snapdragon/MSFT-surface-pro-12-inch-snapdragon-techspecs-factsheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Active web battery claim",
+      "value": "Up to 12h",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-product-and-services/surface/surface-pro/surface-pro-12-inch-snapdragon/MSFT-surface-pro-12-inch-snapdragon-techspecs-factsheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Fast charging requirement",
+      "value": "Minimum 45W USB-C PD charger",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-product-and-services/surface/surface-pro/surface-pro-12-inch-snapdragon/MSFT-surface-pro-12-inch-snapdragon-techspecs-factsheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front camera",
+      "value": "1080p Full HD Surface Studio Camera",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-product-and-services/surface/surface-pro/surface-pro-12-inch-snapdragon/MSFT-surface-pro-12-inch-snapdragon-techspecs-factsheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear camera",
+      "value": "10MP",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-product-and-services/surface/surface-pro/surface-pro-12-inch-snapdragon/MSFT-surface-pro-12-inch-snapdragon-techspecs-factsheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "DisplayPort",
+      "value": "1.4a; up to two 4K monitors at 60Hz",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-product-and-services/surface/surface-pro/surface-pro-12-inch-snapdragon/MSFT-surface-pro-12-inch-snapdragon-techspecs-factsheet.pdf",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia-specific MPN/GTIN",
+    "Latvia retail configuration and package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-product-and-services/surface/surface-pro/surface-pro-12-inch-snapdragon/MSFT-surface-pro-12-inch-snapdragon-techspecs-factsheet.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP PDF fetch + web open",
+      "notes": "Official PDF read; retained locally as surface-0.pdf"
+    }
+  ],
+  "research_lane": "tablets"
+}

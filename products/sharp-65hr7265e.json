@@ -1,0 +1,476 @@
+{
+  "id": "sharp-65hr7265e",
+  "brand": "Sharp",
+  "model": "65HR7265E",
+  "category": "Televisions",
+  "scope": "Exact manufacturer European model code and observed Tele2 Latvia model listing. GTIN unresolved.",
+  "identifiers": [
+    "65HR7265E"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Exact variant source checked",
+  "source_name": "65” 4K Ultra HD 144Hz QLED SHARP Google TV™ | 65HR7265E",
+  "source_url": "https://www.sharpconsumer.com/tv/65hr7265e/",
+  "tele2_url": "https://www.tele2.lv/televizori/sharp-65hr7265e-65/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Operating System",
+      "value": "Google TV",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Pre-installed Apps",
+      "value": "Netflix, Youtube, Google Play Movies & TV, Google Play Store, Prime Video",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "USB Video",
+      "value": "MKV, MP4, MOV, AVI, MPG, MPEG, 3GP, 3GPP, ASF, FLV, WEBM, VOB, DAT, TS, TRP, TP",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "USB Music",
+      "value": "MP3, M4A, AAC, AC3, EAC3, DTS, WAV, FLAC, LPCM",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "USB Photo",
+      "value": "JPG, JPEG, BMP, PNG, GIF, MPO",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Media Network Streaming (Video, Photo, Music)",
+      "value": "Yes / Yes / Yes",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "HbbTV",
+      "value": "Yes (v 2.0.3)",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "USB File System",
+      "value": "FAT16, FAT32, NTFS",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "USB 4K Video",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Digital Programme List",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Google Assistant With Microphone",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "OTA Updates",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Google Cast",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "HDMI eARC",
+      "value": "Yes (HDMI4)",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Variable Refresh Rate (VRR)",
+      "value": "Yes (up to 144Hz)",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Auto Low Latency Mode (ALLM)",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "HDMI CEC",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "AQUOS Smooth Motion 144 – Frame Interpolation Technology",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "AQUOS AI UltraClear Video Processor",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Antenna Input",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Satellite Input",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "HDMI Connectors",
+      "value": "4x HDMI 2.1 [4K@60Hz (HDMI1,2); 4K@144Hz (HDMI3,4)]",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "USB",
+      "value": "x2",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "3.5mm Headphone jack / line-out",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "RJ 45 (LAN – 10BASE-T/100BASE-TX)",
+      "value": "x1",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Wi-Fi Max Transmitter Power",
+      "value": "100 mW at 2,412 GHz – 2,472 GHz; 100 mW at 5,150 GHz – 5,350 GHz; 100 mW at 5,470 GHz – 5,725 GHz",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Remote Control",
+      "value": "IR+BT",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Remote Control Design",
+      "value": "AN4512D-2UM-020",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Bluetooth",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Mini Composite/CVBS + Audio input",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Digital Optical Audio Output",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "TV System (ATV)",
+      "value": "PAL, SECAM",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "TV System (DTV)",
+      "value": "DVB-T/T2/C/S/S2 (MPEG4 + H.265/HEVC (10-bit))",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Video system",
+      "value": "HEVC/H.265 (10-bit), MPEG4/H.264, VP9, AV1",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Diagonal Screen Size cm",
+      "value": "164",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Diagonal Screen Size Inch",
+      "value": "65",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Panel Resolution (HxV) In Pixel",
+      "value": "3840 x 2160",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Dynamic Contrast",
+      "value": "1 000 000:1",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Active Motion",
+      "value": "1400",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "HDR support",
+      "value": "HDR10, HLG, Dolby Vision IQ",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Backlight",
+      "value": "LED",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Colour Gamut",
+      "value": "Quantum Dot",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Maximum refresh rate (Hz)",
+      "value": "144",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Speaker",
+      "value": "2",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Speaker power (W)",
+      "value": "2x 12",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Sound System",
+      "value": "BG, DK, I, L, L’, M, N",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Sound Settings",
+      "value": "Sound Equaliser",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Audio decoder",
+      "value": "Dolby Digital, Dolby Digital Plus, Dolby AC-4",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Audio enhancement solution",
+      "value": "DTS Virtual:X™",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "3D sound processing",
+      "value": "Dolby Atmos®, DTS:X®",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Power Requirements",
+      "value": "AC 220-240V ~ 50/60Hz",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Power Consumption (W)",
+      "value": "82",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Standby Power Consumption (W)",
+      "value": "<0,50",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Energy Class",
+      "value": "E",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Plug",
+      "value": "CE Plug",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Auto Power Off",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "AC Operated",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Safety Logo Certification",
+      "value": "CE (RED, RoHS, ErP), REACH/PAH/SCCP",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "EPREL",
+      "value": "https://eprel.ec.europa.eu/qr/2355860",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Unit Size (W x H x D in mm)",
+      "value": "1445 x 828 x 83",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Unit Weight (kg)",
+      "value": "15",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Packaging Content",
+      "value": "Product, Remote control, 2x AAA batteries, TV stand installation pack, Quick start guide",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Box Size (W x H x D in mm)",
+      "value": "1585 x 964 x 145",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Gross Weight (kg)",
+      "value": "25,8",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Net Size with Stand (W x H x D in mm)",
+      "value": "1445 x 896 x 275",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Dimension Between Stand Feet (in mm)",
+      "value": "760",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "VESA Standard (mm)",
+      "value": "400 x 300",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    }
+  ],
+  "missing_fields": [
+    "GTIN",
+    "Exact-model energy product fiche / manual scope confirmation"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.sharpconsumer.com/tv/65hr7265e/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "HTTP 200; exact title and paired factual specification spans read."
+    },
+    {
+      "url": "https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/3528ac54-b00e-11f0-8802-a2f419c11dba.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP PDF fetch and pdftotext -layout",
+      "notes": "Official exact-model page links this shared technical document. Read; exact model string not found in extracted text. No features transferred from document."
+    },
+    {
+      "url": "https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/3bdcd570-b00e-11f0-9ebc-a2f419c11dba.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP PDF fetch and pdftotext -layout",
+      "notes": "Official exact-model page links this shared technical document. Read; exact model string not found in extracted text. No features transferred from document."
+    },
+    {
+      "url": "https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/40fea3d0-b00e-11f0-a3df-fe6f25b43706.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP PDF fetch and pdftotext -layout",
+      "notes": "Official exact-model page links this shared technical document. Read; exact model string not found in extracted text. No features transferred from document."
+    },
+    {
+      "url": "https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/45a30d90-b00e-11f0-80d2-fe6f25b43706.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP PDF fetch and pdftotext -layout",
+      "notes": "Official exact-model page links this shared technical document. Read; exact model string not found in extracted text. No features transferred from document."
+    },
+    {
+      "url": "https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/4a598292-b00e-11f0-a3df-fe6f25b43706.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP PDF fetch and pdftotext -layout",
+      "notes": "Official exact-model page links this shared technical document. Read; exact model string not found in extracted text. No features transferred from document."
+    },
+    {
+      "url": "https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/61d4e498-ae4c-11f0-b7dc-faad5a53319a.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP PDF fetch and pdftotext -layout",
+      "notes": "Official exact-model page links this shared technical document. Read; exact model string not found in extracted text. No features transferred from document."
+    },
+    {
+      "url": "https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/7e46772a-5354-11f0-bf97-8a152fd21716.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP PDF fetch and pdftotext -layout",
+      "notes": "Official exact-model page links this shared technical document. Read; exact model string not found in extracted text. No features transferred from document."
+    }
+  ],
+  "research_lane": "televisions"
+}

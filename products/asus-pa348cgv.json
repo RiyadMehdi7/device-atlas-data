@@ -1,0 +1,542 @@
+{
+  "id": "asus-pa348cgv",
+  "brand": "Asus",
+  "model": "PA348CGV",
+  "category": "Monitors",
+  "scope": "ASUS global exact-model technical specification reference; Latvian stocked regional suffix and EAN unresolved.",
+  "identifiers": [
+    "PA348CGV"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "ProArt Display PA348CGV - Tech Specs｜Monitors｜ASUS Global",
+  "source_url": "https://www.asus.com/displays-desktops/monitors/proart/proart-display-pa348cgv/techspec/",
+  "tele2_url": "https://www.tele2.lv/monitori/asus-proart-display-pa348cgv-34inch/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Panel Size (inch)",
+      "value": "34",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Pixels Per Inch (PPI)",
+      "value": "110",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Aspect Ratio",
+      "value": "21:9",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Display Viewing Area (H x V)",
+      "value": "799.8 x 334.8 mm",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Display Surface",
+      "value": "Anti-Glare",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Backlight Type",
+      "value": "LED",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Panel Type",
+      "value": "IPS",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Viewing Angle (CR≧10, H/V)",
+      "value": "178°/ 178°",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Pixel Pitch",
+      "value": "0.2325mm",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Resolution",
+      "value": "3440x1440",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Color Space (sRGB)",
+      "value": "100%",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Color Space (DCI-P3)",
+      "value": "98%",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Brightness (HDR, Peak)",
+      "value": "400 cd/㎡",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Brightness (Typ.)",
+      "value": "350cd/㎡",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Contrast Ratio (Typ.)",
+      "value": "1000:1",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Display Colors",
+      "value": "1073.7M (10 bit)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Response Time",
+      "value": "2ms(GTG)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Refresh Rate (Max)",
+      "value": "120Hz",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "HDR (High Dynamic Range) Support",
+      "value": "HDR10",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Flicker-free",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "LCD ZBD Warranty",
+      "value": "Yes(3 yr)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Trace Free Technology",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "ProArt Preset",
+      "value": "User mode2",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "User mode1",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "HDR",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "Rapid Rendering",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "Reading",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "Scenery",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "Rec.709",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "DCI-P3",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "sRGB",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "Standard",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Color Temp. Selection",
+      "value": "Yes (5 modes)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Color Adjustment",
+      "value": "6-axis adjustment (R,G,B,C,M,Y)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Gamma Adjustment",
+      "value": "Yes (Support Gamma 1.8/2.0/2.2/2.4/2.6)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Color Accuracy",
+      "value": "△E< 2",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "ProArt Palette",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "QuickFit Plus",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "PIP / PBP Technology",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "HDCP",
+      "value": "Yes, 2.2",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "VRR Technology",
+      "value": "Yes (Adaptive-Sync)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "ProArt Chroma Tune",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Low Blue Light",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Speaker",
+      "value": "Yes(2Wx2)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "USB-C x 1 (DP Alt Mode)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "DisplayPort 1.4 x 1",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "HDMI(v2.0) x 2",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "USB Hub",
+      "value": "4x USB 3.2 Gen 1 Type-A",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Earphone Jack",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "USB-C Power Delivery",
+      "value": "90W",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Digital Signal Frequency",
+      "value": "HDMI: 30~151 KHz (H) / 30~100 Hz (V)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "USB-C, DisplayPort: 185~185 KHz (H) / 48~120 Hz (V)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Power Consumption",
+      "value": "19.36 W",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Power Saving Mode",
+      "value": "<0.5W",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Power Off Mode",
+      "value": "0W (hard switch)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Voltage",
+      "value": "100-240V, 50/60Hz",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Tilt",
+      "value": "Yes (+23° ~ -5°)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Swivel",
+      "value": "Yes (+30° ~ -30°)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Height Adjustment",
+      "value": "0~115mm",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "VESA Wall Mounting",
+      "value": "100x100mm",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Kensington Lock",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Phys. Dimension (W x H x D)",
+      "value": "81.76 x 56.89 x 24.50 cm (32.19\" x 22.40\" x 9.65\")",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Phys. Dimension without Stand (W x H x D)",
+      "value": "81.76 x 36.82 x 6.89 cm (32.19\" x 14.50\" x 2.71\")",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Box Dimension (W x H x D)",
+      "value": "93.00 x 48.80 x 30.00 cm (36.61\" x 19.21\" x 11.81\")",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Net Weight",
+      "value": "12.2 kg (26.90 lbs)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Net Weight without Stand",
+      "value": "7.8 kg (17.20 lbs)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Gross Weight",
+      "value": "17.0 kg (37.48 lbs)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "Welcome Card",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "Warranty Card",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "USB-C cable",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "Quick start guide",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "Quick release stand",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "HDMI cable",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "DisplayPort cable",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "Desk C Clamp",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "Color pre-calibration report",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "Mac Compliance",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "Calman Verified",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "AMD FreeSync Premium Pro",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "VESA DisplayHDR 400",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "TÜV Low Blue Light",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "TÜV Flicker-free",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "TCO Certified",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "Energy Star",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "*FreeSync Premium Pro up to 120 Hz for DisplayPort and USB-C ports, Adaptive-Sync up to 100Hz for HDMI port.",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    }
+  ],
+  "missing_fields": [
+    "Latvia stocked unit EAN reconciliation",
+    "Manual input-specific refresh limits and test footnotes where unresolved"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.asus.com/displays-desktops/monitors/proart/proart-display-pa348cgv/techspec/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "HTTP 200; exact model title and technical specification block read"
+    }
+  ],
+  "research_lane": "monitors"
+}

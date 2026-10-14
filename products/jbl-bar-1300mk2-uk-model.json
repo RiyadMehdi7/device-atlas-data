@@ -1,0 +1,143 @@
+{
+  "id": "jbl-bar-1300mk2-uk-model",
+  "brand": "JBL",
+  "model": "Bar 1300MK2",
+  "category": "Speakers",
+  "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "JBL Bar 1300MK2 | 11.1.4 channel soundbar system with detachable surround speakers and Dolby Atmos® and DTS:X®",
+  "source_url": "https://uk.jbl.com/BAR-1300MK2.html",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Model",
+      "value": "BAR 1300MK2 (soundbar unit) BAR 1300MK2 SURROUND (detachable speaker) BAR 1300MK2 SUB (subwoofer unit)",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Sound system",
+      "value": "11.1.4 channel",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Power supply",
+      "value": "100 - 240V AC, ~ 50/60Hz",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Total speaker power output* (Max. @THD 1%)",
+      "value": "2470W",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Soundbar output power** (Max. @THD 1%)",
+      "value": "950W",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Surround speaker output power*** (Max. @THD 1%)",
+      "value": "2x 160W",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Subwoofer output power**** (Max. @THD 1%)",
+      "value": "1200W",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Soundbar transducer",
+      "value": "8x (50x75mm) racetrack drivers, 7x 1\" (25mm) tweeters, 4x 3\" (75mm) up-firing full-range drivers",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Surround speaker transducer",
+      "value": "2x (50x90mm) racetrack drivers, 1x 2\" (50mm) full-range drivers, 1x 3\" (75mm) up-firing full-range drivers",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Subwoofer transducer",
+      "value": "2x 8\" (200mm)",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Networked standby power",
+      "value": "< 2 W",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Operating temperature",
+      "value": "0°C - 45°C",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Lithium battery",
+      "value": "7.2V, 4722mAh",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Detachable surround speaker playtime",
+      "value": "up to 10 hours (may vary according to content type and volume level)",
+      "unit": "",
+      "condition": "Manufacturer maximum; volume/test settings not specified in table"
+    },
+    {
+      "label": "Frequency response",
+      "value": "33Hz - 20kHz (-6dB)",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Audio inputs",
+      "value": "Optical, Bluetooth, USB (USB playback is available in US version. For other versions, USB is for Service only.)",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Total soundbar dimensions (W x H x D)",
+      "value": "1404 x 58 x 136mm / 55.3\" x 2.3\" x 5.4\"",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Soundbar weight",
+      "value": "5.93kg / 13lbs",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Subwoofer weight",
+      "value": "12kg / 26.5lbs",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU/GTIN matching"
+  ],
+  "source_pages": [
+    {
+      "url": "https://uk.jbl.com/BAR-1300MK2.html",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Specification table read; conflicting or ambiguous playback totals omitted"
+    }
+  ],
+  "research_lane": "audio"
+}

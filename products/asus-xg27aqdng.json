@@ -1,0 +1,350 @@
+{
+  "id": "asus-xg27aqdng",
+  "brand": "Asus",
+  "model": "XG27AQDNG",
+  "category": "Monitors",
+  "scope": "Exact ROG global model specification. Dimensions and weights are estimated and may vary by region; Latvian EAN matching remains unresolved.",
+  "identifiers": [
+    "XG27AQDNG"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "27-inch 1440p QD-OLED | 360Hz, 0.03ms | gaming monitor",
+  "source_url": "https://rog.asus.com/monitors/27-to-31-5-inches/rog-strix-oled-xg27aqdng/spec/",
+  "tele2_url": "https://www.tele2.lv/monitori/asus-xg27aqdng-27inch-oled-monitor/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Panel Size (inch)",
+      "value": "26.5",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Display; regional stock suffix unresolved."
+    },
+    {
+      "label": "Aspect Ratio",
+      "value": "16:9",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Display; regional stock suffix unresolved."
+    },
+    {
+      "label": "Color Space (DCI-P3)",
+      "value": "99%",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Display; regional stock suffix unresolved."
+    },
+    {
+      "label": "Color Space (sRGB)",
+      "value": "135%",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Display; regional stock suffix unresolved."
+    },
+    {
+      "label": "Panel Type",
+      "value": "QD-OLED",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Display; regional stock suffix unresolved."
+    },
+    {
+      "label": "Resolution",
+      "value": "2560x1440",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Display; regional stock suffix unresolved."
+    },
+    {
+      "label": "Display Viewing Area (HxV)",
+      "value": "590.42 x 333.72 mm",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Display; regional stock suffix unresolved."
+    },
+    {
+      "label": "Display Surface",
+      "value": "Anti-Reflection",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Display; regional stock suffix unresolved."
+    },
+    {
+      "label": "Pixel Pitch",
+      "value": "0.229mm",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Display; regional stock suffix unresolved."
+    },
+    {
+      "label": "Brightness (HDR, Peak) *",
+      "value": "1,000 cd/㎡",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Display; regional stock suffix unresolved."
+    },
+    {
+      "label": "Contrast Ratio (Typ.)",
+      "value": "1,500,000:1",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Display; regional stock suffix unresolved."
+    },
+    {
+      "label": "Viewing Angle (CR≧10)",
+      "value": "178°/ 178°",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Display; regional stock suffix unresolved."
+    },
+    {
+      "label": "Response Time",
+      "value": "0.03ms(GTG)",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Display; regional stock suffix unresolved."
+    },
+    {
+      "label": "Color Accuracy",
+      "value": "△E< 2",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Display; regional stock suffix unresolved."
+    },
+    {
+      "label": "Display Colors",
+      "value": "1073.7M (10 bit)",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Display; regional stock suffix unresolved."
+    },
+    {
+      "label": "Flicker free",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Display; regional stock suffix unresolved."
+    },
+    {
+      "label": "HDR (High Dynamic Range) Support",
+      "value": "HDR10",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Display; regional stock suffix unresolved."
+    },
+    {
+      "label": "Refresh Rate (max)",
+      "value": "360Hz",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Display; regional stock suffix unresolved."
+    },
+    {
+      "label": "ASUS OLED Care",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Display; regional stock suffix unresolved."
+    },
+    {
+      "label": "GamePlus",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Features; regional stock suffix unresolved."
+    },
+    {
+      "label": "Game Visual",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Features; regional stock suffix unresolved."
+    },
+    {
+      "label": "VRR Technology",
+      "value": "FreeSync™ Premium Pro & G-SYNC ® Compatible",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Features; regional stock suffix unresolved."
+    },
+    {
+      "label": "Extreme Low Motion Blur",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Features; regional stock suffix unresolved."
+    },
+    {
+      "label": "DisplayWidget",
+      "value": "Yes, DisplayWidget Center",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Features; regional stock suffix unresolved."
+    },
+    {
+      "label": "GameFast Input technology",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Features; regional stock suffix unresolved."
+    },
+    {
+      "label": "Shadow Boost",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Features; regional stock suffix unresolved."
+    },
+    {
+      "label": "Aspect Control",
+      "value": "Full / Dot to Dot / 1:1 Ratio",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Features; regional stock suffix unresolved."
+    },
+    {
+      "label": "A.I. Assistant Technology",
+      "value": "AI Visual",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Features; regional stock suffix unresolved."
+    },
+    {
+      "label": "A.I. Assistant Technology",
+      "value": "Dynamic Crosshair",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Features; regional stock suffix unresolved."
+    },
+    {
+      "label": "A.I. Assistant Technology",
+      "value": "Dynamic Shadow Boost",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Features; regional stock suffix unresolved."
+    },
+    {
+      "label": "A.I. Assistant Technology",
+      "value": "AI Crosshair",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Features; regional stock suffix unresolved."
+    },
+    {
+      "label": "A.I. Assistant Technology",
+      "value": "AI Shadow Boost",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Features; regional stock suffix unresolved."
+    },
+    {
+      "label": "Color Calibration E-report",
+      "value": "Yes, via DisplayWidget Center",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Features; regional stock suffix unresolved."
+    },
+    {
+      "label": "I/O Ports",
+      "value": "DisplayPort 1.4 DSC x 1 HDMI (v2.1) x 2 (FRL) Earphone jack : Yes USB Hub : 2x USB 3.2 Gen 1 Type-A",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; I/O Ports; regional stock suffix unresolved."
+    },
+    {
+      "label": "Speaker",
+      "value": "No",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Audio; regional stock suffix unresolved."
+    },
+    {
+      "label": "Digital Signal Frequency",
+      "value": "DP: 26.20KHz to 935.48KHz(H)/48HZ to 360Hz(V) HDMI: 26.20KHz to 935.48KHz(H)/48HZ to 360Hz(V)",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Signal Frequency; regional stock suffix unresolved."
+    },
+    {
+      "label": "Power Consumption",
+      "value": "<60W Power Saving Mode : <0.5W Power Off Mode : <0.3W Voltage : 100-240V, 50/60Hz",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Power Consumption; regional stock suffix unresolved."
+    },
+    {
+      "label": "1/4\" Tripod Socket",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Mechanical Design; regional stock suffix unresolved."
+    },
+    {
+      "label": "Tilt",
+      "value": "Yes (+20° ~ -5°)",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Mechanical Design; regional stock suffix unresolved."
+    },
+    {
+      "label": "Swivel",
+      "value": "Yes (+45° ~ -45°)",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Mechanical Design; regional stock suffix unresolved."
+    },
+    {
+      "label": "Pivot",
+      "value": "Yes (+90° ~ -90°)",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Mechanical Design; regional stock suffix unresolved."
+    },
+    {
+      "label": "Height Adjustment",
+      "value": "0~110mm",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Mechanical Design; regional stock suffix unresolved."
+    },
+    {
+      "label": "VESA Wall Mounting",
+      "value": "100x100mm",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Mechanical Design; regional stock suffix unresolved."
+    },
+    {
+      "label": "Lighting effect (Aura)",
+      "value": "Aura Sync",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Mechanical Design; regional stock suffix unresolved."
+    },
+    {
+      "label": "Proximity Sensor",
+      "value": "Neo Proximity Sensor",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Mechanical Design; regional stock suffix unresolved."
+    },
+    {
+      "label": "Kensington Lock",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Mechanical Design; regional stock suffix unresolved."
+    },
+    {
+      "label": "Phys. Dimension with stand (W x H x D)",
+      "value": "61.11 x 50.25 x 16.94 cm (24.06\" x 19.78\" x 6.67\")",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Dimensions (Esti.)(vary by regions); regional stock suffix unresolved."
+    },
+    {
+      "label": "Phys. Dimension without Stand (W x H x D)",
+      "value": "61.11 x 36.96 x 6.65 cm (24.06\" x 14.55\" x 2.62\")",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Dimensions (Esti.)(vary by regions); regional stock suffix unresolved."
+    },
+    {
+      "label": "Box Dimension (W x H x D)",
+      "value": "86.00 x 50.00 x 16.30 cm (33.86\" x 19.69\" x 6.42\")",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Dimensions (Esti.)(vary by regions); regional stock suffix unresolved."
+    },
+    {
+      "label": "Net Weight with Stand",
+      "value": "6.1 kg (13.45 lbs) Net Weight without Stand : 4.1 kg (9.04 lbs) Gross Weight : 9.0 kg (19.84 lbs)",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Weight (Esti.)(vary by regions); regional stock suffix unresolved."
+    },
+    {
+      "label": "Accessories (vary by regions)",
+      "value": "DisplayPort cable Microfiber cloth Power cord Quick start guide ROG pouch ROG sticker USB 3.2 cable VESA mount kit Warranty Card",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Accessories (vary by regions); regional stock suffix unresolved."
+    },
+    {
+      "label": "Certificate",
+      "value": "TÜV Flicker-free TÜV Low Blue Light (Hardware Solution) VESA AdaptiveSync Display 360Hz VESA DisplayHDR 400 True Black AMD FreeSync Premium Pro G-SYNC Compatible",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Certificate; regional stock suffix unresolved."
+    },
+    {
+      "label": "Warranty",
+      "value": "3 years (including panel burn-in)",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Warranty; regional stock suffix unresolved."
+    }
+  ],
+  "missing_fields": [
+    "Latvia EAN reconciliation",
+    "Input timing table from user manual"
+  ],
+  "source_pages": [
+    {
+      "url": "https://rog.asus.com/monitors/27-to-31-5-inches/rog-strix-oled-xg27aqdng/spec/",
+      "fetched_at": "2026-10-14",
+      "method": "Exa web_fetch_exa full page",
+      "notes": "Exact model heading and full technical sections read"
+    }
+  ],
+  "research_lane": "monitors"
+}

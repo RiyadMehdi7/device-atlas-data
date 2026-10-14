@@ -1,0 +1,234 @@
+{
+  "id": "xiaomi-watch-s4-41mm",
+  "brand": "Xiaomi",
+  "model": "Watch S4 41mm",
+  "category": "Smartwatches",
+  "scope": "Global manufacturer model-family reference. Strap/colour alternatives do not form separate products. Any NFC, LTE, ceramic or regional subvariants described remain conditional; exact Latvia SKU unresolved.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Xiaomi Watch S4 41mm specifications",
+  "source_url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Specification",
+      "value": "Sunset gold",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Specification",
+      "value": "Mint green",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Specification",
+      "value": "White",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Dimensions",
+      "value": "41.2mm × 41.2mm × 9.5mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Dimensions",
+      "value": "32g approx. (without inbox strap)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Frame",
+      "value": "Stainless steel",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Adjustable strap length",
+      "value": "120-190mm approx.",
+      "unit": "",
+      "condition": "Range depends on strap/colour variant; model-family reference"
+    },
+    {
+      "label": "Adjustable strap length",
+      "value": "130-190mm approx.",
+      "unit": "",
+      "condition": "Range depends on strap/colour variant; model-family reference"
+    },
+    {
+      "label": "Sensors",
+      "value": "Heart rate sensor (with blood oxygen sensor)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Accelerometer",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Gyroscope",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Ambient light sensor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Electronic compass",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Barometer sensor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Temperature sensor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Satellite positioning systems",
+      "value": "GPS | Galileo | Glonass | BeiDou | QZSS",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Light usage time",
+      "value": "up to 8 days",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Normal usage time",
+      "value": "up to 4 days",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Heavy usage time",
+      "value": "up to 3 days",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Capacity",
+      "value": "320mAh",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Resolution",
+      "value": "466 × 466 pixels，PPI 352",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Display",
+      "value": "1.32-inch AMOLED display",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Display",
+      "value": "60Hz refresh rate",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Brightness",
+      "value": "HBM 1500nits",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Built-in GNSS",
+      "value": "Supported",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Water resistance rating",
+      "value": "5ATM",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Speaker",
+      "value": "Supported",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Microphone",
+      "value": "1 mic",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "NFC",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Manufacturer global model claim; NFC payment support varies by region"
+    },
+    {
+      "label": "Bluetooth calling",
+      "value": "Supported",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Wireless connectivity",
+      "value": "Bluetooth® 5.4",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Operating system",
+      "value": "Xiaomi HyperOS 3",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Compatibility",
+      "value": "Supports smartphones with Android 8.0 and above, or iOS 14.0 and above.",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Charging port",
+      "value": "2-Pin magnetic charging dock",
+      "unit": "",
+      "condition": ""
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU / GTIN matching",
+    "Regional app and payment availability"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/xiaomi-watch-s4-41mm/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Manufacturer technical specification content parsed; extracted factual fields only"
+    }
+  ],
+  "research_lane": "wearables"
+}

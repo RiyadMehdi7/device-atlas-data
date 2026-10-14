@@ -1,0 +1,216 @@
+{
+  "id": "philips-43pqs8611-manual",
+  "brand": "Philips",
+  "model": "43PQS8611",
+  "category": "Televisions",
+  "scope": "Exact manual-listed model reference; Tele2 observes 43PQS8611/12, but manufacturer manual does not establish /12 suffix. Shared manual claims only; no diagonal, energy, speaker-channel or native refresh inference.",
+  "identifiers": [
+    "43PQS8611"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Philips 8611 Series User Manual — explicitly listed 43PQS8611",
+  "source_url": "https://www.documents.philips.com/assets/20260622/b65c3fb9e3ae41468743b471009b358b.pdf",
+  "tele2_url": "https://www.tele2.lv/televizori/philips-43pqs861112-43-108-cm-4k-qled-am/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Mains supply",
+      "value": "AC 100–240 V",
+      "unit": "",
+      "condition": "Shared official 8611 manual explicitly lists 43PQS8611 on cover. Manual specification claim; /12 regional SKU applicability unresolved. 120 Hz HDMI inputs require Optimal for movie/game setting and do not prove native panel refresh."
+    },
+    {
+      "label": "Ambient operating temperature",
+      "value": "5°C to 35°C",
+      "unit": "",
+      "condition": "Shared official 8611 manual explicitly lists 43PQS8611 on cover. Manual specification claim; /12 regional SKU applicability unresolved. 120 Hz HDMI inputs require Optimal for movie/game setting and do not prove native panel refresh."
+    },
+    {
+      "label": "Display resolution (manual)",
+      "value": "3840 × 2160",
+      "unit": "",
+      "condition": "Shared official 8611 manual explicitly lists 43PQS8611 on cover. Manual specification claim; /12 regional SKU applicability unresolved. 120 Hz HDMI inputs require Optimal for movie/game setting and do not prove native panel refresh."
+    },
+    {
+      "label": "Supported computer/video mode 640×480",
+      "value": "60 Hz",
+      "unit": "",
+      "condition": "Shared official 8611 manual explicitly lists 43PQS8611 on cover. Manual specification claim; /12 regional SKU applicability unresolved. 120 Hz HDMI inputs require Optimal for movie/game setting and do not prove native panel refresh."
+    },
+    {
+      "label": "Supported video mode 576p",
+      "value": "50 Hz",
+      "unit": "",
+      "condition": "Shared official 8611 manual explicitly lists 43PQS8611 on cover. Manual specification claim; /12 regional SKU applicability unresolved. 120 Hz HDMI inputs require Optimal for movie/game setting and do not prove native panel refresh."
+    },
+    {
+      "label": "Supported video mode 720p",
+      "value": "50 / 60 Hz",
+      "unit": "",
+      "condition": "Shared official 8611 manual explicitly lists 43PQS8611 on cover. Manual specification claim; /12 regional SKU applicability unresolved. 120 Hz HDMI inputs require Optimal for movie/game setting and do not prove native panel refresh."
+    },
+    {
+      "label": "Supported computer/video mode 1920×1080p",
+      "value": "24 / 25 / 30 / 50 / 60 / 120 Hz",
+      "unit": "",
+      "condition": "Shared official 8611 manual explicitly lists 43PQS8611 on cover. Manual specification claim; /12 regional SKU applicability unresolved. 120 Hz HDMI inputs require Optimal for movie/game setting and do not prove native panel refresh."
+    },
+    {
+      "label": "Supported computer/video mode 2560×1440p",
+      "value": "60 / 120 Hz",
+      "unit": "",
+      "condition": "Shared official 8611 manual explicitly lists 43PQS8611 on cover. Manual specification claim; /12 regional SKU applicability unresolved. 120 Hz HDMI inputs require Optimal for movie/game setting and do not prove native panel refresh."
+    },
+    {
+      "label": "Supported computer/video mode 3840×2160p",
+      "value": "24 / 25 / 30 / 50 / 60 Hz",
+      "unit": "",
+      "condition": "Shared official 8611 manual explicitly lists 43PQS8611 on cover. Manual specification claim; /12 regional SKU applicability unresolved. 120 Hz HDMI inputs require Optimal for movie/game setting and do not prove native panel refresh."
+    },
+    {
+      "label": "Speaker output RMS (manual)",
+      "value": "20 W",
+      "unit": "",
+      "condition": "Shared official 8611 manual explicitly lists 43PQS8611 on cover. Manual specification claim; /12 regional SKU applicability unresolved. 120 Hz HDMI inputs require Optimal for movie/game setting and do not prove native panel refresh."
+    },
+    {
+      "label": "Sound processor",
+      "value": "IntelliSound",
+      "unit": "",
+      "condition": "Shared official 8611 manual explicitly lists 43PQS8611 on cover. Manual specification claim; /12 regional SKU applicability unresolved. 120 Hz HDMI inputs require Optimal for movie/game setting and do not prove native panel refresh."
+    },
+    {
+      "label": "Audio formats / processing",
+      "value": "Dolby MS12 / Dolby Atmos / DTS:X",
+      "unit": "",
+      "condition": "Shared official 8611 manual explicitly lists 43PQS8611 on cover. Manual specification claim; /12 regional SKU applicability unresolved. 120 Hz HDMI inputs require Optimal for movie/game setting and do not prove native panel refresh."
+    },
+    {
+      "label": "Dialogue enhancement",
+      "value": "Dolby Dialogue Enhancement / Vocal Boost",
+      "unit": "",
+      "condition": "Shared official 8611 manual explicitly lists 43PQS8611 on cover. Manual specification claim; /12 regional SKU applicability unresolved. 120 Hz HDMI inputs require Optimal for movie/game setting and do not prove native panel refresh."
+    },
+    {
+      "label": "Audio calibration features",
+      "value": "Room Calibration / Hearing Profile / AI Equaliser",
+      "unit": "",
+      "condition": "Shared official 8611 manual explicitly lists 43PQS8611 on cover. Manual specification claim; /12 regional SKU applicability unresolved. 120 Hz HDMI inputs require Optimal for movie/game setting and do not prove native panel refresh."
+    },
+    {
+      "label": "Wireless LAN",
+      "value": "802.11ac / dual band",
+      "unit": "",
+      "condition": "Shared official 8611 manual explicitly lists 43PQS8611 on cover. Manual specification claim; /12 regional SKU applicability unresolved. 120 Hz HDMI inputs require Optimal for movie/game setting and do not prove native panel refresh."
+    },
+    {
+      "label": "Bluetooth",
+      "value": "5.2",
+      "unit": "",
+      "condition": "Shared official 8611 manual explicitly lists 43PQS8611 on cover. Manual specification claim; /12 regional SKU applicability unresolved. 120 Hz HDMI inputs require Optimal for movie/game setting and do not prove native panel refresh."
+    },
+    {
+      "label": "USB file systems",
+      "value": "FAT / NTFS",
+      "unit": "",
+      "condition": "Shared official 8611 manual explicitly lists 43PQS8611 on cover. Manual specification claim; /12 regional SKU applicability unresolved. 120 Hz HDMI inputs require Optimal for movie/game setting and do not prove native panel refresh."
+    },
+    {
+      "label": "Audio file codecs",
+      "value": "MP3 / WAV / AAC / FLAC",
+      "unit": "",
+      "condition": "Shared official 8611 manual explicitly lists 43PQS8611 on cover. Manual specification claim; /12 regional SKU applicability unresolved. 120 Hz HDMI inputs require Optimal for movie/game setting and do not prove native panel refresh."
+    },
+    {
+      "label": "Video file codecs",
+      "value": "AVI / MKV / HEVC / H.264 MPEG-4 AVC / MPEG1 / MPEG2 / MPEG4 / VP9 / H.265 / AV1",
+      "unit": "",
+      "condition": "Shared official 8611 manual explicitly lists 43PQS8611 on cover. Manual specification claim; /12 regional SKU applicability unresolved. 120 Hz HDMI inputs require Optimal for movie/game setting and do not prove native panel refresh."
+    },
+    {
+      "label": "Image codecs",
+      "value": "JPEG / GIF / PNG / BMP / HEIF",
+      "unit": "",
+      "condition": "Shared official 8611 manual explicitly lists 43PQS8611 on cover. Manual specification claim; /12 regional SKU applicability unresolved. 120 Hz HDMI inputs require Optimal for movie/game setting and do not prove native panel refresh."
+    },
+    {
+      "label": "Subtitle formats",
+      "value": "SRT / SMI / SSA / SUB / ASS / TXT",
+      "unit": "",
+      "condition": "Shared official 8611 manual explicitly lists 43PQS8611 on cover. Manual specification claim; /12 regional SKU applicability unresolved. 120 Hz HDMI inputs require Optimal for movie/game setting and do not prove native panel refresh."
+    },
+    {
+      "label": "H.264 maximum bit rate",
+      "value": "30 Mbps; High Profile @ L5.1",
+      "unit": "",
+      "condition": "Shared official 8611 manual explicitly lists 43PQS8611 on cover. Manual specification claim; /12 regional SKU applicability unresolved. 120 Hz HDMI inputs require Optimal for movie/game setting and do not prove native panel refresh."
+    },
+    {
+      "label": "H.265 maximum bit rate",
+      "value": "40 Mbps; Main / Main 10 Profile up to Level 5.1",
+      "unit": "",
+      "condition": "Shared official 8611 manual explicitly lists 43PQS8611 on cover. Manual specification claim; /12 regional SKU applicability unresolved. 120 Hz HDMI inputs require Optimal for movie/game setting and do not prove native panel refresh."
+    },
+    {
+      "label": "Ethernet connector",
+      "value": "RJ45",
+      "unit": "",
+      "condition": "Shared official 8611 manual explicitly lists 43PQS8611 on cover. Manual specification claim; /12 regional SKU applicability unresolved. 120 Hz HDMI inputs require Optimal for movie/game setting and do not prove native panel refresh."
+    },
+    {
+      "label": "USB connectors (manual)",
+      "value": "USB 1 / USB 2; USB 2.0",
+      "unit": "",
+      "condition": "Shared official 8611 manual explicitly lists 43PQS8611 on cover. Manual specification claim; /12 regional SKU applicability unresolved. 120 Hz HDMI inputs require Optimal for movie/game setting and do not prove native panel refresh."
+    },
+    {
+      "label": "CI slot (manual)",
+      "value": "CI+ / CAM",
+      "unit": "",
+      "condition": "Shared official 8611 manual explicitly lists 43PQS8611 on cover. Manual specification claim; /12 regional SKU applicability unresolved. 120 Hz HDMI inputs require Optimal for movie/game setting and do not prove native panel refresh."
+    },
+    {
+      "label": "Headphone output (manual)",
+      "value": "Stereo 3.5 mm mini-jack",
+      "unit": "",
+      "condition": "Shared official 8611 manual explicitly lists 43PQS8611 on cover. Manual specification claim; /12 regional SKU applicability unresolved. 120 Hz HDMI inputs require Optimal for movie/game setting and do not prove native panel refresh."
+    },
+    {
+      "label": "HDMI inputs (manual)",
+      "value": "HDMI 1 / 2 / 3; UHD HDR",
+      "unit": "",
+      "condition": "Shared official 8611 manual explicitly lists 43PQS8611 on cover. Manual specification claim; /12 regional SKU applicability unresolved. 120 Hz HDMI inputs require Optimal for movie/game setting and do not prove native panel refresh."
+    },
+    {
+      "label": "ARC / eARC input (manual)",
+      "value": "HDMI 1",
+      "unit": "",
+      "condition": "Shared official 8611 manual explicitly lists 43PQS8611 on cover. Manual specification claim; /12 regional SKU applicability unresolved. 120 Hz HDMI inputs require Optimal for movie/game setting and do not prove native panel refresh."
+    },
+    {
+      "label": "Digital audio output (manual)",
+      "value": "Optical Toslink",
+      "unit": "",
+      "condition": "Shared official 8611 manual explicitly lists 43PQS8611 on cover. Manual specification claim; /12 regional SKU applicability unresolved. 120 Hz HDMI inputs require Optimal for movie/game setting and do not prove native panel refresh."
+    }
+  ],
+  "missing_fields": [
+    "Exact /12 manufacturer suffix match",
+    "GTIN",
+    "Native panel refresh",
+    "Exact energy fiche",
+    "Variant dimensions/weight",
+    "Independent speaker output confirmation"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.documents.philips.com/assets/20260622/b65c3fb9e3ae41468743b471009b358b.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP PDF fetch and pdftotext -layout",
+      "notes": "HTTP 200; exact model appears on cover. Specifications sections 22.1–22.7 read. Conditional satellite applicability omitted."
+    }
+  ],
+  "research_lane": "televisions"
+}

@@ -1,0 +1,279 @@
+{
+  "id": "microsoft-surface-pro-for-business-13-inch-12th-edition-intel",
+  "brand": "Microsoft",
+  "model": "Surface Pro for Business 13-inch (12th Edition, Intel)",
+  "model_family": "Surface Pro for Business 13-inch (12th Edition, Intel)",
+  "category": "Tablets",
+  "scope": "Manufacturer model reference. Official manufacturer business platform fact sheet. Processor, memory, storage and screen alternatives remain options, not an exact purchasable SKU; European availability/SKU matching required.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer model source checked; Latvia SKU needs matching",
+  "source_name": "Microsoft Surface Pro for Business 13-inch (12th Edition, Intel) technical specifications",
+  "source_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mlsd/documents/presentations/en-us/surface/msft-echo-Surface-Pro-for-Business-13-inch-fact-sheet.pdf",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Processor options",
+      "value": "Intel Core Ultra 5 335 / Ultra 7 366H, Series 3",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mlsd/documents/presentations/en-us/surface/msft-echo-Surface-Pro-for-Business-13-inch-fact-sheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "NPU",
+      "value": "Intel AI Boost: Ultra 5 47 TOPS / Ultra 7 50 TOPS",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mlsd/documents/presentations/en-us/surface/msft-echo-Surface-Pro-for-Business-13-inch-fact-sheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Graphics",
+      "value": "Intel Graphics",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mlsd/documents/presentations/en-us/surface/msft-echo-Surface-Pro-for-Business-13-inch-fact-sheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Memory options",
+      "value": "16GB / 32GB / 64GB LPDDR5x",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mlsd/documents/presentations/en-us/surface/msft-echo-Surface-Pro-for-Business-13-inch-fact-sheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Storage options",
+      "value": "256GB / 512GB / 1TB removable Gen4 SSD",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mlsd/documents/presentations/en-us/surface/msft-echo-Surface-Pro-for-Business-13-inch-fact-sheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Screen size",
+      "value": "13 inches",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mlsd/documents/presentations/en-us/surface/msft-echo-Surface-Pro-for-Business-13-inch-fact-sheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display",
+      "value": "PixelSense Flow OLED or LCD options",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mlsd/documents/presentations/en-us/surface/msft-echo-Surface-Pro-for-Business-13-inch-fact-sheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "USB ports",
+      "value": "2 x USB-C / USB4 / Thunderbolt 4",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mlsd/documents/presentations/en-us/surface/msft-echo-Surface-Pro-for-Business-13-inch-fact-sheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Biometrics",
+      "value": "Windows Hello facial recognition; Enhanced Sign-in Security",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mlsd/documents/presentations/en-us/surface/msft-echo-Surface-Pro-for-Business-13-inch-fact-sheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Security",
+      "value": "Microsoft Pluton TPM2.0; Windows 11 Secured-core; BitLocker",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mlsd/documents/presentations/en-us/surface/msft-echo-Surface-Pro-for-Business-13-inch-fact-sheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "NFC authentication",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mlsd/documents/presentations/en-us/surface/msft-echo-Surface-Pro-for-Business-13-inch-fact-sheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi",
+      "value": "Wi-Fi 7; 6GHz availability regional",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mlsd/documents/presentations/en-us/surface/msft-echo-Surface-Pro-for-Business-13-inch-fact-sheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "Core 5.4",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mlsd/documents/presentations/en-us/surface/msft-echo-Surface-Pro-for-Business-13-inch-fact-sheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Local video battery claim",
+      "value": "Up to 17h LCD; configuration-dependent",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mlsd/documents/presentations/en-us/surface/msft-echo-Surface-Pro-for-Business-13-inch-fact-sheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Microphones",
+      "value": "Dual Studio Mics; voice focus requires activation",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mlsd/documents/presentations/en-us/surface/msft-echo-Surface-Pro-for-Business-13-inch-fact-sheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Speakers",
+      "value": "Stereo Dolby Atmos",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mlsd/documents/presentations/en-us/surface/msft-echo-Surface-Pro-for-Business-13-inch-fact-sheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Stylus",
+      "value": "Surface Slim Pen; pen and keyboard separate",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mlsd/documents/presentations/en-us/surface/msft-echo-Surface-Pro-for-Business-13-inch-fact-sheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Kickstand",
+      "value": "Adjustable kickstand",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mlsd/documents/presentations/en-us/surface/msft-echo-Surface-Pro-for-Business-13-inch-fact-sheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Anti-reflective display",
+      "value": "ISO 9241-307 certified",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mlsd/documents/presentations/en-us/surface/msft-echo-Surface-Pro-for-Business-13-inch-fact-sheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Adaptive colour",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mlsd/documents/presentations/en-us/surface/msft-echo-Surface-Pro-for-Business-13-inch-fact-sheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Adaptive contrast",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mlsd/documents/presentations/en-us/surface/msft-echo-Surface-Pro-for-Business-13-inch-fact-sheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display resolution",
+      "value": "2880 x 1920",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mlsd/documents/presentations/en-us/surface/msft-echo-Surface-Pro-for-Business-13-inch-fact-sheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Pixel density",
+      "value": "267ppi",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mlsd/documents/presentations/en-us/surface/msft-echo-Surface-Pro-for-Business-13-inch-fact-sheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Aspect ratio",
+      "value": "3:2",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mlsd/documents/presentations/en-us/surface/msft-echo-Surface-Pro-for-Business-13-inch-fact-sheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Refresh",
+      "value": "Up to 120Hz dynamic",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mlsd/documents/presentations/en-us/surface/msft-echo-Surface-Pro-for-Business-13-inch-fact-sheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Touch",
+      "value": "10-point",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mlsd/documents/presentations/en-us/surface/msft-echo-Surface-Pro-for-Business-13-inch-fact-sheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display contrast",
+      "value": "OLED 1M:1 / LCD 1300:1",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mlsd/documents/presentations/en-us/surface/msft-echo-Surface-Pro-for-Business-13-inch-fact-sheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "OLED brightness",
+      "value": "SDR maximum typical 600 nits; HDR peak 900 nits",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mlsd/documents/presentations/en-us/surface/msft-echo-Surface-Pro-for-Business-13-inch-fact-sheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dolby Vision IQ",
+      "value": "Supported; encoded content required",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mlsd/documents/presentations/en-us/surface/msft-echo-Surface-Pro-for-Business-13-inch-fact-sheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front camera",
+      "value": "Quad HD, ultrawide Surface Studio Camera",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mlsd/documents/presentations/en-us/surface/msft-echo-Surface-Pro-for-Business-13-inch-fact-sheet.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Fast charging requirement",
+      "value": "Minimum 60W USB-C PD or 65W Surface power supply",
+      "unit": "",
+      "condition": "Battery tests use pre-production hardware, local 1080p24 video or websites at 150 nits, Wi-Fi connected; actual endurance varies. Accessories separate.",
+      "source_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mlsd/documents/presentations/en-us/surface/msft-echo-Surface-Pro-for-Business-13-inch-fact-sheet.pdf",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia-specific MPN/GTIN",
+    "Latvia retail configuration and package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mlsd/documents/presentations/en-us/surface/msft-echo-Surface-Pro-for-Business-13-inch-fact-sheet.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP PDF fetch + web open",
+      "notes": "Official PDF read; retained locally as surface-2.pdf"
+    }
+  ],
+  "research_lane": "tablets"
+}

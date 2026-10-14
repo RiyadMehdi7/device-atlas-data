@@ -1,0 +1,131 @@
+{
+  "id": "jbl-authentics-300-uk-model",
+  "brand": "JBL",
+  "model": "Authentics 300",
+  "category": "Speakers",
+  "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "JBL Authentics 300 | Portable smart home speaker with Wi-Fi, Bluetooth and voice assistants with retro design.",
+  "source_url": "https://uk.jbl.com/AUTHENTICS-300.html",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Power supply",
+      "value": "100 - 240V AC, ~ 50/60Hz",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Total speaker power output (Max @THD 1%)",
+      "value": "100W",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Transducer",
+      "value": "2 x 25mm tweeter + 5.25\" woofer",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Networked standby power",
+      "value": "< 2.0 W",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Lithium battery",
+      "value": "3.6V, 4800mAh",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Battery charge time",
+      "value": "<3.5 hours",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Music play time",
+      "value": "up to 8 hours (dependent on volume level and audio content)",
+      "unit": "",
+      "condition": "Manufacturer maximum; volume/test settings not specified in table"
+    },
+    {
+      "label": "Frequency response",
+      "value": "45Hz - 20kHz (-6dB)",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Audio inputs",
+      "value": "1 Audio in, Bluetooth/WIFI, Ethernet and USB (USB playback is available in US version. For other versions, USB is for Service only.)",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Dimensions (W x H x D)",
+      "value": "342 x 195.6 x 180.3 / 13.46\" x 7.7\" x 7.1\"",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Weight",
+      "value": "4.9 Kg / 10.8 lbs",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Packaging dimensions (W x H x D)",
+      "value": "403 x 272 x 272mm / 15.9\" x 10.7\" x 10.7\"",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Packaging Weight",
+      "value": "6.64 kg / 14.6 lbs",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth version",
+      "value": "5.3",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth pro­le",
+      "value": "A2DP 1.3.2, AVRCP 1.5",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "2.4G Wi-Fi transmitter frequency range",
+      "value": "2412 - 2472 MHz (2.4 GHz ISM Band, USA 11 Channels, Europe and others 13 Channels)",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "2.4G Wi-Fi transmitter power",
+      "value": "<20 dBm (EIRP)",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU/GTIN matching"
+  ],
+  "source_pages": [
+    {
+      "url": "https://uk.jbl.com/AUTHENTICS-300.html",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Specification table read; conflicting or ambiguous playback totals omitted"
+    }
+  ],
+  "research_lane": "audio"
+}

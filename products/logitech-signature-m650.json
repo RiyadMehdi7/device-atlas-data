@@ -1,0 +1,362 @@
+{
+  "id": "logitech-signature-m650",
+  "brand": "Logitech",
+  "model": "Signature M650",
+  "model_family": "Signature M650",
+  "category": "Accessories",
+  "scope": "UK manufacturer model reference. Explicit MPN options identify their labelled colour/layout variants; not a Latvia SKU. No colour/layout records generated.",
+  "identifiers": [
+    "910-006253",
+    "910-006236",
+    "910-006239",
+    "910-006254",
+    "910-006237",
+    "910-006255",
+    "910-006238",
+    "910-006240"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Logitech Signature M650 technical specifications",
+  "source_url": "https://www.logitech.com/en-gb/shop/p/m650-signature-wireless-mouse",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "System Requirements / Logi Bolt USB Receiver / Required: Available USB Port",
+      "value": "Listed requirement",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/m650-signature-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Logi Bolt USB Receiver / Windows",
+      "value": "['10', ' 11'] or later",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/m650-signature-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Logi Bolt USB Receiver / macOS",
+      "value": "10.10 or later",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/m650-signature-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Logi Bolt USB Receiver / Linux",
+      "value": "Listed requirement [Device will be supported without adding additional drivers in ChromeOS and most popular Linux distributions.]",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/m650-signature-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Logi Bolt USB Receiver / ChromeOS",
+      "value": "Listed requirement [Device will be supported without adding additional drivers in ChromeOS and most popular Linux distributions.]",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/m650-signature-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Bluetooth® Low Energy / Required: Bluetooth Low Energy wireless technology",
+      "value": "Listed requirement",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/m650-signature-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Bluetooth® Low Energy / Windows",
+      "value": "['10', ' 11'] or later",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/m650-signature-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Bluetooth® Low Energy / macOS",
+      "value": "10.15 or later",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/m650-signature-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Bluetooth® Low Energy / Linux",
+      "value": "Listed requirement [Device will be supported without adding additional drivers in ChromeOS and most popular Linux distributions.]",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/m650-signature-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Bluetooth® Low Energy / ChromeOS™",
+      "value": "Listed requirement [Device will be supported without adding additional drivers in ChromeOS and most popular Linux distributions.]",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/m650-signature-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Bluetooth® Low Energy / iPadOS",
+      "value": "13.4 or later",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/m650-signature-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Bluetooth® Low Energy / Android",
+      "value": "5.0 or later",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/m650-signature-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Bluetooth® Low Energy / Engineered for Intel® Evo™ Laptops",
+      "value": "Listed requirement",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/m650-signature-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Internet access required to download optional customization app Logi Options+",
+      "value": "Listed requirement [Available on Windows and macOS at logitech.com/optionsplus]",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/m650-signature-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Technical Specifications / Sensor technology / Sensor technology",
+      "value": "Logitech Advanced Optical Tracking",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/m650-signature-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Technical Specifications / Sensor technology / Nominal value",
+      "value": "400 DPI",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/m650-signature-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Technical Specifications / Sensor technology / Max value",
+      "value": "Up to 4000",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/m650-signature-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Technical Specifications / Buttons / Number of Buttons",
+      "value": "5 (Left/Right-click, Back/Forward, Scroll-wheel with middle click)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/m650-signature-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Technical Specifications / Customization app / listed feature: Supported by Logi Options+ on Windows and macOS",
+      "value": "Supported by Logi Options+ on Windows and macOS [Available on Windows and macOS at logitech.com/optionsplus]",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/m650-signature-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Technical Specifications / Battery / Battery type",
+      "value": "1 x AA battery (included)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/m650-signature-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Technical Specifications / Battery / Battery life with Logi Bolt USB Receiver",
+      "value": "up to 24-months [It may vary based on use and computing conditions.]",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/m650-signature-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Technical Specifications / Battery / Battery life with Bluetooth",
+      "value": "up to 20- months [It may vary based on use and computing conditions.]",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/m650-signature-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Technical Specifications / Connection Type",
+      "value": "Logi Bolt USB Receiver",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/m650-signature-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Technical Specifications / Connection Type / listed feature: Bluetooth Low Energy Technology",
+      "value": "Bluetooth Low Energy Technology",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/m650-signature-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Technical Specifications / Connection Type / Wireless range",
+      "value": "10 m wireless range [Wireless range may vary depending on operating environment and computer set up]",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/m650-signature-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Signature M650 / Height",
+      "value": "108.2 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/m650-signature-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Signature M650 / Width",
+      "value": "61 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/m650-signature-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Signature M650 / Depth",
+      "value": "38.8 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/m650-signature-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Signature M650 / Weight",
+      "value": "101.4 g",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/m650-signature-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Signature M650 L / Height",
+      "value": "118.7 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/m650-signature-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Signature M650 L / Width",
+      "value": "66.2 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/m650-signature-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Signature M650 L / Depth",
+      "value": "42 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/m650-signature-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Signature M650 L / Weight",
+      "value": "115.4 g",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/m650-signature-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Manufacturer warranty",
+      "value": "2-Year Limited Hardware Warranty",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/m650-signature-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "UK package contents",
+      "value": "Wireless Mouse; USB Receiver; 1 AA Battery; User documentation",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/m650-signature-wireless-mouse",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia MPN/GTIN",
+    "Latvia retail package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.logitech.com/en-gb/shop/p/m650-signature-wireless-mouse",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Official source technical content read; factual extraction retained"
+    }
+  ],
+  "identifier_options": [
+    {
+      "mpn": "910-006253",
+      "name": "Signature M650 - Graphite",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "910-006236",
+      "name": "Signature M650 - Graphite",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "910-006239",
+      "name": "Signature M650 - Graphite",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "910-006254",
+      "name": "Signature M650 - Rose",
+      "colour": "Rose"
+    },
+    {
+      "mpn": "910-006237",
+      "name": "Signature M650 - Rose",
+      "colour": "Rose"
+    },
+    {
+      "mpn": "910-006255",
+      "name": "Signature M650 - Off-white",
+      "colour": "Off-white"
+    },
+    {
+      "mpn": "910-006238",
+      "name": "Signature M650 - Off-white",
+      "colour": "Off-white"
+    },
+    {
+      "mpn": "910-006240",
+      "name": "Signature M650 - Off-white",
+      "colour": "Off-white"
+    }
+  ],
+  "research_lane": "accessories"
+}

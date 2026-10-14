@@ -1,0 +1,121 @@
+{
+  "id": "xiaomi-xiaomi-super-slim-magnetic-power-bank-5000",
+  "brand": "Xiaomi",
+  "model": "Xiaomi Super Slim Magnetic Power Bank 5000",
+  "model_family": "Xiaomi Super Slim Magnetic Power Bank 5000",
+  "category": "Accessories",
+  "scope": "Official Global specification model WPB0507S. Regional plug/package variants remain unresolved; model-name Tele2 matching does not prove exact EU SKU.",
+  "identifiers": [
+    "WPB0507S"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Xiaomi Xiaomi Super Slim Magnetic Power Bank 5000 technical specifications",
+  "source_url": "https://www.mi.com/global/product/xiaomi-super-slim-magnetic-power-bank-5000/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Product Model",
+      "value": "WPB0507S",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-super-slim-magnetic-power-bank-5000/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery Type",
+      "value": "Lithium-ion battery",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-super-slim-magnetic-power-bank-5000/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rated Capacity",
+      "value": "5V 3,000mAh",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-super-slim-magnetic-power-bank-5000/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rated Energy",
+      "value": "19.35Wh 3.87V 5,000mAh",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-super-slim-magnetic-power-bank-5000/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Input Port",
+      "value": "USB-C",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-super-slim-magnetic-power-bank-5000/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Output Port",
+      "value": "USB-C",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-super-slim-magnetic-power-bank-5000/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Input Parameters",
+      "value": "USB-C (IN) 5V⎓3A 9V⎓2.22A",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-super-slim-magnetic-power-bank-5000/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wired Output",
+      "value": "USB-C (OUT) 5V⎓3A, 9V⎓2.22A, 10V⎓2.25A MAX",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-super-slim-magnetic-power-bank-5000/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Product Dimensions",
+      "value": "102 x 69.6 x 8.7mm",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-super-slim-magnetic-power-bank-5000/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Product Weight",
+      "value": "122g",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-super-slim-magnetic-power-bank-5000/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Package Contents",
+      "value": "Xiaomi Super Slim Magnetic Power Bank 5000 x1; USB-C to USB-C charging cable x1; User manual x1",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-super-slim-magnetic-power-bank-5000/specs/",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia MPN/GTIN",
+    "Latvia retail package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/xiaomi-super-slim-magnetic-power-bank-5000/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Official source technical content read; factual extraction retained"
+    }
+  ],
+  "research_lane": "accessories"
+}

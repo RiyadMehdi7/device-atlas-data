@@ -1,0 +1,154 @@
+{
+  "id": "brovi-5g-cpe-5s-h153-381-manufacturer-reference",
+  "brand": "BROVI",
+  "model": "5G CPE 5s H153-381",
+  "category": "Routers",
+  "scope": "Official manufacturer technical document reference. Exact Latvian SKU/hardware/region requires matching. BROVI Max5 is only a candidate match to generic Tele2 Max Outdoor family. TCL source is UK; H153 source manual includes EU/Latvia regulatory restrictions. Performance conditions preserved.",
+  "identifiers": [
+    "H153-381"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "BROVI 5G CPE 5s H153-381 official specifications/manual",
+  "source_url": "https://brovi-tech.com/uploads/soft/20250528/1748423260.pdf",
+  "tele2_url": "https://www.tele2.lv/ruteri/brovi-5g-cpe-5s-h153/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Model code",
+      "value": "H153-381",
+      "unit": ""
+    },
+    {
+      "label": "Cellular modes",
+      "value": "5G and 4G",
+      "unit": ""
+    },
+    {
+      "label": "Internet connection",
+      "value": "Cellular SIM or wired Ethernet",
+      "unit": ""
+    },
+    {
+      "label": "LAN/WAN",
+      "value": "Ethernet LAN/WAN port",
+      "unit": ""
+    },
+    {
+      "label": "WPS",
+      "value": "Supported",
+      "unit": ""
+    },
+    {
+      "label": "HiLink connection",
+      "value": "Supported",
+      "unit": ""
+    },
+    {
+      "label": "Factory reset",
+      "value": "Reset button",
+      "unit": ""
+    },
+    {
+      "label": "Management",
+      "value": "Web interface",
+      "unit": ""
+    },
+    {
+      "label": "Wi-Fi switch",
+      "value": "Available in web interface",
+      "unit": ""
+    },
+    {
+      "label": "Landline phone port",
+      "value": "Optional; actual hardware variant must match",
+      "unit": ""
+    },
+    {
+      "label": "Operating temperature",
+      "value": "0–40°C",
+      "unit": ""
+    },
+    {
+      "label": "Storage temperature",
+      "value": "-20°C to +70°C",
+      "unit": ""
+    },
+    {
+      "label": "EU Wi-Fi indoor restriction",
+      "value": "5150–5350MHz, including Latvia",
+      "unit": ""
+    },
+    {
+      "label": "Wi-Fi 2.4GHz maximum power",
+      "value": "20dBm",
+      "unit": ""
+    },
+    {
+      "label": "Wi-Fi 5150–5250MHz maximum power",
+      "value": "23dBm",
+      "unit": ""
+    },
+    {
+      "label": "Wi-Fi 5250–5350MHz maximum power",
+      "value": "23dBm",
+      "unit": ""
+    },
+    {
+      "label": "Wi-Fi 5470–5725MHz maximum power",
+      "value": "30dBm",
+      "unit": ""
+    },
+    {
+      "label": "LTE bands and power",
+      "value": "B1/B3/B7/B8/B20/B28/B38/B40/B42/B43; 25dBm",
+      "unit": ""
+    },
+    {
+      "label": "5G SA bands and power",
+      "value": "n1/n3/n7/n8/n20/n28/n38/n80/n81/n82/n83/n84; 25.7dBm",
+      "unit": ""
+    },
+    {
+      "label": "5G SA n40 maximum power",
+      "value": "29dBm",
+      "unit": ""
+    },
+    {
+      "label": "5G SA n41/n77/n78 maximum power",
+      "value": "32dBm",
+      "unit": ""
+    },
+    {
+      "label": "5G NSA bands and power",
+      "value": "n1/n3/n7/n8/n20/n28/n38; 25.7dBm",
+      "unit": ""
+    },
+    {
+      "label": "5G NSA n40 maximum power",
+      "value": "26dBm",
+      "unit": ""
+    },
+    {
+      "label": "5G NSA n41/n77/n78 maximum power",
+      "value": "29dBm",
+      "unit": ""
+    }
+  ],
+  "missing_fields": [
+    "Maximum throughput and Wi-Fi generation not in fetched quick-start guide",
+    "Exact Latvia telephone-port variant and mains adaptor",
+    "Country/carrier band availability differs",
+    "Exact Latvian GTIN/MPN and regional package"
+  ],
+  "source_pages": [
+    {
+      "url": "https://brovi-tech.com/uploads/soft/20250528/1748423260.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP fetch; official PDF parsed with pdftotext",
+      "notes": "Technical facts extracted; full copyright source documents not retained"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

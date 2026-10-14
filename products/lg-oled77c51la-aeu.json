@@ -1,0 +1,527 @@
+{
+  "id": "lg-oled77c51la-aeu",
+  "brand": "LG",
+  "model": "OLED77C51LA.AEU",
+  "category": "Televisions",
+  "scope": "Exact manufacturer Austria screen-size/model reference. Latvian retail suffix and availability require matching; no family specification transfers.",
+  "identifiers": [
+    "OLED77C51LA.AEU",
+    "8806096361993"
+  ],
+  "aliases": [
+    "OLED77C51LA"
+  ],
+  "checked_at": "2026-10-14",
+  "status": "Exact variant source checked",
+  "source_name": "77 Zoll LG OLED evo AI C5 4K Smart TV – OLED77C51LA.AEU | LG Österreich",
+  "source_url": "https://www.lg.com/at/tv-soundbars/oled-evo/oled77c51la/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "BARRIEREFREIHEIT - Graustufen",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "BARRIEREFREIHEIT - Hoher Kontrast",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "BARRIEREFREIHEIT - Farben umkehren",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "AUDIO - AI Sound",
+      "value": "α9 AI Sound Pro (virtueller 11.1.2 Up-Mix)",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "AUDIO - AI Acoustic Tuning",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "AUDIO - Audio Codecs",
+      "value": "AC4, AC3 (Dolby Digital), EAC3, HE-AAC, AAC, MP2, MP3, PCM, WMA, apt-X (weitere Informationen im Handbuch)",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "AUDIO - Leistung",
+      "value": "40W",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "AUDIO - Bluetooth Surround Ready-Funktion",
+      "value": "Ja (2-Wege-Playback)",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "AUDIO - Bessere Sprachverständlichkeit",
+      "value": "Ja (AI Voice Remastering)",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "AUDIO - Dolby Atmos",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "AUDIO - LG Sound Sync",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "AUDIO - Simultane Audioausgabe",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "AUDIO - Sound Mode Share",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "AUDIO - Abstrahlrichtung des Lautsprechers",
+      "value": "Nach unten abstrahlend",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "AUDIO - Lautsprechersystem",
+      "value": "2.2 Kanal",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "AUDIO - WOW Orchestra",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "ANSCHLÜSSE - Bluetooth-Unterstützung",
+      "value": "Ja (v 5.3)",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "ANSCHLÜSSE - CI-Slot",
+      "value": "1 (außer UK und Irland)",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "ANSCHLÜSSE - LAN",
+      "value": "1",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "ANSCHLÜSSE - HDMI ARC (Audio Return Channel)",
+      "value": "Ja (HDMI 2)",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "ANSCHLÜSSE - HDMI-Eingänge",
+      "value": "4 (unterstützt 4K 120Hz, eARC, VRR, ALLM, QMS (4 Anschlüsse))",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "ANSCHLÜSSE - Tuner-Anschluss (Antenne/Kabel)",
+      "value": "2",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "ANSCHLÜSSE - Simplink (HDMI CEC)",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "ANSCHLÜSSE - Digitaler Audioausgang (optisch)",
+      "value": "1",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "ANSCHLÜSSE - USB-Anschlüsse",
+      "value": "3 (USB 2.0)",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "ANSCHLÜSSE - WLAN",
+      "value": "Ja (Wi-Fi 6 ( 802.11ax)",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "ABMESSUNGEN UND GEWICHTE - Abmessungen der Verpackung (BxHxT mm)",
+      "value": "1 879 x 1 130 x 228",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "ABMESSUNGEN UND GEWICHTE - Gesamtgewicht inkl. Verpackung",
+      "value": "38,5",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "ABMESSUNGEN UND GEWICHTE - Abmessungen ohne Standfuß (BxHxT mm)",
+      "value": "1 711 x 982 x 47,1",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "ABMESSUNGEN UND GEWICHTE - Abmessungen mit Standfuß (BxHxT mm)",
+      "value": "1 711 x 1 035 x 267",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "ABMESSUNGEN UND GEWICHTE - Abmessungen Standfuß (BxT mm)",
+      "value": "520 x 267",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "ABMESSUNGEN UND GEWICHTE - Gewicht ohne Standfuß (kg)",
+      "value": "23,5",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "ABMESSUNGEN UND GEWICHTE - Gewicht mit Standfuß (kg)",
+      "value": "27,1",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "ABMESSUNGEN UND GEWICHTE - Unterstützter VESA-Standard (BxH mm)",
+      "value": "300 x 200",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "GAMING - Game Optimizer",
+      "value": "Ja (Game Dashboard)",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "GAMING - ALLM (Auto Low Latency Mode)",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "GAMING - Dolby Vision für Gaming (4K 120Hz)",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "GAMING - FreeSync-kompatibel (AMD)",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "GAMING - G-Sync-kompatibel (Nvidia)",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "GAMING - HGIG-Modus",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "GAMING - Reaktionszeit",
+      "value": "weniger als 0.1ms",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "GAMING - VRR (Variable Refresh Rate)",
+      "value": "Ja (bis zu 144 Hz)",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "BILDBVERARBEITUNG - AI Brightness Control",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "BILDBVERARBEITUNG - AI Genre-Auswahl",
+      "value": "Ja (SDR/HDR)",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "BILDBVERARBEITUNG - AI Picture Pro",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "BILDBVERARBEITUNG - AI-gestütztes Hochskalieren (AI Upscaling)",
+      "value": "α9 AI Super Upscaling 4K",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "BILDBVERARBEITUNG - Dimming-Technologie",
+      "value": "Pixel Dimming",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "BILDBVERARBEITUNG - Dynamic Tone Mapping",
+      "value": "Ja (OLED Dynamic Tone Mapping Pro)",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "BILDBVERARBEITUNG - FILMMAKER MODE™",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "BILDBVERARBEITUNG - HDR (High Dynamic Range)",
+      "value": "Dolby Vision / HDR10 / HLG",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "BILDBVERARBEITUNG - HFR (High Frame Rate)",
+      "value": "4K 120 fps (HDMI, Tuner, USB)",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "BILDBVERARBEITUNG - Motion",
+      "value": "OLED Motion",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "BILDBVERARBEITUNG - Voreingestellte Bildmodi",
+      "value": "10 Bildmodi",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "BILDBVERARBEITUNG - Prozessor",
+      "value": "α9 Gen8 4K AI-Prozessor",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "BILDBVERARBEITUNG - QMS (Quick Media Switching)",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "NETZTEIL - Stromversorgung (Spannung, Frequenz)",
+      "value": "Wechselstrom, 100~240 Volt, 50-60 Hz",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "NETZTEIL - Leistungsaufnahme (Standby)",
+      "value": "Unter 0,5 Watt",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "SMART TV - AI Chatbot",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "SMART TV - Always Ready-Funktion",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "SMART TV - Internet Browser",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "SMART TV - Google Cast",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "SMART TV - Google Home / Hub",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "SMART TV - Hands-free Voice Control-Funktion",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "SMART TV - Home Hub",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "SMART TV - Intelligente Spracherkennung",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "SMART TV - Magic Remote-Fernbedienung",
+      "value": "im Lieferumfang enthalten",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "SMART TV - Multi View",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "SMART TV - Betriebssystem (OS)",
+      "value": "webOS 25",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "SMART TV - Smartphone Fernbedienungs-App",
+      "value": "Ja (LG ThinQ)",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "SMART TV - USB Webcam-kompatibel",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "SMART TV - Voice ID",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "SMART TV - Apple Airplay2-kompatibel",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "SMART TV - Apple Home",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "ZUBEHÖR IM LIEFERUMFANG - Stromkabel",
+      "value": "Ja (fest am TV angebracht)",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "ZUBEHÖR IM LIEFERUMFANG - Fernbedienung",
+      "value": "AI Magic Remote-Fernbedienung MR25GA / Magic Remote-Fernbedienung MR25GB(UK, Italy)",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "EAN CODE - EAN CODE",
+      "value": "8806096361993",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "TV-EMPFANG (TUNER) - Analog TV Empfang",
+      "value": "Ja",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "TV-EMPFANG (TUNER) - Digital TV Empfang",
+      "value": "DVB-T2/T (Terrestrial), DVB-C (Cable), DVB-S2/S (Satellite)",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "PICTURE (DISPLAY) - Display-Auflösung",
+      "value": "4K Ultra HD (3.840 x 2.160 Pixel)",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "PICTURE (DISPLAY) - Display-Typ",
+      "value": "4K OLED",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "PICTURE (DISPLAY) - Bildwiederholfrequenz",
+      "value": "120 Hz nativ (VRR 144 Hz)",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    },
+    {
+      "label": "PICTURE (DISPLAY) - Farbumfang (Wide Color Gamut)",
+      "value": "OLED Color",
+      "unit": "",
+      "condition": "Official Austria exact model specifications; original German names/values retained. Regional services subject to availability."
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvia retail suffix match",
+    "Official energy fiche"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.lg.com/at/tv-soundbars/oled-evo/oled77c51la/",
+      "fetched_at": "2026-10-14",
+      "method": "web find",
+      "notes": "Exact product title and All Specifications read; original German field names retained."
+    }
+  ],
+  "research_lane": "televisions"
+}

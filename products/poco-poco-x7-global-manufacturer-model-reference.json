@@ -1,0 +1,126 @@
+{
+  "id": "poco-poco-x7-global-manufacturer-model-reference",
+  "brand": "POCO",
+  "model": "POCO X7",
+  "category": "Phones",
+  "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "POCO X7 Specs - Xiaomi Global",
+  "source_url": "https://www.mi.com/global/product/poco-x7/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Proccessor",
+      "value": "Dimensity 7300-Ultra | 4nm manufacturing process | CPU: Octa-core CPU, up to 2.5GHz | GPU: Mali-G615 MC2",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Storage & RAM",
+      "value": "8+256GB, 12+512GB | LPDDR4X + UFS2.2",
+      "unit": "",
+      "condition": "*Available storage and RAM are less than the total memory due to storage of the operating system and software pre-installed on the device."
+    },
+    {
+      "label": "Dimensions",
+      "value": "Height: 162.33mm | Width: 74.42mm | Thickness: 8.4mm/ 8.63mm (PU) | Weight: 185.5g(plastic) /190g（PU）",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Display",
+      "value": "6.67\" CrystalRes AMOLED display | Resolution: 2712 x 1220 (1.5K resolution) | Refresh rate: Up to 120Hz | Touch sampling rate: Up to 480Hz；2560Hz instant touch sampling rate | Brightness: 500 nits (typ), 1200 nits (HBM brightness), 3000 nits （peak brightness） | Color depth: 12bit | Contrast ratio: 5,000,000:1 | DCI-P3 wide color gamut | Corning® Gorilla® Glass Victus® 2 | Supports Dolby Vision® | Reading mode | 1920Hz PWM dimming | 20,000-level brightness adjustment | HDR10+ | TÜV Rheinland Low Blue Light Certification (Hardware solution) | TÜV Rheinland Circadian Friendly Certification | TÜV Rheinland Flicker Free Certification",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Rear camera",
+      "value": "50MP main camera with OIS | OIS | f/1.5 | 4-in-1 binning into one large 1.6μm pixel | 8MP ultra-wide camera | f/2.2 | 2MP macro camera | f/2.4 | Dynamic shots | Motion tracking focus | Lightning Burst | filmFrame | Portraits | Document | Night mode | Dual video | Steady video | Rear camera video recording | 4K at 24/30fps | 1080p at 30/60fps | 720p at 30fps | Slow motion: 1080p at 120fps | Slow motion: 720p at 120/240fps",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Front camera",
+      "value": "20MP front camera | f/2.2 | Soft-light ring | AI beautify | Night mode | Portrait mode | Palm Shutter | Selfie timer | Front camera video recording | 1080p at 30/60fps | 720p at 30fps",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Battery and charging",
+      "value": "5110mAh (typ) | 45W turbo charging | 45W in-box charger",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Security",
+      "value": "In-screen fingerprint sensor | AI Face Unlock",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "NFC",
+      "value": "Yes",
+      "unit": "",
+      "condition": "*Functions may vary in some markets."
+    },
+    {
+      "label": "Network & Connectivity",
+      "value": "Dual SIM, dual standby（5G+5G，5G+4G） | network bands: | 5G Sub6G: n1/2/3/5/7/8/20/28/38/40/41/66/77/78 | 4G: TDD:B38/40/41/42/48 | 4G: FDD:B1/2/3/4/5/7/8/18/19/20/28/66 | 3G: WCDMA:B1/2/4/5/6/8/19 | 2G: GSM: 2/3/5/8 | Wireless Networks | Bluetooth 5.4 | Wi-Fi: Wi-Fi 6/Wi-Fi 5/Wi-Fi 4/802.11a/b/g Supports 2.4GHz Wi-Fi | 5GHz Wi-Fi Supports 1x1，Wi-Fi Direct",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Navigation",
+      "value": "Beidou:B1I｜GPS:L1｜Galileo:E1 GLONASS:G1｜QZSS:L1 | A-GPS supplementary positioning Wireless network | Data network|｜Sensor Assisted Positioning",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Audio",
+      "value": "Dual speakers | Dolby Atmos®",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensor",
+      "value": "Proximity sensor | Ambient light sensor | Accelerometer | Electronic compass | IR blaster｜Gyroscope | X-axis linear motor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Water & Dust Resistance",
+      "value": "IP68",
+      "unit": "",
+      "condition": "*The device has been tested and certified to be resistant to splash, water, and dust in the presence of specific laboratory conditions with the classification IP68 ingress protection based on IEC 60529:1989+A1:1999+A2:2013. Please be noted that the test conditions of water resistance include: submersion in static freshwater up to a depth of 1.5 meters, up to 30 minutes, with a temperature delta between the water and product being 5K or less. Such water resistance features only pertain to specific conditions tested in a laboratory environment, which do not correspond to the normal conditions of use by consumers. Therefore, ingress protection is not assured if the product is subjected to environments beyond the test conditions. We recommend that you do not test it by yourself. Not advised for beach or pool use. Ingress protection might deteriorate from daily wear and tear, physical damage and/or disassembly needed in case of repair. Avoid charging the product, operating the physical butt"
+    },
+    {
+      "label": "Operating system",
+      "value": "Xiaomi HyperOS",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Package content",
+      "value": "Mobile Phone / Adapter / USB Type-C Cable / SIM Eject Tool / Protective Case / Quick Start Guide / Warranty Card",
+      "unit": "",
+      "condition": "*Contents in the package may differ across different regions."
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU / model code and GTIN matching",
+    "Colour-specific packaging and regional accessories"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/poco-x7/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible manufacturer specification content parsed; model-reference scope, not an exact retailer SKU."
+    }
+  ],
+  "research_lane": "phones"
+}

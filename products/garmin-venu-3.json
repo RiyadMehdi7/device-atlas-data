@@ -1,0 +1,1196 @@
+{
+  "id": "garmin-venu-3",
+  "brand": "Garmin",
+  "model": "Venu® 3",
+  "category": "Smartwatches",
+  "scope": "Exact UK manufacturer selected model/size SKU 010-02784-01. Colour used only as source anchor; any material alternatives in technical table remain explicit. Latvia SKU requires matching.",
+  "identifiers": [
+    "010-02784-01"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Garmin Venu® 3 technical specifications",
+  "source_url": "https://www.garmin.com/en-GB/p/873008/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Sleep Score and Insights",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Battery life (smartwatch mode)",
+      "value": "Up to 14 days",
+      "unit": "",
+      "condition": "Manufacturer laboratory maximum; usage mode and solar conditions retained in value"
+    },
+    {
+      "label": "Pulse Ox Blood Oxygen Saturation",
+      "value": "Yes (spot-check, and optional all-day and in sleep)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Garmin ECG App",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Garmin Pay™",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Music storage",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Make calls and send texts via voice",
+      "value": "Yes (with paired compatible smartphone)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Watch display type",
+      "value": "AMOLED Optional Always-On Mode",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Touchscreen",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Water rating",
+      "value": "Swim, 5 ATM",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Wheelchair mode",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Strap material",
+      "value": "Silicone",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Lens material",
+      "value": "Corning ® Gorilla ® Glass 3",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Bezel material",
+      "value": "Stainless steel",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Case material",
+      "value": "Fibre-reinforced polymer",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Quick release bands",
+      "value": "Yes (22 mm, Industry standard)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Physical size",
+      "value": "45 x 45 x 12 mm Fits wrists with a circumference of 135-200 mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Weight",
+      "value": "Silicone : 46 g with included band Leather : 42 g with included band",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Built-in speaker/microphone",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Display Size",
+      "value": "35.4 mm (1.4″) diameter",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Display Resolution",
+      "value": "454 x 454 pixels",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Colour display",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Large font option",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Battery type",
+      "value": "Lithium ion",
+      "unit": "",
+      "condition": "Manufacturer laboratory maximum; usage mode and solar conditions retained in value"
+    },
+    {
+      "label": "Battery life",
+      "value": "Smartwatch mode: Up to 14 days Battery saver smartwatch mode: Up to 26 days GPS-Only GNSS mode: Up to 26 hours All-Systems GNSS mode: Up to 20 hours All systems GNSS mode with music playback Up to 11 hours See details",
+      "unit": "",
+      "condition": "Manufacturer laboratory maximum; usage mode and solar conditions retained in value"
+    },
+    {
+      "label": "Charging method",
+      "value": "Garmin proprietary plug charger",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Memory/history",
+      "value": "8 GB",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Time/date",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "GPS time sync",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Automatic daylight saving time",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Alarm clock",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Timer",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Stopwatch",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sunrise/sunset times",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Heart Rate (Constant, every second)",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Resting heart rate",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Abnormal Heart Rate Alerts",
+      "value": "Yes (high and low)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Respiration Rate",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Fitness Age",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Body Battery™ Energy Monitor",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer laboratory maximum; usage mode and solar conditions retained in value"
+    },
+    {
+      "label": "All-day Stress",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Relaxation reminders",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Relaxation Breathing Timer",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Meditation",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Breathwork",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sleep",
+      "value": "Yes (advanced)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sleep coach",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Breathing variations",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Nap detection",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Hydration",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Women's Health",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Health Snapshot",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Skin temperature",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Jet lag adviser",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "GPS",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "GLONASS",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Galileo",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Garmin Elevate™ wrist heart rate monitor",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Pulse Ox blood oxygen saturation monitor",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Barometric altimeter",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Compass",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Gyroscope",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Accelerometer",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Thermometer",
+      "value": "Yes (tempe™ sensor required)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Ambient light sensor",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Find my phone",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Find My Garmin (helps locate lost device)",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Find My Phone during GPS activity",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Connectivity",
+      "value": "Bluetooth ® , ANT+ ® , Wi-Fi ®",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Connect IQ™ (downloadable watch faces, data fields and apps)",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "On-device Connect IQ™ Store",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Smart Notifications",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Text response/reject phone call with text (Android™ only)",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "View images from notifications on watch (Android™ only)",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Morning report",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Calendar",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Weather forecasts",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Realtime settings sync with Garmin Connect™ mobile",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Battery Saver (customisable low power watch)",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer laboratory maximum; usage mode and solar conditions retained in value"
+    },
+    {
+      "label": "Controls smartphone music",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Plays and controls watch music",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Compatible with Garmin Messenger app",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Smart trainer control",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Compatible with Garmin Connect™ Mobile",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Smartphone compatibility",
+      "value": "iPhone ® , Android™",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Bluetooth phone calling and voice assistant support",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Red shift mode",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Passcode",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Garmin Running Coach Experts",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Cardio workouts",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Strength workouts",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "HIIT workouts",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Yoga workouts",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Pilates workouts",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Workouts for wheelchair users",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "On-screen workout animations",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "On-Screen Workout Muscle Map",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Gym",
+      "value": "Strength, HIIT, Cardio and Elliptical Training, Stair Stepping, Indoor rowing, Jump Roping",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "WELLNESS",
+      "value": "Walking, Pilates, Yoga, Indoor Walking",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "INDOOR RUNNING",
+      "value": "Treadmill Running, Indoor Track Running",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Outdoor running",
+      "value": "Running",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Outdoor recreation",
+      "value": "Hiking, Indoor Climbing, Bouldering, Disc Golf",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Cycling",
+      "value": "Biking, Indoor Biking, Handcycling, Indoor Handcycling, eBiking",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Swim",
+      "value": "Pool Swimming, Open Water Swimming",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "On the water",
+      "value": "Stand Up Paddleboarding, Rowing",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Racket sports",
+      "value": "Tennis, Pickleball, Badminton, Squash, Table Tennis, Padel, Platform Tennis, Racquetball",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Snow & Winter",
+      "value": "Skiing, Snowboarding, Snowshoeing, XC Classic Skiing",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Team sports",
+      "value": "Basketball, Volleyball, Field Hockey, Ice Hockey, Football/Soccer, American Football, Lacrosse, Rugby, Ultimate Disc, Cricket, Softball, Baseball",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "In the ring",
+      "value": "Boxing, Mixed martial arts",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Incident detection during select activities",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Incident detection alert on phone for wearables",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Assistance",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Gaming activity",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "GameOn™ app compatible",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Step counter",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Push tracker",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Move alerts (displays on device after a period of inactivity)",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Weight shift alert",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Auto goal (learns your activity level and assigns a daily step goal)",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Calories Burned",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Floors climbed",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Distance travelled",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Intensity minutes",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "TrueUp™",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Move IQ™",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Garmin Connect™ Challenges app",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Automatic rep counting",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Improved interval (includes open repeats, intervals data page, rest screen and auto detection)",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Customisable screen(s)",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Downloadable training plans",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "HR Zones",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "HR Alerts",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "HR Calories",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "% HR Max",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Recovery Time",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "HRV Status",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "HR Broadcast (broadcasts HR data over ANT+® to paired devices)",
+      "value": "Yes (using ANT+ or BLE)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Respiration Rate (During Exercise)",
+      "value": "Yoga, breathwork, meditation and archery only",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "GPS speed and distance",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Customisable activity profiles",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Auto Pause® automatic timer halt",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Interval training",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Advanced workouts",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "HRM running pace and distance",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Auto Lap® interval tracking feature",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Manual lap",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "VO2 Max (Run)",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Workout benefit",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Voice alerts",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Touch and/or button lock",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Auto scroll",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Activity history on watch",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Physio TrueUp",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "GPS-based distance, time and pace",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Running dynamics",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Vertical oscillation and ratio",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Cadence (provides real-time number of steps per minute)",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Running power",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Run workouts",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Foot pod capable",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Run/walk/stand detection",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Yardage to F/M/B (distance to front, middle and back of green)",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Yardage to layups/doglegs",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Measures shot distance (calculates exact yardage for shots from anywhere on course)",
+      "value": "Automatic",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Digital scorecard",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Stat tracking (strokes, putts per round, greens and fairways hit)",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Garmin AutoShot™",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Green View with manual pin position",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Hazards and course targets",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "PinPointer",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Round timer/odometer",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Automatic club tracking compatible (requires accessory)",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Pairs with Garmin Golf app",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Tournament legal",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Total ascent/descent",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Area calculation",
+      "value": "Yes (via Connect IQ™)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Fish forecast",
+      "value": "Yes (via Connect IQ™)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sun and moon information",
+      "value": "Yes (via Connect IQ™)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Back to start",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Compatible with Vector™ and Rally™ (power meters)",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Compatible with Varia™ radar (rear-facing radar)",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Compatible with Varia™ lights",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Speed and cadence sensor support (w/sensor)",
+      "value": "Yes (using ANT+ or BLE)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Power meter compatible",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Open-water swim metrics (distance, pace, stroke count/rate, stroke distance, swim efficiency (SWOLF), calories)",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Pool swim metrics (lengths, distance, pace, stroke count, swim efficiency (SWOLF), calories)",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Stroke type detection (freestyle, backstroke, breaststroke, butterfly) (pool swim only)",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Basic rest timer (up from 0) (pool swim only)",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Auto rest (pool swim only)",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Time and distance alerts",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Underwater wrist-based heart rate",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Device languages",
+      "value": "Arabic, Bulgarian, Croatian, Czech, Danish, Dutch, English (US), Estonian, Finnish, French, German, Greek, Hebrew, Hungarian, Indonesian, Italian, Japanese, Korean, Latvian, Lithuanian, Malay, Norwegian, Polish, Portuguese (Brazil), Portuguese (EU), Romanian, Russian, Simplified Chinese, Slovak, Slovenian, Spanish (International), Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Security updates until at least (YYYY-MM-DD)",
+      "value": "2025-08-30",
+      "unit": "",
+      "condition": ""
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU / GTIN matching",
+    "Regional app and payment availability"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.garmin.com/en-GB/p/873008/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Actual page-selected SKU selected from public GarminAppBootstrap skus[sku]; technical specifications table read. Alternate SKU tables excluded."
+    }
+  ],
+  "research_lane": "wearables"
+}

@@ -1,0 +1,228 @@
+{
+  "id": "apple-iphone-18-pro-max-uk-manufacturer-model-reference",
+  "brand": "Apple",
+  "model": "iPhone 18 Pro Max",
+  "category": "Phones",
+  "scope": "UK manufacturer model reference; capacities grouped, regional radio/SIM scope in fields",
+  "identifiers": [
+    "A3717"
+  ],
+  "aliases": [
+    "iPhone 18 Pro Max 256GB",
+    "iPhone 18 Pro Max 512GB",
+    "iPhone 18 Pro Max 1TB",
+    "iPhone 18 Pro Max 2TB"
+  ],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "iPhone 18 Pro Max - Tech Specs – Apple Support (UK)",
+  "source_url": "https://support.apple.com/en-gb/148591",
+  "tele2_url": "https://www.tele2.lv/telefoni/iphone-18-pro-max-2tb/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Finish",
+      "value": "Black, Silver, Glacier, Burgundy Aluminium unibody design Ceramic Shield 2 front Ceramic Shield back",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Capacity",
+      "value": "256GB 512GB 1TB 2TB",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Size and Weight",
+      "value": "Width: 78.0 mm (3.07 inches) Height: 163.4 mm (6.43 inches) Depth: 8.75 mm (0.34 inches) Weight: 249 grams (8.78 ounces)",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Display",
+      "value": "Super Retina XDR display 6.9‑inch (diagonal) all‑screen OLED display 2868x1320‑pixel resolution at 460 ppi Dynamic Island Always‑On display ProMotion technology with adaptive refresh rates up to 120Hz HDR display True Tone Wide colour (P3) Haptic Touch 2,000,000:1 contrast ratio (typical) 1,000 nits max brightness (typical); 1,600 nits peak brightness (HDR); 3,000 nits peak brightness (outdoor); 1 nit minimum brightness Fingerprint-resistant oleophobic coating Anti‑reflective coating Support for display of multiple languages and characters simultaneously The iPhone 18 Pro Max display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 6.86 inches diagonally (actual viewable area is less).",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Splash, Water and Dust Resistant",
+      "value": "Rated IP68 (maximum depth of 6 metres up to 30 minutes) under IEC standard 60529",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Chip",
+      "value": "A20 Pro chip 6‑core CPU with 2 super cores and 4 efficiency cores 7‑core GPU with Neural Accelerators Dual 16‑core Neural Engine Hardware‑accelerated ray tracing",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Camera",
+      "value": "48MP Pro Fusion camera system 48MP Fusion Main with variable aperture (ƒ/1.48, ƒ/1.8, ƒ/2.8, ƒ/4.0): 24mm, second-generation sensor-shift optical image stabilisation, 100% Focus Pixels, super-high-resolution photos (24MP and 48MP) Also enables 12MP optical-quality 2x Telephoto: 48mm, second‑generation sensor‑shift optical image stabilisation, 100% Focus Pixels 48MP Fusion Ultra Wide: 13mm, ƒ/2.2 aperture and 120° field of view, Hybrid Focus Pixels, super‑high‑resolution photos (24MP and 48MP) 48MP Fusion Telephoto: 100mm (4x), ƒ/2.8 aperture, Hybrid Focus Pixels, 3D sensor‑shift optical image stabilisation and autofocus, tetraprism design, super-high-resolution photos (24MP and 48MP) Also enables 12MP optical-quality 8x Telephoto: 200mm, ƒ/2.8 aperture, Hybrid Focus Pixels, 3D sensor‑shift optical image stabilisation and autofocus, tetraprism design 8x optical‑quality zoom in, 2x optical zoom out; 16x optical‑quality zoom range Digital zoom up to 40x Customisable default lens (Fusion Main) Pro controls for lens aperture, shutter speed, white balance and viewing histogram Apple Reference Image (Fusion Main)",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Video Recording",
+      "value": "4K Dolby Vision video recording at 24 fps, 25 fps, 30 fps, 60 fps, 100 fps (Fusion Main) or 120 fps (Fusion Main) 1080p Dolby Vision video recording at 25 fps, 30 fps, 60 fps or 120 fps (Fusion Main) 720p Dolby Vision video recording at 30 fps Cinematic mode up to 4K Dolby Vision at 60 fps Cinematic mode effects from video Pro controls for lens aperture, shutter speed, white balance and viewing histogram Smart focus tracking Improved low-light video at 1080p Action mode up to 2.8K Dolby Vision at 60 fps Spatial video recording at 1080p at 30 fps ProRes video recording up to 4K at 120 fps with external recording ProRes RAW 5 Academy Color Encoding System Apple Log 2 Genlock support 6 Macro video recording, including slo‑mo and time‑lapse Slo‑mo video support for 1080p up to 240 fps and 4K Dolby Vision up to 120 fps (Fusion Main) Dual Capture up to 4K Dolby Vision at 30 fps Time‑lapse video with stabilisation up to 4K Dolby Vision Night mode Time‑lapse QuickTake video up to 4K Dolby Vision at 60 fps Second‑generation sensor‑shift optical image stabilisation for video (Fusion Main) 3D sensor‑shift optical image stabilisation and autofocus for video (Fusion Telephoto) Digital zoom up to 24x Audio zoom True Tone flash Cinematic video stabilisation (4K, 1080p and 720p) Continuous autofocus video Take 8MP still photos while recording 4K video Playback zoom Video formats recorded: HEVC, H.264, ProRes and ProRes RAW Spatial Audio and stereo recording Four studio‑quality mics Wind noise reduction Audio Mix",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Front Camera",
+      "value": "18MP Center Stage camera ƒ/1.9 aperture Autofocus with Focus Pixels Retina Flash Tap to zoom and rotate Centre Stage for photos Ultra‑stabilised video Dual Capture Centre Stage for video calls Pro controls for shutter speed, white balance and viewing histogram Photonic Engine Deep Fusion Smart HDR 5 Next-generation portraits with Focus and Depth Control Portrait Lighting with six effects Animoji and Memoji Night mode Photo­graphic Styles 3 Smart focus tracking Improved low‑light video at 1080p ProRAW Wide colour capture for photos and Live Photos Lens correction Auto image stabilisation Burst mode 4K Dolby Vision video recording at 24 fps, 25 fps, 30 fps or 60 fps 1080p Dolby Vision video recording at 25 fps, 30 fps or 60 fps Cinematic mode up to 4K Dolby Vision at 30 fps Cinematic mode effects from video ProRes video recording up to 4K at 60 fps with external recording ProRes RAW 5 Academy Color Encoding System Apple Log 2 Slo-mo video support for 1080p at 120 fps Time‑lapse video with stabilisation up to 4K Dolby Vision Night mode Time‑lapse QuickTake video up to 4K at 60 fps in Dolby Vision Cinematic video stabilisation (4K, 1080p and 720p) Spatial Audio and stereo recording Wind noise reduction Audio Mix",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Power and Battery",
+      "value": "Typical use: Up to 29 hours Video playback: Up to 43 hours 8 Video playback (streamed): Up to 38 hours 8 Built‑in rechargeable lithium‑ion battery Fast‑charge capable: Up to 50% charge in around 15 minutes 9 when using 60W‑capable adapter or higher with Adjustable Voltage Supply (available separately) paired with USB‑C charging cable Up to 50% charge in 30 minutes 9 with 35W adapter or higher paired with MagSafe Charger (both available separately)",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Face ID",
+      "value": "Enabled by True­Depth technology in the Center Stage front camera",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Peace of Mind",
+      "value": "Emergency SOS via satellite 10 Crash Detection 11 Roadside Assistance via satellite 10 Find My via satellite 10",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Mobile and Wireless",
+      "value": "Model A3717 * FDD-5G NR (Bands n1, n2, n3, n5, n7, n8, n12, n20, n25, n26, n28, n30, n66, n70, n75) TDD-5G NR (Bands n38, n40, n41, n48, n53, n77, n78, n79) FDD-LTE (Bands 1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 66, 106) TDD-LTE (Bands 34, 38, 39, 40, 41, 42, 48, 53) UMTS/HSPA+ (850, 900, 1700/2100, 1900, 2100 MHz) GSM/EDGE (850, 900, 1800, 1900 MHz) 5G (sub-6GHz) with 4x4 MIMO 12 Gigabit LTE with 4x4 MIMO 12 Apple N1 wireless networking chip Wi‑Fi 7 (802.11be) with 2x2 MIMO 13 Bluetooth 6 Thread networking technology Apple second-generation Ultra Wideband chip 14 NFC with reader mode Express Cards with power reserve Apple C2 cellular modem",
+      "unit": "",
+      "condition": "UK manufacturer radio profile selected only for A3717. Exact model/size mapping is independently verified by Apple identifier hub, or the dedicated single-model Duo UK table. Shared-profile headings explicitly applied to this code; Latvia retail GTIN/SKU matching remains unresolved."
+    },
+    {
+      "label": "Location",
+      "value": "Precision dual-frequency GPS (GPS, GLONASS, Galileo, QZSS, BeiDou and NavIC) Digital compass Wi‑Fi Mobile Data iBeacon micro-location",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "External Buttons and Connectors",
+      "value": "Volume up/down Action button Camera Control Side button USB‑C connector Built‑in stereo speaker Built‑in microphones Action button features Silent Mode, Focus, Camera, Visual Intelligence, 15 Torch, Voice Memo, Recognise Music, Translate, Magnifier, Controls, Shortcut or Accessi­bility Camera controls Exposure, Depth, Zoom, Cameras, Styles, Tone",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Char­ging and Expan­sion",
+      "value": "USB‑C connector with support for: Char­ging DisplayPort USB 3 (up to 10Gb/s) 16",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "MagSafe and Wireless Charging",
+      "value": "MagSafe wireless charging up to 25W 9 Qi2 wireless charging up to 25W 9 Magnet array Alignment magnet Accessory Identification NFC Magnetometer",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Sensors",
+      "value": "Face ID LiDAR scanner Barometer High dynamic range gyro High-g accelerometer Proximity sensor Dual ambient light sensors",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "SIM Card",
+      "value": "Dual SIM (nano-SIM and eSIM) 17 Dual eSIM support Learn more about eSIM Learn more about travelling with eSIM",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Audio Playback",
+      "value": "Supported formats include AAC, APAC, MP3, Apple Lossless, FLAC, Dolby Digital, Dolby Digital Plus and Dolby Atmos Spatial Audio playback User‑configurable maximum volume limit",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Video Playback",
+      "value": "Supported formats include HEVC, H.264, AV1 and ProRes HDR with Dolby Vision, HDR10+/HDR10 and HLG Up to 4K HDR AirPlay for mirroring, photos and video out to Apple TV (2nd generation or later) or AirPlay‑enabled smart TV Video mirroring and video out support: up to 4K HDR through native DisplayPort output over USB‑C or USB‑C Digital AV Adapter (model A2119; adapter sold separately) 20",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Oper­at­ing System",
+      "value": "iOS Our most personal and secure mobile operating system yet, iOS is packed with powerful features and designed to protect your privacy.",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Accessi­bility",
+      "value": "Built-in accessibility features supporting vision, mobility, hearing, speech and cognitive needs help you get the most out of your iPhone — in the ways that work best for you. Learn more about Accessi­bility Features include: Assistive Access VoiceOver Zoom Magnifier Voice Control Switch Control AssistiveTouch Eye Tracking RTT and TTY support Closed Captions Live Captions Live Speech Type to Siri Vocal Shortcuts Spoken Content",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Built‑in Apps",
+      "value": "App Store Books Calculator Calendar Camera Clock Compass Contacts FaceTime Files Find My Fitness Freeform Games GarageBand Health Home iMovie iTunes Store Journal Keynote Magnifier Mail Maps Measure Messages Music News Notes Numbers Pages Passwords Phone Photos Podcasts Preview Reminders Safari Settings Shortcuts Stocks Tips Translate TV Voice Memos Wallet Watch Weather For a complete list of Apple apps available on iPhone, see apple.com/uk/apps .",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Rating for Hearing Aids",
+      "value": "Hearing Aid Compatible",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "System Requirements",
+      "value": "Apple Account (required for some features) Internet access 22 Syncing to a Mac or PC requires: macOS Catalina 10.15 or later using the Finder macOS High Sierra 10.13 to macOS Mojave 10.14.6 using iTunes 12.8 or later Windows 10 or later using iTunes 12.12.10 or later (free download from apple.com/uk/itunes/download )",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "En­viron­men­tal Require­ments",
+      "value": "Oper­at­ing ambient temperature: 0° to 35° C (32° to 95° F) Non-operating temperature: −20° to 45° C (−4° to 113° F) Relative humidity: 5% to 95% non‑condensing Oper­at­ing altitude: tested up to 3,000 metres (10,000 feet)",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "In the Box",
+      "value": "iPhone 18 Pro Max USB‑C Charge Cable (1m)",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Regional manufacturer model identifier",
+      "value": "A3717",
+      "unit": "",
+      "condition": "Apple explicitly maps this exact model/size to the other countries and regions group; exact Latvia retail SKU matching remains unresolved.",
+      "source_url": "https://support.apple.com/en-gb/108044",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Year introduced",
+      "value": "2026",
+      "unit": "year",
+      "condition": "Manufacturer identify-your-iPhone model entry.",
+      "source_url": "https://support.apple.com/en-gb/108044",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU / model code and GTIN matching",
+    "Colour-specific packaging and regional accessories",
+    "Matching this manufacturer regional A-code to the exact Latvian retail SKU/GTIN remains unresolved"
+  ],
+  "source_pages": [
+    {
+      "url": "https://support.apple.com/en-gb/148591",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible manufacturer specification content parsed; model-reference scope, not an exact retailer SKU."
+    },
+    {
+      "url": "https://support.apple.com/en-gb/108044",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Exact model/size heading with explicitly scoped regional A-code mapping and introduced year; only other-countries-and-regions code attached."
+    }
+  ],
+  "research_lane": "phones"
+}

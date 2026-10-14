@@ -1,0 +1,127 @@
+{
+  "id": "soundcore-boom-3i-manufacturer-model",
+  "brand": "Soundcore",
+  "model": "Boom 3i",
+  "category": "Speakers",
+  "scope": "USA manufacturer model reference; Latvia SKU matching required",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Boom 3i Waterproof Bluetooth Outdoor Speaker - soundcore US",
+  "source_url": "https://www.soundcore.com/products/d5100-boom-3i-waterproof-bluetooth-speaker",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/boom-3i1/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Output",
+      "value": "50W",
+      "unit": "",
+      "condition": "Official manufacturer USA specification"
+    },
+    {
+      "label": "BassUp™",
+      "value": "YesYes",
+      "unit": "",
+      "condition": "Official manufacturer USA specification"
+    },
+    {
+      "label": "Sound",
+      "value": "Punchy Sound & Deep Bass",
+      "unit": "",
+      "condition": "Official manufacturer USA specification"
+    },
+    {
+      "label": "Water Resistance",
+      "value": "Dust & Waterproof (IP68)",
+      "unit": "",
+      "condition": "Official manufacturer USA specification"
+    },
+    {
+      "label": "Multi-Speaker",
+      "value": "TWS",
+      "unit": "",
+      "condition": "Official manufacturer USA specification"
+    },
+    {
+      "label": "Recommended For",
+      "value": "Kayaking, Fishing, Rugged Camping",
+      "unit": "",
+      "condition": "Official manufacturer USA specification"
+    },
+    {
+      "label": "Bluetooth Version",
+      "value": "5.3",
+      "unit": "",
+      "condition": "Official manufacturer USA specification"
+    },
+    {
+      "label": "Weight",
+      "value": "780g (27.5oz)",
+      "unit": "",
+      "condition": "Official manufacturer USA specification"
+    },
+    {
+      "label": "Special Features",
+      "value": "RGB Light Show, Siren & Amp, Buzz Clean",
+      "unit": "",
+      "condition": "Official manufacturer USA specification"
+    },
+    {
+      "label": "Dimensions",
+      "value": "8.27 × 3.35 × 3.09 in",
+      "unit": "",
+      "condition": "Official manufacturer USA specification"
+    },
+    {
+      "label": "Floatability",
+      "value": "Auto-Upright Floating",
+      "unit": "",
+      "condition": "Official manufacturer USA specification"
+    },
+    {
+      "label": "Saltwater Resistance",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Official manufacturer USA specification"
+    },
+    {
+      "label": "Strap",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Official manufacturer USA specification"
+    },
+    {
+      "label": "Portability & Weight",
+      "value": "1.7 lbs / Attachable Strap",
+      "unit": "",
+      "condition": "Official manufacturer USA specification"
+    },
+    {
+      "label": "Charge Out",
+      "value": "No",
+      "unit": "",
+      "condition": "Official manufacturer USA specification"
+    },
+    {
+      "label": "Music playback",
+      "value": "Up to 16 hours",
+      "unit": "",
+      "condition": "Manufacturer maximum; volume/light settings need manual reconciliation"
+    }
+  ],
+  "missing_fields": [
+    "Battery capacity",
+    "Full playback test conditions",
+    "Latvia SKU matching"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.soundcore.com/products/d5100-boom-3i-waterproof-bluetooth-speaker",
+      "fetched_at": "2026-10-14",
+      "method": "web find",
+      "notes": "Actual model Specs table read; comparison columns not transferred"
+    }
+  ],
+  "research_lane": "audio"
+}

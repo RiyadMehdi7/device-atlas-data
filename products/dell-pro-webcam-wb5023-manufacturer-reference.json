@@ -1,0 +1,159 @@
+{
+  "id": "dell-pro-webcam-wb5023-manufacturer-reference",
+  "brand": "Dell",
+  "model": "Pro Webcam WB5023",
+  "category": "Cameras",
+  "scope": "Exact manufacturer model/part reference as identified. UK/EMEA where labelled; global Sandberg/LogiLink/Lenovo references; Dell Japan technical guide. Exact Tele2 SKU, OEM package and revision require matching. Dimensions keep manufacturer orientation/clip scope.",
+  "identifiers": [
+    "WB5023"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Dell Pro Webcam WB5023 official specifications",
+  "source_url": "https://i.dell.com/sites/csdocuments/Merchandizing_Docs/ja/jp/dell-pro-webcam-wb5023-product-guide.pdf",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/dell-wb5023/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "QHD frame rates",
+      "value": "24/30fps",
+      "unit": ""
+    },
+    {
+      "label": "Full HD frame rates",
+      "value": "24/30/60fps",
+      "unit": ""
+    },
+    {
+      "label": "HD frame rates",
+      "value": "24/30/60fps",
+      "unit": ""
+    },
+    {
+      "label": "Sensor",
+      "value": "Sony STARVIS",
+      "unit": ""
+    },
+    {
+      "label": "FOV",
+      "value": "65° or78°",
+      "unit": ""
+    },
+    {
+      "label": "Digital zoom",
+      "value": "Up to 4×",
+      "unit": ""
+    },
+    {
+      "label": "Autofocus",
+      "value": "Supported",
+      "unit": ""
+    },
+    {
+      "label": "HDR",
+      "value": "Digital Overlap;24/30fps",
+      "unit": ""
+    },
+    {
+      "label": "Video noise reduction",
+      "value": "Temporal3D and spatial2D",
+      "unit": ""
+    },
+    {
+      "label": "Auto white balance",
+      "value": "Supported",
+      "unit": ""
+    },
+    {
+      "label": "Face auto exposure",
+      "value": "FDAE",
+      "unit": ""
+    },
+    {
+      "label": "Aperture",
+      "value": "F2.0",
+      "unit": ""
+    },
+    {
+      "label": "AI auto framing/zoom",
+      "value": "Supported",
+      "unit": ""
+    },
+    {
+      "label": "Privacy cap",
+      "value": "Magnetic",
+      "unit": ""
+    },
+    {
+      "label": "Certification",
+      "value": "Microsoft Teams, Zoom",
+      "unit": ""
+    },
+    {
+      "label": "Microphone",
+      "value": "Noise reduction;enable through Dell software",
+      "unit": ""
+    },
+    {
+      "label": "Dimensions",
+      "value": "Φ44 × 92mm",
+      "unit": ""
+    },
+    {
+      "label": "USB",
+      "value": "USB-A;USB 2.0 or higher",
+      "unit": ""
+    },
+    {
+      "label": "Cable",
+      "value": "1.5m",
+      "unit": ""
+    },
+    {
+      "label": "Mounting",
+      "value": "Integrated tripod attachment;tripod not included",
+      "unit": ""
+    },
+    {
+      "label": "Weight",
+      "value": "155g",
+      "unit": ""
+    },
+    {
+      "label": "Windows",
+      "value": "Windows 10/11,64-bit",
+      "unit": ""
+    },
+    {
+      "label": "macOS",
+      "value": "Supported",
+      "unit": ""
+    },
+    {
+      "label": "Windows software",
+      "value": "Dell Peripheral Manager",
+      "unit": ""
+    },
+    {
+      "label": "macOS software",
+      "value": "Dell Display and Peripheral Manager",
+      "unit": ""
+    }
+  ],
+  "missing_fields": [
+    "Official Japan product guide v1 July2022 reference; exact EU SKU/package and latest requirements need matching",
+    "UK storefront redirected to accessory category; no specs claimed from redirect",
+    "Regional warranty not transferred",
+    "Exact Latvia GTIN/MPN and hardware revision"
+  ],
+  "source_pages": [
+    {
+      "url": "https://i.dell.com/sites/csdocuments/Merchandizing_Docs/ja/jp/dell-pro-webcam-wb5023-product-guide.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP200; official Japanese technical guide read and short technical facts translated",
+      "notes": "Short technical facts only; no marketing prose or source images retained"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

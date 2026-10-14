@@ -1,0 +1,444 @@
+{
+  "id": "philips-42oled811-12",
+  "brand": "Philips",
+  "model": "42OLED811/12",
+  "category": "Televisions",
+  "scope": "Exact /12 European model from 2026 manufacturer leaflet; source anomalies explicitly excluded.",
+  "identifiers": [
+    "42OLED811/12",
+    "8718863051948"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Exact variant source checked",
+  "source_name": "42OLED811/12 Philips product leaflet",
+  "source_url": "https://www.documents.philips.com/assets/20260604/9569f209bb6c424382bab45f00df2edf.pdf",
+  "tele2_url": "https://www.tele2.lv/televizori/philips-42oled81112-42-106-cm-4k-oled-am/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Ambilight - Funzioni Ambilight",
+      "value": "AmbiScape, Adattabile al colore della parete, Ambilight Music, Ambilight automatico, Animazione Ambilight FTI, Animazione di avvio Ambilight, Ambilight Suite, Modalità di gioco",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Ambilight - Versione Ambilight",
+      "value": "3 lati",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Immagine/Display - Dim. diagonale schermo (pollici)",
+      "value": "42 pollici",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Immagine/Display - Dim. diagonale schermo (metrico)",
+      "value": "106 cm",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Immagine/Display - Display",
+      "value": "OLED Ultra HD 4K",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Immagine/Display - Risoluzione del display",
+      "value": "3840x2160p",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Immagine/Display - Frequenza di aggiornamento nativa",
+      "value": "120 Hz",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Immagine/Display - Picture engine",
+      "value": "Processore P5 AI Perfect Picture",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Immagine/Display - Miglioramento dell'immagine",
+      "value": "Perfect Natural Motion, Personale, Monitor, Micro Dimming Pro, ECO, Calman AutoCal Ready e calibrazione manuale, Crystal Clear, Compatibile con HDR10+, MEMC/FRC integrato, Natural, Riferimento, Gioco",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Immagine/Display - Velocità di aggiornamento variabile",
+      "value": "165 Hz",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Risoluzione del display - Frequenza di aggiornamento della risoluzione",
+      "value": "640x480-60Hz, 720p-50Hz, 60Hz, 576p-50Hz, 1920 x 1080 p - 24/25/30/50/ 60/100/120/165 Hz, 2560 x 1440 - 24/25/30/50/ 60/100/120/165 Hz, 3840 x 2160 p - 24/25/30/50/60/100/120/165 Hz",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Sintonizzatore/Ricezione/Trasmissione - TV digitale",
+      "value": "DVB-T/T2/T2-HD/C/S/S2",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Sintonizzatore/Ricezione/Trasmissione - Televideo",
+      "value": "1000 pagine Hypertext Supporto HEVC",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Smart TV - Applicazioni Smart TV*",
+      "value": "Amazon Prime Video, Disney+, Apple TV, Netflix*, App NFT*, Canale TITAN, YouTube, HBO",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Smart TV - OS",
+      "value": "SISTEMA OPERATIVO TITAN",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Smart TV - Capacità memoria (Flash)*",
+      "value": "8 GB",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Funzioni Smart TV - TV interattiva",
+      "value": "HbbTV",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Funzioni Smart TV - Assistente vocale*",
+      "value": "Telecomando con microfono., Compatibile con Google Home, Compatibile con Alexa",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Funzioni Smart TV - Esperienza con Smart Home",
+      "value": "Control4, MATERIA, Compatibile con Google Home, Compatibile con Amazon Alexa",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Funzioni Smart TV - Barra di controllo gaming",
+      "value": "Game Bar 2.0 Supporto TTS",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Applicazioni multimediali - Formati di riproduzione dei video",
+      "value": "AVI, MKV, HEVC, H.264/MPEG-4 AVC, MPEG1, MPEG2, MPEG4, VP9, HEVC (H.265), AV1",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Applicazioni multimediali - Formati di riproduzione della musica",
+      "value": "MP3, WAV, AAC, FLAC",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Applicazioni multimediali - Supporto formati sottotitoli",
+      "value": "SRT, SMI, SSA, SUB, ASS, TXT",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Applicazioni multimediali - Formati di riproduzione delle immagini",
+      "value": "JPEG, GIF, PNG, BMP, HEIF",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Audio - Audio",
+      "value": "Canale 2,1",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Audio - Potenza in uscita (RMS)",
+      "value": "50 W",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Audio - Configurazione degli altoparlanti",
+      "value": "2x10W+30W",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Audio - Codec",
+      "value": "DTS:X, Dolby Digital MS12 V2,8",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Audio - Funzioni audio avanzate",
+      "value": "Virtualizzazione Dolby Atmos, Dialogo, Intrattenimento, Musica, Original",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Audio - Caratteristiche delle cuffie",
+      "value": "Dolby Atmos per cuffie",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Audio - Motore audio",
+      "value": "IntelliSound",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Audio - Altoparlante principale",
+      "value": "Full Range ultrasottile + tweeter",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Audio - Woofer",
+      "value": "Quad PR con bilanciamento a triplo anello",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Connettività - Numero di collegamenti HDMI",
+      "value": "4",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Connettività - Funzioni HDMI",
+      "value": "Audio Return Channel, 4K, Modalità a bassa latenza automatica (ALLM)",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Connettività - EasyLink (HDMI-CEC)",
+      "value": "Riproduzione One Touch, Pass-through telecomando, Controllo audio del sistema, Standby del sistema",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Connettività - Numero di USB",
+      "value": "2",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Connettività - Connessione wireless",
+      "value": "Wi-Fi 802.11ax, 2x2, Dual band, Bluetooth 5.4, Associazione semplice (tasto blu del telecomando), Compatibile con Apple AirPlay",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Connettività - HDCP 2.3",
+      "value": "Sì su tutti gli HDMI",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Connettività - HDMI ARC",
+      "value": "HDMI 3",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Connettività - Funzionalità HDMI 2.1",
+      "value": "eARC su HDMI 3, VRR su",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Connettività - tutte le porte HDMI, 4K 165 Hz 10 bit 4",
+      "value": "2:2, HDR su tutte le porte HDMI, ALLM su tutte le porte HDMI, Velocità di trasmissione dati massima di 48 Gbps",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Connettività - EasyLink 2.0",
+      "value": "Impostazione esterna tramite interfaccia utente TV, HDMI-CEC per TV/SB Philips",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Funzioni video HDMI supportate - HDMI 1/2",
+      "value": "HDMI 2.1 con larghezza di banda elevata a 48 Gbps, fino a 4K 165 Hz",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Funzioni video HDMI supportate - Giochi",
+      "value": "ALLM, AMD FreeSync Premium, Dolby Vision Game, HGIG, HDMI VRR, Compatibile con Nvidia G-Sync",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Funzioni video HDMI supportate - HDMI 3/4",
+      "value": "Larghezza di banda HDMI 2.1 48 Gbps, fino a 4K 165 Hz",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Scheda energetica UE - Numeri di registrazione EPREL",
+      "value": "2709951",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Scheda energetica UE - Classe energetica per SDR",
+      "value": "G Consumo energetico in modalità acceso per",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Scheda energetica UE - Classe energetica per HDR",
+      "value": "G Consumo energetico in modalità acceso per",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Scheda energetica UE - Consumo energetico in modalità off",
+      "value": "N.D.",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Scheda energetica UE - Modalità standby in rete",
+      "value": "2,0 W",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Scheda energetica UE - Tecnologia dei pannelli",
+      "value": "OLED",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Assorbimento - Tensione di rete",
+      "value": "CA 100 - 240 V 50 - 60 Hz",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Assorbimento - Consumo energetico in standby",
+      "value": "<0,3 W",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Assorbimento - Funzionalità di risparmio energetico",
+      "value": "Timer per spegnimento automatico, Modalità Eco, Sensore luminoso, Picture mute (per la radio)",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Accessori - Accessori inclusi",
+      "value": "2 batterie AAA, Brochure legale e per la sicurezza, Guida rapida, Piedistallo da tavolo, Cavo alimentazione, Telecomando",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Design - Colori del TV",
+      "value": "Cornice in metallo",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Design - Design del piedistallo",
+      "value": "Taglio circolare centrale in plastica color canna di fucile",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Dimensioni - Distanza tra i 2 piedistalli",
+      "value": "400 mm",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Dimensioni - Compatibile con montaggio a parete",
+      "value": "300 x 300 mm",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Dimensioni - TV senza piedistallo (L x A x P)",
+      "value": "932 x 535 x 53 mm",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Dimensioni - TV con piedistallo (L x A x P)",
+      "value": "932 x 606 x 213 mm",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Dimensioni - Confezione in cartone (L x A x P)",
+      "value": "1100 x 711 x 160 mm",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Dimensioni - Peso del TV senza piedistallo",
+      "value": "11,98 kg",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Dimensioni - Peso del TV con piedistallo",
+      "value": "13,76 kg",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Dimensioni - Peso incluso imballaggio",
+      "value": "17,58 kg",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Energy on-mode SDR consumption",
+      "value": "52",
+      "unit": "kWh/1000 h",
+      "condition": "Exact /12 leaflet EU energy table"
+    },
+    {
+      "label": "Energy on-mode HDR consumption",
+      "value": "84",
+      "unit": "kWh/1000 h",
+      "condition": "Exact /12 leaflet EU energy table"
+    },
+    {
+      "label": "EAN",
+      "value": "8718863051948",
+      "unit": "",
+      "condition": "Exact /12 official product leaflet"
+    }
+  ],
+  "missing_fields": [],
+  "source_pages": [
+    {
+      "url": "https://www.documents.philips.com/assets/20260604/9569f209bb6c424382bab45f00df2edf.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP PDF fetch and pdftotext -raw",
+      "notes": "HTTP 200; exact model and EAN checked; paired field extraction with source anomalies excluded."
+    }
+  ],
+  "research_lane": "televisions"
+}

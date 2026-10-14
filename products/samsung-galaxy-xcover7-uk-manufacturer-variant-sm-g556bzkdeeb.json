@@ -1,0 +1,418 @@
+{
+  "id": "samsung-galaxy-xcover7-uk-manufacturer-variant-sm-g556bzkdeeb",
+  "brand": "Samsung",
+  "model": "Galaxy XCover7",
+  "category": "Phones",
+  "scope": "UK manufacturer variant SM-G556BZKDEEB; exact UK storage/colour scope, Latvia SKU needs matching",
+  "identifiers": [
+    "SM-G556BZKDEEB"
+  ],
+  "aliases": [
+    "Galaxy Xcover7"
+  ],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Samsung Galaxy XCover 7 Rugged Smartphone | Specs | Samsung Business UK",
+  "source_url": "https://www.samsung.com/uk/business/smartphones/xcover/galaxy-xcover7-black-128gb-sm-g556bzkdeeb/",
+  "tele2_url": "https://www.tele2.lv/telefoni/samsung-galaxy-xcover7/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Processor",
+      "value": "2.2GHz, 2GHz",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Weight (g)",
+      "value": "240",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Audio Playback Time (Hours)",
+      "value": "Up to 85",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "CPU Speed",
+      "value": "2.2GHz, 2GHz",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "CPU Type",
+      "value": "Octa-Core",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Size (Main_Display)",
+      "value": "167.2mm (6.6\" full rectangle) / 163.0mm (6.4\" rounded corners)",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Resolution (Main Display)",
+      "value": "1080 x 2408 (FHD+)",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Technology (Main Display)",
+      "value": "PLS LCD",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Colour Depth (Main Display)",
+      "value": "16M",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Max Refresh Rate (Main Display)",
+      "value": "60 Hz",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Rear Camera - Resolution (Multiple)",
+      "value": "50.0 MP",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Rear Camera - F Number (Multiple)",
+      "value": "F1.8",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Rear Camera - Auto Focus",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Rear Camera - OIS",
+      "value": "No",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Rear Camera Zoom",
+      "value": "Digital Zoom up to 10x",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Front Camera - Resolution",
+      "value": "5.0 MP",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Front Camera - F Number",
+      "value": "F2.0",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Front Camera - Auto Focus",
+      "value": "No",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Front Camera - OIS",
+      "value": "No",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Rear Camera - Flash",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Front Camera - Flash",
+      "value": "No",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Video Recording Resolution",
+      "value": "FHD (1920 x 1080)@30fps",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Slow Motion",
+      "value": "120fps @HD",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Memory_(GB)",
+      "value": "6",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Storage (GB)",
+      "value": "128",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Available Storage (GB)",
+      "value": "109.7",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "External Storage Support",
+      "value": "MicroSD (Up to 1TB)",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Number of SIM",
+      "value": "Dual-SIM",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "SIM size",
+      "value": "Nano-SIM (4FF), Embedded-SIM",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "SIM Slot Type",
+      "value": "SIM 1 + Embedded SIM + MicroSD",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Infra",
+      "value": "2G GSM, 3G WCDMA, 4G LTE FDD, 4G LTE TDD, 5G Sub6 FDD, 5G Sub6 TDD",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "2G GSM",
+      "value": "GSM850, GSM900, DCS1800, PCS1900",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "3G UMTS",
+      "value": "B1(2100), B2(1900), B4(AWS), B5(850), B8(900)",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "4G FDD LTE",
+      "value": "B1(2100), B2(1900), B3(1800), B4(AWS), B5(850), B7(2600), B8(900), B12(700), B13(700), B17(700), B20(800), B26(850), B28(700), B32(1500), B66(AWS-3)",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "4G TDD LTE",
+      "value": "B38(2600), B40(2300), B41(2500)",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "5G FDD Sub6",
+      "value": "N1(2100), N3(1800), N5(850), N7(2600), N8(900), N20(800), N26(850), N28(700), N66(AWS-3), N71(600)",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "5G TDD Sub6",
+      "value": "N38(2600), N40(2300), N41(2500), N77(3700), N78(3500)",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "USB Interface",
+      "value": "USB Type-C",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "USB Version",
+      "value": "USB 2.0",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Location Technology",
+      "value": "GPS, Glonass, Beidou, Galileo, QZSS",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Earjack",
+      "value": "3.5mm Stereo",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "MHL",
+      "value": "No",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Wi-Fi",
+      "value": "802.11a/b/g/n/ac 2.4GHz+5GHz, VHT80",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Wi-Fi Direct",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Bluetooth Version",
+      "value": "Bluetooth v5.3",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "NFC",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "PC Sync.",
+      "value": "Smart Switch (PC version)",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Form Factor",
+      "value": "Touchscreen Bar",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Dimension (HxWxD, mm)",
+      "value": "169.0 x 80.1 x 10.2",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Internet Usage Time(LTE) (Hours)",
+      "value": "Up to 20",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Internet Usage Time(Wi-Fi) (Hours)",
+      "value": "Up to 21",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Video Playback Time (Hours)",
+      "value": "Up to 18",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Battery Capacity (mAh, Typical)",
+      "value": "4050",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Removable",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Talk Time (4G LTE) (Hours)",
+      "value": "Up to 38",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Stereo Support",
+      "value": "No",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Video Playing Format",
+      "value": "MP4, M4V, 3GP, 3G2, AVI, FLV, MKV, WEBM",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Video Playing Resolution",
+      "value": "FHD (1920 x 1080)@60fps",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Audio Playing Format",
+      "value": "MP3, M4A, 3GA, AAC, OGG, OGA, WAV, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Gear Support",
+      "value": "Galaxy Buds2 Pro, Galaxy Buds Pro, Galaxy Buds Live, Galaxy Buds+, Galaxy Buds2, Galaxy Buds, Galaxy Buds FE, Galaxy Fit2, Galaxy Fit e, Galaxy Fit, Galaxy Watch6, Galaxy Watch5, Galaxy Watch4, Galaxy Watch3, Galaxy Watch, Galaxy Watch Active2, Galaxy Watch Active",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Samsung DeX Support",
+      "value": "No",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "SmartThings Support",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Mobile TV",
+      "value": "No",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Security Update Period (Valid until)",
+      "value": "28 February 2029",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU / model code and GTIN matching",
+    "Colour-specific packaging and regional accessories"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.samsung.com/uk/business/smartphones/xcover/galaxy-xcover7-black-128gb-sm-g556bzkdeeb/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible manufacturer specification content parsed; model-reference scope, not an exact retailer SKU."
+    }
+  ],
+  "research_lane": "phones"
+}

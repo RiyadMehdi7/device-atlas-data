@@ -1,0 +1,303 @@
+{
+  "id": "huawei-matepad-pro-max-papermatte-edition",
+  "brand": "HUAWEI",
+  "model": "MatePad Pro Max PaperMatte Edition",
+  "model_family": "MatePad Pro Max PaperMatte Edition",
+  "category": "Tablets",
+  "scope": "Manufacturer model reference. UK official manufacturer reference. Capacity options remain options; EU/non-EU battery distinctions retained. PaperMatte scope where named. No Latvia availability claim.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer model source checked; Latvia SKU needs matching",
+  "source_name": "HUAWEI MatePad Pro Max PaperMatte Edition technical specifications",
+  "source_url": "https://consumer.huawei.com/uk/tablets/matepad-pro-max/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Height",
+      "value": "289.34 mm",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-pro-max/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Width",
+      "value": "196.34 mm",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-pro-max/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Depth",
+      "value": "4.7 mm",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-pro-max/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Weight",
+      "value": "Approx. 509 g (HUAWEI MatePad Pro Max PaperMatte Edition, including the battery)",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-pro-max/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Size",
+      "value": "13.2 inches",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-pro-max/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Type",
+      "value": "Flexible OLED PaperMatte Display",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-pro-max/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Resolution",
+      "value": "3000 × 2000, 273 ppi",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-pro-max/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Screen-to-body Ratio",
+      "value": "94%",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-pro-max/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Contrast Ratio",
+      "value": "2000000:1",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-pro-max/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Brightness",
+      "value": "1600 nits",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-pro-max/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Operating System",
+      "value": "HarmonyOS 4.3",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-pro-max/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "RAM",
+      "value": "12 GB",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-pro-max/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "ROM",
+      "value": "256 GB / 512 GB*",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-pro-max/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Typical Capacity",
+      "value": "EU 9760mAh; non-EU 10400mAh",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-pro-max/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Standard Charger",
+      "value": "Sold separately",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-pro-max/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Fast Charging",
+      "value": "Maximum 66 W",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-pro-max/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wired Reverse Charging",
+      "value": "Maximum 40 W",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-pro-max/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi",
+      "value": "802.11a/b/g/n/ac/ax/be, 2 × 2 MIMO",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-pro-max/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "WLAN Frequency",
+      "value": "2.4 GHz and 5 GHz",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-pro-max/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "Bluetooth 6.0, supports BLE, SBC, supports AAC, LDAC, L2HC",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-pro-max/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth File Transfer",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-pro-max/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "NearLink",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-pro-max/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "PC Data Synchronization",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-pro-max/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "OTG",
+      "value": "Supported (maximum output current 1.5A/5V during reverse power supply)",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-pro-max/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "USB",
+      "value": "Type-C, USB 3.1",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-pro-max/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Location",
+      "value": "Support GPS/GLONASS/BeiDou/Galileo/QZSS",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-pro-max/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Sensors",
+      "value": "Gravity sensor Gyroscope Ambient optical sensor Hall sensor Compass",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-pro-max/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Microphones",
+      "value": "4 × Microphones",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-pro-max/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Speakers",
+      "value": "6 × Speakers",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-pro-max/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Audio",
+      "value": "HUAWEI SOUND Audio file format: .mp3, .mp4, .3gp,.ogg, .amr, .aac, .flac, .wav, .midi",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-pro-max/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Video",
+      "value": "Video file format: .mp4, .3gp",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-pro-max/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "rear camera Image Resolution",
+      "value": "Up to 8192 × 6144 pixels",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-pro-max/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "rear camera Video Resolution",
+      "value": "Up to 3840 × 2160 pixels",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-pro-max/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU rated capacity",
+      "value": "9660mAh",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-pro-max/specs/",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia-specific MPN/GTIN",
+    "Latvia retail configuration and package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://consumer.huawei.com/uk/tablets/matepad-pro-max/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible official technical content read; structured facts retained"
+    }
+  ],
+  "research_lane": "tablets"
+}

@@ -1,0 +1,254 @@
+{
+  "id": "logitech-mx-creative-console",
+  "brand": "Logitech",
+  "model": "MX Creative Console",
+  "model_family": "MX Creative Console",
+  "category": "Accessories",
+  "scope": "UK manufacturer model reference. Explicit MPN options identify their labelled colour/layout variants; not a Latvia SKU. No colour/layout records generated.",
+  "identifiers": [
+    "920-012932",
+    "920-012931"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Logitech MX Creative Console technical specifications",
+  "source_url": "https://www.logitech.com/en-gb/shop/p/buy-mx-creative-console",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "System Requirements / What you need / Windows",
+      "value": "10 or later [Windows systems with ARM 64 processors are not supported]",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/buy-mx-creative-console",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / What you need / macOS",
+      "value": "13 or later",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/buy-mx-creative-console",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / What you need / USB-C Port",
+      "value": "Listed requirement",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/buy-mx-creative-console",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / What you need / Bluetooth Low Energy Technology",
+      "value": "Listed requirement",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/buy-mx-creative-console",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / What you need / Logi Options+ App",
+      "value": "Listed requirement [Available for recent versions of Windows and macOS at app.logi.com.]",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/buy-mx-creative-console",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / MX Creative Dialpad / Height",
+      "value": "92.1 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/buy-mx-creative-console",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / MX Creative Dialpad / Width",
+      "value": "93.7 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/buy-mx-creative-console",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / MX Creative Dialpad / Depth",
+      "value": "33.8 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/buy-mx-creative-console",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / MX Creative Dialpad / Weight",
+      "value": "128 g",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/buy-mx-creative-console",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / MX Creative Keypad / Height",
+      "value": "91.7 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/buy-mx-creative-console",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / MX Creative Keypad / Width",
+      "value": "77.9 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/buy-mx-creative-console",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / MX Creative Keypad / Depth",
+      "value": "25.5 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/buy-mx-creative-console",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / MX Creative Keypad / Weight",
+      "value": "96 g",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/buy-mx-creative-console",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Stand / Height",
+      "value": "112.7 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/buy-mx-creative-console",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Stand / Width",
+      "value": "58.5 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/buy-mx-creative-console",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Stand / Depth",
+      "value": "20.5 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/buy-mx-creative-console",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Stand / Weight",
+      "value": "61 g",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/buy-mx-creative-console",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / USB-C 2.0 Cable / Length",
+      "value": "1500 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/buy-mx-creative-console",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / USB-C 2.0 Cable / Weight",
+      "value": "27 g",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/buy-mx-creative-console",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "App Integrations",
+      "value": "Adobe Lightroom, Adobe Lightroom Classic, Adobe Photoshop, Adobe Premiere Pro, Adobe After Effects, Adobe Audition, Adobe Illustrator, Final Cut Pro, DaVinci Resolve, Figma, Affinity Photo, Zoom, Spotify, Microsoft Teams, More plugins can be found in the Logi Marketplace.",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/buy-mx-creative-console",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Required software",
+      "value": "Logi Options+ App*. (*Available for recent versions of Windows and macOS at app.logi.com)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/buy-mx-creative-console",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "MX Creative Dialpad",
+      "value": "X2 AAA batteries (Alkaline Batteries)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/buy-mx-creative-console",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "MX Creative Keypad",
+      "value": "USB C to C high-speed 2.0 cable",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/buy-mx-creative-console",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Requirements",
+      "value": "Windows* 10 or later macOS 13 or later USB-C Port Bluetooth Low Energy Technology Logi Options+ App**. (*Windows systems with ARM 64 processors are not supported, **Available for recent versions of Windows and macOS at app.logi.com.)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/buy-mx-creative-console",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Manufacturer warranty",
+      "value": "2-Year Limited Hardware Warranty",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/buy-mx-creative-console",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "UK package contents",
+      "value": "MX Creative Dialpad X2 AAA batteries; MX Creative Keypad; USB C to C high-speed 2.0 cable; Stand ; User documentation",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/buy-mx-creative-console",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia MPN/GTIN",
+    "Latvia retail package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.logitech.com/en-gb/shop/p/buy-mx-creative-console",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Official source technical content read; factual extraction retained"
+    }
+  ],
+  "identifier_options": [
+    {
+      "mpn": "920-012932",
+      "name": "MX Creative Console - Pale Grey",
+      "colour": "Pale Grey"
+    },
+    {
+      "mpn": "920-012931",
+      "name": "MX Creative Console - Graphite",
+      "colour": "Graphite"
+    }
+  ],
+  "research_lane": "accessories"
+}

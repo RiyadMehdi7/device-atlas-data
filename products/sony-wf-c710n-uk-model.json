@@ -1,0 +1,161 @@
+{
+  "id": "sony-wf-c710n-uk-model",
+  "brand": "Sony",
+  "model": "WF-C710N",
+  "category": "Earbuds",
+  "scope": "UK manufacturer model reference; Latvia variant matching required",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "WF-C710N | Noise Cancelling Specifications| Headphones | Sony UK",
+  "source_url": "https://www.sony.co.uk/headphones/products/wf-c710n/spec",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "WEIGHT",
+      "value": "Approx. 5.2 g x 2 (including earbuds tips (M) )",
+      "unit": "",
+      "condition": "Earbuds; UK manufacturer model reference"
+    },
+    {
+      "label": "HEADPHONE TYPE",
+      "value": "Closed",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "DRIVER UNIT",
+      "value": "5mm",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "FREQUENCY RESPONSE(BLUETOOTH® COMMUNICATION)",
+      "value": "20 Hz - 20,000 Hz (44.1 kHz sampling)",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "VOLUME CONTROL",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "WATERPROOF",
+      "value": "Yes (IPX4)",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "MULTIPOINT CONNECTION",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "DSEE",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "AMBIENT SOUND MODE",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "BATTERY CHARGE TIME",
+      "value": "Approx. 1.5 hrs",
+      "unit": "",
+      "condition": "Earbuds; UK manufacturer model reference"
+    },
+    {
+      "label": "BATTERY CHARGE METHOD",
+      "value": "USB Charge (with case)",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "BATTERY LIFE(CONTINUOUS MUSIC PLAYBACK TIME)",
+      "value": "Max. 8.5 hrs (NC ON) / Max. 12 hrs (NC OFF)",
+      "unit": "",
+      "condition": "Earbuds; BATTERY LIFE(CONTINUOUS MUSIC PLAYBACK TIME)"
+    },
+    {
+      "label": "BATTERY LIFE(CONTINUOUS COMMUNICATION TIME)",
+      "value": "Max. 4.5 hrs (NC ON) / Max. 4.5 hrs (NC OFF)",
+      "unit": "",
+      "condition": "Earbuds; BATTERY LIFE(CONTINUOUS COMMUNICATION TIME)"
+    },
+    {
+      "label": "BLUETOOTH® VERSION",
+      "value": "Bluetooth Specification Version 5.3",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "EFFECTIVE RANGE",
+      "value": "10m",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "FREQUENCY RANGE",
+      "value": "2.4 GHz band (2.400 0 GHz - 2.483 5 GHz)",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "PROFILE",
+      "value": "A2DP, AVRCP, HFP, HSP",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "SUPPORTED AUDIO FORMAT(S)",
+      "value": "SBC, AAC",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "SUPPORTED CONTENT PROTECTION",
+      "value": "SCMS-T",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "QUICK ATTENTION",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "Charging case weight",
+      "value": "Approx. 38 g",
+      "unit": "",
+      "condition": "Charging case"
+    },
+    {
+      "label": "Charging case battery charge time",
+      "value": "Approx. 3.5 hrs (USB charging)",
+      "unit": "",
+      "condition": "Charging case"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU/GTIN matching"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.sony.co.uk/headphones/products/wf-c710n/spec",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Manufacturer specification table read"
+    }
+  ],
+  "research_lane": "audio"
+}

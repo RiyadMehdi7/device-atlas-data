@@ -1,0 +1,162 @@
+{
+  "id": "reolink-trackmix-series-g770-eu-reference",
+  "brand": "Reolink",
+  "model": "TrackMix Series G770",
+  "category": "Cameras",
+  "scope": "Manufacturer reference from public web-open content. DK/BE regional scope where indicated; global W330 reference. Exact Latvia hardware, model code and included kit require matching. NVS16 applies only to N6MB01. Conflicting rows withheld.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Reolink TrackMix Series G770 official specifications",
+  "source_url": "https://reolink.com/dk/product/trackmix-series-g770/",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/reolink-trackmix-series-g770/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Sensor",
+      "value": "1/3-inch CMOS",
+      "unit": ""
+    },
+    {
+      "label": "Resolution",
+      "value": "Up to 3840 × 2160, 8MP at 15fps",
+      "unit": ""
+    },
+    {
+      "label": "Lenses",
+      "value": "2.8mm/F1.6 and8mm/F1.6",
+      "unit": ""
+    },
+    {
+      "label": "Codecs",
+      "value": "H.264, H.265",
+      "unit": ""
+    },
+    {
+      "label": "Horizontal field of view",
+      "value": "108.4°–38°",
+      "unit": ""
+    },
+    {
+      "label": "Vertical field of view",
+      "value": "57.3°–21.2°",
+      "unit": ""
+    },
+    {
+      "label": "Zoom",
+      "value": "6× hybrid",
+      "unit": ""
+    },
+    {
+      "label": "Day/night",
+      "value": "Automatic IR-cut filter",
+      "unit": ""
+    },
+    {
+      "label": "IR night vision",
+      "value": "Up to 30m; two850nm LEDs",
+      "unit": ""
+    },
+    {
+      "label": "Spotlight",
+      "value": "6500K, 450lm",
+      "unit": ""
+    },
+    {
+      "label": "Audio",
+      "value": "Two-way",
+      "unit": ""
+    },
+    {
+      "label": "Battery",
+      "value": "7.2V, 5100mAh",
+      "unit": ""
+    },
+    {
+      "label": "Battery energy",
+      "value": "36.72Wh",
+      "unit": ""
+    },
+    {
+      "label": "Solar compatibility",
+      "value": "Reolink Solar Panel2",
+      "unit": ""
+    },
+    {
+      "label": "DC power",
+      "value": "5V/2A",
+      "unit": ""
+    },
+    {
+      "label": "Charging",
+      "value": "USB-C",
+      "unit": ""
+    },
+    {
+      "label": "Reset button",
+      "value": "Supported",
+      "unit": ""
+    },
+    {
+      "label": "microSD maximum",
+      "value": "128GB",
+      "unit": ""
+    },
+    {
+      "label": "Microphone/speaker",
+      "value": "Built-in",
+      "unit": ""
+    },
+    {
+      "label": "Pan/tilt",
+      "value": "355°/0–90°; adjustable speed",
+      "unit": ""
+    },
+    {
+      "label": "Preset positions",
+      "value": "32",
+      "unit": ""
+    },
+    {
+      "label": "Automatic tracking",
+      "value": "Supported",
+      "unit": ""
+    },
+    {
+      "label": "European LTE bands",
+      "value": "FDD B1/B3/B7/B8/B20/B28A",
+      "unit": ""
+    },
+    {
+      "label": "European WCDMA bands",
+      "value": "B1/B8",
+      "unit": ""
+    },
+    {
+      "label": "Mainstream frame rate",
+      "value": "10–15fps",
+      "unit": ""
+    },
+    {
+      "label": "Substream frame rate",
+      "value": "10–15fps",
+      "unit": ""
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU/GTIN and hardware revision",
+    "Dimensions/weight/environment section needs fetching",
+    "Exact regional modem must match; US/Australia bands not transferred",
+    "Battery life varies by settings, usage, temperature"
+  ],
+  "source_pages": [
+    {
+      "url": "https://reolink.com/dk/product/trackmix-series-g770/",
+      "fetched_at": "2026-10-14",
+      "method": "web open; public manufacturer page content read",
+      "notes": "Direct HTTP403; ordinary web open succeeded; no bypass or credentials. Technical rows read, source contradictions withheld"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

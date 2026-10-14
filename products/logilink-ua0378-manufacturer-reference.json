@@ -1,0 +1,143 @@
+{
+  "id": "logilink-ua0378-manufacturer-reference",
+  "brand": "LogiLink",
+  "model": "UA0378",
+  "category": "Cameras",
+  "scope": "Official LogiLink/2direct technical datasheet model reference. Legacy OS requirements preserved as manufacturer claims; current OS support must be verified. Exact Latvia revision/GTIN requires matching.",
+  "identifiers": [
+    "UA0378"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "LogiLink UA0378 official technical datasheet",
+  "source_url": "https://www.2direct.de/media/pdf/b1/34/e0/ua0378.pdf",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/logilink-ua0378-hd-usb-webcam/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Image sensor",
+      "value": "1/2.7-inch,2MP",
+      "unit": ""
+    },
+    {
+      "label": "FOV",
+      "value": "100°",
+      "unit": ""
+    },
+    {
+      "label": "Focus",
+      "value": "Manual",
+      "unit": ""
+    },
+    {
+      "label": "Lens",
+      "value": "Six-element,1G4P plus IR",
+      "unit": ""
+    },
+    {
+      "label": "Aperture",
+      "value": "F2.2",
+      "unit": ""
+    },
+    {
+      "label": "Focal range",
+      "value": "7cm–∞",
+      "unit": ""
+    },
+    {
+      "label": "Microphones",
+      "value": "Two-channel stereo;noise reduction",
+      "unit": ""
+    },
+    {
+      "label": "Cable",
+      "value": "1.6m",
+      "unit": ""
+    },
+    {
+      "label": "Power",
+      "value": "DC5V via USB 2.0 Type-A",
+      "unit": ""
+    },
+    {
+      "label": "Video formats",
+      "value": "MJPEG, YUY2",
+      "unit": ""
+    },
+    {
+      "label": "Still resolutions",
+      "value": "1920×1080,1280×720,640×480",
+      "unit": ""
+    },
+    {
+      "label": "Video modes",
+      "value": "1920×1080,1280×720,640×480 at 30fps",
+      "unit": ""
+    },
+    {
+      "label": "Operating systems",
+      "value": "Windows 7/8/10, macOS 10.6, Linux 2.6.24, ChromeOS, Android 5.0, Ubuntu10.04 or above",
+      "unit": ""
+    },
+    {
+      "label": "USB video class",
+      "value": "UVC plug-and-play",
+      "unit": ""
+    },
+    {
+      "label": "Auto processing",
+      "value": "Exposure, white balance, flicker, color, gamma, dark compensation, edge enhancement",
+      "unit": ""
+    },
+    {
+      "label": "Low light frame rate",
+      "value": "Automatically adjusted with exposure",
+      "unit": ""
+    },
+    {
+      "label": "Tripod thread",
+      "value": "1/4-inch,6mm diameter",
+      "unit": ""
+    },
+    {
+      "label": "Dimensions with base",
+      "value": "8.7 × 5.3 × 6.4cm",
+      "unit": ""
+    },
+    {
+      "label": "Weight",
+      "value": "138g",
+      "unit": ""
+    },
+    {
+      "label": "Rotation",
+      "value": "360°",
+      "unit": ""
+    },
+    {
+      "label": "Tilt",
+      "value": "90°",
+      "unit": ""
+    },
+    {
+      "label": "Package contents",
+      "value": "Webcam, cleaning cloth, user manual",
+      "unit": ""
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvia GTIN and hardware revision",
+    "Malformed mic/SNR and CPU requirement descriptions withheld",
+    "Current OS/driver support beyond legacy manufacturer sheet"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.2direct.de/media/pdf/b1/34/e0/ua0378.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP200; official datasheet PDF parsed with pdftotext",
+      "notes": "Only technical rows from named model sheet; long marketing and imagery excluded"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

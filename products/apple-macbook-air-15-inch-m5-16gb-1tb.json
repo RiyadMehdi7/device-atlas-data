@@ -1,0 +1,153 @@
+{
+  "id": "apple-macbook-air-15-inch-m5-16gb-1tb",
+  "brand": "Apple",
+  "model": "MacBook Air 15-inch M5 16GB/1TB",
+  "category": "Laptops",
+  "scope": "Actual standard configuration from Apple Ireland technical specification columns. Colour, Latvian keyboard/MPN and Tele2 exact regional SKU unresolved. Configurable upgrades are excluded from CPU/memory/storage values.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Exact variant source checked",
+  "source_name": "Apple Ireland MacBook Air 15-inch technical specifications",
+  "source_url": "https://www.apple.com/ie/macbook-air/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Finish",
+      "value": "Sky Blue, Silver, Starlight, Midnight",
+      "unit": "",
+      "condition": "Apple Ireland standard configuration column 2; exact Latvian part number and keyboard require matching."
+    },
+    {
+      "label": "Chip",
+      "value": "Apple M5 chip 10‑core CPU with 4 super cores and 6 efficiency cores 10‑core GPU Neural Accelerators Hardware-accelerated ray tracing 16‑core Neural Engine 153GB/s memory bandwidth Media Engine Hardware‑accelerated H.264, HEVC, ProRes and ProRes RAW Video decode engine Video encode engine ProRes encode and decode engine AV1 decode",
+      "unit": "",
+      "condition": "Apple Ireland standard configuration column 2; exact Latvian part number and keyboard require matching."
+    },
+    {
+      "label": "Memory",
+      "value": "16GB 16GB unified memory",
+      "unit": "",
+      "condition": "Apple Ireland standard configuration column 2; exact Latvian part number and keyboard require matching."
+    },
+    {
+      "label": "Storage",
+      "value": "1TB 1TB SSD",
+      "unit": "",
+      "condition": "Apple Ireland standard configuration column 2; exact Latvian part number and keyboard require matching."
+    },
+    {
+      "label": "Display",
+      "value": "Liquid Retina display 15.3-inch (diagonal) LED-backlit display with IPS technology;2 2880x1864 native resolution at 224 pixels per inch 500 nits brightness Colour Support for 1 billion colours Wide colour (P3) True Tone technology",
+      "unit": "",
+      "condition": "Apple Ireland standard configuration column 2; exact Latvian part number and keyboard require matching."
+    },
+    {
+      "label": "Charging and Expansion",
+      "value": "MagSafe 3 charging port 3.5mm headphone jack Two Thunderbolt 4 (USB-C) ports with support for: Charging DisplayPort Thunderbolt 4 (up to 40Gb/s) USB 4 (up to 40Gb/s) MagSafe 3 3.5mm headphone jack Thunderbolt 4 (USB-C)",
+      "unit": "",
+      "condition": "Apple Ireland standard configuration column 2; exact Latvian part number and keyboard require matching."
+    },
+    {
+      "label": "External Display Support",
+      "value": "Supports up to two external displays: Two displays up to a native resolution of 6K at 60Hz or 4K at 144Hz One display up to a native resolution of 8K at 60Hz or 5K at 120Hz or 4K at 240Hz Supports up to two external displays over a single Thunderbolt port Simultaneously supports the built‑in display at full native resolution Thunderbolt 4 (USB‑C) ports support native DisplayPort 1.4 speeds (up to HBR3) with DSC capability",
+      "unit": "",
+      "condition": "Apple Ireland standard configuration column 2; exact Latvian part number and keyboard require matching."
+    },
+    {
+      "label": "Video Playback",
+      "value": "Supported formats include HEVC, H.264, AV1 and ProRes HDR with Dolby Vision, HDR10+/HDR10 and HLG",
+      "unit": "",
+      "condition": "Apple Ireland standard configuration column 2; exact Latvian part number and keyboard require matching."
+    },
+    {
+      "label": "Audio Playback",
+      "value": "Supported formats include AAC, MP3, Apple Lossless, FLAC, Dolby Digital, Dolby Digital Plus and Dolby Atmos",
+      "unit": "",
+      "condition": "Apple Ireland standard configuration column 2; exact Latvian part number and keyboard require matching."
+    },
+    {
+      "label": "Keyboard and Trackpad",
+      "value": "Backlit Magic Keyboard with: 78 (ANSI) or 79 (ISO) keys including 12 full‑height function keys Touch ID Ambient light sensor Force Touch trackpad for precise cursor control and pressure-sensing capabilities; enables Force clicks, accelerators, pressure-sensitive drawing and Multi‑Touch gestures",
+      "unit": "",
+      "condition": "Apple Ireland standard configuration column 2; exact Latvian part number and keyboard require matching."
+    },
+    {
+      "label": "Wireless",
+      "value": "Apple N1 wireless networking chip Wi‑Fi 7 (802.11be)4 Bluetooth 6 Thread networking technology",
+      "unit": "",
+      "condition": "Apple Ireland standard configuration column 2; exact Latvian part number and keyboard require matching."
+    },
+    {
+      "label": "Camera",
+      "value": "12MP Center Stage camera with support for Desk View 1080p HD video recording Advanced image signal processor with computational video",
+      "unit": "",
+      "condition": "Apple Ireland standard configuration column 2; exact Latvian part number and keyboard require matching."
+    },
+    {
+      "label": "Audio",
+      "value": "Six-speaker sound system with force-cancelling woofers Support for Spatial Audio when playing music or video with Dolby Atmos on built-in speakers Spatial Audio with dynamic head tracking when using supported models of AirPods, AirPods Pro and AirPods Max5 Three-mic array with directional beamforming Voice Isolation and Wide Spectrum microphone modes for enhanced voice clarity in audio and video calls 3.5mm headphone jack with advanced support for high‑impedance headphones",
+      "unit": "",
+      "condition": "Apple Ireland standard configuration column 2; exact Latvian part number and keyboard require matching."
+    },
+    {
+      "label": "Operating Requirements",
+      "value": "Line voltage: 100V to 240V AC Frequency: 50Hz to 60Hz Operating temperature: 10° to 35° C (50° to 95° F) Storage temperature: –25° to 45° C (–13° to 113° F) Relative humidity: 0% to 90% non‑condensing Operating altitude: tested up to 3,000 metres (10,000 feet) Maximum storage altitude: 4,500 metres (15,000 feet) Maximum shipping altitude: 10,500 metres (35,000 feet)",
+      "unit": "",
+      "condition": "Apple Ireland standard configuration column 2; exact Latvian part number and keyboard require matching."
+    },
+    {
+      "label": "Size and Weight",
+      "value": "Height: 1.15 cm (0.45 inches) Width: 34.04 cm (13.40 inches) Depth: 23.76 cm (9.35 inches) Weight: 1.51 kg (3.3 pounds)6 Depth: 23.76 cm (9.35 inches) Width: 34.04 cm (13.40 inches) Height: 1.15 cm (0.45 inches)",
+      "unit": "",
+      "condition": "Apple Ireland standard configuration column 2; exact Latvian part number and keyboard require matching."
+    },
+    {
+      "label": "Operating System",
+      "value": "macOS",
+      "unit": "",
+      "condition": "Apple Ireland standard configuration column 2; exact Latvian part number and keyboard require matching."
+    },
+    {
+      "label": "Built-in Apps",
+      "value": "App Store Books Calendar Contacts FaceTime Find My Freeform Games GarageBand Home iMovie Journal Keynote Mail Maps Messages Music Notes Numbers Pages Passwords Phone Photo Booth Photos Podcasts Preview QuickTime Player Reminders Safari Shortcuts Stocks Time Machine Tips TV Voice Memos Weather",
+      "unit": "",
+      "condition": "Apple Ireland standard configuration column 2; exact Latvian part number and keyboard require matching."
+    },
+    {
+      "label": "In the Box",
+      "value": "15-inch MacBook Air USB-C to MagSafe 3 Cable (2m) Power adapter sold separately",
+      "unit": "",
+      "condition": "Apple Ireland standard configuration column 2; exact Latvian part number and keyboard require matching."
+    },
+    {
+      "label": "Con­fig­ure to Order",
+      "value": "Con­fig­ure your MacBook Air with these options at apple.com: Con­fig­ure your MacBook Air at apple.com. Options for model starting from 24GB or 32GB unified memory 1TB, 2TB or 4TB SSD 35W Dual USB‑C Port Power Adapter or 70W USB‑C Power Adapter Options for model starting from 24GB or 32GB unified memory 2TB or 4TB SSD 35W Dual USB‑C Port Power Adapter or 70W USB‑C Power Adapter Options for model starting from 32GB unified memory 2TB or 4TB SSD 35W Dual USB‑C Port Power Adapter or 70W USB‑C Power Adapter",
+      "unit": "",
+      "condition": "Apple Ireland standard configuration column 2; exact Latvian part number and keyboard require matching."
+    },
+    {
+      "label": "MacBook Air and the Environment",
+      "value": "MacBook Air is designed to reduce environmental impact:9 See the MacBook Air Product Environmental Report (PDF)- opens in new tab Progress towards Apple 2030 Apple 2030 is our commitment to be carbon neutral for our entire carbon footprint. Our plan to decarbonise products is rigorous and focuses on transitioning to low‑carbon electricity, designing with recycled and low‑carbon materials and prioritising lower‑carbon ways of shipping products, like sea freight. See Apple’s commitment Materials MacBook Air is made with 55% recycled content10 including: 100% recycled aluminium in the enclosure and trackpad gel plate 100% recycled cobalt and 95% recycled lithium in the battery 100% recycled gold plating in all Apple-designed printed circuit boards and all connectors 100% recycled rare earth elements in all magnets 100% recycled tin solder in all Apple-designed printed circuit boards 90% recycled steel in the keyboard feature plate and trackpad beam Energy 50% of manufacturing electricity for MacBook Air is sourced from low-carbon electricity11 ENERGY STAR® certified12 Packaging 100% fibre-based packaging13 Waste No established final assembly sites generate waste sent to landfill as part of Apple’s Zero Waste Programme14 Smarter chemistry15 All of the materials used in Apple products, accessories and packaging are covered by the requirements of our Regulated Substances Specification(PDF) opens in new tab, which was one of the first in industry to restrict the use of key substances of concern. See the latest En­viron­men­tal Progress Report(PDF) opens in new tab to understand Apple’s recent efforts in phasing out these chemistries.",
+      "unit": "",
+      "condition": "Apple Ireland standard configuration column 2; exact Latvian part number and keyboard require matching."
+    }
+  ],
+  "missing_fields": [
+    "Latvia MPN/GTIN",
+    "Keyboard locale",
+    "Battery playback conditions and quoted battery life omitted"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.apple.com/ie/macbook-air/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Read standard configuration columns and shared specification rows. HTTP 200. Battery marketing/test claims omitted. Structured field values preserved in per-product JSON evidence.",
+      "http_status": 200,
+      "content_title": "Apple Ireland MacBook Air 15-inch technical specifications"
+    }
+  ],
+  "research_lane": "computers"
+}

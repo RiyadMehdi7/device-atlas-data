@@ -1,0 +1,208 @@
+{
+  "id": "logitech-mx-master-3s-bluetooth-edition",
+  "brand": "Logitech",
+  "model": "MX Master 3S Bluetooth Edition",
+  "model_family": "MX Master 3S Bluetooth Edition",
+  "category": "Accessories",
+  "scope": "UK manufacturer model reference. Explicit MPN options identify their labelled colour/layout variants; not a Latvia SKU. No colour/layout records generated.",
+  "identifiers": [
+    "910-007501"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Logitech MX Master 3S Bluetooth Edition technical specifications",
+  "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-3s",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Dimensions / MX Master 3S Bluetooth Edition / Height",
+      "value": "124.9 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-3s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / MX Master 3S Bluetooth Edition / Width",
+      "value": "84.3 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-3s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / MX Master 3S Bluetooth Edition / Depth",
+      "value": "51 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-3s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / MX Master 3S Bluetooth Edition / Weight",
+      "value": "141 g",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-3s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Sensor Technology",
+      "value": "Darkfield high precision",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-3s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Nominal value",
+      "value": "1000 DPI",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-3s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "DPI (Minimal and maximal value)",
+      "value": "200-8000 DPI (can be set in increments of 50 DPI)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-3s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Number of Buttons",
+      "value": "7 buttons (Left/Right-click, Back/Forward, App-Switch, Wheel mode-shift, Middle click)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-3s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Gesture button",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-3s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Scroll Wheel",
+      "value": "Yes, with smart-shift",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-3s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Thumb wheel",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-3s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Customization app",
+      "value": "Supported by Logi Options+ on Windows and macOS*. (*Available on Windows and macOS at logitech.com/optionsplus)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-3s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery type",
+      "value": "Rechargeable Li-Po (500 mAh) battery",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-3s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery life",
+      "value": "Get three hours of use from a one-minute quick charge.* (*Battery life may vary based on user and computing conditions.)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-3s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wireless technology",
+      "value": "Bluetooth Low Energy Technology",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-3s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wireless range",
+      "value": "10 m*. (*Wireless range may vary depending on operating environment and computer setup.)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-3s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Requirements",
+      "value": "Internet access required to download optional customization app Logi Options+*. (*Available on Windows and macOS at logitech.com/optionsplus)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-3s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Logi Bolt USB receiver",
+      "value": "Requires: Available USB-A port Windows 10, 11 or later macOS 10.15 or later Linux*, ChromeOS*. (*Device basic functions will be supported without software for other systems than Windows and macOS)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-3s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Compatibility",
+      "value": "Requires Bluetooth Low Energy Technology Engineered for Intel® Evo™ Laptops Windows 10, 11 or later macOS 10.15 or later Linux*, ChromeOS™*, iPadOS* 14 or later Android™* 8.0 or later, Not compatible with Logitech Unifying USB Receiver technology. (*Device basic functions will be supported without software for other systems than Windows and macOS)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-3s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Manufacturer warranty",
+      "value": "2-Year Limited Hardware Warranty",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-3s",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "UK package contents",
+      "value": "Mouse; User documentation",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-3s",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia MPN/GTIN",
+    "Latvia retail package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.logitech.com/en-gb/shop/p/mx-master-3s",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Official source technical content read; factual extraction retained"
+    }
+  ],
+  "identifier_options": [
+    {
+      "mpn": "910-007501",
+      "name": "MX Master 3S Bluetooth Edition - Graphite",
+      "colour": "Graphite"
+    }
+  ],
+  "research_lane": "accessories"
+}

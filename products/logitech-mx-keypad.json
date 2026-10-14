@@ -1,0 +1,174 @@
+{
+  "id": "logitech-mx-keypad",
+  "brand": "Logitech",
+  "model": "MX Keypad",
+  "model_family": "MX Keypad",
+  "category": "Accessories",
+  "scope": "UK manufacturer model reference. Explicit MPN options identify their labelled colour/layout variants; not a Latvia SKU. No colour/layout records generated.",
+  "identifiers": [
+    "920-013891",
+    "920-013892"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Logitech MX Keypad technical specifications",
+  "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keypad",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Dimensions / MX Keypad / Height",
+      "value": "91.7 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keypad",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / MX Keypad / Width",
+      "value": "77.9 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keypad",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / MX Keypad / Depth",
+      "value": "25.5 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keypad",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / MX Keypad / Weight",
+      "value": "96 g",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keypad",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Stand / Height",
+      "value": "112.7 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keypad",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Stand / Width",
+      "value": "58.5 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keypad",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Stand / Depth",
+      "value": "20.5 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keypad",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Stand / Weight",
+      "value": "61 g",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keypad",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / USB-C 2.0 Cable / Length",
+      "value": "1500 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keypad",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / USB-C 2.0 Cable / Weight",
+      "value": "27 g",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keypad",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Customization app",
+      "value": "Logi Options+ App*. (*Available for recent versions of Windows and macOS at app.logi.com)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keypad",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Tool Support",
+      "value": "Visual Studio Code, Github Copilot, IntelliJ IDEA, Claude Code, OpenAI Codex, Zoom, Spotify, Microsoft Teams, PowerPoint, Excel, Notion, Slack, Figma, Adobe Lightroom, Photoshop, Premiere Pro, After Effects, Illustrator, Final Cut Pro, DaVinci Resolve, OBS Studio. Full plugin list can be found at marketplace.logi.com.",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keypad",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Requirements",
+      "value": "USB-C Port, Internet connection is required for Options+ installation.",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keypad",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Compatibility",
+      "value": "Windows* 10 or later (*Windows systems with ARM 64 processors are not supported), macOS 13 or later",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keypad",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Manufacturer warranty",
+      "value": "2-Year Limited Hardware Warranty",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keypad",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "UK package contents",
+      "value": "MX Keypad; Stand; USB C 2.0 Type-C cable; User documentation",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keypad",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia MPN/GTIN",
+    "Latvia retail package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.logitech.com/en-gb/shop/p/mx-keypad",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Official source technical content read; factual extraction retained"
+    }
+  ],
+  "identifier_options": [
+    {
+      "mpn": "920-013891",
+      "name": "MX Keypad - Graphite",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "920-013892",
+      "name": "MX Keypad - Pale Grey",
+      "colour": "Pale Grey"
+    }
+  ],
+  "research_lane": "accessories"
+}

@@ -1,0 +1,248 @@
+{
+  "id": "gigabyte-m27up-ice",
+  "brand": "Gigabyte",
+  "model": "M27UP ICE",
+  "category": "Monitors",
+  "scope": "Exact official Gigabyte M27UP ICE reference. Tele2 listed M27UP ICE; regional suffix, EAN and supplied bundle reconciliation remain unresolved.",
+  "identifiers": [
+    "M27UP ICE"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "M27UP ICE Gaming Monitor - GIGABYTE Global",
+  "source_url": "https://www.gigabyte.com/Monitor/M27UP-ICE/sp",
+  "tele2_url": "https://www.tele2.lv/monitori/m27up-ice-27-ss-ips-4k-3840-x-2160-at-16/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Panel Size (inch)",
+      "value": "27” SS IPS",
+      "unit": "",
+      "condition": "Exact manufacturer model reference; source typical/max, estimated-weight and stand conditions retained. Panel Type=Edge is manufacturer wording; SS IPS/VA is stated in Panel Size."
+    },
+    {
+      "label": "Manufacturer field labelled Panel Type",
+      "value": "Edge",
+      "unit": "",
+      "condition": "Exact manufacturer model reference; source typical/max, estimated-weight and stand conditions retained. Panel Type=Edge is manufacturer wording; SS IPS/VA is stated in Panel Size."
+    },
+    {
+      "label": "Display Viewing Area (HxV)",
+      "value": "596.736 (H) x 335.664 (V)",
+      "unit": "",
+      "condition": "Exact manufacturer model reference; source typical/max, estimated-weight and stand conditions retained. Panel Type=Edge is manufacturer wording; SS IPS/VA is stated in Panel Size."
+    },
+    {
+      "label": "Color Saturation",
+      "value": "95% DCI-P3/ 125% sRGB",
+      "unit": "",
+      "condition": "Exact manufacturer model reference; source typical/max, estimated-weight and stand conditions retained. Panel Type=Edge is manufacturer wording; SS IPS/VA is stated in Panel Size."
+    },
+    {
+      "label": "Resolution",
+      "value": "3840 x 2160 (UHD)",
+      "unit": "",
+      "condition": "Exact manufacturer model reference; source typical/max, estimated-weight and stand conditions retained. Panel Type=Edge is manufacturer wording; SS IPS/VA is stated in Panel Size."
+    },
+    {
+      "label": "Display Surface",
+      "value": "Non-glare",
+      "unit": "",
+      "condition": "Exact manufacturer model reference; source typical/max, estimated-weight and stand conditions retained. Panel Type=Edge is manufacturer wording; SS IPS/VA is stated in Panel Size."
+    },
+    {
+      "label": "Refresh Rate (Max)",
+      "value": "160Hz",
+      "unit": "",
+      "condition": "Exact manufacturer model reference; source typical/max, estimated-weight and stand conditions retained. Panel Type=Edge is manufacturer wording; SS IPS/VA is stated in Panel Size."
+    },
+    {
+      "label": "Pixel Pitch",
+      "value": "0.1554 (H) x 0.1554 (V)",
+      "unit": "",
+      "condition": "Exact manufacturer model reference; source typical/max, estimated-weight and stand conditions retained. Panel Type=Edge is manufacturer wording; SS IPS/VA is stated in Panel Size."
+    },
+    {
+      "label": "Brightness",
+      "value": "350 cd/m2 (TYP)",
+      "unit": "",
+      "condition": "Exact manufacturer model reference; source typical/max, estimated-weight and stand conditions retained. Panel Type=Edge is manufacturer wording; SS IPS/VA is stated in Panel Size."
+    },
+    {
+      "label": "Contrast Ratio (Typ.)",
+      "value": "1000:1",
+      "unit": "",
+      "condition": "Exact manufacturer model reference; source typical/max, estimated-weight and stand conditions retained. Panel Type=Edge is manufacturer wording; SS IPS/VA is stated in Panel Size."
+    },
+    {
+      "label": "Viewing Angle",
+      "value": "178°(H)/178°(V)",
+      "unit": "",
+      "condition": "Exact manufacturer model reference; source typical/max, estimated-weight and stand conditions retained. Panel Type=Edge is manufacturer wording; SS IPS/VA is stated in Panel Size."
+    },
+    {
+      "label": "Display Colors",
+      "value": "1.07B",
+      "unit": "",
+      "condition": "Exact manufacturer model reference; source typical/max, estimated-weight and stand conditions retained. Panel Type=Edge is manufacturer wording; SS IPS/VA is stated in Panel Size."
+    },
+    {
+      "label": "Response Time",
+      "value": "1ms GTG",
+      "unit": "",
+      "condition": "Exact manufacturer model reference; source typical/max, estimated-weight and stand conditions retained. Panel Type=Edge is manufacturer wording; SS IPS/VA is stated in Panel Size."
+    },
+    {
+      "label": "HDR Support",
+      "value": "VESA Display HDR400",
+      "unit": "",
+      "condition": "Exact manufacturer model reference; source typical/max, estimated-weight and stand conditions retained. Panel Type=Edge is manufacturer wording; SS IPS/VA is stated in Panel Size."
+    },
+    {
+      "label": "Flicker-free",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact manufacturer model reference; source typical/max, estimated-weight and stand conditions retained. Panel Type=Edge is manufacturer wording; SS IPS/VA is stated in Panel Size."
+    },
+    {
+      "label": "HBR3",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact manufacturer model reference; source typical/max, estimated-weight and stand conditions retained. Panel Type=Edge is manufacturer wording; SS IPS/VA is stated in Panel Size."
+    },
+    {
+      "label": "Connectivity",
+      "value": "2 x HDMI 2.1 1 x Display port 1.4 (DSC) 3 x USB 3.2 Gen 1 Downstream ports 1 x USB 3.2 Gen 1 Upstream port 1 x USB Type-C (Alternate Mode; Upstream port; Power Delivery up to 18W) 1 x Earphone Jack",
+      "unit": "",
+      "condition": "Exact manufacturer model reference; source typical/max, estimated-weight and stand conditions retained. Panel Type=Edge is manufacturer wording; SS IPS/VA is stated in Panel Size."
+    },
+    {
+      "label": "Speaker",
+      "value": "5W x2",
+      "unit": "",
+      "condition": "Exact manufacturer model reference; source typical/max, estimated-weight and stand conditions retained. Panel Type=Edge is manufacturer wording; SS IPS/VA is stated in Panel Size."
+    },
+    {
+      "label": "Power Type",
+      "value": "Power Board Build-in",
+      "unit": "",
+      "condition": "Exact manufacturer model reference; source typical/max, estimated-weight and stand conditions retained. Panel Type=Edge is manufacturer wording; SS IPS/VA is stated in Panel Size."
+    },
+    {
+      "label": "Power Consumption",
+      "value": "27W ***",
+      "unit": "",
+      "condition": "Exact manufacturer model reference; source typical/max, estimated-weight and stand conditions retained. Panel Type=Edge is manufacturer wording; SS IPS/VA is stated in Panel Size."
+    },
+    {
+      "label": "Power Saving Mode",
+      "value": "<0.5W",
+      "unit": "",
+      "condition": "Exact manufacturer model reference; source typical/max, estimated-weight and stand conditions retained. Panel Type=Edge is manufacturer wording; SS IPS/VA is stated in Panel Size."
+    },
+    {
+      "label": "Power Off Mode",
+      "value": "<0.3W",
+      "unit": "",
+      "condition": "Exact manufacturer model reference; source typical/max, estimated-weight and stand conditions retained. Panel Type=Edge is manufacturer wording; SS IPS/VA is stated in Panel Size."
+    },
+    {
+      "label": "Voltage",
+      "value": "AC 100-240V ~ 50/60Hz",
+      "unit": "",
+      "condition": "Exact manufacturer model reference; source typical/max, estimated-weight and stand conditions retained. Panel Type=Edge is manufacturer wording; SS IPS/VA is stated in Panel Size."
+    },
+    {
+      "label": "Tilt(angle)",
+      "value": "-5°~+21°",
+      "unit": "",
+      "condition": "Exact manufacturer model reference; source typical/max, estimated-weight and stand conditions retained. Panel Type=Edge is manufacturer wording; SS IPS/VA is stated in Panel Size."
+    },
+    {
+      "label": "Swivel(angle)",
+      "value": "±15°",
+      "unit": "",
+      "condition": "Exact manufacturer model reference; source typical/max, estimated-weight and stand conditions retained. Panel Type=Edge is manufacturer wording; SS IPS/VA is stated in Panel Size."
+    },
+    {
+      "label": "Pivot(angle/direction)",
+      "value": "-0°~+90° (clockwise)",
+      "unit": "",
+      "condition": "Exact manufacturer model reference; source typical/max, estimated-weight and stand conditions retained. Panel Type=Edge is manufacturer wording; SS IPS/VA is stated in Panel Size."
+    },
+    {
+      "label": "Height Adjustment (mm)",
+      "value": "130 mm",
+      "unit": "",
+      "condition": "Exact manufacturer model reference; source typical/max, estimated-weight and stand conditions retained. Panel Type=Edge is manufacturer wording; SS IPS/VA is stated in Panel Size."
+    },
+    {
+      "label": "VESA Wall Mounting(mm)",
+      "value": "100*100 mm",
+      "unit": "",
+      "condition": "Exact manufacturer model reference; source typical/max, estimated-weight and stand conditions retained. Panel Type=Edge is manufacturer wording; SS IPS/VA is stated in Panel Size."
+    },
+    {
+      "label": "Kensington lock",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact manufacturer model reference; source typical/max, estimated-weight and stand conditions retained. Panel Type=Edge is manufacturer wording; SS IPS/VA is stated in Panel Size."
+    },
+    {
+      "label": "Phys. Dimension with Stand(WxHxD)",
+      "value": "612*515*192 mm",
+      "unit": "",
+      "condition": "Exact manufacturer model reference; source typical/max, estimated-weight and stand conditions retained. Panel Type=Edge is manufacturer wording; SS IPS/VA is stated in Panel Size."
+    },
+    {
+      "label": "Phys. Dimension w/o stand (WxHxD)",
+      "value": "612*371*59 mm",
+      "unit": "",
+      "condition": "Exact manufacturer model reference; source typical/max, estimated-weight and stand conditions retained. Panel Type=Edge is manufacturer wording; SS IPS/VA is stated in Panel Size."
+    },
+    {
+      "label": "Box Dimension (WxHxD)",
+      "value": "800*480*169 mm",
+      "unit": "",
+      "condition": "Exact manufacturer model reference; source typical/max, estimated-weight and stand conditions retained. Panel Type=Edge is manufacturer wording; SS IPS/VA is stated in Panel Size."
+    },
+    {
+      "label": "Net Weight with stand (Esti.)",
+      "value": "6.65 kg",
+      "unit": "",
+      "condition": "Exact manufacturer model reference; source typical/max, estimated-weight and stand conditions retained. Panel Type=Edge is manufacturer wording; SS IPS/VA is stated in Panel Size."
+    },
+    {
+      "label": "Net Weight without stand (Esti.)",
+      "value": "5.15 kg",
+      "unit": "",
+      "condition": "Exact manufacturer model reference; source typical/max, estimated-weight and stand conditions retained. Panel Type=Edge is manufacturer wording; SS IPS/VA is stated in Panel Size."
+    },
+    {
+      "label": "Gross Weight (Esti.)",
+      "value": "9.081 kg",
+      "unit": "",
+      "condition": "Exact manufacturer model reference; source typical/max, estimated-weight and stand conditions retained. Panel Type=Edge is manufacturer wording; SS IPS/VA is stated in Panel Size."
+    },
+    {
+      "label": "Accessories",
+      "value": "Power cable/HDMI 2.1 cable/DP cable/USB cable/QSG/Warranty card",
+      "unit": "",
+      "condition": "Exact manufacturer model reference; source typical/max, estimated-weight and stand conditions retained. Panel Type=Edge is manufacturer wording; SS IPS/VA is stated in Panel Size."
+    }
+  ],
+  "missing_fields": [
+    "Tele2 regional stock MPN / EAN reconciliation",
+    "User manual input timing table"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.gigabyte.com/Monitor/M27UP-ICE/sp",
+      "fetched_at": "2026-10-14",
+      "method": "Exa web_fetch_exa full manufacturer page",
+      "notes": "Full exact-model technical specification section read"
+    }
+  ],
+  "research_lane": "monitors"
+}

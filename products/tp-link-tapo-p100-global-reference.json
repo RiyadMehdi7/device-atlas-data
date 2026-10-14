@@ -1,0 +1,96 @@
+{
+  "id": "tp-link-tapo-p100-global-reference",
+  "brand": "TP-Link",
+  "model": "Tapo P100",
+  "category": "Smart home",
+  "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "TP-Link Tapo P100 official specifications",
+  "source_url": "https://www.tp-link.com/en/home-networking/smart-plug/tapo-p100/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Protocol",
+      "value": "IEEE 802.11b/g/n, Bluetooth (for setup only)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wireless Type",
+      "value": "2.4 GHz WiFi Only, Bluetooth (for setup only)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Dimensions( H X W X D )",
+      "value": "51 × 72 × 40 mm (2.0 × 2.8 × 1.6 in)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Material",
+      "value": "PC (V-0, UL 94), Flame-retardant",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Buttons",
+      "value": "• Power Button • Status LED",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Rated",
+      "value": "220-240 V~, 50/60 Hz",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Maximum Load",
+      "value": "2300W, 10 A, 1/6HP Motor",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Third-Party Platform",
+      "value": "• Alexa • Google Assistant • Samsung SmartThings",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Package Content",
+      "value": "Mini Smart Wi-Fi Socket Tapo P100 x 1 Quick Start Guide x 1",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Certifications",
+      "value": "CE",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Environment",
+      "value": "• Operating Temperature: 0 ºC–35 ºC • Operating Humidity: 10%~90%RH, Non-condensing",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU/GTIN",
+    "Hardware revision and region-specific differences"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.tp-link.com/en/home-networking/smart-plug/tapo-p100/",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP fetch; HTML specification rows parsed",
+      "notes": "11 factual specification rows read; marketing paragraphs excluded"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

@@ -1,0 +1,346 @@
+{
+  "id": "logitech-mx-keys-mini",
+  "brand": "Logitech",
+  "model": "MX Keys Mini",
+  "model_family": "MX Keys Mini",
+  "category": "Accessories",
+  "scope": "UK manufacturer model reference. Explicit MPN options identify their labelled colour/layout variants; not a Latvia SKU. No colour/layout records generated.",
+  "identifiers": [
+    "920-010479",
+    "920-010482",
+    "920-010485",
+    "920-010492",
+    "920-010488",
+    "920-010490",
+    "920-010498",
+    "920-010495",
+    "920-010481",
+    "920-010484",
+    "920-010487",
+    "920-010494",
+    "920-010812",
+    "920-010813",
+    "920-010500",
+    "920-010497",
+    "920-010480",
+    "920-010483",
+    "920-010486",
+    "920-010493",
+    "920-010489",
+    "920-010491",
+    "920-010499",
+    "920-010496"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Logitech MX Keys Mini technical specifications",
+  "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-mini",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Dimensions / MX Keys Mini / Height",
+      "value": "131.95 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-mini",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / MX Keys Mini / Width",
+      "value": "295.99 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-mini",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / MX Keys Mini / Depth",
+      "value": "20.97 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-mini",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / MX Keys Mini / Weight",
+      "value": "506.4 g",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-mini",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Proximity sensor",
+      "value": "Hand proximity sensor activated backlighting",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-mini",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Light Sensor",
+      "value": "Auto-adjust ambient light sensor",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-mini",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Indicator Lights",
+      "value": "Caps Lock and Battery indicator lights",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-mini",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Filevault",
+      "value": "FileVault is an encryption system available on some Mac computers. When enabled, it might prevent Bluetooth devices from connecting with your computer if you have not yet logged in. If you have FileVault enabled, we advise purchasing the compatible Logi Bolt USB Receiver.",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-mini",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Customization app",
+      "value": "Supported by Logi Options+ App for recent versions of Windows and macOS, basic feature support for Googlebook laptops. Basic support in Logi Tune. (Basic customization support is available with Options+ App on Googlebook laptops. Advanced features such as the Actions Ring, Marketplace, Smart Actions, Flow are working only on recent versions of Windows and macOS.)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-mini",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery type",
+      "value": "Rechargeable Li-Po (1500 mAh) battery",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-mini",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery life",
+      "value": "up to 10 days or up to 5 months with backlighting off*. (*Battery life may vary based on user and computing conditions.)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-mini",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "USB-C rechargeable",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-mini",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Power switch",
+      "value": "On/Off switch",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-mini",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connection Type",
+      "value": "Connect via the Bluetooth Low Energy technology",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-mini",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Easy-switch",
+      "value": "Connect up to 3 devices and switch between them",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-mini",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wireless range",
+      "value": "10 meters wireless range*. (*Wireless range may vary depending on operating environment and computer setup.)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-mini",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Requirements",
+      "value": "Internet access required to download optional customization app Logi Options+*. Bluetooth Low Energy enabled device with keyboard support. (*Available on Windows and macOS at logitech.com/optionsplus)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-mini",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "Engineered for Intel® Evo™ Laptops Required: Bluetooth Low Energy Technology, Windows 10, 11 or later, macOS 10.15 or later, iOS 14 or later*, iPadOS 14 or later*, Linux*, ChromeOS and Googlebook*, Android™ 8.0 or later*. (*Device basic functions will be supported without software for other systems than Windows and macOS)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-mini",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Compatibility",
+      "value": "Compatible with Logi Bolt USB Receiver (not included) Logi Bolt wireless products will not pair with other Logitech USB receivers",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-mini",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Manufacturer warranty",
+      "value": "2-Year Limited Hardware Warranty",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-mini",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "UK package contents",
+      "value": "Keyboard; USB-C charging cable (USB-A to USB-C); User documentation",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-keys-mini",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia MPN/GTIN",
+    "Latvia retail package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.logitech.com/en-gb/shop/p/mx-keys-mini",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Official source technical content read; factual extraction retained"
+    }
+  ],
+  "identifier_options": [
+    {
+      "mpn": "920-010479",
+      "name": "MX Keys Mini - Graphite - German (QWERTZ)",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "920-010482",
+      "name": "MX Keys Mini - Graphite - French (AZERTY)",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "920-010485",
+      "name": "MX Keys Mini - Graphite - Swiss (QWERTZ)",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "920-010492",
+      "name": "MX Keys Mini - Graphite - Danish / Norwegian / Swedish / Finnish (QWERTY)",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "920-010488",
+      "name": "MX Keys Mini - Graphite - Italian (QWERTY)",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "920-010490",
+      "name": "MX Keys Mini - Graphite - Spanish (QWERTY)",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "920-010498",
+      "name": "MX Keys Mini - Graphite - English International (QWERTY)",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "920-010495",
+      "name": "MX Keys Mini - Graphite - English UK (QWERTY)",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "920-010481",
+      "name": "MX Keys Mini - Rose - German (QWERTZ)",
+      "colour": "Rose"
+    },
+    {
+      "mpn": "920-010484",
+      "name": "MX Keys Mini - Rose - French (AZERTY)",
+      "colour": "Rose"
+    },
+    {
+      "mpn": "920-010487",
+      "name": "MX Keys Mini - Rose - Swiss (QWERTZ)",
+      "colour": "Rose"
+    },
+    {
+      "mpn": "920-010494",
+      "name": "MX Keys Mini - Rose - Danish / Norwegian / Swedish / Finnish (QWERTY)",
+      "colour": "Rose"
+    },
+    {
+      "mpn": "920-010812",
+      "name": "MX Keys Mini - Rose - Italian (QWERTY)",
+      "colour": "Rose"
+    },
+    {
+      "mpn": "920-010813",
+      "name": "MX Keys Mini - Rose - Spanish (QWERTY)",
+      "colour": "Rose"
+    },
+    {
+      "mpn": "920-010500",
+      "name": "MX Keys Mini - Rose - English International (QWERTY)",
+      "colour": "Rose"
+    },
+    {
+      "mpn": "920-010497",
+      "name": "MX Keys Mini - Rose - English UK (QWERTY)",
+      "colour": "Rose"
+    },
+    {
+      "mpn": "920-010480",
+      "name": "MX Keys Mini - Pale Gray - German (QWERTZ)",
+      "colour": "Pale Gray"
+    },
+    {
+      "mpn": "920-010483",
+      "name": "MX Keys Mini - Pale Gray - French (AZERTY)",
+      "colour": "Pale Gray"
+    },
+    {
+      "mpn": "920-010486",
+      "name": "MX Keys Mini - Pale Gray - Swiss (QWERTZ)",
+      "colour": "Pale Gray"
+    },
+    {
+      "mpn": "920-010493",
+      "name": "MX Keys Mini - Pale Gray - Danish / Norwegian / Swedish / Finnish (QWERTY)",
+      "colour": "Pale Gray"
+    },
+    {
+      "mpn": "920-010489",
+      "name": "MX Keys Mini - Pale Gray - Italian (QWERTY)",
+      "colour": "Pale Gray"
+    },
+    {
+      "mpn": "920-010491",
+      "name": "MX Keys Mini - Pale Gray - Spanish (QWERTY)",
+      "colour": "Pale Gray"
+    },
+    {
+      "mpn": "920-010499",
+      "name": "MX Keys Mini - Pale Gray - English International (QWERTY)",
+      "colour": "Pale Gray"
+    },
+    {
+      "mpn": "920-010496",
+      "name": "MX Keys Mini - Pale Gray - English UK (QWERTY)",
+      "colour": "Pale Gray"
+    }
+  ],
+  "research_lane": "accessories"
+}

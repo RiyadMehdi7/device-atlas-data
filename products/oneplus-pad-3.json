@@ -1,0 +1,359 @@
+{
+  "id": "oneplus-pad-3",
+  "brand": "OnePlus",
+  "model": "Pad 3",
+  "model_family": "Pad 3",
+  "category": "Tablets",
+  "scope": "European manufacturer model reference. Regional configurations vary; not a Latvia SKU or availability claim.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer model source checked; Latvia SKU needs matching",
+  "source_name": "OnePlus Pad 3 technical specifications",
+  "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "CMFs / detail 1",
+      "value": "Storm Blue",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Length",
+      "value": "289.61 mm",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Width",
+      "value": "209.66 mm",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Thickness",
+      "value": "5.97 mm",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Weight",
+      "value": "675g",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Performance / Chipset",
+      "value": "Snapdragon® 8 Elite Mobile Platform",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Performance / GPU",
+      "value": "Adreno™ 830 @ up to 1.1GHz",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Performance / CPU",
+      "value": "Qualcomm® Oryon™ CPU @ up to 4.32GHz",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Performance / RAM",
+      "value": "12GB: LPDDR5X @ 4266MHz (4×16-bit) / 16GB: Faster LPDDR5X @ 4800MHz (4×16-bit)",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Performance / ROM",
+      "value": "256GB / 512GB (UFS 4.0)",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Performance / Architecture",
+      "value": "64-bit",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery & Charging / Capacity",
+      "value": "12.140mAh",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery & Charging / Charging",
+      "value": "Up to 80W",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Size",
+      "value": "13.2 in, 33.53cm",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Screen Ratio",
+      "value": "7:5 Ratio; 89.3%",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Type",
+      "value": "LCD (LTPS)",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Screen Color Depth",
+      "value": "12bit (8bit hardware +4bit FRC)",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Resolution",
+      "value": "3392*2400",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / PPI",
+      "value": "315",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Color Gamut",
+      "value": "96% NTSC   DCI-P3 coverage 98%   DeltaE≈0.7",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Refresh Rate",
+      "value": "Up to 144 Hz, adaptive refresh",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Touch Sampling Rate",
+      "value": "Up to 540 Hz   Default 120 Hz",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Brightness",
+      "value": "600nits (HBM 900 nits)",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Audio / Speakers",
+      "value": "8 Speakers (4 Woofers + 4 Tweeters)",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Audio / Microphones",
+      "value": "2",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Audio / Bluetooth Audio",
+      "value": "SBC, AAC, aptX, aptX HD, LDAC, LHDC",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connectivity / Wi-Fi",
+      "value": "Wi-Fi2.4G, Wi-Fi 5G, Wi-Fi 7 (802.11be), Wi-Fi 6 (802.11ax), Wi-Fi 5 (802.11ac), 802.11a/b/g/n/",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connectivity / Bluetooth",
+      "value": "BR/EDR/BLE, Bluetooth 5.4, Bluetooth Low Energy, Bluetooth High Power",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connectivity / Ports",
+      "value": "Type-C (USB3.2 Gen1 @ 5Gbps)",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connectivity / Audio Device Ports",
+      "value": "Type-C",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Camera / Rear Camera",
+      "value": "13MP",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Camera / Front Camera",
+      "value": "8MP",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Camera / Rear Camera Shooting",
+      "value": "Video Recording: 4K/1080P/720P @ 30fps (default: 1080P @ 30fps)    EIS (Electronic Image Stabilization) supported    Digital Zoom",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Operating System / Android 15",
+      "value": "Oxygen OS 15",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Biometrics / Facial Recognition",
+      "value": "Face Unlock",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Eco-design / Compatibility with removable memory cards",
+      "value": "Incompatible",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Eco-design / Weight range of critical raw materials and environmentally relevant materials",
+      "value": "1) Cobalt in the battery: above 20 g  2) Tantalum in capacitors: less than 0,01 g  3) Neodymium in loud speakers, vibration motors, and other magnets: above 1 g  4) Gold in all components: less than 0,02 g",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Eco-design / Percentage of recycled content for the product or a part ",
+      "value": "Not available",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Eco-design / Ingress protection rating",
+      "value": "IP41",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Eco-design / Minimum battery endurance in cycles in number of cycles",
+      "value": "800",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Eco-design / Rear Camera",
+      "value": "Incompatible",
+      "unit": "",
+      "condition": "UK manufacturer reference. Explicit configuration options retained; no RAM/storage cartesian products generated.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia-specific MPN/GTIN",
+    "Latvia retail configuration and package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.oneplus.com/uk/oneplus-pad-3/specs",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible official technical content read; structured facts retained"
+    }
+  ],
+  "research_lane": "tablets"
+}

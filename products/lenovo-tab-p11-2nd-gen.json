@@ -1,0 +1,289 @@
+{
+  "id": "lenovo-tab-p11-2nd-gen",
+  "brand": "Lenovo",
+  "model": "Tab P11 (2nd Gen)",
+  "model_family": "Tab P11 (2nd Gen)",
+  "category": "Tablets",
+  "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
+  "identifiers": [],
+  "aliases": [
+    "Tab P11 2nd Gen"
+  ],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer model source checked; Latvia SKU needs matching",
+  "source_name": "Lenovo Tab P11 2nd Gen technical specifications",
+  "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_P11_2nd_Gen/Tab_P11_2nd_Gen_Spec.pdf",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Operating System",
+      "value": "Android™ 12L or later",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_P11_2nd_Gen/Tab_P11_2nd_Gen_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Graphics",
+      "value": "Arm Mali-G57 MC2 GPU",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_P11_2nd_Gen/Tab_P11_2nd_Gen_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Max Memory",
+      "value": "• 4GB soldered memory, not upgradable • 6GB soldered memory, not upgradable",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_P11_2nd_Gen/Tab_P11_2nd_Gen_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Memory Type",
+      "value": "LPDDR4x",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_P11_2nd_Gen/Tab_P11_2nd_Gen_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Card Reader",
+      "value": "• Nano-SIM + microSD card slot (WWAN models) • microSD card slot (WLAN models)",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_P11_2nd_Gen/Tab_P11_2nd_Gen_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Speakers",
+      "value": "4 speakers, optimized with Dolby Atmos®",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_P11_2nd_Gen/Tab_P11_2nd_Gen_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Microphone",
+      "value": "Dual-microphone array",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_P11_2nd_Gen/Tab_P11_2nd_Gen_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Camera",
+      "value": "Front 8.0MP, f/2.0, 83° FoV (field of view) fixed focus, face unlock, video recording 1080P@30fps Rear 13.0MP, f/2.4, 89° FoV, video recording 1080p@30fps, autofocus; single LED flashlight",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_P11_2nd_Gen/Tab_P11_2nd_Gen_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Vibration Motor",
+      "value": "Eccentric Rotating Mass (ERM)",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_P11_2nd_Gen/Tab_P11_2nd_Gen_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Sensors",
+      "value": "•    Accelerometer (G) sensor •    Ambient light sensor (ALS) •    Coulomb counter •    Gyroscope sensor •    Hall sensor •    Proximity (P) sensor",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_P11_2nd_Gen/Tab_P11_2nd_Gen_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery",
+      "value": "7500mAh (minimum) / 7700mAh (typical) Li-Polymer battery",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_P11_2nd_Gen/Tab_P11_2nd_Gen_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Max Battery Life",
+      "value": "Online video playback: 10 hr Web browsing: 10 hr Music playback: 31 hr",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_P11_2nd_Gen/Tab_P11_2nd_Gen_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Power Adapter",
+      "value": "• 10V/2A (20W) AC adapter, 100-240V, 50-60Hz • No power adapter",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_P11_2nd_Gen/Tab_P11_2nd_Gen_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Touchscreen",
+      "value": "Capacitive-type multi-touch, supports 10-point touch",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_P11_2nd_Gen/Tab_P11_2nd_Gen_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Pen",
+      "value": "• Lenovo® Precision Pen 2 (2023) with built-in rechargeable battery, 4096 levels of pressure sensitivity, palm rejection, tilt detection, supports up to 120Hz refresh rate, WGP protocol • No pen (purchase separately)[1]",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_P11_2nd_Gen/Tab_P11_2nd_Gen_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions (WxDxH)",
+      "value": "269.1 x 169.4 x 7.4 mm without camera deco (10.59 x 6.67 x 0.29 inches)",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_P11_2nd_Gen/Tab_P11_2nd_Gen_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Weight",
+      "value": "Around 520 g (1.15 lbs)",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_P11_2nd_Gen/Tab_P11_2nd_Gen_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Case Material",
+      "value": "Metal + plastic",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_P11_2nd_Gen/Tab_P11_2nd_Gen_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "WLAN + Bluetooth®",
+      "value": "• Wi-Fi® 5, 802.11ac 1x1 Wi-Fi® + Bluetooth® 5.2 (WWAN models) • Wi-Fi® 6E, 802.11ax 1x1 Wi-Fi® + Bluetooth® 5.2 (WLAN models)[1]",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_P11_2nd_Gen/Tab_P11_2nd_Gen_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "WWAN",
+      "value": "• 4G LTE • No support",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_P11_2nd_Gen/Tab_P11_2nd_Gen_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi® Direct",
+      "value": "Support",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_P11_2nd_Gen/Tab_P11_2nd_Gen_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi® Display",
+      "value": "Support",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_P11_2nd_Gen/Tab_P11_2nd_Gen_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Location Services",
+      "value": "Models                          Location WLAN models         No location service WWAN models GPS + GLONASS + Galileo + Beidou + A-GPS",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_P11_2nd_Gen/Tab_P11_2nd_Gen_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Standard Ports",
+      "value": "•    1x USB-C® 2.0 (support data transfer and charging) •    1x Headphone / microphone combo jack (3.5mm) •    1x Card slot •    1x Pogo pin connector (4-point)[2]",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_P11_2nd_Gen/Tab_P11_2nd_Gen_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Temperature",
+      "value": "Operating: 0°C (32°F) to 40°C (104°F)",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_P11_2nd_Gen/Tab_P11_2nd_Gen_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dust and Water Resistant",
+      "value": "IP52",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_P11_2nd_Gen/Tab_P11_2nd_Gen_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Processor table",
+      "value": "Processor Family MediaTek Processor Processor Processor Name Cores Max Frequency Processor Graphics MediaTek Helio G99 Octa-core 2x A76 + 6x A55 A76@2.2GHz / A55@2.0GHz Arm Mali-G57 MC2 GPU",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_P11_2nd_Gen/Tab_P11_2nd_Gen_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display diagonal options",
+      "value": "11.5\"",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_P11_2nd_Gen/Tab_P11_2nd_Gen_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display resolution options",
+      "value": "2000x1200",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_P11_2nd_Gen/Tab_P11_2nd_Gen_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display refresh options",
+      "value": "120Hz",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_P11_2nd_Gen/Tab_P11_2nd_Gen_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display aspect ratios",
+      "value": "15:9",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_P11_2nd_Gen/Tab_P11_2nd_Gen_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display brightness values",
+      "value": "400nits",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_P11_2nd_Gen/Tab_P11_2nd_Gen_Spec.pdf",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia-specific MPN/GTIN",
+    "Latvia retail configuration and package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_P11_2nd_Gen/Tab_P11_2nd_Gen_Spec.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP PDF fetch + pdftotext",
+      "notes": "Official PSREF PDF read; locally retained as research/tablets/Tab_P11_2nd_Gen.pdf"
+    }
+  ],
+  "research_lane": "tablets"
+}

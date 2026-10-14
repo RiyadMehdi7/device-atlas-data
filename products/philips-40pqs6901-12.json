@@ -1,0 +1,309 @@
+{
+  "id": "philips-40pqs6901-12",
+  "brand": "Philips",
+  "model": "40PQS6901/12",
+  "category": "Televisions",
+  "scope": "Exact /12 European model from 2026 manufacturer leaflet; source anomalies explicitly excluded.",
+  "identifiers": [
+    "40PQS6901/12",
+    "8718863051597"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Exact variant source checked",
+  "source_name": "40PQS6901/12 Philips product leaflet",
+  "source_url": "https://www.documents.philips.com/assets/20260204/8d5de29f63664cbfa09ab3e700cf83f7.pdf",
+  "tele2_url": "https://www.tele2.lv/televizori/philips-40pqs690112-fhd-40/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Ambilight - Ambilight Features",
+      "value": "Gaming mode, Wall colour adaptive, Ambilight Music, Lounge light mode, Ambilight FTI Animation, Sunrise Alarm, AmbiSleep",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Ambilight - Ambilight Version",
+      "value": "3 sided",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Picture/Display - Diagonal screen size (inch)",
+      "value": "40 inch",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Picture/Display - Diagonal screen size (metric)",
+      "value": "100 cm",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Picture/Display - Display",
+      "value": "Full HD QLED",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Picture/Display - Panel resolution",
+      "value": "1920 x 1080",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Picture/Display - Native refresh rate",
+      "value": "60 Hz",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Picture/Display - Picture engine",
+      "value": "Pixel Plus HD",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Picture/Display - Picture enhancement",
+      "value": "Crystal Clear, ECO, Game, Home Cinema, Monitor, Personal, Super Resolution, Dynamic Contrast",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Display input resolution - Resolution-Refresh rate",
+      "value": "576p - 50 Hz, 640 x 480 - 60 Hz, 720p - 50 Hz/60 Hz, 1366 x 768 - 60 Hz, 1920 x 1080p - 24/25/30/50/60 Hz",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Tuner/Reception/Transmission - Teletext",
+      "value": "1000 page Hypertext HEVC support",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Smart TV - SmartTV apps*",
+      "value": "Netflix*, HBO, NFT app*, YouTube, Amazon Prime Video, Disney+, TITAN channel",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Smart TV - OS",
+      "value": "TITAN OS",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Smart TV - Memory size (Flash)*",
+      "value": "8 GB",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Smart TV Features - Interactive TV",
+      "value": "HbbTV",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Smart TV Features - Voice assistant*",
+      "value": "Works with Alexa, Works with Google Home",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Smart TV Features - Smart Home experience",
+      "value": "MATTER, Control4 TTS support",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Multimedia Applications - Video Playback Formats",
+      "value": "AVI, MKV, HEVC, H.264/MPEG-4 AVC, MPEG1, MPEG2, MPEG4, VP9, HEVC (H.265), AV1",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Multimedia Applications - Music Playback Formats",
+      "value": "MP3, WAV, AAC, FLAC",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Multimedia Applications - Subtitles Formats Support",
+      "value": "SRT, SMI, SSA, SUB, ASS, TXT",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Multimedia Applications - Picture Playback Formats",
+      "value": "JPEG, GIF, PNG, BMP, HEIF",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Sound - Audio",
+      "value": "2.0 Channel",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Sound - Output power (RMS)",
+      "value": "12 W",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Sound - Speaker configuration",
+      "value": "2 x 6 W full-range speaker",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Sound - Sound Engine",
+      "value": "Basic Sound Engine",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Sound - Main Speaker",
+      "value": "Full Range Bass Reflex (FR01A)",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Connectivity - Number of HDMI connections",
+      "value": "3",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Connectivity - HDMI features",
+      "value": "1080i, 1080p (support HDCP), Audio Return Channel (HDMI 1)",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Connectivity - EasyLink (HDMI-CEC)",
+      "value": "Remote control pass- through, System audio control, System standby, One touch play",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Connectivity - Number of USBs",
+      "value": "2",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Connectivity - Wireless connection",
+      "value": "Wi-Fi 802.11n, 2 x 2, Single band",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Connectivity - HDCP 2.3",
+      "value": "Yes on all HDMI",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Connectivity - HDMI ARC",
+      "value": "Yes on HDMI1",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Connectivity - EasyLink 2.0",
+      "value": "External setting via TV UI, HDMI- CEC for Philips TV/SB",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "EU Energy card - Networked standby mode",
+      "value": "2.0 W",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "EU Energy card - Panel technology used",
+      "value": "LED LCD",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Power - Mains power",
+      "value": "AC 100 - 240 V 50/60 Hz",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Power - Standby power consumption",
+      "value": "less than 0.5 W",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Power - Power Saving Features",
+      "value": "Auto switch-off timer, Picture mute (for radio), Eco mode, Light sensor",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Accessories - Included accessories",
+      "value": "2 x AAA Batteries, Power cord, Remote Control, Tabletop stand, Quick start guide, Safety and Legal Leaflet",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Design - Colours of TV",
+      "value": "Matt black bezel",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Design - Stand design",
+      "value": "Plastic pill extrude black",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Dimensions - TV with stand (W x H x D)",
+      "value": "892.3 x 531.5 x 197 mm",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Dimensions - Weight of TV without stand",
+      "value": "4.62 kg",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "Dimensions - Weight of TV with stand",
+      "value": "4.71 kg",
+      "unit": "",
+      "condition": "Exact /12 manufacturer product leaflet; original field names and values retained. Country/language restrictions apply to services."
+    },
+    {
+      "label": "EAN",
+      "value": "8718863051597",
+      "unit": "",
+      "condition": "Exact /12 official product leaflet"
+    }
+  ],
+  "missing_fields": [
+    "Manufacturer leaflet dimensions without stand are inconsistent with 40-inch screen and with-stand width; excluded",
+    "Energy classes and VESA vary across official language/version leaflets; unresolved"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.documents.philips.com/assets/20260204/8d5de29f63664cbfa09ab3e700cf83f7.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP PDF fetch and pdftotext -raw",
+      "notes": "HTTP 200; exact model and EAN checked; paired field extraction with source anomalies excluded."
+    }
+  ],
+  "research_lane": "televisions"
+}

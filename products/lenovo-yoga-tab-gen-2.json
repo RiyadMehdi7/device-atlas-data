@@ -1,0 +1,295 @@
+{
+  "id": "lenovo-yoga-tab-gen-2",
+  "brand": "Lenovo",
+  "model": "Yoga Tab Gen 2",
+  "model_family": "Yoga Tab Gen 2",
+  "category": "Tablets",
+  "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer model source checked; Latvia SKU needs matching",
+  "source_name": "Lenovo Yoga Tab Gen 2 technical specifications",
+  "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_Gen_2/Yoga_Tab_Gen_2_Spec.pdf",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Operating System",
+      "value": "Android™ 17 or later",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_Gen_2/Yoga_Tab_Gen_2_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Graphics",
+      "value": "Arm Immortalis-G925 MC12 GPU",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_Gen_2/Yoga_Tab_Gen_2_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Max Memory",
+      "value": "• 8GB soldered memory, not upgradable • 12GB soldered memory, not upgradable",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_Gen_2/Yoga_Tab_Gen_2_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Memory Type",
+      "value": "LPDDR5X",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_Gen_2/Yoga_Tab_Gen_2_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Max Storage Support",
+      "value": "• 128GB UFS 3.1 on systemboard • 256GB UFS 4.0 or above on systemboard • microSD card, supports up to 2TB",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_Gen_2/Yoga_Tab_Gen_2_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Card Reader",
+      "value": "microSD card slot",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_Gen_2/Yoga_Tab_Gen_2_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Speakers",
+      "value": "4 speakers, optimized with Dolby Atmos®",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_Gen_2/Yoga_Tab_Gen_2_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Microphone",
+      "value": "Dual microphone",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_Gen_2/Yoga_Tab_Gen_2_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Camera",
+      "value": "Front 8.0MP and 0.3MP, fixed focus, face unlock Rear 13.0MP, autofocus; with flashlight",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_Gen_2/Yoga_Tab_Gen_2_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Vibration Motor",
+      "value": "No support",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_Gen_2/Yoga_Tab_Gen_2_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Sensors",
+      "value": "•    Accelerometer + Gyroscope sensor •    Hall sensor •    RGB sensor •    ToF sensor",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_Gen_2/Yoga_Tab_Gen_2_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery",
+      "value": "11000mAh (typical) Rechargeable Li-ion Battery",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_Gen_2/Yoga_Tab_Gen_2_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Max Battery Life",
+      "value": "Video Playback: 15.12 hr (YouTube Streaming) Web Browsing: 12.88 hr",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_Gen_2/Yoga_Tab_Gen_2_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Power Adapter",
+      "value": "• 10V/4.5A (45W) USB-C® AC adapter, 100-240V, 50-60Hz • No power adapter",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_Gen_2/Yoga_Tab_Gen_2_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Touchscreen",
+      "value": "Capacitive-type multi-touch, supports 10-point touch",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_Gen_2/Yoga_Tab_Gen_2_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Screen-to-Body Ratio",
+      "value": "90%",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_Gen_2/Yoga_Tab_Gen_2_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Pen",
+      "value": "Lenovo® Tab Pen Pro 2 (glacier white), haptic feedback, wireless charging, double-tap, swipe up and down, 8192 levels of pressure sensitivity, tilt detection, palm rejection, click to draw, flip to erase, squeeze to select",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_Gen_2/Yoga_Tab_Gen_2_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions (WxDxH)",
+      "value": "250.60 x 172.98 x 6.2 mm, including camera bump 8.56 mm (9.87 x 6.81 x 0.24-0.34 inches)",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_Gen_2/Yoga_Tab_Gen_2_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Weight",
+      "value": "Around 480 g (1.06 lbs)",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_Gen_2/Yoga_Tab_Gen_2_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Case Material",
+      "value": "Metal",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_Gen_2/Yoga_Tab_Gen_2_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "WLAN + Bluetooth®",
+      "value": "Wi-Fi® 7, 802.11be 2x2 Wi-Fi® + Bluetooth® 6.0",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_Gen_2/Yoga_Tab_Gen_2_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "WWAN",
+      "value": "No support",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_Gen_2/Yoga_Tab_Gen_2_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi® Direct",
+      "value": "Support",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_Gen_2/Yoga_Tab_Gen_2_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi® Display",
+      "value": "Support",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_Gen_2/Yoga_Tab_Gen_2_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Standard Ports",
+      "value": "• 1x USB-C® (USB 5Gbps), with charging and DP-Out • 1x Card slot • 1x Pogo pin connector (3-point)",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_Gen_2/Yoga_Tab_Gen_2_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Temperature",
+      "value": "Operating: 0°C (32°F) to 40°C (104°F) Storage: -20°C (-4°F) to 60°C (140°F)",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_Gen_2/Yoga_Tab_Gen_2_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dust and Water Resistant",
+      "value": "IP52",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_Gen_2/Yoga_Tab_Gen_2_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Processor table",
+      "value": "Processor Processor Name Cores Max Frequency Processor Graphics X925@3.73GHz MediaTek Dimensity 9500s Octa-core 1x X925 + 3x X4 + 4x A720 X4@3.3GHz Arm Immortalis-G925 MC12 GPU A720@2.4GHz",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_Gen_2/Yoga_Tab_Gen_2_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display diagonal options",
+      "value": "11.1\"",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_Gen_2/Yoga_Tab_Gen_2_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display resolution options",
+      "value": "3840x2560",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_Gen_2/Yoga_Tab_Gen_2_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display refresh options",
+      "value": "144Hz",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_Gen_2/Yoga_Tab_Gen_2_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display aspect ratios",
+      "value": "3:2",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_Gen_2/Yoga_Tab_Gen_2_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display brightness values",
+      "value": "600nits / 1100nits",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_Gen_2/Yoga_Tab_Gen_2_Spec.pdf",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia-specific MPN/GTIN",
+    "Latvia retail configuration and package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_Gen_2/Yoga_Tab_Gen_2_Spec.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP PDF fetch + pdftotext",
+      "notes": "Official PSREF PDF read; locally retained as research/tablets/Yoga_Tab_Gen_2.pdf"
+    }
+  ],
+  "research_lane": "tablets"
+}

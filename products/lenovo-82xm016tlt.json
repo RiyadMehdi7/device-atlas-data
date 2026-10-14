@@ -1,0 +1,338 @@
+{
+  "id": "lenovo-82xm016tlt",
+  "brand": "Lenovo",
+  "model": "IdeaPad Slim 3 15ABR8 (82XM016TLT)",
+  "category": "Laptops",
+  "scope": "Exact manufacturer configuration. Lenovo PSREF rendered model table explicitly lists MPN 82XM016TLT and EAN/UPC/JAN 199275533631; Tele2 retailer identifier matches after explicit left-zero padding to 13 digits where required. Regional country/keyboard and warranty values are kept as manufacturer claims, not inferred Latvia service terms. Max memory/storage are capacity support, not installed amounts.",
+  "identifiers": [
+    "82XM016TLT",
+    "199275533631"
+  ],
+  "aliases": [
+    "IdeaPad Slim 3 15ABR8"
+  ],
+  "checked_at": "2026-10-14",
+  "status": "Exact variant source checked",
+  "source_name": "Lenovo PSREF IdeaPad Slim 3 15ABR8 82XM016TLT",
+  "source_url": "https://psref.lenovo.com/Detail/IdeaPad_Slim_3_15ABR8?M=82XM016TLT",
+  "tele2_url": "https://www.tele2.lv/datori/ideapad-slim-3-ryzen-5-5625u/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Processor",
+      "value": "AMD Ryzen 5 5625U (6C / 12T, 2.3 / 4.3GHz, 3MB L2 / 16MB L3)",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Graphics",
+      "value": "Integrated AMD Radeon Graphics",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Chipset",
+      "value": "AMD SoC Platform",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Memory",
+      "value": "8GB Soldered DDR4-3200",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Memory Slots",
+      "value": "Memory soldered to systemboard, no slots, single-channel (8GB models)",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Max Memory",
+      "value": "8GB soldered memory, not upgradable",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Storage",
+      "value": "256GB SSD M.2 2242 PCIe 4.0x4 NVMe",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Storage Slot",
+      "value": "One M.2 PCIe 3.0 x4 slot",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Max Storage Support",
+      "value": "One drive, up to 1TB M.2 2242 SSD",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Optical",
+      "value": "None",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Card Reader",
+      "value": "SD Card Reader",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Audio Chip",
+      "value": "High Definition (HD) Audio",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Speakers",
+      "value": "User-facing stereo speakers, 1.5W x2, optimized with Dolby Audio",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Microphone",
+      "value": "2x, Array",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Camera",
+      "value": "HD 720p with Privacy Shutter",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Battery",
+      "value": "47Wh",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Power Adapter",
+      "value": "No Power Adapter",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Display",
+      "value": "15.6 inch FHD (1920x1080) IPS 300nits Anti-glare",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Touchscreen",
+      "value": "None",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Screen-to-Body Ratio",
+      "value": "88% AAR (active area ratio)",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Pen",
+      "value": "Pen Not Supported",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Keyboard",
+      "value": "Non-backlit, English (EU)",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Touchpad",
+      "value": "Buttonless Mylar surface multi-touch touchpad, supports Precision TouchPad (PTP), 69 x 104 mm (2.72 x 4.09 inches)",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Dimensions (WxDxH)",
+      "value": "359.3 x 235 x 17.9 mm (14.15 x 9.25 x 0.70 inches)",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Weight",
+      "value": "Starting at 1.62 kg (3.57 lbs)",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Case Color",
+      "value": "Arctic Grey",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Case Material",
+      "value": "PC-ABS (Top), PC-ABS (Bottom)",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Surface Treatment",
+      "value": "IMR (In-Mold Decoration by Roller)",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Operating System",
+      "value": "Windows 11 Home, English",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "WLAN + Bluetooth",
+      "value": "Wi-Fi 6, 802.11ax 2x2 + BT5.2",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "WWAN",
+      "value": "WWAN Not Supported",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Ethernet",
+      "value": "No Onboard Ethernet",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Standard Ports",
+      "value": "2x USB 3.2 Gen 1; 1x USB-C 3.2 Gen 1 (support data transfer, USB PD 45-65W and DisplayPort 1.2); 1x HDMI 1.4; 1x Headphone / microphone combo jack (3.5mm); 1x Card reader; 1x Round tip power connector",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Security Chip",
+      "value": "Firmware TPM 2.0 Enabled",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Fingerprint Reader",
+      "value": "No Fingerprint Reader",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Other Security",
+      "value": "Camera privacy shutter",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Base Warranty",
+      "value": "2-year, Courier or Carry-in with 1-year Battery",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Included Upgrade",
+      "value": "None",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Bundled Accessories",
+      "value": "None",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Green Certifications",
+      "value": "ENERGY STAR 9.0; EPEAT 1.0 Silver Registered; ErP Lot 6/26; RoHS compliant",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Mil-Spec Test",
+      "value": "MIL-STD-810H military test passed (21 test items)",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Other Certifications",
+      "value": "TÜV Rheinland Low Blue Light (Software Solution)",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Model",
+      "value": "82XM016TLT",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Machine Type",
+      "value": "82XM",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Region",
+      "value": "WE",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Country/Region",
+      "value": "Estonia, Latvia, Lithuania",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "EAN / UPC / JAN",
+      "value": "199275533631",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Announce Date",
+      "value": "2026-02-16",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "End of Support",
+      "value": "2029-02-28",
+      "unit": "",
+      "condition": "Exact MPN 82XM016TLT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    }
+  ],
+  "missing_fields": [
+    "Current stock and Latvia seller warranty terms",
+    "UPC/EAN textual representation retained; comparison uses left-zero padding to GTIN-13 only where required"
+  ],
+  "source_pages": [
+    {
+      "url": "https://psref.lenovo.com/Detail/IdeaPad_Slim_3_15ABR8?M=82XM016TLT",
+      "fetched_at": "2026-10-14",
+      "method": "Chrome browser rendered official PSREF table, DOM read",
+      "content_title": "Specifications - Lenovo PSREF",
+      "notes": "Visible model-specific manufacturer table read including EAN/UPC/JAN. No HTTP status inferred. Structured factual extraction saved."
+    },
+    {
+      "url": "https://www.tele2.lv/datori/ideapad-slim-3-ryzen-5-5625u/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "http_status": 200,
+      "content_title": "IdeaPad Slim 3 15ABR8 Tele2 listing",
+      "notes": "Retailer identifier directly read and joined to independently observed manufacturer identifier."
+    }
+  ],
+  "research_lane": "computers"
+}

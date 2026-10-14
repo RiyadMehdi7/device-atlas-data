@@ -1,0 +1,99 @@
+{
+  "id": "dicota-webcam-pro-plus-full-hd-manufacturer-reference",
+  "brand": "Dicota",
+  "model": "Webcam PRO Plus Full HD",
+  "category": "Cameras",
+  "scope": "Exact manufacturer model/part reference as identified. UK/EMEA where labelled; global Sandberg/LogiLink/Lenovo references; Dell Japan technical guide. Exact Tele2 SKU, OEM package and revision require matching. Dimensions keep manufacturer orientation/clip scope.",
+  "identifiers": [
+    "D31841",
+    "7640186419734"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Dicota Webcam PRO Plus Full HD official specifications",
+  "source_url": "https://crm.dicota.com/createPDFDatasheet.php?langId=en&productId=D31841",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/dicota-d31841-webcam-pro-plus-full-hd/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Resolution",
+      "value": "1920 × 1080",
+      "unit": ""
+    },
+    {
+      "label": "Frame rate",
+      "value": "30fps",
+      "unit": ""
+    },
+    {
+      "label": "Microphone",
+      "value": "Integrated digital",
+      "unit": ""
+    },
+    {
+      "label": "Microphone range",
+      "value": "5m manufacturer claim",
+      "unit": ""
+    },
+    {
+      "label": "USB interface",
+      "value": "USB 2.0 USB-A",
+      "unit": ""
+    },
+    {
+      "label": "Cable length",
+      "value": "1.5m",
+      "unit": ""
+    },
+    {
+      "label": "Driver installation",
+      "value": "Plug-and-play;no extra software",
+      "unit": ""
+    },
+    {
+      "label": "Mounting",
+      "value": "Desktop, table, tripod",
+      "unit": ""
+    },
+    {
+      "label": "Rotation",
+      "value": "360°",
+      "unit": ""
+    },
+    {
+      "label": "Privacy protection",
+      "value": "Lens cover",
+      "unit": ""
+    },
+    {
+      "label": "Operating systems",
+      "value": "Windows, macOS, USB-A-supported devices",
+      "unit": ""
+    },
+    {
+      "label": "Application compatibility",
+      "value": "Skype, Zoom, FaceTime, Facebook, YouTube, PotPlayer",
+      "unit": ""
+    },
+    {
+      "label": "Warranty",
+      "value": "24 months",
+      "unit": ""
+    }
+  ],
+  "missing_fields": [
+    "Manufacturer explicitly says older packaging specs may be out of date",
+    "Focus/FOV/dimensions/weight not in fetched data sheet",
+    "Exact Latvia GTIN/MPN and hardware revision"
+  ],
+  "source_pages": [
+    {
+      "url": "https://crm.dicota.com/createPDFDatasheet.php?langId=en&productId=D31841",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP200; official PDF read",
+      "notes": "Short technical facts only; no marketing prose or source images retained"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

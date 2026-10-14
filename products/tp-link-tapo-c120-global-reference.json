@@ -1,0 +1,288 @@
+{
+  "id": "tp-link-tapo-c120-global-reference",
+  "brand": "TP-Link",
+  "model": "Tapo C120",
+  "category": "Cameras",
+  "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "TP-Link Tapo C120 official specifications",
+  "source_url": "https://www.tp-link.com/en/home-networking/cloud-camera/tapo-c120/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Image Sensor",
+      "value": "1/3” CMOS Sensor",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Lens",
+      "value": "Focal Length: 3.1 mm Aperture: F1.6 Field of View: 115.8° (Diagonal), 98.5° (Horizontal), 53.1° (Vertical)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Night Vision",
+      "value": "Color Night Vision) (40 ft / 12 m) Infrared Night Vision (40 ft / 12 m)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Night Mode",
+      "value": "Infrared Mode / Full-Color Mode / Smart Mode",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Day/Night Switch",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Lighting",
+      "value": "2× 850nm IR LED 2× Spotlights",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Interface & Button",
+      "value": "1× RESET Button 1× MicroSD Card Slot",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Maximum Resolution",
+      "value": "2K+ (2560*1440 px)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Frame Rate",
+      "value": "20 fps",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Digital Zoom",
+      "value": "12×",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Video Compression",
+      "value": "H.264",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Image Enhancement",
+      "value": "3DNR WDR",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Audio Input & Output",
+      "value": "Built-in Microphone and Speaker",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Audio Communication",
+      "value": "Two-Way Audio with Noise Cancellation",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Siren Volume",
+      "value": "98 dB (Level measured at 10-cm distance)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Local Storage",
+      "value": "MicroSD Card Slot on Camera (Up to 512 GB)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Cloud Storage",
+      "value": "Tapo Care Cloud Storage Services (Subscription required)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "AI Detection",
+      "value": "Motion Detection Person Detection Pet Detection Vehicle Detection Line-Crossing Detection BabyCry Detection Meow Detection Bark Detection Glass-Breaking Detection Tamper detection",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Activity Zones",
+      "value": "Yes *Only works with Motion/Person/Pet/Vehicle Detection.",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Output Notification",
+      "value": "App Notifications of Camera Event App Notification of AI Detection Event with Snapshot",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Network Connectivity",
+      "value": "Connect via Wi-Fi Bluetooth (for setup only)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wireless Connectivity",
+      "value": "IEEE 802.11b/g/n, 2.4 GHz Wi-Fi",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Protocol",
+      "value": "TCP/IP, DHCP, ICMP, DNS, NTP, HTTPS, TCP, UDP",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Ethernet Port",
+      "value": "/",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "RTSP",
+      "value": "YES",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "ONVIF",
+      "value": "Yes（Profile S）",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Transmission Rate",
+      "value": "11b: 11 Mbps 11g: 54 Mbps 11n:72.2 Mbps",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Security",
+      "value": "128-bit AES Encryption with SSL/TLS WPA/WPA2-PSK/WPA3-PSK",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Input Voltage",
+      "value": "5.0 V, 1.0 A, Type-C Power",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Power Cord Length",
+      "value": "Charging Cable Length: 3 m (9.8 ft)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Typical Power Consumption",
+      "value": "Camera Typical Power Consumption: 1.96 W",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Smart Integration",
+      "value": "Google Assistant, Amazon Alexa, Samsung SmartThings",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Weather Resistance",
+      "value": "IP66",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Operating Temperature",
+      "value": "-25℃~45℃ (-13℉~113℉)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Storage Temperature",
+      "value": "-40℃~60℃ (-40℉~140℉)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Operating Humidity",
+      "value": "10%~90% RH, Non-condensing",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Storage Humidity",
+      "value": "0~90% RH, Non-condensing",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Weight",
+      "value": "Camera Weight: 3.17oz / 90 g",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Package Content",
+      "value": "Tapo Camera × 1 USB Adapter × 1 USB Adapter Cable × 1 Mounting Screws × 4 Mounting Anchors × 4 Cable Organizers × 2 Mounting Templates × 1 3M Adhesive × 1 Metal Plate × 1 Detaching Pin × 1 Quick Start Guide × 1",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Mounting Methods",
+      "value": "Wall-Mounted Ceiling-Mounted",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Dimensions( W X D X H )",
+      "value": "Camera Dimensions: 2.65 × 2.26 × 1.74 in (67.4*57.4*44.1 mm)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Materia",
+      "value": "Polycarbonate (PC) 45% Glass Fiber Reinforced Polyamide(PA6+45GF)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Certifications",
+      "value": "CE, FCC, VCCI, JRF, IC, NCC, BSMI, IP66, UL",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU/GTIN",
+    "Hardware revision and region-specific differences"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.tp-link.com/en/home-networking/cloud-camera/tapo-c120/",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP fetch; HTML specification rows parsed",
+      "notes": "43 factual specification rows read; marketing paragraphs excluded"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

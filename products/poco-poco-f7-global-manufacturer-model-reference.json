@@ -1,0 +1,126 @@
+{
+  "id": "poco-poco-f7-global-manufacturer-model-reference",
+  "brand": "POCO",
+  "model": "POCO F7",
+  "category": "Phones",
+  "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "POCO F7 Specs - Xiaomi Global",
+  "source_url": "https://www.mi.com/global/product/poco-f7/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Processor",
+      "value": "Flagship Snapdragon® 8s Gen 4 Mobile Platform | Flagship TSMC 4nm process | CPU: Octa-core processor, up to 3.21GHz | GPU: Adreno 825 | Al Engine: Qualcomm Hexagon NPU",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Storage & RAM",
+      "value": "12GB + 256GB / 12GB + 512GB | LPDDR5X + UFS 4.1",
+      "unit": "",
+      "condition": "*Available storage and RAM are less than the total memory due to storage of the operating system and software pre-installed on the device."
+    },
+    {
+      "label": "Dimensions",
+      "value": "Height: 163.1mm | Width: 77.9mm* | Thickness: 8.2mm* | 215.7g*",
+      "unit": "",
+      "condition": "*Data tested by POCO Internal Labs. Industry measurement methods may vary, and therefore actual results may differ."
+    },
+    {
+      "label": "Display",
+      "value": "6.83'' 1.5K Ultra-bright Display | Refresh rate: Up to 120Hz | Touch sampling rate: Up to 480Hz | Instant touch sampling rate: 2560Hz* *2560Hz instant touch sampling rate is activated under Game Turbo Mode. | Wet Touch display 2.0 | Typ brightness: 700 nits | HBM brightness: 1700 nits | Peak brightness: 3200 nits covering 25% display area | Contrast ratio: 8,000,000:1 | Resolution: 2772*1280 | PPI: 447 | Color gamut: DCI-P3 | Color depth: 68 billion colors | 3840Hz PWM dimming | Original Color PRO | Pro HDR display | Adaptive HDR | Reading mode | Cycle mode 2.0 | Corning® Gorilla® Glass 7i | Dolby Vision® | HDR 10+ | TÜV Rheinland Low Blue Light (Hardware Solution) Certified TÜV Rheinland Flicker Free Certified TÜV Rheinland Circadian Friendly Certified",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Rear camera",
+      "value": "50MP main camera | Sony IMX882 | f/1.5 | 1.6μm super pixel (4-in-1) | 6p | 8MP ultra-wide camera | OV08F | Rear camera photography features | Dynamic shot | Motion capture | Documents mode | Motion tracking focus | Portrait mode | Timed burst | Pro mode | 50MP mode | Panorama | Burst shot mode | Long exposure | HDR | Rear camera video recording | 4K video shooting: 30fps / 60fps | 1080p video shooting: 30fps / 60fps | 1080p slow motion video shooting: 120fps / 240fps / 960fps | 720p video shooting: 30fps | 720p slow motion video shooting: 120fps / 240fps/960fps | Rear camera video features | Slow motion | Video teleprompter | Time-lapse | ShootSteady | Motion tracking focus",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Front camera",
+      "value": "20MP front camera | OV20B(1/4\" sensor size) | f/2.2 | 4p lens | Portrait mode | HDR | Palm Shutter | Voice Shutter | Dynamic shot | Selfie timer | Front camera video recording | 1080p video shooting: 30fps / 60fps | 720p video shooting: 30fps | 720p slow motion video shooting: 120fps | Front camera video features | Slow motion selfie | Time-lapse selfie | Video teleprompter",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Battery & Charging",
+      "value": "6500mAh (typ) | 90W HyperCharge* | Up to 22.5W reverse charging* | USB Type-C",
+      "unit": "",
+      "condition": "*90W HyperCharge means the adapter output power is 90W. Actual power output may vary depending on the environment. *Supports up to 22.5W wired reverse charging, compatible with devices verified through POCO labs testing. *Please consult the local seller on the availability of the power adapter in the box."
+    },
+    {
+      "label": "Security",
+      "value": "In-screen fingerprint sensor | AI Face Unlock",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "NFC",
+      "value": "Support",
+      "unit": "",
+      "condition": "*Functions may vary in some markets."
+    },
+    {
+      "label": "Network & Connectivity",
+      "value": "Dual SIM (nano SIM + nano SIM) | Network bands: | Supports 5G* / 4G / 3G/ 2G | 2G GSM: 2/3/5/8 | 3G WCDMA: B1/2/4/5/6/8/19 | 4G LTE FDD: B1/2/3/4/5/7/8/18/19/20/26/28/66 | 4G LTE TDD: B38/40/41/42/48 | 5G Sub6G: n1/2/3/5/7/8/20/28/38/40/41/66/77/78/48 | 5G NSA:n1/3/5/7/8/20/28/38/40/41/66/77/78 | Wireless Networks | Wi-Fi Protocol: Wi-Fi 7/ Wi-Fi 6/ Wi-Fi 5/ Wi-Fi 4 and 802.11a/b/g *Wi-Fi 7/Wi-Fi 6 capability may vary based on regional availability and local network support. Wi-Fi connectivity (including Wi-Fi frequency bands, Wi-Fi standards and other features as ratified in IEEE Standard 802.11 specifications) may vary based on regional availability and local network support. The function may be added via OTA when and where applicable. WLAN frequency: 2.4G Wi-Fi | 5G Wi-Fi Supports 2x2 MIMO, Wi-Fi Direct, Miracast | Bluetooth 6.0, Dual-Bluetooth Supports SBC / AAC / AptX / AptX HD / AptX Adaptive / LDAC / LHDC 5.0",
+      "unit": "",
+      "condition": "*5G connectivity may vary based on region availability and local operator support."
+    },
+    {
+      "label": "Navigation and Location",
+      "value": "GPS:L1+L5 | Beidou:B1I+B1C+B2a | Galileo:E1+E5a | GLONASS:G1 | QZSS:L1+L5 | NavIC:L5",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Audio",
+      "value": "Dual speakers | Dolby Atmos certification | Hi-Res Audio certification | Hi-Res Wireless Audio certification | Supports audio formats such as MP3，FLAC，AAC, OGG, WAV, AMR, AWB",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Video",
+      "value": "MP4，MKV，WEBM，3GP，TS",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Proximity sensor | Ambient light sensor | Accelerometer | Electronic compass | IR blaster ｜Gyroscope | Flicker sensor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Vibration motor",
+      "value": "X-axis linear vibration motor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Operating System",
+      "value": "Powered by Xiaomi HyperOS 2",
+      "unit": "",
+      "condition": "*Availability of Xiaomi HyperOS 2 features, apps and services may vary depending on regions, software version and phone model."
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU / model code and GTIN matching",
+    "Colour-specific packaging and regional accessories"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/poco-f7/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible manufacturer specification content parsed; model-reference scope, not an exact retailer SKU."
+    }
+  ],
+  "research_lane": "phones"
+}

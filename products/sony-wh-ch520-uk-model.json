@@ -1,0 +1,161 @@
+{
+  "brand": "Sony",
+  "category": "Headphones",
+  "scope": "UK manufacturer model reference; Latvia SKU matching required",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "WH-CH520 Specifications - Sony UK",
+  "source_url": "https://www.sony.co.uk/headphones/products/wh-ch520/spec",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/sony-wh-ch520/",
+  "relevance": "current_tele2_listing",
+  "missing_fields": [
+    "Latvia SKU/GTIN matching"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.sony.co.uk/headphones/products/wh-ch520/spec",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Specification table read in successful turn194view0 fetch; subsequent retries timeout"
+    }
+  ],
+  "id": "sony-wh-ch520-uk-model",
+  "model": "WH-CH520",
+  "specs": [
+    {
+      "label": "Weight",
+      "value": "Approx. 147 g",
+      "unit": "",
+      "condition": "UK manufacturer specification; playback test settings not provided in table"
+    },
+    {
+      "label": "Headphone type",
+      "value": "Closed",
+      "unit": "",
+      "condition": "UK manufacturer specification; playback test settings not provided in table"
+    },
+    {
+      "label": "Driver unit",
+      "value": "30 mm",
+      "unit": "",
+      "condition": "UK manufacturer specification; playback test settings not provided in table"
+    },
+    {
+      "label": "Bluetooth frequency response",
+      "value": "20 Hz–20,000 Hz (44.1 kHz sampling)",
+      "unit": "",
+      "condition": "UK manufacturer specification; playback test settings not provided in table"
+    },
+    {
+      "label": "Volume control",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK manufacturer specification; playback test settings not provided in table"
+    },
+    {
+      "label": "Inputs",
+      "value": "No",
+      "unit": "",
+      "condition": "UK manufacturer specification; playback test settings not provided in table"
+    },
+    {
+      "label": "DSEE Extreme",
+      "value": "No",
+      "unit": "",
+      "condition": "UK manufacturer specification; playback test settings not provided in table"
+    },
+    {
+      "label": "DSEE HX",
+      "value": "No",
+      "unit": "",
+      "condition": "UK manufacturer specification; playback test settings not provided in table"
+    },
+    {
+      "label": "DSEE",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK manufacturer specification; playback test settings not provided in table"
+    },
+    {
+      "label": "S-Master HX",
+      "value": "No",
+      "unit": "",
+      "condition": "UK manufacturer specification; playback test settings not provided in table"
+    },
+    {
+      "label": "Passive operation",
+      "value": "No",
+      "unit": "",
+      "condition": "UK manufacturer specification; playback test settings not provided in table"
+    },
+    {
+      "label": "Ambient sound mode",
+      "value": "No",
+      "unit": "",
+      "condition": "UK manufacturer specification; playback test settings not provided in table"
+    },
+    {
+      "label": "Charge time",
+      "value": "Approx. 3 hours",
+      "unit": "",
+      "condition": "UK manufacturer specification; playback test settings not provided in table"
+    },
+    {
+      "label": "Charge method",
+      "value": "USB Type-C",
+      "unit": "",
+      "condition": "UK manufacturer specification; playback test settings not provided in table"
+    },
+    {
+      "label": "Continuous communication",
+      "value": "Max. 40 hours",
+      "unit": "",
+      "condition": "UK manufacturer specification; playback test settings not provided in table"
+    },
+    {
+      "label": "Standby",
+      "value": "Max. 200 hours",
+      "unit": "",
+      "condition": "UK manufacturer specification; playback test settings not provided in table"
+    },
+    {
+      "label": "Bluetooth version",
+      "value": "5.2",
+      "unit": "",
+      "condition": "UK manufacturer specification; playback test settings not provided in table"
+    },
+    {
+      "label": "Effective range",
+      "value": "10 m",
+      "unit": "",
+      "condition": "UK manufacturer specification; playback test settings not provided in table"
+    },
+    {
+      "label": "Bluetooth band",
+      "value": "2.4000–2.4835 GHz",
+      "unit": "",
+      "condition": "UK manufacturer specification; playback test settings not provided in table"
+    },
+    {
+      "label": "Profiles",
+      "value": "A2DP, AVRCP, HFP, HSP",
+      "unit": "",
+      "condition": "UK manufacturer specification; playback test settings not provided in table"
+    },
+    {
+      "label": "Audio formats",
+      "value": "SBC, AAC",
+      "unit": "",
+      "condition": "UK manufacturer specification; playback test settings not provided in table"
+    },
+    {
+      "label": "Content protection",
+      "value": "SCMS-T",
+      "unit": "",
+      "condition": "UK manufacturer specification; playback test settings not provided in table"
+    }
+  ],
+  "research_lane": "audio"
+}

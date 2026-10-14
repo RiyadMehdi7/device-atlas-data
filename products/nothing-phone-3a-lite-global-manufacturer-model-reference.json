@@ -1,0 +1,450 @@
+{
+  "id": "nothing-phone-3a-lite-global-manufacturer-model-reference",
+  "brand": "Nothing",
+  "model": "Phone (3a) Lite",
+  "category": "Phones",
+  "scope": "Global manufacturer model reference; region and capacity options grouped, Latvia SKU needs matching",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Phone (3a) Lite | Nothing | UK",
+  "source_url": "https://nothing.tech/products/phone-3a-lite",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Colours & Capacity — Colours",
+      "value": "White | Black",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Colours & Capacity — Memory",
+      "value": "8GB",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Colours & Capacity — Storage",
+      "value": "128 GB / 256 GB | (expandable up to 2 TB)",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Dimensions — Height",
+      "value": "164 mm",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Dimensions — Width",
+      "value": "78 mm",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Dimensions — Depth",
+      "value": "8.3 mm",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Dimensions — Weight",
+      "value": "199 g",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "MediaTek Dimensity 7300 Pro 5G — Clock speed",
+      "value": "Up to 2.5 GHz",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "MediaTek Dimensity 7300 Pro 5G — Core count",
+      "value": "8-core",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "MediaTek Dimensity 7300 Pro 5G — Technology",
+      "value": "4 nm TSMC process (N4)",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Main camera — Resolution",
+      "value": "50 MP",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Main camera — Focal length",
+      "value": "24 mm",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Main camera — Aperture",
+      "value": "F/1.88",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Main camera — Sensor",
+      "value": "1/1.57\"",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Main camera — Features",
+      "value": "EIS",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Main camera — Phase Detection",
+      "value": "Autofocus",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Ultra-wide — Resolution",
+      "value": "8 MP",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Ultra-wide — Focal length",
+      "value": "15 mm",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Ultra-wide — Aperture",
+      "value": "F/2.2",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Ultra-wide — Sensor",
+      "value": "1/4\"",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Ultra-wide — FOV",
+      "value": "119.5°",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Macro — Resolution",
+      "value": "2 MP",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Macro — Aperture",
+      "value": "F/2.4",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Front camera — Resolution",
+      "value": "16 MP",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Front camera — Focal length",
+      "value": "24 mm",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Front camera — Aperture",
+      "value": "f/2.45",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Front camera — Sensor",
+      "value": "1/3\"",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "TrueLens Engine 4",
+      "value": "Ultra XDR | Auto Tone | Portrait Optimiser | Motion Photo | Night Mode | Macro Mode",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Video recording — 4K recording",
+      "value": "30 FPS",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Video recording — 1080p recording",
+      "value": "30 or 60 FPS",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Video recording — Slo-mo",
+      "value": "120 FPS",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Video recording — Time Lapse",
+      "value": "4K or 1080p",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Video recording — Features",
+      "value": "EIS image stabilisation",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Display — Size",
+      "value": "6.77\"",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Display — Display technology",
+      "value": "Flexible AMOLED",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Display — Screen material",
+      "value": "Panda glass",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Display — Resolution",
+      "value": "1084 x 2392 (387 PPI)",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Display — Colour depth",
+      "value": "10-bit",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Display — Colours",
+      "value": "1.07 billion",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Display — Contrast ratio",
+      "value": "1,000,000:1",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Brightness — Peak brightness",
+      "value": "3000 nits",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Brightness — Outdoor brightness",
+      "value": "1300 nits",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Brightness — Typical brightness",
+      "value": "800 nits",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Refresh — Adaptive refresh rate",
+      "value": "120 Hz",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Refresh — Touch sampling rate",
+      "value": "1000 Hz",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Refresh — PWM frequency",
+      "value": "2160 Hz",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "SIM — Dual SIM",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "SIM — SIM size",
+      "value": "Nano-SIM (4FF)",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "SIM — e-SIM",
+      "value": "Japan only",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "SIM — Gigabit LTE",
+      "value": "Advanced",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "SIM — Gigabit 5G",
+      "value": "Dual Mode (NSA & SA)",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "SIM — 5G NR band",
+      "value": "n1 / n2 / n3 / n5 / n7 / n8 / n12 / n20 / n28 / n38 / n40 / n41 / n66 / n71 / n77 / n78",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "SIM — 4G LTE bands",
+      "value": "1 / 2 / 3 / 4 / 5 / 7 / 8 / 12 / 17 / 18 / 19 / 20 / 26 / 28 / 38 / 40 / 41 / 42 / 48 / 66 / 71",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "SIM — 3G UMTS (WCDMA) bands",
+      "value": "UMTS B1 / 2 / 4 / 5 / 6 / 8 / 19",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "SIM — 2G GSM",
+      "value": "850 / 900 / DCS / PCS",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Wi-Fi — Wi-Fi",
+      "value": "802.11 a/b/g/n/ac/ax, 2.4G/5G dual-band, MU-MIMO",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Wi-Fi — Wi-Fi type",
+      "value": "Wi-Fi Direct, Advanced Hotspot",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Wi-Fi — Bluetooth",
+      "value": "Bluetooth 5.4",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Wi-Fi — NFC",
+      "value": "Yes (excludes India) | Supporting Google Pay",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Wi-Fi — GPS",
+      "value": "GPS (L1) | GLONASS (G1) | BDS (B1I) | GALILEO (E1) | QZSS (L1)",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Operating system — OS",
+      "value": "Nothing OS 3.5 Powered by Android 15",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Operating system — Software support",
+      "value": "3 years of Android updates | 6 years of security patches",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Battery — Capacity",
+      "value": "5,000 mAh",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Charging speed — Charging speed",
+      "value": "33 W",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Charging speed — Reverse wired charging",
+      "value": "5 W",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Charging speed — 100% charge time",
+      "value": "1 hour",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Charging speed — 50% charge time",
+      "value": "20 minutes",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "IP54 Certified",
+      "value": "Tested for water and dust resistance",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Other features — Additional",
+      "value": "Fingerprint Sensor | In-screen optical scanner | Accelerometer | Electronic Compass | Ambient Light Sensor | Gyroscope | Proximity Sensor | X-axis linear vibrator",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    },
+    {
+      "label": "Packaging",
+      "value": "100% plastic-free",
+      "unit": "",
+      "condition": "Manufacturer global reference; India-only values explicitly identified in source."
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU / model code and GTIN matching",
+    "Colour-specific packaging and regional accessories"
+  ],
+  "source_pages": [
+    {
+      "url": "https://nothing.tech/products/phone-3a-lite",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible manufacturer specification content parsed; model-reference scope, not an exact retailer SKU."
+    }
+  ],
+  "research_lane": "phones"
+}

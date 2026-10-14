@@ -1,0 +1,148 @@
+{
+  "id": "logitech-c920e-manufacturer-reference",
+  "brand": "Logitech",
+  "model": "C920e",
+  "category": "Cameras",
+  "scope": "Exact manufacturer model/part reference as identified. UK/EMEA where labelled; global Sandberg/LogiLink/Lenovo references; Dell Japan technical guide. Exact Tele2 SKU, OEM package and revision require matching. Dimensions keep manufacturer orientation/clip scope.",
+  "identifiers": [
+    "960-001360"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Logitech C920e official specifications",
+  "source_url": "https://www.logitech.com/en-gb/products/webcams/c920e-business-webcam.html",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/logitech-c920e/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "1080p video",
+      "value": "1920×1080 at 30fps",
+      "unit": ""
+    },
+    {
+      "label": "720p video",
+      "value": "1280×720 at 30fps",
+      "unit": ""
+    },
+    {
+      "label": "Camera megapixels",
+      "value": "3",
+      "unit": ""
+    },
+    {
+      "label": "Focus",
+      "value": "Autofocus",
+      "unit": ""
+    },
+    {
+      "label": "Lens",
+      "value": "Glass",
+      "unit": ""
+    },
+    {
+      "label": "Microphones",
+      "value": "Stereo",
+      "unit": ""
+    },
+    {
+      "label": "Microphone range",
+      "value": "Up to 1m",
+      "unit": ""
+    },
+    {
+      "label": "Microphone activation",
+      "value": "Use Logi Tune to activate microphones",
+      "unit": ""
+    },
+    {
+      "label": "Diagonal FOV",
+      "value": "78°",
+      "unit": ""
+    },
+    {
+      "label": "Digital zoom",
+      "value": "1×",
+      "unit": ""
+    },
+    {
+      "label": "USB connector",
+      "value": "USB-A;plug-and-play",
+      "unit": ""
+    },
+    {
+      "label": "Cable",
+      "value": "1.5m attached",
+      "unit": ""
+    },
+    {
+      "label": "Light correction",
+      "value": "RightLight 2",
+      "unit": ""
+    },
+    {
+      "label": "Privacy shutter",
+      "value": "Attachable",
+      "unit": ""
+    },
+    {
+      "label": "Mounting",
+      "value": "Universal clip;tripod-ready, tripod not included",
+      "unit": ""
+    },
+    {
+      "label": "Dimensions with clip",
+      "value": "43.3 × 94 × 71mm, H×W×D",
+      "unit": ""
+    },
+    {
+      "label": "Weight",
+      "value": "162g",
+      "unit": ""
+    },
+    {
+      "label": "Windows requirement",
+      "value": "Windows 8 or later",
+      "unit": ""
+    },
+    {
+      "label": "macOS requirement",
+      "value": "10.10 or later",
+      "unit": ""
+    },
+    {
+      "label": "ChromeOS",
+      "value": "Supported",
+      "unit": ""
+    },
+    {
+      "label": "Microsoft DirectShow",
+      "value": "Compatible",
+      "unit": ""
+    },
+    {
+      "label": "Warranty",
+      "value": "3-year limited hardware",
+      "unit": ""
+    }
+  ],
+  "missing_fields": [
+    "Tele2 generic C920E SKU must match UK manufacturer part960-001360; TAA PDF part960-001401 not transferred",
+    "Exact Latvia GTIN/MPN and hardware revision"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.logitech.com/en-gb/products/webcams/c920e-business-webcam.html",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP200; official UK product page read",
+      "notes": "Short technical facts only; no marketing prose or source images retained"
+    },
+    {
+      "url": "https://www.logitech.com/content/dam/logitech/en/video-collaboration/pdf/c920e-datasheet.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP200; official PDF read",
+      "notes": "TAA part960-001401 differs from UK current-page part960-001360; part identifiers not transferred."
+    }
+  ],
+  "research_lane": "smart-devices"
+}

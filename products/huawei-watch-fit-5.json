@@ -1,0 +1,228 @@
+{
+  "id": "huawei-watch-fit-5",
+  "brand": "Huawei",
+  "model": "WATCH FIT 5",
+  "category": "Smartwatches",
+  "scope": "Global manufacturer WATCH FIT 5 reference. Only values assigned to this size column or common model sections included. Battery is manufacturer lab claim; regional services and exact Latvia SKU unresolved.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Huawei WATCH FIT 5 specifications",
+  "source_url": "https://consumer.huawei.com/en/wearables/watch-fit5/specs/",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/watch-fit-5/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Dimensions",
+      "value": "42.9 × 38.2 × 9.5 mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Wrist Size",
+      "value": "120-190 mm | 130-210 mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Weight",
+      "value": "Approximately 27 g (without the strap)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Display",
+      "value": "1.82 inch AMOLED 480 × 408 pixels, PPI 347 | 2500 nits",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Watch Case",
+      "value": "Aluminum alloy",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Accelerometer sensor Gyroscope sensor Magnetometer sensor Ambient light sensor Optical heart rate sensor Barometer sensor Temperature sensor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Button",
+      "value": "Home Button (Rotating Crown) and Side Button",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Charging Port",
+      "value": "Wireless charging",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "System Requirements",
+      "value": "Android 9.0 or later iOS 13.0 or later",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Waterproof Level",
+      "value": "5 ATM water-resistant | IP6X | The product can be worn during shallow water activities such as swimming in a pool or along the coast. After wearing the device in water activities, clean and dry it promptly, remove the water stains from the product surfaces and all holes, and use the device's drainage feature to avoid negative impact on device performance. |",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Connectivity",
+      "value": "Supported | 2.4 GHz, supports BT6.0 and BR + BLE | GPS (L1 + L5 Dual-band)/GLONASS/BeiDou (B1I + B1C + B2a Tri-band)/GALILEO (E1 + E5a Dual-band)/QZSS (L1 + L5 Dual-band)/NavIC",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Speaker",
+      "value": "Supported",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Microphone",
+      "value": "Supported",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Environment",
+      "value": "–20℃ to +45℃",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Charging",
+      "value": "5V-10V DC/2A",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Battery chemistry (manual)",
+      "value": "Lithium-ion",
+      "unit": "",
+      "condition": "Manufacturer family manual: Charging section logical49 (GT7) /48 (Fit5). Feature, region, phone and firmware conditions retained.",
+      "source_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAA_z2QS2vDMBCE_4rRIbTglJUtW3JP0aNujCHkYJOzHMmtILWDHy1t6X-vHEwOyzLM8LE7v2ge7VB9Xy16RhiFyPRf3SpjL1t3sQf9sch9zU8vRXDildwHeVEFSbBZ93Hog9pzgtfZGbt9OJTFVkC2EdhPlIUQhbbbzuPj09W0K_Wop3dPTYDipiXQNqDJ2RpmGBANgA2lREfUpxv3UxgfLfnuRsEpZGnMkh0GAOID58HqyfVd5ZZDF5vEQGCxQzS6t05P87C8AGmsqBIywTwlQjFJlEolpznNmMyZUFGOFUiANBMQMZL7FItAUU-SoJZ-PvXFmfre2TTM9nbh2lnJ0d8_hg93SlQBAAA%3D.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth call dependency",
+      "value": "Linked with Huawei Health and updated watch firmware; calls use paired phone",
+      "unit": "",
+      "condition": "Manufacturer family manual: Bluetooth voice calls logical12 /13. Feature, region, phone and firmware conditions retained.",
+      "source_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAA_z2QS2vDMBCE_4rRIbTglJUtW3JP0aNujCHkYJOzHMmtILWDHy1t6X-vHEwOyzLM8LE7v2ge7VB9Xy16RhiFyPRf3SpjL1t3sQf9sch9zU8vRXDildwHeVEFSbBZ93Hog9pzgtfZGbt9OJTFVkC2EdhPlIUQhbbbzuPj09W0K_Wop3dPTYDipiXQNqDJ2RpmGBANgA2lREfUpxv3UxgfLfnuRsEpZGnMkh0GAOID58HqyfVd5ZZDF5vEQGCxQzS6t05P87C8AGmsqBIywTwlQjFJlEolpznNmMyZUFGOFUiANBMQMZL7FItAUU-SoJZ-PvXFmfre2TTM9nbh2lnJ0d8_hg93SlQBAAA%3D.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Phone contact synchronization",
+      "value": "Contacts sync from paired Bluetooth phone; contacts cannot be directly added/deleted on watch",
+      "unit": "",
+      "condition": "Manufacturer family manual: Bluetooth voice calls logical12 /13. Feature, region, phone and firmware conditions retained.",
+      "source_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAA_z2QS2vDMBCE_4rRIbTglJUtW3JP0aNujCHkYJOzHMmtILWDHy1t6X-vHEwOyzLM8LE7v2ge7VB9Xy16RhiFyPRf3SpjL1t3sQf9sch9zU8vRXDildwHeVEFSbBZ93Hog9pzgtfZGbt9OJTFVkC2EdhPlIUQhbbbzuPj09W0K_Wop3dPTYDipiXQNqDJ2RpmGBANgA2lREfUpxv3UxgfLfnuRsEpZGnMkh0GAOID58HqyfVd5ZZDF5vEQGCxQzS6t05P87C8AGmsqBIywTwlQjFJlEolpznNmMyZUFGOFUiANBMQMZL7FItAUU-SoJZ-PvXFmfre2TTM9nbh2lnJ0d8_hg93SlQBAAA%3D.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Remote phone camera shutter",
+      "value": "Supported; iPhone/Android camera must be opened on phone first; latest firmware and Huawei Health required",
+      "unit": "",
+      "condition": "Manufacturer family manual: Remote shutter logical13 /14. Feature, region, phone and firmware conditions retained.",
+      "source_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAA_z2QS2vDMBCE_4rRIbTglJUtW3JP0aNujCHkYJOzHMmtILWDHy1t6X-vHEwOyzLM8LE7v2ge7VB9Xy16RhiFyPRf3SpjL1t3sQf9sch9zU8vRXDildwHeVEFSbBZ93Hog9pzgtfZGbt9OJTFVkC2EdhPlIUQhbbbzuPj09W0K_Wop3dPTYDipiXQNqDJ2RpmGBANgA2lREfUpxv3UxgfLfnuRsEpZGnMkh0GAOID58HqyfVd5ZZDF5vEQGCxQzS6t05P87C8AGmsqBIywTwlQjFJlEolpznNmMyZUFGOFUiANBMQMZL7FItAUU-SoJZ-PvXFmfre2TTM9nbh2lnJ0d8_hg93SlQBAAA%3D.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Phone music playback control",
+      "value": "Pause, track switching and volume control",
+      "unit": "",
+      "condition": "Manufacturer family manual: Music playback logical14 /16; paired Huawei Health. Feature, region, phone and firmware conditions retained.",
+      "source_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAA_z2QS2vDMBCE_4rRIbTglJUtW3JP0aNujCHkYJOzHMmtILWDHy1t6X-vHEwOyzLM8LE7v2ge7VB9Xy16RhiFyPRf3SpjL1t3sQf9sch9zU8vRXDildwHeVEFSbBZ93Hog9pzgtfZGbt9OJTFVkC2EdhPlIUQhbbbzuPj09W0K_Wop3dPTYDipiXQNqDJ2RpmGBANgA2lREfUpxv3UxgfLfnuRsEpZGnMkh0GAOID58HqyfVd5ZZDF5vEQGCxQzS6t05P87C8AGmsqBIywTwlQjFJlEolpznNmMyZUFGOFUiANBMQMZL7FItAUU-SoJZ-PvXFmfre2TTM9nbh2lnJ0d8_hg93SlQBAAA%3D.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Independent music playback",
+      "value": "Supported after transferring supported-format music files to watch",
+      "unit": "",
+      "condition": "Manufacturer family manual: Music playback logical14 /16. Feature, region, phone and firmware conditions retained.",
+      "source_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAA_z2QS2vDMBCE_4rRIbTglJUtW3JP0aNujCHkYJOzHMmtILWDHy1t6X-vHEwOyzLM8LE7v2ge7VB9Xy16RhiFyPRf3SpjL1t3sQf9sch9zU8vRXDildwHeVEFSbBZ93Hog9pzgtfZGbt9OJTFVkC2EdhPlIUQhbbbzuPj09W0K_Wop3dPTYDipiXQNqDJ2RpmGBANgA2lREfUpxv3UxgfLfnuRsEpZGnMkh0GAOID58HqyfVd5ZZDF5vEQGCxQzS6t05P87C8AGmsqBIywTwlQjFJlEolpznNmMyZUFGOFUiANBMQMZL7FItAUU-SoJZ-PvXFmfre2TTM9nbh2lnJ0d8_hg93SlQBAAA%3D.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "iPhone music import",
+      "value": "Import from Files through Huawei Health",
+      "unit": "",
+      "condition": "Manufacturer family manual: Music playback logical14 /16. Feature, region, phone and firmware conditions retained.",
+      "source_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAA_z2QS2vDMBCE_4rRIbTglJUtW3JP0aNujCHkYJOzHMmtILWDHy1t6X-vHEwOyzLM8LE7v2ge7VB9Xy16RhiFyPRf3SpjL1t3sQf9sch9zU8vRXDildwHeVEFSbBZ93Hog9pzgtfZGbt9OJTFVkC2EdhPlIUQhbbbzuPj09W0K_Wop3dPTYDipiXQNqDJ2RpmGBANgA2lREfUpxv3UxgfLfnuRsEpZGnMkh0GAOID58HqyfVd5ZZDF5vEQGCxQzS6t05P87C8AGmsqBIywTwlQjFJlEolpznNmMyZUFGOFUiANBMQMZL7FItAUU-SoJZ-PvXFmfre2TTM9nbh2lnJ0d8_hg93SlQBAAA%3D.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Offline maps",
+      "value": "Manual download through Huawei Health; outdoor positioning required",
+      "unit": "",
+      "condition": "Manufacturer family manual: Offline maps logical34 /41. Feature, region, phone and firmware conditions retained.",
+      "source_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAA_z2QS2vDMBCE_4rRIbTglJUtW3JP0aNujCHkYJOzHMmtILWDHy1t6X-vHEwOyzLM8LE7v2ge7VB9Xy16RhiFyPRf3SpjL1t3sQf9sch9zU8vRXDildwHeVEFSbBZ93Hog9pzgtfZGbt9OJTFVkC2EdhPlIUQhbbbzuPj09W0K_Wop3dPTYDipiXQNqDJ2RpmGBANgA2lREfUpxv3UxgfLfnuRsEpZGnMkh0GAOID58HqyfVd5ZZDF5vEQGCxQzS6t05P87C8AGmsqBIywTwlQjFJlEolpznNmMyZUFGOFUiANBMQMZL7FItAUU-SoJZ-PvXFmfre2TTM9nbh2lnJ0d8_hg93SlQBAAA%3D.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Offline map automatic caching",
+      "value": "Auto-cache over WLAN; not available when paired with iPhone",
+      "unit": "",
+      "condition": "Manufacturer family manual: Offline maps logical34 /41. Feature, region, phone and firmware conditions retained.",
+      "source_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAA_z2QS2vDMBCE_4rRIbTglJUtW3JP0aNujCHkYJOzHMmtILWDHy1t6X-vHEwOyzLM8LE7v2ge7VB9Xy16RhiFyPRf3SpjL1t3sQf9sch9zU8vRXDildwHeVEFSbBZ93Hog9pzgtfZGbt9OJTFVkC2EdhPlIUQhbbbzuPj09W0K_Wop3dPTYDipiXQNqDJ2RpmGBANgA2lREfUpxv3UxgfLfnuRsEpZGnMkh0GAOID58HqyfVd5ZZDF5vEQGCxQzS6t05P87C8AGmsqBIywTwlQjFJlEolpznNmMyZUFGOFUiANBMQMZL7FItAUU-SoJZ-PvXFmfre2TTM9nbh2lnJ0d8_hg93SlQBAAA%3D.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Quick release button",
+      "value": "Listed in appearance diagram",
+      "unit": "",
+      "condition": "Manufacturer family manual: Appearance logical1. Feature, region, phone and firmware conditions retained.",
+      "source_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAA_z2QS2vDMBCE_4rRIbTglJUtW3JP0aNujCHkYJOzHMmtILWDHy1t6X-vHEwOyzLM8LE7v2ge7VB9Xy16RhiFyPRf3SpjL1t3sQf9sch9zU8vRXDildwHeVEFSbBZ93Hog9pzgtfZGbt9OJTFVkC2EdhPlIUQhbbbzuPj09W0K_Wop3dPTYDipiXQNqDJ2RpmGBANgA2lREfUpxv3UxgfLfnuRsEpZGnMkh0GAOID58HqyfVd5ZZDF5vEQGCxQzS6t05P87C8AGmsqBIywTwlQjFJlEolpznNmMyZUFGOFUiANBMQMZL7FItAUU-SoJZ-PvXFmfre2TTM9nbh2lnJ0d8_hg93SlQBAAA%3D.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Touchscreen gestures",
+      "value": "Swipe, tap and touch-and-hold",
+      "unit": "",
+      "condition": "Manufacturer family manual: Buttons and touch/screen controls logical1. Feature, region, phone and firmware conditions retained.",
+      "source_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAA_z2QS2vDMBCE_4rRIbTglJUtW3JP0aNujCHkYJOzHMmtILWDHy1t6X-vHEwOyzLM8LE7v2ge7VB9Xy16RhiFyPRf3SpjL1t3sQf9sch9zU8vRXDildwHeVEFSbBZ93Hog9pzgtfZGbt9OJTFVkC2EdhPlIUQhbbbzuPj09W0K_Wop3dPTYDipiXQNqDJ2RpmGBANgA2lREfUpxv3UxgfLfnuRsEpZGnMkh0GAOID58HqyfVd5ZZDF5vEQGCxQzS6t05P87C8AGmsqBIywTwlQjFJlEolpznNmMyZUFGOFUiANBMQMZL7FItAUU-SoJZ-PvXFmfre2TTM9nbh2lnJ0d8_hg93SlQBAAA%3D.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Voice recorder",
+      "value": "Recordings can be played, shared or deleted; low battery restricts recording",
+      "unit": "",
+      "condition": "Manufacturer family manual: Recorder logical15. Feature, region, phone and firmware conditions retained.",
+      "source_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAA_z2QS2vDMBCE_4rRIbTglJUtW3JP0aNujCHkYJOzHMmtILWDHy1t6X-vHEwOyzLM8LE7v2ge7VB9Xy16RhiFyPRf3SpjL1t3sQf9sch9zU8vRXDildwHeVEFSbBZ93Hog9pzgtfZGbt9OJTFVkC2EdhPlIUQhbbbzuPj09W0K_Wop3dPTYDipiXQNqDJ2RpmGBANgA2lREfUpxv3UxgfLfnuRsEpZGnMkh0GAOID58HqyfVd5ZZDF5vEQGCxQzS6t05P87C8AGmsqBIywTwlQjFJlEolpznNmMyZUFGOFUiANBMQMZL7FItAUU-SoJZ-PvXFmfre2TTM9nbh2lnJ0d8_hg93SlQBAAA%3D.pdf",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU / GTIN matching",
+    "Regional app and payment availability"
+  ],
+  "source_pages": [
+    {
+      "url": "https://consumer.huawei.com/en/wearables/watch-fit5/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Manufacturer technical specification content parsed; extracted factual fields only"
+    },
+    {
+      "url": "https://consumer.huawei.com/en/support/wearables/watch-fit5/",
+      "fetched_at": "2026-10-14",
+      "method": "Browser rendered DOM read",
+      "notes": "Exact model support page exposes visible English family guide link; download identity verified"
+    },
+    {
+      "url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAA_z2QS2vDMBCE_4rRIbTglJUtW3JP0aNujCHkYJOzHMmtILWDHy1t6X-vHEwOyzLM8LE7v2ge7VB9Xy16RhiFyPRf3SpjL1t3sQf9sch9zU8vRXDildwHeVEFSbBZ93Hog9pzgtfZGbt9OJTFVkC2EdhPlIUQhbbbzuPj09W0K_Wop3dPTYDipiXQNqDJ2RpmGBANgA2lREfUpxv3UxgfLfnuRsEpZGnMkh0GAOID58HqyfVd5ZZDF5vEQGCxQzS6t05P87C8AGmsqBIywTwlQjFJlEolpznNmMyZUFGOFUiANBMQMZL7FItAUU-SoJZ-PvXFmfre2TTM9nbh2lnJ0d8_hg93SlQBAAA%3D.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "Official PDF download + pdftotext + PDF visual inspection",
+      "notes": "Appearance table visually checked; common family functions only, Pro-only electrode and contours explicitly restricted"
+    }
+  ],
+  "research_lane": "wearables"
+}

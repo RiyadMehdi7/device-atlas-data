@@ -1,0 +1,150 @@
+{
+  "id": "beats-pill-manufacturer-model",
+  "brand": "Beats",
+  "model": "Pill",
+  "category": "Speakers",
+  "scope": "Official manufacturer selected red page; single model reference, colour duplicates excluded",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Pill official specifications and FAQ",
+  "source_url": "https://www.beatsbydre.com/speakers/beats-pill/MWQW3/beatspill-red",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Woofer",
+      "value": "Bespoke racetrack",
+      "unit": "",
+      "condition": "Official manufacturer model reference"
+    },
+    {
+      "label": "Tweeter",
+      "value": "Separate housing",
+      "unit": "",
+      "condition": "Official manufacturer model reference"
+    },
+    {
+      "label": "Lossless",
+      "value": "USB-C",
+      "unit": "",
+      "condition": "Compatible source required"
+    },
+    {
+      "label": "IP rating",
+      "value": "IP67",
+      "unit": "",
+      "condition": "Official manufacturer model reference"
+    },
+    {
+      "label": "Length",
+      "value": "21.9 cm",
+      "unit": "",
+      "condition": "Official manufacturer model reference"
+    },
+    {
+      "label": "Width",
+      "value": "7.1 cm",
+      "unit": "",
+      "condition": "Official manufacturer model reference"
+    },
+    {
+      "label": "Height",
+      "value": "7.0 cm",
+      "unit": "",
+      "condition": "Official manufacturer model reference"
+    },
+    {
+      "label": "Weight",
+      "value": "680 g",
+      "unit": "",
+      "condition": "Official manufacturer model reference"
+    },
+    {
+      "label": "Bluetooth class",
+      "value": "1",
+      "unit": "",
+      "condition": "Official manufacturer model reference"
+    },
+    {
+      "label": "Amplify mode",
+      "value": "Two Pill speakers",
+      "unit": "",
+      "condition": "Synchronised audio"
+    },
+    {
+      "label": "Stereo mode",
+      "value": "Two Pill speakers",
+      "unit": "",
+      "condition": "Separate left/right"
+    },
+    {
+      "label": "Listening",
+      "value": "Up to 24 hours",
+      "unit": "",
+      "condition": "Single charge; manufacturer maximum; test settings unresolved"
+    },
+    {
+      "label": "Fast Fuel",
+      "value": "Up to 2 hours playback after 10-min charge",
+      "unit": "",
+      "condition": "Manufacturer maximum"
+    },
+    {
+      "label": "Charge connector",
+      "value": "USB-C",
+      "unit": "",
+      "condition": "Official manufacturer model reference"
+    },
+    {
+      "label": "Phone charging",
+      "value": "Supported",
+      "unit": "",
+      "condition": "USB-C output"
+    },
+    {
+      "label": "Battery type",
+      "value": "Rechargeable lithium-ion",
+      "unit": "",
+      "condition": "Official manufacturer model reference"
+    },
+    {
+      "label": "Power/pairing",
+      "value": "System button",
+      "unit": "",
+      "condition": "Official manufacturer model reference"
+    },
+    {
+      "label": "Voice assistant",
+      "value": "System button",
+      "unit": "",
+      "condition": "Official manufacturer model reference"
+    },
+    {
+      "label": "USB-C cable",
+      "value": "Included",
+      "unit": "",
+      "condition": "Official manufacturer model reference"
+    },
+    {
+      "label": "Adapter",
+      "value": "Sold separately",
+      "unit": "",
+      "condition": "Official manufacturer model reference"
+    }
+  ],
+  "missing_fields": [
+    "Battery capacity",
+    "Latvia SKU matching"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.beatsbydre.com/speakers/beats-pill/MWQW3/beatspill-red",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Actual product details and FAQ read; table values not transferred from sibling models"
+    }
+  ],
+  "research_lane": "audio"
+}

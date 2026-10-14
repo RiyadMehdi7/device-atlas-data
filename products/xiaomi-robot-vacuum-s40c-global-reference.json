@@ -1,0 +1,106 @@
+{
+  "id": "xiaomi-robot-vacuum-s40c-global-reference",
+  "brand": "Xiaomi",
+  "model": "Xiaomi Robot Vacuum S40C",
+  "category": "Smart home",
+  "scope": "Official global English model reference; current Tele2 listing observed separately. EU mains adaptor, exact SKU and GTIN require matching. Robot and dock measurements kept separate.",
+  "identifiers": [
+    "E101",
+    "E101CDZ"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Xiaomi Robot Vacuum S40C official specifications",
+  "source_url": "https://www.mi.com/global/product/xiaomi-robot-vacuum-s40c/specs/",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/robot-vacuum-s40c-white/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Robot model",
+      "value": "E101",
+      "unit": "",
+      "condition": "Official global specifications; Latvia EU retail SKU needs matching"
+    },
+    {
+      "label": "Robot dimensions",
+      "value": "340 x 340 x 97mm",
+      "unit": "",
+      "condition": "Official global specifications; Latvia EU retail SKU needs matching"
+    },
+    {
+      "label": "Robot rated power",
+      "value": "55W",
+      "unit": "",
+      "condition": "Official global specifications; Latvia EU retail SKU needs matching"
+    },
+    {
+      "label": "Robot rated voltage",
+      "value": "14.4V⎓",
+      "unit": "",
+      "condition": "Official global specifications; Latvia EU retail SKU needs matching"
+    },
+    {
+      "label": "Charging voltage",
+      "value": "20V⎓",
+      "unit": "",
+      "condition": "Official global specifications; Latvia EU retail SKU needs matching"
+    },
+    {
+      "label": "Battery rated capacity",
+      "value": "2,400mAh (rated capacity)",
+      "unit": "",
+      "condition": "Official global specifications; Latvia EU retail SKU needs matching"
+    },
+    {
+      "label": "Battery nominal capacity",
+      "value": "2,600mAh (nominal capacity)",
+      "unit": "",
+      "condition": "Official global specifications; Latvia EU retail SKU needs matching"
+    },
+    {
+      "label": "Robot net weight",
+      "value": "3.44kg",
+      "unit": "",
+      "condition": "Official global specifications; Latvia EU retail SKU needs matching"
+    },
+    {
+      "label": "Charging dock model",
+      "value": "E101CDZ",
+      "unit": "",
+      "condition": "Official global specifications; Latvia EU retail SKU needs matching"
+    },
+    {
+      "label": "Charging dock rated input",
+      "value": "20V⎓ 0.6A",
+      "unit": "",
+      "condition": "Official global specifications; Latvia EU retail SKU needs matching"
+    },
+    {
+      "label": "Charging dock rated output",
+      "value": "20V⎓ 0.6A",
+      "unit": "",
+      "condition": "Official global specifications; Latvia EU retail SKU needs matching"
+    },
+    {
+      "label": "Charging dock dimensions",
+      "value": "130 x 121 x 95mm",
+      "unit": "",
+      "condition": "Official global specifications; Latvia EU retail SKU needs matching"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvia/EU SKU/GTIN",
+    "Regional mains adaptor",
+    "Operating modes and performance conditions not in fetched specification page"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/xiaomi-robot-vacuum-s40c/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP fetch; visible specifications read",
+      "notes": "Sparse technical specification page; 12 fields supported"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

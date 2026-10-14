@@ -1,0 +1,292 @@
+{
+  "id": "acer-pd163q-bmiuux",
+  "brand": "Acer",
+  "model": "PD163Q bmiuux",
+  "category": "Monitors",
+  "scope": "Exact PD163Q bmiuux / UM.ZP3EE.009 model-specific official Acer UK store specification; two screens explicitly listed. Regional Tele2 EAN/MPN and bundle remain unmatched.",
+  "identifiers": [
+    "PD163Q bmiuux",
+    "UM.ZP3EE.009",
+    "4711474029348"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Acer PD3 Foldable portable dual screen Monitor | PD163Q| Black",
+  "source_url": "https://store.acer.com/en-gb/acer-pd3-foldable-portable-dual-screen-monitor-pd163q-black-um-zp3ee-009",
+  "tele2_url": "https://www.tele2.lv/monitori/acer-pd163qbmiuux-pd3-series-15-6ips2x19/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Manufacturer Part Number",
+      "value": "UM.ZP3EE.009",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "EAN",
+      "value": "4711474029348",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "Technical Information",
+      "value": "Number of Screens|2",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "Horizontal Viewing Angle",
+      "value": "170°",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "Vertical Viewing Angle",
+      "value": "170°",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "Panel Technology",
+      "value": "In-plane Switching (IPS) Technology",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "Monitor Features",
+      "value": "* Security Lock * ComfyView * Wide Viewing Angle * Flicker-free * Super Sharpness * VisionCare * Bluelight Shield",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "Tilt Angle",
+      "value": "0° to 135°",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "Response Time",
+      "value": "8 ms",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "Refresh Rate",
+      "value": "Vertical Frequency",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "Webcam",
+      "value": "No",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "Video",
+      "value": "Brightness|250 cd/m²",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "Display & Graphics",
+      "value": "Screen Size|39.6 cm (15.6\")",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "Display Screen Type",
+      "value": "Flat Panel TFT",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "Screen Resolution",
+      "value": "Full HD",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "Maximum Resolution",
+      "value": "2 x 1920 x 1080",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "Backlight Technology",
+      "value": "LED",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "Touchscreen",
+      "value": "No",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "Aspect Ratio",
+      "value": "16:09",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "Color Supported",
+      "value": "16.7 Million Colours",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "Colour Depth",
+      "value": "6-bit+FRC",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "Dynamic Contrast Ratio",
+      "value": "100,000,000:1",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "Audio",
+      "value": "Speakers|Yes",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "Number of Speakers",
+      "value": "2",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "Output Power",
+      "value": "2 x 2 W",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "Interfaces/Ports",
+      "value": "HDMI|Yes",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "Number of HDMI Ports",
+      "value": "1",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "USB",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "USB Type-C Ports",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "Total Number of USB Ports",
+      "value": "2",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "Headphone",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "Audio Line Out",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "Power Description",
+      "value": "Energy Efficiency Class|E",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "Physical Characteristics",
+      "value": "Colour|Black",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "Height",
+      "value": "217.3 mm",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "Width",
+      "value": "355.8 mm",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "Depth",
+      "value": "24.5 mm",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "Weight (Approximate)",
+      "value": "1.55 kg",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "VESA Mount Compatible",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "VESA Mount Standard",
+      "value": "75 x 75",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "Miscellaneous",
+      "value": "Package Contents",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "* 1 x USB Type-C Cable",
+      "value": "Warranty",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    },
+    {
+      "label": "Warranty",
+      "value": "2 Year Acer's Standard Warranty",
+      "unit": "",
+      "condition": "Acer official UK store exact PD163Q / UM.ZP3EE.009 model-specific Specifications tab; UK supplied cord/bundle may differ in Latvia"
+    }
+  ],
+  "missing_fields": [
+    "Latvia regional part / EAN reconciliation",
+    "Official manual HDMI / USB-C timing table"
+  ],
+  "source_pages": [
+    {
+      "url": "https://store.acer.com/en-gb/acer-pd3-foldable-portable-dual-screen-monitor-pd163q-black-um-zp3ee-009",
+      "fetched_at": "2026-10-14",
+      "method": "Exa full page fetch",
+      "notes": "Exact manufacturer part and model-specific Specifications tab read; series marketing tab excluded"
+    }
+  ],
+  "research_lane": "monitors"
+}

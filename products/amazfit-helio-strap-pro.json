@@ -1,0 +1,176 @@
+{
+  "id": "amazfit-helio-strap-pro",
+  "brand": "Amazfit",
+  "model": "Helio Strap Pro",
+  "category": "Smartwatches",
+  "scope": "Current German manufacturer storefront model-family specification. Original German field wording/units retained. Any steel/titanium, standard/premium or size alternatives remain expressly grouped; no colour/storage combinations invented. This supports EU relevance, not Latvia SKU or Tele2 availability.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Amazfit Helio Strap Pro specifications",
+  "source_url": "https://de.amazfit.com/products/helio-strap-pro",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Größe",
+      "value": "33,96 × 24,29 × 9,63 mm (ohne Herzfrequenzsensorbasis) | 33,96 × 24,29 × 11,25 mm (einschließlich Herzfrequenzsensorbasis)",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Gewicht",
+      "value": "11,4 g",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Kernkörpermaterial",
+      "value": "Plastik",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Armbinde",
+      "value": "Nylon, Anthrazit",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Wasserbeständigkeitsklasse²",
+      "value": "5 ATM",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Sensoren",
+      "value": "BioTracker™ 6.0 PPG-Biometriesensor (5PD + 2LED), Beschleunigungsmesser, Gyroskop, Temperatursensor, geomagnetischer Sensor",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Hauttemperaturüberwachung",
+      "value": "Unterstützt",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Batteriekapazität",
+      "value": "232 mAh",
+      "unit": "",
+      "condition": "Manufacturer laboratory estimate in original German; named mode retained; usage and enabled-feature test conditions in source footnotes. Actual use varies."
+    },
+    {
+      "label": "Akkulaufzeit bei typischer Nutzung",
+      "value": "Bis zu 11 Tage",
+      "unit": "",
+      "condition": "Manufacturer laboratory estimate in original German; named mode retained; usage and enabled-feature test conditions in source footnotes. Actual use varies."
+    },
+    {
+      "label": "Ladeverfahren",
+      "value": "Magnetisches Ladegerät | Ladezeit: ≤2 Stunden",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Konnektivität",
+      "value": "BLE 5.2",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Vibrationsmotor",
+      "value": "Rotormotor",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Gewicht",
+      "value": "10,7 g",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Wasserbeständigkeitsklasse",
+      "value": "5 ATM",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Sensoren",
+      "value": "Beschleunigungsmesser, Gyroskop, geomagnetischer Sensor",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Batteriekapazität",
+      "value": "232 mAh (Nennwert)",
+      "unit": "",
+      "condition": "Manufacturer laboratory estimate in original German; named mode retained; usage and enabled-feature test conditions in source footnotes. Actual use varies."
+    },
+    {
+      "label": "Akkulaufzeit bei typischer Nutzung",
+      "value": "Bis zu 44 Tage",
+      "unit": "",
+      "condition": "Manufacturer laboratory estimate in original German; named mode retained; usage and enabled-feature test conditions in source footnotes. Actual use varies."
+    },
+    {
+      "label": "Ladeverfahren",
+      "value": "Magnetisches Ladegerät",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Ladezeit",
+      "value": "≤2 Stunden",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Helio Pro Clip",
+      "value": "Flüssigsilikon, Schwarz",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Packliste",
+      "value": "Helio Core Motion HR, Helio Core Motion Hüftgurt, Helio Pro Clip, Armband, magnetischer Ladekopf (ohne Kabel), Bedienungsanleitung",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Verpackungsmaterialien",
+      "value": "Hergestellt aus 100 % recycelbaren Materialien³",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Unterstützte Geräte",
+      "value": "Android 8.0 und höher, iOS 17.0 und höher",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Anwendung",
+      "value": "Zepp-App",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU / GTIN matching",
+    "Regional app and payment availability",
+    "Latvian operator/payment/app feature availability",
+    "Exact material/size/standard-premium option matching where source lists alternatives"
+  ],
+  "source_pages": [
+    {
+      "url": "https://de.amazfit.com/products/helio-strap-pro",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Manufacturer technical specification content parsed; extracted factual fields only"
+    }
+  ],
+  "research_lane": "wearables"
+}

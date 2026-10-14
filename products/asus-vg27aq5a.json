@@ -1,0 +1,410 @@
+{
+  "id": "asus-vg27aq5a",
+  "brand": "Asus",
+  "model": "VG27AQ5A",
+  "category": "Monitors",
+  "scope": "ASUS global exact-model technical specification reference; Latvian stocked regional suffix and EAN unresolved.",
+  "identifiers": [
+    "VG27AQ5A"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "TUF Gaming VG27AQ5A - Tech Specs｜Monitors｜ASUS Global",
+  "source_url": "https://www.asus.com/displays-desktops/monitors/tuf-gaming/tuf-gaming-vg27aq5a/techspec/",
+  "tele2_url": "https://www.tele2.lv/monitori/tuf-gaming-vg27aq5a-27inch-fast-ips/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Panel Size (inch)",
+      "value": "27",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Aspect Ratio",
+      "value": "16:9",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Display Viewing Area (H x V)",
+      "value": "596.74 x 335.67 mm",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Display Surface",
+      "value": "Anti-Glare",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Backlight Type",
+      "value": "LED",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Panel Type",
+      "value": "Fast IPS",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Viewing Angle (CR≧10, H/V)",
+      "value": "178°/ 178°",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Pixel Pitch",
+      "value": "0.233mm",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Resolution",
+      "value": "2560x1440",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Color Space (sRGB)",
+      "value": "130%",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Color Space (DCI-P3)",
+      "value": "95%",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Brightness (Typ.)",
+      "value": "300cd/㎡",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Contrast Ratio (Typ.)",
+      "value": "1300:1",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Display Colors",
+      "value": "1073.7M (10 bit)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Response Time",
+      "value": "1ms(GTG), 0.3ms(min.)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Refresh Rate (Max)",
+      "value": "210Hz",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "HDR (High Dynamic Range) Support",
+      "value": "HDR10",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Flicker-free",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Trace Free Technology",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "GameVisual",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Color Temp. Selection",
+      "value": "Yes (4 modes)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "GamePlus",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "HDCP",
+      "value": "Yes, 2.2",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Extreme Low Motion Blur",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "ELMB Sync: Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "VRR Technology",
+      "value": "Yes (Adaptive-Sync)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "GameFast Input technology",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Shadow Boost",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "DisplayWidget",
+      "value": "Yes, DisplayWidget Center",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Low Blue Light",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "ASUS Power Sync",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Speaker",
+      "value": "Yes(2Wx2)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "DisplayPort 1.4 x 1 (HBR2)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "HDMI(v2.0) x 2",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "USB Hub",
+      "value": "1x USB 3.2 Gen 1 Type-C (Service Port)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Earphone Jack",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Digital Signal Frequency",
+      "value": "HDMI:30~233KHz(H) / 48~ 144Hz(V)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "DP: 30~311KHz(H) / 48~210Hz(V)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Power Consumption",
+      "value": "<20.8W*",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Power Saving Mode",
+      "value": "<0.5W",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Power Off Mode",
+      "value": "<0.3W",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Voltage",
+      "value": "100-240V, 50/60Hz",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Tilt",
+      "value": "Yes (+20° ~ -5°)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Height Adjustment",
+      "value": "No",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "VESA Wall Mounting",
+      "value": "100x100mm",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Kensington Lock",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Phys. Dimension (W x H x D)",
+      "value": "61.50 x 45.50 x 21.40 cm (24.21\" x 17.91\" x 8.43\")",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Phys. Dimension without Stand (W x H x D)",
+      "value": "61.50 x 36.70 x 5.40 cm (24.21\" x 14.45\" x 2.13\")",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Box Dimension (W x H x D)",
+      "value": "68.90 x 47.50 x 16.00 cm (27.13\" x 18.70\" x 6.30\")",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Net Weight",
+      "value": "5.0 kg (11.02 lbs)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Net Weight without Stand",
+      "value": "4.2 kg (9.26 lbs)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Gross Weight",
+      "value": "7.1 kg (15.65 lbs)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "Warranty Card",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "Quick start guide",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "Power cord",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "L-shaped Screwdriver",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "HDMI cable",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "DisplayPort cable",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "FSC MIX",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "AMD FreeSync Premium",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "VESA AdaptiveSync Display 210Hz",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "TÜV Low Blue Light",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "TÜV Flicker-free",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    }
+  ],
+  "missing_fields": [
+    "Latvia stocked unit EAN reconciliation",
+    "Manual input-specific refresh limits and test footnotes where unresolved"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.asus.com/displays-desktops/monitors/tuf-gaming/tuf-gaming-vg27aq5a/techspec/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "HTTP 200; exact model title and technical specification block read"
+    }
+  ],
+  "research_lane": "monitors"
+}

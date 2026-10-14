@@ -1,0 +1,228 @@
+{
+  "id": "samsung-galaxy-buds4-pro-regional-model",
+  "brand": "Samsung",
+  "model": "Galaxy Buds4 Pro",
+  "category": "Earbuds",
+  "scope": "UK business manufacturer black model reference; Latvia SKU reconciliation required",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Galaxy Buds4 Pro - Samsung UK Business specifications",
+  "source_url": "https://www.samsung.com/uk/business/audio-sound/galaxy-buds/galaxy-buds4-pro-black-sm-r640nzkaeub/",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/galaxy-buds4-pro/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Bluetooth Version",
+      "value": "6.1",
+      "unit": "",
+      "condition": "UK manufacturer black model reference"
+    },
+    {
+      "label": "Sensors",
+      "value": "Accelerometer, gyro, Hall, pressure, proximity, touch, VPU",
+      "unit": "",
+      "condition": "UK manufacturer black model reference"
+    },
+    {
+      "label": "Earbud weight (g)",
+      "value": "5.1",
+      "unit": "",
+      "condition": "UK manufacturer black model reference"
+    },
+    {
+      "label": "Microphone count",
+      "value": "6",
+      "unit": "",
+      "condition": "UK manufacturer black model reference"
+    },
+    {
+      "label": "Speaker",
+      "value": "Enhanced 2-way",
+      "unit": "",
+      "condition": "UK manufacturer black model reference"
+    },
+    {
+      "label": "Ambient sound",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK manufacturer black model reference"
+    },
+    {
+      "label": "Adaptive noise control",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK manufacturer black model reference"
+    },
+    {
+      "label": "ANC",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK manufacturer black model reference"
+    },
+    {
+      "label": "Voice detect",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK manufacturer black model reference"
+    },
+    {
+      "label": "360 audio",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK manufacturer black model reference"
+    },
+    {
+      "label": "Siren detect",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK manufacturer black model reference"
+    },
+    {
+      "label": "Codecs",
+      "value": "AAC, SBC, SSC, SSC-UHQ, LC3",
+      "unit": "",
+      "condition": "UK manufacturer black model reference"
+    },
+    {
+      "label": "Adaptive EQ",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK manufacturer black model reference"
+    },
+    {
+      "label": "Adaptive ANC",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK manufacturer black model reference"
+    },
+    {
+      "label": "Super Wide Band",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK manufacturer black model reference"
+    },
+    {
+      "label": "Profiles",
+      "value": "A2DP, AVRCP, HFP, PBP, TMAP",
+      "unit": "",
+      "condition": "UK manufacturer black model reference"
+    },
+    {
+      "label": "LE Audio",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK manufacturer black model reference"
+    },
+    {
+      "label": "Auto Switch",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK manufacturer black model reference"
+    },
+    {
+      "label": "Earbud dimensions H×W×D (mm)",
+      "value": "30.9 × 18.1 × 19.6",
+      "unit": "",
+      "condition": "UK manufacturer black model reference"
+    },
+    {
+      "label": "Case dimensions H×W×D (mm)",
+      "value": "51 × 28.3 × 51",
+      "unit": "",
+      "condition": "UK manufacturer black model reference"
+    },
+    {
+      "label": "Case weight (g)",
+      "value": "44.3",
+      "unit": "",
+      "condition": "UK manufacturer black model reference"
+    },
+    {
+      "label": "Earbud protection",
+      "value": "IP57",
+      "unit": "",
+      "condition": "UK manufacturer black model reference"
+    },
+    {
+      "label": "Earbud capacity (mAh typical)",
+      "value": "61",
+      "unit": "",
+      "condition": "UK manufacturer black model reference"
+    },
+    {
+      "label": "Case capacity (mAh typical)",
+      "value": "530",
+      "unit": "",
+      "condition": "UK manufacturer black model reference"
+    },
+    {
+      "label": "Charging power min/max (W)",
+      "value": "2.5–4.5",
+      "unit": "",
+      "condition": "UK manufacturer black model reference"
+    },
+    {
+      "label": "Earbud music ANC on",
+      "value": "Up to 6",
+      "unit": "hours",
+      "condition": "ANC on; activity and case scope in label; other lab settings unresolved"
+    },
+    {
+      "label": "Earbud talk ANC on",
+      "value": "Up to 4.5",
+      "unit": "hours",
+      "condition": "ANC on; activity and case scope in label; other lab settings unresolved"
+    },
+    {
+      "label": "Total music including case ANC on",
+      "value": "Up to 26",
+      "unit": "hours",
+      "condition": "ANC on; activity and case scope in label; other lab settings unresolved"
+    },
+    {
+      "label": "Total talk including case ANC on",
+      "value": "Up to 20",
+      "unit": "hours",
+      "condition": "ANC on; activity and case scope in label; other lab settings unresolved"
+    },
+    {
+      "label": "Earbud music ANC off",
+      "value": "Up to 7",
+      "unit": "hours",
+      "condition": "ANC off; activity and case scope in label; other lab settings unresolved"
+    },
+    {
+      "label": "Earbud talk ANC off",
+      "value": "Up to 5",
+      "unit": "hours",
+      "condition": "ANC off; activity and case scope in label; other lab settings unresolved"
+    },
+    {
+      "label": "Total music including case ANC off",
+      "value": "Up to 30",
+      "unit": "hours",
+      "condition": "ANC off; activity and case scope in label; other lab settings unresolved"
+    },
+    {
+      "label": "Total talk including case ANC off",
+      "value": "Up to 22",
+      "unit": "hours",
+      "condition": "ANC off; activity and case scope in label; other lab settings unresolved"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU/GTIN reconciliation",
+    "Full playback test protocol"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.samsung.com/uk/business/audio-sound/galaxy-buds/galaxy-buds4-pro-black-sm-r640nzkaeub/",
+      "fetched_at": "2026-10-14",
+      "method": "web find",
+      "notes": "Official specification table read; unrelated navigation excluded"
+    }
+  ],
+  "research_lane": "audio"
+}

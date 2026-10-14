@@ -1,0 +1,435 @@
+{
+  "id": "acer-b278u-ebemiqprcuzx",
+  "brand": "Acer",
+  "model": "B278U Ebemiqprcuzx",
+  "category": "Monitors",
+  "scope": "Exact B278U Ebemiqprcuzx, manufacturer part UM.HB8EE.E10, official UK technical reference. Tele2 regional part and EAN remain unresolved; bundle power cord is region-specific.",
+  "identifiers": [
+    "B278U Ebemiqprcuzx",
+    "UM.HB8EE.E10"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Vero B8 - B278U E Tech Specs | LED Monitor | Acer United Kingdom",
+  "source_url": "https://www.acer.com/gb-en/monitors/business/b8/pdp/UM.HB8EE.E10",
+  "tele2_url": "https://www.tele2.lv/monitori/acer-vero-b8-b278uebemiqprcuzx/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Number of Screens",
+      "value": "1",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Viewable Screen Size",
+      "value": "68.6 cm (27\")",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Screen Size Class",
+      "value": "27\"",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Screen Mode",
+      "value": "WQHD",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Panel Technology",
+      "value": "In-plane Switching (IPS) Technology",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Response Time",
+      "value": "4 ms",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Response Time Details",
+      "value": "4 ms GTG",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Aspect Ratio",
+      "value": "16:9",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Pixel Pitch",
+      "value": "0.23300 mm x 0.23300 mm",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Horizontal Viewing Angle",
+      "value": "178°",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Vertical Viewing Angle",
+      "value": "178°",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Backlight Technology",
+      "value": "LED",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Mount Type",
+      "value": "Wall Mountable",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Features",
+      "value": "HDR10 6-axis Color Adjustment Super Sharpness Bluelight Shield Pro Eyesafe Certified 2.0 LightSense ColorSense ProxiSense ComfyView Picture in Picture Picture by Picture KVM Display Widget",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Display Screen Type",
+      "value": "Flat Panel TFT",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Maximum Adjustable Height",
+      "value": "150 mm",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Swivel Angle",
+      "value": "-60° to 60°",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Tilt Angle",
+      "value": "-5° to 35°",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Adjustable Display Pivot",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Adjustable Display Height",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Adjustable Stand",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Stand Adjustments",
+      "value": "Height Swivel",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Active Display Area (mm)",
+      "value": "597x336",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Screen Surface",
+      "value": "Anti-glare",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Cover Glass",
+      "value": "No",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Speakers",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Speaker Output Power",
+      "value": "2 W",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "VESA Mount Compatible",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "VESA Mount Standard",
+      "value": "100 x 100",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Product Colour",
+      "value": "Black",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Height",
+      "value": "389.60 mm",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Width",
+      "value": "614.40 mm",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Depth",
+      "value": "91.10 mm",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Height with Stand",
+      "value": "561.20 mm",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Width with Stand",
+      "value": "614.40 mm",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Depth with Stand",
+      "value": "247 mm",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Weight (Approximate)",
+      "value": "5.58 kg",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Weight with Stand (Approximate)",
+      "value": "10.24 kg",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Maximum Resolution",
+      "value": "2560 x 1440",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Colour Supported",
+      "value": "16.7 Million Colours",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Colour Depth",
+      "value": "8-bit",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Dynamic Contrast Ratio",
+      "value": "100,000,000:1",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Brightness",
+      "value": "350 cd/m²",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Tearing Prevention Technology",
+      "value": "VESA Adaptive Sync (DisplayPort VRR/USB Type C VRR)",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Colour Gamut",
+      "value": "99% sRGB",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Native Contrast Ratio",
+      "value": "1,000:1",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "EPREL No.",
+      "value": "1908420",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Package Contents",
+      "value": "1 x Vero B278U E Widescreen LED Monitor 1 x Power Cord (UK)1 x USB Type-C Cable 1 x USB 3.0 Cable 1 x DisplayPort Cable 1 x HDMI Cable",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Environmental Certification",
+      "value": "Electronic Product Environmental Assessment Tool Silver (EPEAT Silver)TCO Certified",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Built-in Devices",
+      "value": "KVM Switch",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Webcam",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Microphone Array",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "HDMI",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "HDMI Version",
+      "value": "2",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Total Number of HDMI Ports",
+      "value": "1",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Audio Line Out",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "DisplayPort™",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "DisplayPort Version",
+      "value": "1.2",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "USB Type-C®",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Number of DisplayPorts",
+      "value": "2",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Total Number of USB Type-C Ports",
+      "value": "1",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Number of USB Type-B Upstream Ports",
+      "value": "2",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Energy Efficiency Class (HDR) (from 1st March 2021)",
+      "value": "G",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Standby Power Consumption (Energy Star)",
+      "value": "500 mW",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Off-Mode Power Consumption (Energy Star)",
+      "value": "300 mW",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Maximum Power Consumption (Energy Star)",
+      "value": "180 W",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    },
+    {
+      "label": "Energy Efficiency Class (SDR) (from 1st March 2021)",
+      "value": "F",
+      "unit": "",
+      "condition": "Exact full Acer model suffix / manufacturer part UM.HB8EE.E10; source units, stand and Energy Star conditions retained"
+    }
+  ],
+  "missing_fields": [
+    "Tele2 Latvia full MPN / EAN matching",
+    "Manufacturer manual timing limits"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.acer.com/gb-en/monitors/business/b8/pdp/UM.HB8EE.E10",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Exact full-suffix heading, manufacturer part and complete technical table rows read. Exa extraction lost several labels; web open supplied explicit pairs."
+    }
+  ],
+  "research_lane": "monitors"
+}

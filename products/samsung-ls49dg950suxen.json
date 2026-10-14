@@ -1,0 +1,603 @@
+{
+  "id": "samsung-ls49dg950suxen",
+  "brand": "Samsung",
+  "model": "LS49DG950SUXEN",
+  "category": "Monitors",
+  "scope": "Exact LS49DG950SUXEN manufacturer reference on za Samsung site. Complete manufacturer suffix matches observed Tele2 name; physical stock EAN and regional smart-service availability remain unresolved.",
+  "identifiers": [
+    "LS49DG950SUXEN"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Exact variant source checked",
+  "source_name": "49\" Odyssey OLED G9 G95SD DQHD LS49DG950SUXEN | Samsung South Africa",
+  "source_url": "https://www.samsung.com/za/monitors/gaming/odyssey-oled-g9-g95sd-49-inch-oled-dual-qhd-ls49dg950suxen/",
+  "tele2_url": "https://www.tele2.lv/monitori/monitorsamsung49gamingcurved5120x1440329/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Resolution",
+      "value": "DQHD (5,120 x 1,440)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Aspect Ratio",
+      "value": "32:9",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Screen Curvature",
+      "value": "1800R",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Brightness (Typical)",
+      "value": "250cd/㎡",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Contrast Ratio Static",
+      "value": "1,000,000:1 (Typ.)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Response Time",
+      "value": "0.03ms(GTG)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Refresh Rate",
+      "value": "Max 240Hz",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Viewing Angle (Horizontal/Vertical)",
+      "value": "178/178",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Screen Size (Class)",
+      "value": "49",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Flat / Curved",
+      "value": "Curved",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Active Display Size (HxV)",
+      "value": "1,196.7x339.2",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Panel Type",
+      "value": "OLED",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Burn-In cover in warranty",
+      "value": "Burn-in at normal usage covered within warranty.(But, not covered for Commercial, abuse or mis-use)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Brightness (Typical)",
+      "value": "250 cd/㎡",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Brightness (Min)",
+      "value": "200 cd/㎡",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "HDR (High Dynamic Range)",
+      "value": "HDR10",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "HDR10+",
+      "value": "HDR10+ Gaming",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Colour Support",
+      "value": "Max 1B",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Color Gamut (DCI Coverage)",
+      "value": "99% (CIE1976)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Eye Saver Mode",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Flicker Free",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Quantum Dot Color",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Image Size",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Windows Certification",
+      "value": "Windows11",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "FreeSync",
+      "value": "FreeSync Premium Pro",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "G-Sync",
+      "value": "G-Sync Compatible",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Off Timer Plus",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Virtual AIM Point",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Core Sync",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Game Bar 2.0",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Gaming Hub",
+      "value": "Yes (KR, US, CA, BR, GB, FR, DE, IT, ES, MX, AU)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "HDMI-CEC",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Auto Source Switch",
+      "value": "Auto Source Switch+",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Adaptive Picture",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Smart Type",
+      "value": "Smart",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Operating System",
+      "value": "Tizen™",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Bixby",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Far-Field Voice Interaction",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "TV Plus",
+      "value": "Yes (GB, FR, DE, IT, ES, CH, AT, NL, SE, NO, DK, FI, PT, IE, BE, LU)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Universal Guide",
+      "value": "Yes (GB, FR, DE, IT, ES)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Alexa Built-in",
+      "value": "Alexa (GB, DE, FR, IT, ES, AT, IE)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "SmartThings Hub",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Multi Device Experience",
+      "value": "Mobile to Screen, Screen initiate mirroring, Sound Mirroring, Wireless On, Tap View",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "My Contents",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Multi View",
+      "value": "upto 2 videos",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Smart Calibration",
+      "value": "Basic",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "NFT",
+      "value": "Nifty Gateway",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Remote Access",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Wireless Display",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Display Port",
+      "value": "1 EA",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Display Port Version",
+      "value": "1.4",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "HDMI",
+      "value": "1 EA",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "HDMI Version",
+      "value": "2.1",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Micro HDMI",
+      "value": "1",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Micro HDMI Version",
+      "value": "2.1",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Headphone",
+      "value": "No",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "USB Hub",
+      "value": "No",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "USB-C",
+      "value": "No",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "USB-C Upstream Port (ONLY DATA)",
+      "value": "1",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "USB Type-C Downstream Port",
+      "value": "2",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "USB Type-C Downstream Version",
+      "value": "3.2 Gen2",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Wireless LAN Built-in",
+      "value": "Yes (Wi-Fi 5)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "Yes(5.2)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Speaker",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Speaker Output",
+      "value": "10W",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Adaptive Sound",
+      "value": "Adaptive Sound Pro",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Temperature",
+      "value": "10~40 ℃",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Humidity",
+      "value": "10~80(non-condensing)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Factory Tunning",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Factory Calibration Report",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Front Color",
+      "value": "SILVER",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Rear Color",
+      "value": "SILVER",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Stand Color",
+      "value": "Silver",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Stand Type",
+      "value": "HAS",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "HAS (Height Adjustable Stand)",
+      "value": "120.0",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Tilt",
+      "value": "-2° ~15.0°",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Wall Mount",
+      "value": "100 x 100",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Power Supply",
+      "value": "AC100~240V ~50/60Hz",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Power Consumption (Max)",
+      "value": "220 W",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Power Consumption (Typ)",
+      "value": "70.0 W",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Power Consumption (DPMS)",
+      "value": "0.50 W",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Power Consumption (Yearly)",
+      "value": "102 kWh/year",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Type",
+      "value": "External Adaptor",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Set Dimension with Stand (WxHxD)",
+      "value": "1194.7 x 529.3 x 236.9 mm",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Set Dimension without Stand (WxHxD)",
+      "value": "1194.7 x 365.0 x 180.8 mm",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Package Dimension (WxHxD)",
+      "value": "1352 x 240 x 474 mm",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Set Weight with Stand",
+      "value": "12.6 kg",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Set Weight without Stand",
+      "value": "8.8 kg",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Package Weight",
+      "value": "18.1 kg",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Power Cable Length",
+      "value": "1.5 m",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "DP Cable",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "USB Type-C to Type-A Gender Cable",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Remote Controller",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "UL Glare Free",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Pantone Validated",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS49DG950SUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    }
+  ],
+  "missing_fields": [
+    "Tele2 physical stock EAN reconciliation",
+    "Manual HDMI/DP timing limits",
+    "Latvian availability of region-limited smart services if applicable"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.samsung.com/za/monitors/gaming/odyssey-oled-g9-g95sd-49-inch-oled-dual-qhd-ls49dg950suxen/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "HTTP 200; full model code present; explicit manufacturer technical label/value block read"
+    }
+  ],
+  "research_lane": "monitors"
+}

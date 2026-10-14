@@ -1,0 +1,362 @@
+{
+  "id": "sharp-40ha1205e",
+  "brand": "Sharp",
+  "model": "40HA1205E",
+  "category": "Televisions",
+  "scope": "Exact manufacturer European model code and observed Tele2 Latvia model listing. GTIN unresolved.",
+  "identifiers": [
+    "40HA1205E"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Exact variant source checked",
+  "source_name": "40″ Full HD TV | 40HA1205E",
+  "source_url": "https://www.sharpconsumer.com/tv/40ha1205e/",
+  "tele2_url": "https://www.tele2.lv/televizori/sharp-40ha1205e-fhd-40/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "USB Video",
+      "value": "MKV, MP4, MOV, AVI, MPG, VOB, DAT, TS",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "USB Music",
+      "value": "MP3, M4A, AAC, AC3, EAC3, LPCM",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "USB Photo",
+      "value": "JPG, JPEG, BMP, PNG",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "USB File System",
+      "value": "FAT16, FAT32, NTFS",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Digital Programme List",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "USB Software Update",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Hotel Mode",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "HDMI ARC",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "HDMI CEC",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Antenna Input",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Satellite Input",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "HDMI Connectors",
+      "value": "x3",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "USB",
+      "value": "x2",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Remote Control",
+      "value": "IR",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Remote Control Design",
+      "value": "30604513CXUMC",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Video/Audio input (3 x RCA)",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Coaxial Digital Audio Output",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "TV System (ATV)",
+      "value": "PAL, SECAM",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "TV System (DTV)",
+      "value": "DVB-T/T2/C/S/S2 (MPEG4 + H.265/HEVC (10-bit))",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Video system",
+      "value": "HEVC/H.265 (10-bit), MPEG4/H.264",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Diagonal Screen Size cm",
+      "value": "101",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Diagonal Screen Size Inch",
+      "value": "40",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Panel Resolution (HxV) In Pixel",
+      "value": "1920 x 1080",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Dynamic Contrast",
+      "value": "1 000 000:1",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Active Motion",
+      "value": "100",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Backlight",
+      "value": "LED",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Maximum refresh rate (Hz)",
+      "value": "60",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Speaker",
+      "value": "2",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Speaker power (W)",
+      "value": "2x8W",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Sound System",
+      "value": "BG, DK, I, L/L’, MN, NICAM/A2",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Sound Settings",
+      "value": "Bass / Treble",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Audio decoder",
+      "value": "Dolby Digital, Dolby Digital Plus",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Power Requirements",
+      "value": "AC 100-240V ~ 50/60Hz",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Power Consumption (ecomode/standard/max) (W)",
+      "value": "36/60/70 W",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Power Consumption (W)",
+      "value": "36",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Standby Power Consumption (W)",
+      "value": "<0,50",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Off Mode Power Consumption (W)",
+      "value": "Not applicable",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Energy Class",
+      "value": "E",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Plug",
+      "value": "CE Plug",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Auto Power Off",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "AC Operated",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Safety Logo Certification",
+      "value": "CE (RED, RoHS, ErP), REACH/PAH/SCCP",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "EPREL",
+      "value": "https://eprel.ec.europa.eu/qr/2201315",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Unit Size (W x H x D in mm)",
+      "value": "892 x 509 x 82",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Unit Weight (kg)",
+      "value": "5,7",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Packaging Content",
+      "value": "Product, Remote control, 2x AAA batteries, TV stand installation pack, Quick start guide",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Gift Box, 4 Colour",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Box Size (W x H x D in mm)",
+      "value": "990 x 570 x 118",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Gross Weight (kg)",
+      "value": "7,8",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Net Size with Stand (W x H x D in mm)",
+      "value": "892 x 555 x 213",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "Dimension Between Stand Feet (in mm)",
+      "value": "761",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    },
+    {
+      "label": "VESA Standard (mm)",
+      "value": "200 x 200",
+      "unit": "",
+      "condition": "Manufacturer European model page; exact Latvia retail suffix observed."
+    }
+  ],
+  "missing_fields": [
+    "GTIN",
+    "Exact-model energy product fiche / manual scope confirmation"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.sharpconsumer.com/tv/40ha1205e/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "HTTP 200; exact title and paired factual specification spans read."
+    },
+    {
+      "url": "https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/2dde204a-f5da-11ee-a7c1-e20ef6845250.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP PDF fetch and pdftotext -layout",
+      "notes": "Official exact-model page links this shared technical document. Read; exact model string not found in extracted text. No features transferred from document."
+    },
+    {
+      "url": "https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/847650c0-5354-11f0-bd6b-8a152fd21716.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP PDF fetch and pdftotext -layout",
+      "notes": "Official exact-model page links this shared technical document. Read; exact model string not found in extracted text. No features transferred from document."
+    },
+    {
+      "url": "https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/b3c7cc5e-6f1d-11ee-8f93-c66670f7ba44.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP PDF fetch and pdftotext -layout",
+      "notes": "Official exact-model page links this shared technical document. Read; exact model string not found in extracted text. No features transferred from document."
+    }
+  ],
+  "research_lane": "televisions"
+}

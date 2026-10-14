@@ -1,0 +1,303 @@
+{
+  "id": "oneplus-pad-go",
+  "brand": "OnePlus",
+  "model": "Pad Go",
+  "model_family": "Pad Go",
+  "category": "Tablets",
+  "scope": "European manufacturer model reference. Regional configurations vary; not a Latvia SKU or availability claim.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer model source checked; Latvia SKU needs matching",
+  "source_name": "OnePlus Pad Go technical specifications",
+  "source_url": "https://www.oneplus.com/uk/oneplus-pad-go/specs",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Height",
+      "value": "25.512 cm",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-go/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Width",
+      "value": "18.804 cm",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-go/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Thickness",
+      "value": "0.689 cm",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-go/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Weight",
+      "value": "532g",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-go/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Size",
+      "value": "28.85cm (11.35'')",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-go/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Resolution",
+      "value": "2408 x 1720",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-go/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Pixel Density",
+      "value": "260PPI",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-go/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Refresh Rate",
+      "value": "90Hz",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-go/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Touch Sampling Rate",
+      "value": "180Hz",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-go/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Colour Gamut",
+      "value": "96% NTSC",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-go/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Screen-to-body Ratio",
+      "value": "86.40%",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-go/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Contrast",
+      "value": "1500:1 (Typical)",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-go/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Brightness",
+      "value": "400 nits (Typical)",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-go/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Type",
+      "value": "LCD (LTPS)",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-go/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Audio",
+      "value": "Dolby Atmos Quad Speakers",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-go/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB LPDDR4X",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-go/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Storage",
+      "value": "Up to 128GB UFS 2.2",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-go/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Operating System",
+      "value": "OxygenOS 13.2",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-go/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Platform",
+      "value": "MediaTek Helio G99",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-go/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery",
+      "value": "8000 mAh",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-go/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi",
+      "value": "Wi-Fi 5 (802.11ac), 802.11a/b/g/n/; WLAN 2.4G/WLAN 5.1G/WLAN 5.8G",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-go/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "BT5.2; Supports SBC、AAC; Supports aptX HD、LDAC、aptX",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-go/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Ports",
+      "value": "USB Type-C",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-go/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Audio Device Ports",
+      "value": "Type-C",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-go/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Location Technology",
+      "value": "GPS (L1), BEIDOU (B1I), GLONASS (G1), GALILEO (E1), WLAN positioning",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-go/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Unlocking Method",
+      "value": "Face unlock",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-go/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Sensors",
+      "value": "Geomagnetic sensor; Light sensor; Acceleration sensor; Gyroscope; Hall sensor",
+      "unit": "",
+      "condition": "UK manufacturer model reference; enumerated storage/RAM options are options, not an exact configuration.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-go/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear camera",
+      "value": "8MP",
+      "unit": "",
+      "condition": "UK manufacturer reference",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-go/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front camera",
+      "value": "8MP",
+      "unit": "",
+      "condition": "UK manufacturer reference",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-go/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear video",
+      "value": "1080p/720p30fps",
+      "unit": "",
+      "condition": "UK manufacturer reference",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-go/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front video",
+      "value": "1080p/720p30fps",
+      "unit": "",
+      "condition": "UK manufacturer reference",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-go/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear EIS",
+      "value": "Supported",
+      "unit": "",
+      "condition": "UK manufacturer reference",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-go/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front EIS",
+      "value": "Supported",
+      "unit": "",
+      "condition": "UK manufacturer reference",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-go/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Charging",
+      "value": "33W SUPERVOOC",
+      "unit": "",
+      "condition": "UK manufacturer reference",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-go/specs",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia-specific MPN/GTIN",
+    "Latvia retail configuration and package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.oneplus.com/uk/oneplus-pad-go/specs",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible official technical content read; structured facts retained"
+    }
+  ],
+  "research_lane": "tablets"
+}

@@ -1,0 +1,335 @@
+{
+  "id": "xiaomi-redmi-pad-se",
+  "brand": "Xiaomi",
+  "model": "Redmi Pad SE",
+  "model_family": "Redmi Pad SE",
+  "category": "Tablets",
+  "scope": "Global manufacturer model reference. Explicit RAM/storage options remain options. Not an exact Latvia SKU; retail package and radio availability vary.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer model source checked; Latvia SKU needs matching",
+  "source_name": "Xiaomi Redmi Pad SE technical specifications",
+  "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Chipset",
+      "value": "Snapdragon® 680 Mobile Platform",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Processor / detail 2",
+      "value": "6nm Process Technology",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Processor / CPU",
+      "value": "8 cores, up to 2.4GHz",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Processor / GPU",
+      "value": "Qualcomm® Adreno™",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Storage & RAM / detail 3",
+      "value": "LPDDR4X + eMMC 5.1",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Storage & RAM / RAM and ROM",
+      "value": "4GB+128GB / 6GB+128GB / 8GB+128GB",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Storage & RAM / Supports expandable storage",
+      "value": "Up to 1TB",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / detail 4",
+      "value": "11\" FHD+ display",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Resolution",
+      "value": "1920 x 1200, 207ppi",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Refresh rate",
+      "value": "up to 90Hz",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Brightness",
+      "value": "400 nits (typ)",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / detail 5",
+      "value": "TÜV Rheinland Low Blue Light Certification (Software Solution)",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / detail 6",
+      "value": "TÜV Rheinland Flicker Free Certification",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Touch sampling rate",
+      "value": "up to 180Hz",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Screen-to-body ratio",
+      "value": "84.4%",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Contrast ratio",
+      "value": "1500:1",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Color gamut",
+      "value": "70% NTSC",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Color depth",
+      "value": "8-bit, 16.7 million colors",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear camera / detail 7",
+      "value": "8MP rear camera",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear camera / detail 8",
+      "value": "f/2.0, 1.12μm pixel size",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear video recording / detail 9",
+      "value": "1080P 1920x1080 30fps",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear video recording / detail 10",
+      "value": "720P 1280x720 30fps",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front camera / detail 11",
+      "value": "5MP front camera",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front camera / detail 12",
+      "value": "f/2.2, 1.12μm pixel size",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front video recording / detail 13",
+      "value": "1080P 1920x1080 30fps",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front video recording / detail 14",
+      "value": "720P 1280x720 30fps",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery & Charging / detail 15",
+      "value": "8000mAh (typ)",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery & Charging / detail 16",
+      "value": "Supports 10W charging",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery & Charging / detail 17",
+      "value": "USB Type-C",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Security / detail 18",
+      "value": "AI face unlock",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Network & Connectivity / Wi-Fi",
+      "value": "2.4GHz | 5GHz",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Network & Connectivity / detail 19",
+      "value": "Bluetooth 5.0",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Audio / detail 20",
+      "value": "Quad speakers",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Audio / detail 21",
+      "value": "Dolby Atmos® supported",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Audio / detail 22",
+      "value": "Hi-Res Audio",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Audio / detail 23",
+      "value": "3.5mm headphone jack",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Sensors / detail 24",
+      "value": "Virtual ambient light sensor | Accelerometer | Hall sensor",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Operating system",
+      "value": "MIUI Pad 14 based on Android 13",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia-specific MPN/GTIN",
+    "Latvia retail configuration and package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/redmi-pad-se/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible official technical content read; structured facts retained"
+    }
+  ],
+  "research_lane": "tablets"
+}

@@ -1,0 +1,308 @@
+{
+  "id": "xiaomi-tv-s-mini-led-85-2026",
+  "brand": "Xiaomi",
+  "model": "Xiaomi TV S Mini LED 85 2026",
+  "category": "Televisions",
+  "scope": "Exact marketed screen-size reference on Xiaomi Global. Regional MPN/GTIN and Latvia SKU unresolved; no EU availability assertion.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Xiaomi TV S Mini LED 85 2026 specifications — Xiaomi Global",
+  "source_url": "https://www.mi.com/global/product/xiaomi-tv-s-mini-led-85-2026/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Display type",
+      "value": "QD-Mini LED",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Peak brightness",
+      "value": "Up to 1200 nits",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Resolution",
+      "value": "4K, 3,840 x 2,160",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Viewing angle",
+      "value": "178°(H)/ 178°(V)",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Refresh rate",
+      "value": "144Hz",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Colour gamut",
+      "value": "DCI-P3 94% (Typ.)",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "MEMC",
+      "value": "4K 120Hz",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Speaker",
+      "value": "2 × 15W",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "CPU",
+      "value": "Quad cortex A73",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "GPU",
+      "value": "Mali-G52 (2EE) MC1",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "RAM",
+      "value": "3GB",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "ROM",
+      "value": "32GB",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Size",
+      "value": "85\"",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Stand configuration",
+      "value": "Double",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Colour",
+      "value": "Dark Gray",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Dimensions including base (L × W × H)",
+      "value": "1890 x 413 x 1154mm",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Dimensions not including base (L × W × H)",
+      "value": "1890 x 84 x 1083mm",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Packing size (L × W × H)",
+      "value": "2030 x 188 x 1200mm",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Base width",
+      "value": "1667/635mm",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Base thickness",
+      "value": "413mm",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Wall mount",
+      "value": "600 x400mm",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Weight including base",
+      "value": "approx. 33.4kg",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Weight not including base",
+      "value": "approx. 32.5kg",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Packing weight",
+      "value": "45kg",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Frame",
+      "value": "Metal+Plastic",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Stand material",
+      "value": "Plastic",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Wi-Fi",
+      "value": "Wi-Fi 6, dual-band 2.4GHz/5GHz",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Ethernet (Lan)",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Optical Digital Audio Out",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "3.5mm headphone jack",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "CI+ Slot",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Broadcasting system",
+      "value": "DVB-T2+C/DVB-S2",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Power",
+      "value": "430W",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Voltage",
+      "value": "200-240V～50/60Hz",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Operating temperature",
+      "value": "0°C to 40°C",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Storage temperature",
+      "value": "-15°C to +45°C",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Humidity",
+      "value": "20% to 80%",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Relative humidity",
+      "value": "<80%",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Standby power",
+      "value": "≤0.5W",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Supported HDR / picture modes",
+      "value": "Supports Dolby Vision®, HDR10+, HLG, Filmmaker",
+      "unit": "",
+      "condition": "Requires compatible content; does not establish speaker driver/channel layout."
+    },
+    {
+      "label": "Supported audio formats",
+      "value": "Supports Dolby Atmos®",
+      "unit": "",
+      "condition": "Requires compatible content; does not establish speaker driver/channel layout."
+    },
+    {
+      "label": "Smart capability",
+      "value": "Google Assistant built-in",
+      "unit": "",
+      "condition": "Country, language and compatible-app/device restrictions apply."
+    },
+    {
+      "label": "Smart capability",
+      "value": "Google Cast",
+      "unit": "",
+      "condition": "Country, language and compatible-app/device restrictions apply."
+    },
+    {
+      "label": "Smart capability",
+      "value": "Supports Miracast",
+      "unit": "",
+      "condition": "Country, language and compatible-app/device restrictions apply."
+    },
+    {
+      "label": "Smart capability",
+      "value": "Apple AirPlay",
+      "unit": "",
+      "condition": "Country, language and compatible-app/device restrictions apply."
+    },
+    {
+      "label": "Bluetooth version",
+      "value": "5.2",
+      "unit": "",
+      "condition": "May vary by market."
+    }
+  ],
+  "missing_fields": [
+    "Regional model code / MPN",
+    "GTIN",
+    "Latvia SKU and tuner confirmation",
+    "EU energy product information sheet"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/xiaomi-tv-s-mini-led-85-2026/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "HTTP 200; exact Product structured title and paired specification rows read."
+    }
+  ],
+  "research_lane": "televisions"
+}

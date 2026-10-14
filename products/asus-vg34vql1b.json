@@ -1,0 +1,434 @@
+{
+  "id": "asus-vg34vql1b",
+  "brand": "Asus",
+  "model": "VG34VQL1B",
+  "category": "Monitors",
+  "scope": "ASUS global exact-model technical specification reference; Latvian stocked regional suffix and EAN unresolved.",
+  "identifiers": [
+    "VG34VQL1B"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "TUF Gaming VG34VQL1B - Tech Specs｜Monitors｜ASUS Global",
+  "source_url": "https://www.asus.com/displays-desktops/monitors/tuf-gaming/tuf-gaming-vg34vql1b/techspec/",
+  "tele2_url": "https://www.tele2.lv/monitori/asus-vg34vql1b-34inch/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Panel Size (inch)",
+      "value": "34",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Aspect Ratio",
+      "value": "21:9",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Display Viewing Area (H x V)",
+      "value": "797.2 x 333.7 mm",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Display Surface",
+      "value": "Anti-Glare",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Backlight Type",
+      "value": "LED",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Panel Type",
+      "value": "VA",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Viewing Angle (CR≧10, H/V)",
+      "value": "178°/ 178°",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Curvature",
+      "value": "1500R",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Pixel Pitch",
+      "value": "0.2325mm",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Resolution",
+      "value": "3440x1440",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Color Space (sRGB)",
+      "value": "120%",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Color Space (DCI-P3)",
+      "value": "90%",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Brightness (HDR, Peak)",
+      "value": "550 cd/㎡",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Brightness (Typ.)",
+      "value": "550cd/㎡",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Contrast Ratio (Typ.)",
+      "value": "4000:1",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Display Colors",
+      "value": "16.7M",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Response Time",
+      "value": "1ms MPRT",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Refresh Rate (Max)",
+      "value": "165Hz",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "HDR (High Dynamic Range) Support",
+      "value": "HDR10",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Flicker-free",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Trace Free Technology",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "GameVisual",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Color Temp. Selection",
+      "value": "Yes (4 modes)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "GamePlus",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "PIP / PBP Technology",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "HDCP",
+      "value": "Yes, 2.2",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Extreme Low Motion Blur",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "VRR Technology",
+      "value": "Yes (Adaptive-Sync)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "GameFast Input technology",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Dark Boost",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Shadow Boost",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Low Blue Light",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Multiple HDR Mode",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Speaker",
+      "value": "Yes(2Wx2)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "DisplayPort 1.4 x 2",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "HDMI(v2.0) x 2",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "USB Hub",
+      "value": "4x USB 3.2 Gen 1 Type-A",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Earphone Jack",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Digital Signal Frequency",
+      "value": "HDMI:30~160KHz (H) / 48~100Hz (V)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "DisplayPort:30~260KHz(H) / 48~165 Hz(V)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Analog Signal Frequency",
+      "value": "NA",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Power Consumption",
+      "value": "35W",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Power Saving Mode",
+      "value": "<0.3W",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Power Off Mode",
+      "value": "<0.3W",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Voltage",
+      "value": "100-240V, 50/60Hz",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Tilt",
+      "value": "Yes (+15° ~ -5°)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Swivel",
+      "value": "Yes (+10° ~ -10°)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Height Adjustment",
+      "value": "0~130mm",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "VESA Wall Mounting",
+      "value": "100x100mm",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Kensington Lock",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Phys. Dimension (W x H x D)",
+      "value": "80.90 x 54.60 x 27.40 cm (31.85\" x 21.50\" x 10.79\")",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Phys. Dimension without Stand (W x H x D)",
+      "value": "80.90 x 36.60 x 10.50 cm (31.85\" x 14.41\" x 4.13\")",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Box Dimension (W x H x D)",
+      "value": "98.0 x 51.6 x 22.6 cm (38.58\" x 20.31\" x 8.90\")",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Net Weight",
+      "value": "9.01 kg (19.86 lbs)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Net Weight without Stand",
+      "value": "6.6 kg (14.55 lbs)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Gross Weight",
+      "value": "11.74 kg (25.88 lbs)",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "Warranty Card",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "USB 3.0 cable",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "Quick start guide",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "Power cord",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "L-shaped Screwdriver",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "HDMI cable",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "DisplayPort cable",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "AMD FreeSync Premium",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "VESA DisplayHDR 400",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "TÜV Low Blue Light",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    },
+    {
+      "label": "Technical specification entry",
+      "value": "TÜV Flicker-free",
+      "unit": "",
+      "condition": "Global manufacturer reference; explicit typical/maximum and weight/dimension wording retained"
+    }
+  ],
+  "missing_fields": [
+    "Latvia stocked unit EAN reconciliation",
+    "Manual input-specific refresh limits and test footnotes where unresolved"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.asus.com/displays-desktops/monitors/tuf-gaming/tuf-gaming-vg34vql1b/techspec/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "HTTP 200; exact model title and technical specification block read"
+    }
+  ],
+  "research_lane": "monitors"
+}

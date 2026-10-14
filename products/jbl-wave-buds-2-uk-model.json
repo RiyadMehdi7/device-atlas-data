@@ -1,0 +1,302 @@
+{
+  "id": "jbl-wave-buds-2-uk-model",
+  "brand": "JBL",
+  "model": "Wave Buds 2",
+  "category": "Earbuds",
+  "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "JBL Wave Buds 2 | True Wireless Noise Cancelling Earbuds",
+  "source_url": "https://uk.jbl.com/WAVE-BUDS-2.html",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Activity",
+      "value": "Leisure",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Driver size (mm)",
+      "value": "8",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Noise Cancelling",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Noise Cancelling Type",
+      "value": "Active Noise Cancelling",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Number of Microphones",
+      "value": "4",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Driver sensitivity at 1kHz/1mW (dB)",
+      "value": "110",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Dynamic frequency response range (Hz)",
+      "value": "20 Hz - 20 kHz",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Impedance (ohms)",
+      "value": "16",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Charging Case Weight (g)",
+      "value": "35",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Earpiece Weight (g)",
+      "value": "4.5",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Weight (g)",
+      "value": "44",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Connection",
+      "value": "Wireless",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Connectivity Technology",
+      "value": "Bluetooth",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth profiles",
+      "value": "A2DP V1.4, AVRCP V1.6.2, HFP V1.8",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth frequency",
+      "value": "2.4 GHz – 2.4835 GHz",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth transmitted modulation",
+      "value": "π/4-DQPSK, 8DPSK",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth transmitter power",
+      "value": "<13 dBm (EIRP)",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth version",
+      "value": "5.3",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Charging time (hours from empty)",
+      "value": "2",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Maximum music play time with ANC off (hours)",
+      "value": "10",
+      "unit": "",
+      "condition": "Maximum music play time with ANC off (hours)"
+    },
+    {
+      "label": "Maximum music play time with ANC on (hours)",
+      "value": "8",
+      "unit": "",
+      "condition": "Maximum music play time with ANC on (hours)"
+    },
+    {
+      "label": "Maximum talk time (hours)",
+      "value": "6",
+      "unit": "",
+      "condition": "Manufacturer maximum; volume/test settings not specified in table"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Charging cable",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Speed charge",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Active Noise Cancelling",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Ambient Aware",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Built-in Microphone",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Charging case",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Ear-bud",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "In-ear",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "JBL Headphone App",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "JBL Pure Bass Sound",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Multi-Point Connection",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Rechargable battery",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "TalkThru",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer maximum; volume/test settings not specified in table"
+    },
+    {
+      "label": "Touch Control",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "True Wireless",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Voice Aware",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Water Resistant",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Wireless",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "IP Code",
+      "value": "IP54",
+      "unit": "",
+      "condition": "Earbuds; case protection not assumed"
+    },
+    {
+      "label": "Earbud battery",
+      "value": "Lithium-ion battery (49 mAh/ 3.85 V)",
+      "unit": "",
+      "condition": "Per earbud",
+      "source_url": "https://uk.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw550dd34b/pdfs/JBL_Wave_Buds_2_Specsheet_EN.pdf"
+    },
+    {
+      "label": "Charging case battery",
+      "value": "Lithium-ion battery (550 mAh/ 3.8 V)",
+      "unit": "",
+      "condition": "Charging case",
+      "source_url": "https://uk.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw550dd34b/pdfs/JBL_Wave_Buds_2_Specsheet_EN.pdf"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU/GTIN matching",
+    "Case-supplied playback ANC/test conditions not reconciled; ambiguous table total omitted"
+  ],
+  "source_pages": [
+    {
+      "url": "https://uk.jbl.com/WAVE-BUDS-2.html",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Specification table read; conflicting or ambiguous playback totals omitted"
+    },
+    {
+      "url": "https://uk.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw550dd34b/pdfs/JBL_Wave_Buds_2_Specsheet_EN.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "web click official PDF",
+      "notes": "Official spec sheet read; earbud and charging-case capacity fields kept separate"
+    }
+  ],
+  "research_lane": "audio"
+}

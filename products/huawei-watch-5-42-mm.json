@@ -1,0 +1,127 @@
+{
+  "id": "huawei-watch-5-42-mm",
+  "brand": "Huawei",
+  "model": "WATCH 5 42 mm",
+  "category": "Smartwatches",
+  "scope": "Global manufacturer WATCH 5 42 mm reference. Only values assigned to this size column or common model sections included. Battery is manufacturer lab claim; regional services and exact Latvia SKU unresolved. Observed Tele2 42mm Dawnlight listing explicitly offers damaged packaging; manufacturer reference does not establish retail package condition.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Huawei WATCH 5 42 mm specifications",
+  "source_url": "https://consumer.huawei.com/en/wearables/watch-5/specs/",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/watch-5-42-mm-dawnlight-bojats-iepakojum/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Dimensions",
+      "value": "42 mm × 42.5 mm × 10.5 mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Wrist Size",
+      "value": "120-190 mm (Beige: 120~180 mm)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Weight",
+      "value": "Approx. 51 g (excluding the strap) Approx. 48 g (excluding the strap)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Display",
+      "value": "1.38 inches LTPO 2.0 AMOLED color screen 466 × 466 pixels, PPI 338 3000-nit peak brightness",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Watch Case",
+      "value": "Front case: 904L stainless steel Rear case: Ceramics Front case: 316L stainless steel Rear case: High-performance fiber-reinforced composites",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Acceleration sensor | Gyroscope sensor | Compass sensor | Optical heart rate sensor 6.0 | Barometer sensor | Ambient light sensor | Body temperature sensor | ECG sensor | Depth sensor | X-TAP sensor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Button",
+      "value": "Up button (Rotating Crown) + Down button + HUAWEI X-TAP",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Charging Port",
+      "value": "Wireless charging",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "System Requirements",
+      "value": "Android 9.0 or later | iOS 13.0 or later",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Waterproof Level",
+      "value": "5 ATM: This product complies with 5 ATM-rated water resistance under the ISO 22810:2010 standard, which indicates that the device can withstand up to 50 meters of static water pressure for 10 minutes, but does not mean that the product is water-resistant in water that is 50-meter deep.",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Connectivity",
+      "value": "Supported | BT 5.2, BR + BLE | L1: GPS + GLONASS + GALILEO + BeiDou + QZSS | L5: GPS + GALILEO + BeiDou + QZSS | Wi-Fi 6: 2.4 GHz + 5 GHz | IEEE 802.11a/b/g/n/ac/ax 1 × 1",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Speaker",
+      "value": "Supported",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Microphone",
+      "value": "Supported",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Environment",
+      "value": "0°C to 35°C | –20°C to +55°C",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Charging",
+      "value": "5V-10V DC/2A MAX",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Battery Life",
+      "value": "3 days for typical usage; 2 days with AOD on 7 days max. battery life; 5 days for typical usage; 3 days with AOD on",
+      "unit": "",
+      "condition": "Manufacturer specification; battery values are laboratory claims, actual use varies"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU / GTIN matching",
+    "Regional app and payment availability",
+    "Tele2 damaged-packaging offer condition and included accessories"
+  ],
+  "source_pages": [
+    {
+      "url": "https://consumer.huawei.com/en/wearables/watch-5/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Manufacturer technical specification content parsed; extracted factual fields only"
+    }
+  ],
+  "research_lane": "wearables"
+}

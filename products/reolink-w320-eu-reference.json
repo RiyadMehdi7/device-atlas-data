@@ -1,0 +1,153 @@
+{
+  "id": "reolink-w320-eu-reference",
+  "brand": "Reolink",
+  "model": "W320",
+  "category": "Cameras",
+  "scope": "Manufacturer reference from public web-open content. DK/BE regional scope where indicated; global W330 reference. Exact Latvia hardware, model code and included kit require matching. NVS16 applies only to N6MB01. Conflicting rows withheld.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Reolink W320 official specifications",
+  "source_url": "https://reolink.com/be/product/w320/",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/reolink-w3201/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Sensor",
+      "value": "1/2.7-inch CMOS",
+      "unit": ""
+    },
+    {
+      "label": "Resolution",
+      "value": "2560 × 1920, 5MP at 20fps",
+      "unit": ""
+    },
+    {
+      "label": "Lens",
+      "value": "4mm fixed, F2.0",
+      "unit": ""
+    },
+    {
+      "label": "Main frame rate",
+      "value": "2–20fps; default 20",
+      "unit": ""
+    },
+    {
+      "label": "Substream frame rate",
+      "value": "4–15fps; default 10",
+      "unit": ""
+    },
+    {
+      "label": "DC power",
+      "value": "12V/1A",
+      "unit": ""
+    },
+    {
+      "label": "Ethernet",
+      "value": "10/100Mbps RJ45",
+      "unit": ""
+    },
+    {
+      "label": "Reset button",
+      "value": "Supported",
+      "unit": ""
+    },
+    {
+      "label": "Wi-Fi standard",
+      "value": "IEEE802.11ac/a/b/g/n",
+      "unit": ""
+    },
+    {
+      "label": "Wi-Fi bands",
+      "value": "2.4/5GHz",
+      "unit": ""
+    },
+    {
+      "label": "Wi-Fi security",
+      "value": "WPA/WPA2",
+      "unit": ""
+    },
+    {
+      "label": "Browsers",
+      "value": "Edge, Chrome, Firefox, Safari",
+      "unit": ""
+    },
+    {
+      "label": "Operating systems",
+      "value": "Windows, macOS, iOS, Android",
+      "unit": ""
+    },
+    {
+      "label": "Maximum users",
+      "value": "20; one admin plus 19 users",
+      "unit": ""
+    },
+    {
+      "label": "Maximum streams",
+      "value": "12; two main plus 10 substreams",
+      "unit": ""
+    },
+    {
+      "label": "Detection",
+      "value": "Motion, person, vehicle, animal",
+      "unit": ""
+    },
+    {
+      "label": "Recording modes",
+      "value": "Motion-triggered, scheduled, continuous",
+      "unit": ""
+    },
+    {
+      "label": "Time lapse",
+      "value": "Supported",
+      "unit": ""
+    },
+    {
+      "label": "Voice assistant",
+      "value": "Google Assistant",
+      "unit": ""
+    },
+    {
+      "label": "Operating temperature",
+      "value": "-10°C to +55°C",
+      "unit": ""
+    },
+    {
+      "label": "Operating humidity",
+      "value": "20–85%",
+      "unit": ""
+    },
+    {
+      "label": "Ingress protection",
+      "value": "IP67",
+      "unit": ""
+    },
+    {
+      "label": "Dimensions",
+      "value": "Φ67 × 186mm",
+      "unit": ""
+    },
+    {
+      "label": "Weight",
+      "value": "415g",
+      "unit": ""
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU/GTIN and hardware revision",
+    "microSD conflict: table256GB versus overview/FAQ512GB",
+    "IR range conflict: overview100ft versus table40ft",
+    "Audio table contains slash whereas overview discusses audio; unresolved",
+    "Overview mentions RLC-510WA; W320 regional/hardware identity must be reconciled"
+  ],
+  "source_pages": [
+    {
+      "url": "https://reolink.com/be/product/w320/",
+      "fetched_at": "2026-10-14",
+      "method": "web open; public manufacturer page content read",
+      "notes": "Direct HTTP403; ordinary web open succeeded; no bypass or credentials. Technical rows read, source contradictions withheld"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

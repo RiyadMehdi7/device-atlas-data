@@ -1,0 +1,168 @@
+{
+  "id": "dell-pv14255-platform",
+  "brand": "Dell",
+  "model": "Dell Pro 14 Essential PV14255",
+  "category": "Laptops",
+  "scope": "Exact platform/model name observed in current Tele2 PV14255 listing. Manufacturer setup/specification manual keeps all configurable options; Tele2 selected RAM/storage/display/battery and exact part number need independently matching.",
+  "identifiers": [
+    "PV14255"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Dell Pro 14 Essential PV14255 Owner's Manual",
+  "source_url": "https://dl.dell.com/content/manual42309997-dell-pro-14-essential-pv14255-setup-and-specifications.pdf?language=en-us",
+  "tele2_url": "https://www.tele2.lv/datori/dell-pro-14-essential-pv14255-ssd-512gbr0/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Dimensions and weight",
+      "value": "Description Plastic chassis Aluminum chassis ; Front height 16.90 mm (0.66 in.) 15.86 mm (0.62 in.) ; Rear height 18.07 mm ( 0.71 in.) 17.31 mm (0.68 in.) ; Maximum height 19.90 mm (0.78 in.) 18.90 mm (0.74 in.) ; Width 314 mm (12.36 in.) 314 mm (12.36 in.) ; Depth 226.15 mm (8.90 in.) 226.15 mm (8.90 in.) ; Weight ● Minimum: 1.54 kg (3.39 lb) ● Minimum: 1.56 kg (3.43 lb)",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Processor",
+      "value": "Description Option one Option two Option three Option four ; Processor type AMD Ryzen AI 7 350 AMD Ryzen AI 5 330 AMD Ryzen 7 250 AMD Ryzen 5 220 ; Processor wattage 15 W 15 W 20 W 15 W ; Processor total core 8 4 8 6 ; Processor total thread 16 8 16 12 ; Processor speed Up to 5.00 GHz Up to 4.50 GHz Up to 5.10 GHz Up to 4.90 GHz ; Description Option one Option two Option three Option four ; Processor cache ● L2 Cache: 8 MB ● L2 Cache: 4 MB ● L2 Cache: 8 MB ● L2 Cache: 6 MB ; ● L3 Cache: 16 MB ● L3 Cache: 8 MB ● L3 Cache: 16 MB ● L3 Cache: 16 MB ; Integrated graphics AMD Radeon 860M AMD Radeon 820M AMD Radeon 780M AMD Radeon 740M ; Graphics Graphics Graphics Graphics",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Chipset",
+      "value": "Description Values ; Chipset Integrated with the processor ; Processor AMD Ryzen AI 7 350/AMD Ryzen AI 5 330/AMD Ryzen 7 ; 250/AMD Ryzen 5 220 ; DRAM bus width 128-bit ; Flash EPROM 32 MB ; PCIe bus Up to Gen4 ; ● Windows 11 Home ; ● Windows 11 Pro ; ● Windows 11 Education – National Academic ; ● Ubuntu Linux 24.04.2 LTS ; ● Windows 11 Home NextGen ; ● Windows 11 Pro NextGen ; ● Ubuntu Linux 24.04.2 LTS",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Memory specifications",
+      "value": "Description Values ; Memory slots Two SODIMM slots ; Memory type Dual-channel DDR5 ; Memory speed 5600 MT/s ; Maximum memory configuration 64 GB ; Description Values ; Minimum memory configuration 8 GB ; Memory size per slot 8 GB or 16 GB or 32 GB ; Memory configurations supported ● 8 GB: 1 x 8 GB, DDR5, 5600 MT/s, single-channel ; ● 16 GB: 1 x 16 GB, DDR5, 5600 MT/s, single-channel ; ● 16 GB: 2 x 8 GB, DDR5, 5600 MT/s, dual-channel ; ● 24 GB: 1 x 8 GB + 1 x 16 GB, DDR5, 5600 MT/s, dual- ; channel ; ● 32 GB: 1 x 32 GB, DDR5, 5600 MT/s, single-channel ; ● 32 GB: 2 x 16 GB, DDR5, 5600 MT/s, dual-channel ; ● 64 GB: 2 x 32 GB, DDR5, 5600 MT/s, dual-channel",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "External ports and slots",
+      "value": "Description Values ; USB ports ● Two USB 3.2 Gen 1 (5 Gbps) ports ; ● One USB 3.2 Gen 2 (10 Gbps) Type-C port with ; DisplayPort Alt mode 1.4/Power Delivery ; Audio port One headset (headphone and microphone combo) port ; Video port(s) One HDMI 1.4 port ; Media-card reader One SD-card slot ; Power-adapter port One power-adapter port (4.50 mm standard plug) ; Security-cable slot One wedge-shaped lock slot",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Internal slots",
+      "value": "Description Values ; M.2 ● One M.2 2230 slot for solid state drive ; ● One M.2 2230 slot for Wi-Fi and Bluetooth combo card ; types of M.2 cards, search Dell Support Site.",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Wireless module specifications",
+      "value": "Description Plastic chassis Aluminum chassis ; Model number Realtek Wi-Fi 6 RTL8852BE Realtek Wi-Fi 6E RTL8852CE ; Transfer rate 1201 Mbps 2402 Mbps ; Frequency bands supported 2.4 GHz/5 GHz 2.4 GHz/5 GHz/6 GHz ; Wireless standards ● Wi-Fi 802.11a/b/g ● Wi-Fi 802.11a/b/g ; ● Wi-Fi 4 (Wi-Fi 802.11n) ● Wi-Fi 4 (Wi-Fi 802.11n) ; ● Wi-Fi 5 (WiFi 802.11ac) ● Wi-Fi 5 (WiFi 802.11ac) ; ● Wi-Fi 6 (WiFi 802.11ax) ● Wi-Fi 6E (WiFi 802.11ax) ; Encryption ● 64-bit/128-bit WEP ● 64-bit/128-bit WEP ; ● AES-CCMP ● AES-CCMP ; ● TKIP ● TKIP ; Bluetooth wireless card Bluetooth 5.3 Bluetooth 5.3",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Audio specifications",
+      "value": "Description Values ; Audio controller Realtek ALC3204 ; Stereo conversion Supported ; Internal audio interface High Definition Audio (HDA) inteface ; External audio interface One headset (headphone and microphone combo) port ; Number of speakers Two ; Internal-speaker amplifier Supported (Audio codec integrated) ; External volume controls Keyboard shortcut controls ; Average 2Wx2=4W ; Peak 2.5 W x 2 = 5 W ; Microphone ● Plastic chassis: Single integrated microphone ; ● Aluminum chassis: Digital-array microphones",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Storage specifications",
+      "value": "Storage type Interface type Capacity ; M.2 2230 solid state drive, Class 25 Gen4 PCIe NVMe 512 GB/1 TB/2 TB ; M.2 2230 solid state drive, Class 35 Gen4 PCIe NVMe 256 GB",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Media-card reader specifications",
+      "value": "Description Values ; Media-card slot type One SD-card slot ; Media-cards supported ● Secure Digital (SD) ; ● Secure Digital High Capacity (SDHC) ; ● Secure Digital Extended Capacity (SDXC)",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Keyboard specifications",
+      "value": "Description Values ; Keyboard type ● Backlit Copilot key keyboard with fingerprint reader ; ● Non-backlit Copilot key keyboard with fingerprint reader ; Keyboard layout QWERTY ; Number of keys ● 79 keys (Arabic, English International, English US, French ; Canadian) ; ● 80 keys (Belgian, Bulgarian, English UK, French European, ; German, Italian, Nordic, Spanish, Swiss European) ; ● 83 keys (Japanese) ; ● 81 keys (Brazilian) ; Key pitch Horizontal = 19.05 mm ; Vertical = 18.05 mm ; Keyboard shortcuts Some keys on your keyboard have two symbols on them. ; These keys can be used to type alternate characters or to ; perform secondary functions. ; Description Values ; ● To type the alternate character, press Shift and the ; desired key. ; ● To perform secondary functions, press Fn and the desired ; key. ; function keys (F1–F12) by changing Function Key ; Behavior in the BIOS Setup program. ; computer, pressing the Copilot key launches Windows ; search. For more information about Copilot in Windows, ; see the Knowledge Base Resource at the Dell Support ; site.",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Camera specifications",
+      "value": "Description Plastic chassis Aluminum chassis ; Number of cameras One One ; Camera type HD RGB camera FHD RGB camera ; Camera location Front camera Front camera ; Camera sensor type CMOS sensor technology CMOS sensor technology ; Still image 0.92 megapixel 2.07 megapixel ; Video 1280 x 720 (HD) at 30 fps 1920 x 1080 (FHD) at 30 fps ; Diagonal viewing angle 75 degrees 82.20 degrees",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Touchpad specifications",
+      "value": "Description Values ; Horizontal >= 300 dpi ; Vertical >= 300 dpi ; Horizontal 115 mm (4.52 in.) ; Vertical 80 mm (3.14 in.) ; Touchpad gestures For more information about the touchpad gestures that are ; available on: ; ● Windows, search Microsoft Support Site. ; ● Ubuntu, search Ubuntu Support Site.",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Power-adapter specifications",
+      "value": "Description Values ; Type 65 W ; External diameter 4.50 mm ; Internal diameter 2.90 mm ; Height 29.50 mm ; Width 47.00 mm ; Depth 108.00 mm ; Power-adapter weight (maximum) 0.265 kg ; Input voltage 100 VAC–240 VAC ; Input frequency 50 Hz–60 Hz ; Input current (maximum) 1.60 A/1.70 A ; Output current (continuous) 3.34 A ; Rated output voltage 19.50 VDC ; Description Values ; Operating 0°C to 40°C (32°F to 104°F) ; Storage -40°C to 70°C (-40°F to 158°F)",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Battery specifications",
+      "value": "Description Plastic chassis Aluminum chassis ; Option one Option two Option one Option two ; Battery type 3-cell, 41 Wh, 4-cell, 54 Wh, 4-cell, 54 Wh, 4-cell, 64 Wh, ; Lithium Ion Polymer, Lithium Ion Polymer, Lithium Ion Polymer, Lithium Ion Polymer, ; ExpressCharge, ExpressCharge ExpressCharge ExpressCharge ; ExpressCharge Boost ; Battery voltage 11.25 VDC 15 VDC 15 VDC 15.20 VDC ; Battery weight 0.17 kg (0.39 lb) 0.24 kg (0.53 lb) 0.24 kg (0.53 lb) 0.26 kg (0.57 lb) ; Description Plastic chassis Aluminum chassis ; Option one Option two Option one Option two ; Height 5.75 mm (0.22 in.) 5.75 mm (0.22 in.) 5.75 mm (0.22 in.) 5.75 mm (0.22 in.) ; Width 206.40 mm (8.12 in.) 271.90 mm (10.66 in.) 271.90 mm (10.66 in.) 271.90 mm (10.66 in.) ; Depth 82 mm (3.22 in.) 82 mm (3.22 in.) 82 mm (3.22 in.) 82 mm (3.22 in.) ; Operating ● Charge: 0°C to ● Charge: 0°C to ● Charge: 0°C to ● Charge: 0°C to ; 45°C (32°F to 45°C (32°F to 45°C (32°F to 45°C (32°F to ; 113°F) 113°F) 113°F) 113°F) ; ● Discharge: 0°C to ● Discharge: 0°C to ● Discharge: 0°C to ● Discharge: 0°C to ; 70°C (32°F to 70°C (32°F to 70°C (32°F to 70°C (32°F to ; 158°F) 158°F) 158°F) 158°F) ; Storage –20°C to 60°C (-4°F –20°C to 60°C (-4°F –20°C to 60°C (-4°F –20°C to 60°C (-4°F ; to 140°F) to 140°F) to 140°F) to 140°F) ; Battery operating time Varies depending Varies depending on Varies depending on Varies depending on ; on operating operating conditions operating conditions and operating conditions and ; conditions and can and can significantly can significantly reduce can significantly reduce ; significantly reduce reduce under under certain power- under certain power- ; under certain power- certain power-intensive intensive conditions. intensive conditions. ; intensive conditions. conditions. ; Battery charging time ● ExpressCharge: 2 ● ExpressCharge: 2 ● ExpressCharge: 2 ● ExpressCharge: 2 ; (approximate) hours hours hours hours ; the charging time, hours (When the hours (When the hours (When the hours (When the ; duration, start and computer is off) computer is off) computer is off) computer is off) ; Coin-cell battery Not supported Not supported Not supported Not supported",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Display specifications",
+      "value": "Description Option one Option two ; Display type 14\" Full High Definition Plus (FHD+), 14\" Quad High Definition Plus (QHD+), ; ComfortView ComfortView Plus ; Touch options Not supported Not supported ; Display-panel technology In-Plane Switching (IPS) with Wide- In-Plane Switching (IPS) with Wide- ; viewing Angle (WVA) viewing Angle (WVA) ; Height 301.59 mm (11.87 in.) 301.59 mm (11.87 in.) ; Width 188.50 mm (7.42 in.) 188.50 mm (7.42 in.) ; Diagonal 355.65 mm (14 in.) 355.65 mm (14 in.) ; Display-panel native resolution 1920 x 1200 2560 x 1600 ; Luminance (typical) 300 nits 300 nits ; Megapixels 2.30 4.09 ; Color gamut 45% NTSC 100% sRGB ; Pixels Per Inch (PPI) 162 216 ; Contrast ratio (minimum) ● 600:1 (minimum) ● 1000:1 (minimum) ; ● 800:1 (typical) ● 1200:1 (typical) ; Response time (maximum) 35 ms 35 ms ; Refresh rate 60 Hz 120 Hz ; Horizontal view angle ● Minimum: +/- 80 degrees ● Minimum: +/- 80 degrees ; ● Typical: +/- 85 degrees ● Typical: +/- 85 degrees ; Vertical view angle ● Minimum: +/- 80 degrees ● Minimum: +/- 80 degrees ; ● Typical: +/- 85 degrees ● Typical: +/- 85 degrees ; Pixel pitch 0.157 x 0.157 mm 0.117 x 0.117 mm ; Power consumption (maximum) 3.68 W 4.80 W ; Anti-glare vs glossy finish Anti-glare Anti-glare",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Fingerprint reader specifications",
+      "value": "Description Option one Option two ; Sensor technology Capacitive Capacitive ; Sensor resolution 500 dpi 508 dpi ; Sensor pixel size 108 mm x 88 mm 108 mm x 88 mm",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "GPU—Integrated",
+      "value": "Controller Memory size Processor ; AMD Radeon Graphics Shared system memory AMD Ryzen 5 220/AMD Ryzen 7 250 ; AMD Radeon 820M Graphics Shared system memory AMD Ryzen AI 5 330 ; AMD Radeon 860M Graphics Shared system memory AMD Ryzen AI 7 350",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Multiple display support matrix",
+      "value": "Graphics Card Direct Graphics Controller Supported external displays Supported external ; Direct Output Mode with computer internal display displays with computer ; on internal display off ; AMD Radeon Graphics Not supported 3 4 ; AMD Radeon 820M Not supported 3 4 ; AMD Radeon 860M Not supported 3 4",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Computer environment",
+      "value": "Description Operating Storage ; Temperature range 0°C to 40°C (32 °F to 104°F) -40°C to 65°C (-40°F to 149°F) ; Description Operating Storage ; Relative humidity (maximum) 90% (non-condensing) 95% (non-condensing) ; Vibration (maximum) * 0.66 GRMS Not Applicable ; Shock (maximum) 140 G† Not Applicable ; Altitude range Not Applicable Not Applicable ; ● Position the display at a comfortable viewing distance between 20 and 28 inches (50 cm and 70 cm) from your eyes. ; ● Blink frequently to moisten your eyes, wet your eyes with water, or apply suitable eye drops. ; ● Take an extended break for 20 minutes every two hours. ; ● Look away from your display, and gaze at a distant object at 20 ft (609.60 cm) away for at least 20 seconds during each ; ● Position the display at a comfortable viewing distance between 20 and 28 inches (50 cm and 70 cm) from your eyes. ; ● Blink frequently to moisten your eyes, wet your eyes with water, or apply suitable eye drops. ; ● Take an extended break for 20 minutes every two hours. ; ● Look away from your display, and gaze at a distant object at 20 ft (609.60 cm) away for at least 20 seconds during each ; Getting help and contacting Dell",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Regulatory Model",
+      "value": "P185G",
+      "unit": "",
+      "condition": "Official manual cover identity for this platform. Regulatory identifier is not an exact configured SKU."
+    },
+    {
+      "label": "Regulatory Type",
+      "value": "P185G004",
+      "unit": "",
+      "condition": "Official manual cover identity for this platform. Regulatory identifier is not an exact configured SKU."
+    }
+  ],
+  "missing_fields": [
+    "Exact Tele2 platform code/retail SKU",
+    "Latvia MPN/GTIN",
+    "Selected processor/RAM/storage/display/battery",
+    "Regional keyboard/adapter/warranty"
+  ],
+  "source_pages": [
+    {
+      "url": "https://dl.dell.com/content/manual42309997-dell-pro-14-essential-pv14255-setup-and-specifications.pdf?language=en-us",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP 200 PDF fetch and pdftotext -layout",
+      "http_status": 200,
+      "content_title": "Dell Pro 14 Essential PV14255 Owner's Manual",
+      "notes": "Official PDF specification chapter read, structured table extraction retained. Repair instructions and playback assertions excluded."
+    }
+  ],
+  "research_lane": "computers"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "roborock-qrevo-edge-5v1-global-reference",
+  "brand": "Roborock",
+  "model": "Qrevo Edge 5V1",
+  "category": "Smart home",
+  "scope": "Global manufacturer model reference, extracted only from named model comparison column or explicitly common model section. Latvia SKU and regional package require matching. F25 devices are wet/dry cleaners, not autonomous robots.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Roborock Qrevo Edge 5V1 official model comparison",
+  "source_url": "https://global.roborock.com/pages/roborock-qrevo-edge-series",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/vacuum-cleaner-robot-q-revoedge5v1-bk-qr/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Robot dimensions",
+      "value": "352 × 352 × 98 mm",
+      "unit": "",
+      "condition": "Explicit Edge 5V1 dimensions"
+    },
+    {
+      "label": "Dock dimensions",
+      "value": "340 × 487 × 521 mm",
+      "unit": "",
+      "condition": "Explicit Edge 5V1 dimensions"
+    },
+    {
+      "label": "Main brush",
+      "value": "DuoDivide Main Brush",
+      "unit": "",
+      "condition": "Common Edge S5A / 5V1 section"
+    },
+    {
+      "label": "Side brush",
+      "value": "FlexiArm Arc Side Brush",
+      "unit": "",
+      "condition": "Common Edge S5A / 5V1 section"
+    },
+    {
+      "label": "Extendable side brush and mop",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Common Edge S5A / 5V1 section"
+    },
+    {
+      "label": "Dock",
+      "value": "Multifunctional Dock 3.0",
+      "unit": "",
+      "condition": "Common Edge S5A / 5V1 section"
+    },
+    {
+      "label": "Hot water mop washing",
+      "value": "75°C",
+      "unit": "",
+      "condition": "Manufacturer internal testing; water at dock dispensers under standard room temperature; actual temperature varies"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU/GTIN",
+    "Electrical rating and battery capacity",
+    "Regional package differences",
+    "Suction value: manufacturer explicitly says varies by country; 18,500Pa from EdgeT/Edge not transferred",
+    "EdgeT AI camera, RetractSense, AdaptiLift and Matter features not transferred to Edge 5V1"
+  ],
+  "source_pages": [
+    {
+      "url": "https://global.roborock.com/pages/roborock-qrevo-edge-series",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP fetch; named model comparison column read",
+      "notes": "Family features not transferred across models; performance conditions preserved"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

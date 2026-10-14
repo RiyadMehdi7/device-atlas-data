@@ -1,0 +1,151 @@
+{
+  "id": "samsung-bar-plus-usb-flash-drive",
+  "brand": "Samsung",
+  "model": "BAR Plus USB Flash Drive",
+  "model_family": "BAR Plus USB Flash Drive",
+  "category": "Accessories",
+  "scope": "Manufacturer current document index, specific revision and capacity matrix. Single model-family reference; capacity/colour options are not separate products. EU GTIN and Tele2 stock unconfirmed.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Samsung BAR Plus USB Flash Drive technical specifications",
+  "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Data_sheet_2024_UFD_BAR_Plus_v1.3.pdf",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Capacity options",
+      "value": "64/128/256/512 GB",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Data_sheet_2024_UFD_BAR_Plus_v1.3.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Interface",
+      "value": "USB 3.x (3.1 Gen 1 / 3.2 Gen 1), 5 Gbps; USB mass storage class",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Data_sheet_2024_UFD_BAR_Plus_v1.3.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions",
+      "value": "40.26 × 15.59 × 11.75 mm",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Data_sheet_2024_UFD_BAR_Plus_v1.3.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Mass",
+      "value": "Approx. 9.6 g",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Data_sheet_2024_UFD_BAR_Plus_v1.3.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Read maximum",
+      "value": "64 GB: 300 MB/s; 128/256/512 GB: 400 MB/s",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Data_sheet_2024_UFD_BAR_Plus_v1.3.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Write maximum",
+      "value": "64 GB: 30 MB/s; 128 GB: 60 MB/s; 256/512 GB: 110 MB/s",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Data_sheet_2024_UFD_BAR_Plus_v1.3.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Warranty",
+      "value": "5 years limited",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Data_sheet_2024_UFD_BAR_Plus_v1.3.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Operating temperature",
+      "value": "0–60 °C",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Data_sheet_2024_UFD_BAR_Plus_v1.3.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Storage temperature",
+      "value": "−10–70 °C",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Data_sheet_2024_UFD_BAR_Plus_v1.3.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Water test",
+      "value": "Up to 72 h at 1 m in 3% NaCl",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Data_sheet_2024_UFD_BAR_Plus_v1.3.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Magnetic test",
+      "value": "15000 gauss, 30 s",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Data_sheet_2024_UFD_BAR_Plus_v1.3.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "X-ray test",
+      "value": "100 mGy, 210 s",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Data_sheet_2024_UFD_BAR_Plus_v1.3.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Shock test",
+      "value": "64/128/256 GB: 1500 G, 6 shocks, 0.5 ms; 512 GB: 50 G, 6 shocks, 11 ms, 3 axes",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Data_sheet_2024_UFD_BAR_Plus_v1.3.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Test scope",
+      "value": "Controlled laboratory tests; replication damage excluded from warranty",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Data_sheet_2024_UFD_BAR_Plus_v1.3.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Capacity convention",
+      "value": "1 GB = 10^9 bytes; usable capacity may be lower",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Data_sheet_2024_UFD_BAR_Plus_v1.3.pdf",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia MPN/GTIN",
+    "Latvia retail package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_Data_sheet_2024_UFD_BAR_Plus_v1.3.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "Official PDF downloaded HTTP 200; pdftotext table read",
+      "notes": "Official source technical content read; factual extraction retained"
+    }
+  ],
+  "research_lane": "accessories"
+}

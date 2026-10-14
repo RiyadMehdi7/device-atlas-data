@@ -1,0 +1,123 @@
+{
+  "id": "sandberg-usb-chat-webcam-1080p-hd-manufacturer-reference",
+  "brand": "Sandberg",
+  "model": "USB Chat Webcam 1080P HD",
+  "category": "Cameras",
+  "scope": "Exact manufacturer model/part reference as identified. UK/EMEA where labelled; global Sandberg/LogiLink/Lenovo references; Dell Japan technical guide. Exact Tele2 SKU, OEM package and revision require matching. Dimensions keep manufacturer orientation/clip scope.",
+  "identifiers": [
+    "134-15",
+    "5705730134159"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Sandberg USB Chat Webcam 1080P HD official specifications",
+  "source_url": "https://cdn.sandberg.world/products/pdf/en/134-15en.pdf",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/sandberg-usb-chat-webcam-1080p-hd/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Interface",
+      "value": "USB 2.0",
+      "unit": ""
+    },
+    {
+      "label": "UVC",
+      "value": "Supported; UVC1.5/SVC",
+      "unit": ""
+    },
+    {
+      "label": "Cable",
+      "value": "1.5m",
+      "unit": ""
+    },
+    {
+      "label": "Lens",
+      "value": "Glass",
+      "unit": ""
+    },
+    {
+      "label": "Resolution",
+      "value": "1920 × 1080",
+      "unit": ""
+    },
+    {
+      "label": "Optical resolution",
+      "value": "2MP",
+      "unit": ""
+    },
+    {
+      "label": "Frame rate",
+      "value": "30fps",
+      "unit": ""
+    },
+    {
+      "label": "Video formats",
+      "value": "YUV, MJPEG, H.264",
+      "unit": ""
+    },
+    {
+      "label": "Automatic adjustments",
+      "value": "Saturation, contrast, white balance, exposure",
+      "unit": ""
+    },
+    {
+      "label": "Field of view",
+      "value": "90°",
+      "unit": ""
+    },
+    {
+      "label": "Microphone",
+      "value": "Omnidirectional",
+      "unit": ""
+    },
+    {
+      "label": "Operating systems",
+      "value": "Windows 7/8/10/11, macOS, AndroidTV",
+      "unit": ""
+    },
+    {
+      "label": "Privacy cover",
+      "value": "Self-adhesive cover included",
+      "unit": ""
+    },
+    {
+      "label": "Product dimensions",
+      "value": "6 × 6.5 × 8.6cm, H×W×D",
+      "unit": ""
+    },
+    {
+      "label": "Product weight",
+      "value": "106g",
+      "unit": ""
+    },
+    {
+      "label": "Package dimensions",
+      "value": "13 × 7 × 7cm, H×W×D",
+      "unit": ""
+    },
+    {
+      "label": "Package weight",
+      "value": "133g",
+      "unit": ""
+    },
+    {
+      "label": "Driver installation",
+      "value": "Driverless",
+      "unit": ""
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvia revision/GTIN match needed; manufacturer product sheet v2.29",
+    "Exact Latvia GTIN/MPN and hardware revision"
+  ],
+  "source_pages": [
+    {
+      "url": "https://cdn.sandberg.world/products/pdf/en/134-15en.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "web open; official PDF read",
+      "notes": "Short technical facts only; no marketing prose or source images retained"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

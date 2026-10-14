@@ -1,0 +1,495 @@
+{
+  "id": "aoc-cq32g4ve",
+  "brand": "AOC",
+  "model": "CQ32G4VE",
+  "category": "Monitors",
+  "scope": "Exact AOC model on official UK page. UK specification reference; Latvia stock suffix and packaging require identifier reconciliation. No brand-family values transferred.",
+  "identifiers": [
+    "CQ32G4VE",
+    "4038986182164"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "CQ32G4VE",
+  "source_url": "https://www.aoc.com/uk/gaming/monitors/cq32g4ve",
+  "tele2_url": "https://www.tele2.lv/monitori/cq32g4ve-315inch-ips-monitor/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Bezel type (front)",
+      "value": "3-sided frameless",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Removable stand",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Kensington Lock",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Bezel Colour (front)",
+      "value": "Black",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Bezel finishing (front)",
+      "value": "Texture",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Cabinet colour (backside)",
+      "value": "Black, Grey",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Cabinet finishing (backside)",
+      "value": "Texture",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Vesa wallmount",
+      "value": "100x100",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "HDMI",
+      "value": "HDMI 2.0 x 2",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "DisplayPort",
+      "value": "DisplayPort 1.4 x 1",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Audio Output",
+      "value": "Headphone out (3.5mm)",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Screen size (inch)",
+      "value": "31.5",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Screen size (cm)",
+      "value": "80.0",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Flat / Curved",
+      "value": "Curved",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Curvature Radius",
+      "value": "1500R",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Panel treatment",
+      "value": "Antiglare (AG)",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Pixel Pitch (mm)",
+      "value": "0.2724",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Pixels per Inch",
+      "value": "93.24",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Panel resolution",
+      "value": "2560x1440",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Aspect ratio",
+      "value": "16:9",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Panel type",
+      "value": "Fast VA",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Backlight type",
+      "value": "WLED",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Max Refresh rate",
+      "value": "180 Hz",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Response time GtG",
+      "value": "1 ms",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Response time MPRT",
+      "value": "0.5 ms",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Static contrast ratio",
+      "value": "3500:1",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Dynamic contrast ratio",
+      "value": "80M:1",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Viewing angle (CR10)",
+      "value": "178/178",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Display colours",
+      "value": "16.7M (8bits)",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Brightness in nits",
+      "value": "300 cd/m²",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Panel Haze Value",
+      "value": "25%",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Local Dimming Zones",
+      "value": "Global Dimming",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Resolution name",
+      "value": "QHD",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Tilt",
+      "value": "-3° ±2° ~ 21° ±2°",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "EAN",
+      "value": "4038986182164",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Warranty period",
+      "value": "3 years",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "OSD languages",
+      "value": "English, Ukranian, Turkish, Polish, German, Portuguese, Spanish, French, Finnish, Korean, Japanese, Chinese (simplified), Chinese (traditional), Swedish, Dutch, Italian, Kroatian, Russian, Czech",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Power supply",
+      "value": "Internal",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Power consumption on (typical) in watts",
+      "value": "35.0",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Power consumption standby in watts",
+      "value": "0.5",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Power consumption off in watts",
+      "value": "0.3",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Energy class",
+      "value": "F",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Product dimensions incl. base (WxHxD) mm",
+      "value": "709.4 x 523.8 x 265.3",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Product dimensions excl. base (WxHxD) mm",
+      "value": "709.4 x 425.2 x 96.6",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Packaging dimensions (WxHxD) mm",
+      "value": "840 x 527 x 188",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Gross weight incl. package (in kg)",
+      "value": "9.91",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Net weight excl. package (in kg)",
+      "value": "7.31",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Product without stand (kg)",
+      "value": "6.24",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "CB",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "CE",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "TUV-Bauart-Mark",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "ISO 9241-307",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "EAC",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "FCC",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "UKCA",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "WEEE",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "REACH compliant",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "RoHs compliant",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "PVC/BFR free housing",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Mercury free",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Recycable packaging material",
+      "value": "100 % recycable",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Low Halogen",
+      "value": "No",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Carton material",
+      "value": "Paper",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "TCO Certified",
+      "value": "No",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Sync technology (VRR)",
+      "value": "Adaptive Sync",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "AMD FreeSync™",
+      "value": "AMD FreeSync Premium",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Sync range",
+      "value": "48-180",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Digital Signal Frequency Vertical",
+      "value": "HDMI: 48-144Hz / DP: 48-180Hz",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Digital Signal Frequency Horizontal",
+      "value": "HDMI: 30k-230kHz / DP: 30k-270kHz",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "HDR (High Dynamic Range)",
+      "value": "HDR 10",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Colour space (sRGB) CIE 1976 %",
+      "value": "124.2",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Colour space (DCI-P3) CIE 1976 %",
+      "value": "92.4",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Flicker-Free",
+      "value": "Flicker Free",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Blue Light Technology",
+      "value": "Low Blue Light",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "HDMI cable",
+      "value": "1.8",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Displayport cable",
+      "value": "1.8",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Power Cable",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    }
+  ],
+  "missing_fields": [
+    "Latvia stocked unit EAN reconciliation",
+    "Input-specific maximum refresh conditions if not stated"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.aoc.com/uk/gaming/monitors/cq32g4ve",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "HTTP 200; exact model h1 CQ32G4VE; structured specification block read"
+    }
+  ],
+  "research_lane": "monitors"
+}

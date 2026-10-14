@@ -1,0 +1,168 @@
+{
+  "id": "xiaomi-smart-band-9-pro",
+  "brand": "Xiaomi",
+  "model": "Smart Band 9 Pro",
+  "category": "Smartwatches",
+  "scope": "Global manufacturer model-family reference. Strap/colour alternatives do not form separate products. Any NFC, LTE, ceramic or regional subvariants described remain conditional; exact Latvia SKU unresolved.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Xiaomi Smart Band 9 Pro specifications",
+  "source_url": "https://www.mi.com/global/product/xiaomi-smart-band-9-pro/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Dimensions",
+      "value": "43.27 × 32.49 × 10.8mm (without the heart rate sensor)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Net Weight",
+      "value": "Approx. 24.5g (weight without the strap)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Color",
+      "value": "Obsidian Black, Rose Gold, Moonlight Silver, Cream White",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Display Size and Type",
+      "value": "1.74-inch AMOLED Touch Display",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Display Resolution",
+      "value": "336 x 480 pixels",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Screen Brightness",
+      "value": "Maximum 1200 nits with auto brightness adjustment",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Cover Material",
+      "value": "2.5D reinforced glass",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Shell Material",
+      "value": "Aluminum alloy frame and high-strength fiber polymer",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Accelerometer",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Gyroscope",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Electronic compass",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Optical heart rate and pulse oximeter",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Ambient light sensor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Water Resistance Rating",
+      "value": "5ATM",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Data Connection",
+      "value": "Supports GNSS, Bluetooth® 5.4",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Haptic Motor",
+      "value": "Linear motor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Battery Capacity",
+      "value": "350mAh",
+      "unit": "",
+      "condition": "Manufacturer specification; battery values are laboratory claims, actual use varies"
+    },
+    {
+      "label": "Charging type",
+      "value": "Magnetic charging",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Charging time",
+      "value": "Approx. 75min",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Compatible Wrist Circumference",
+      "value": "135–205mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Band Strap Material",
+      "value": "TPU//Calfskin",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Operating System",
+      "value": "Android 8.0 or iOS 12.0 and above",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Compatible Apps",
+      "value": "Mi Fitness app",
+      "unit": "",
+      "condition": ""
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU / GTIN matching",
+    "Regional app and payment availability"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/xiaomi-smart-band-9-pro/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Manufacturer technical specification content parsed; extracted factual fields only"
+    }
+  ],
+  "research_lane": "wearables"
+}

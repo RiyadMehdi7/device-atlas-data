@@ -1,0 +1,140 @@
+{
+  "id": "roborock-q7-tf-plus-ro-eu-reference",
+  "brand": "Roborock",
+  "model": "Q7 TF+",
+  "category": "Smart home",
+  "scope": "Official Romania/EU manufacturer reference. Only explicitly named TF/VF feature sections and common family features used; plus docking kit kept distinct. Exact Latvian retail identifiers/GTIN and electrical ratings need matching.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Roborock Q7 TF+ official Romania specifications",
+  "source_url": "https://ro.roborock.com/pages/roborock-q7-series",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/q7-tf-q7tfp02-00/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Maximum suction",
+      "value": "10,000 Pa",
+      "unit": "",
+      "condition": "Roborock internal testing in Max+ with full battery, IEC 62885-2:2021/5.11; actual results may vary"
+    },
+    {
+      "label": "Main brush",
+      "value": "JawScrapers anti-tangle brush",
+      "unit": "",
+      "condition": "Named Q-series page common feature"
+    },
+    {
+      "label": "Side brush",
+      "value": "Anti-tangle side brush",
+      "unit": "",
+      "condition": "Named Q-series page common feature"
+    },
+    {
+      "label": "Navigation",
+      "value": "PreciSense LiDAR",
+      "unit": "",
+      "condition": "Named Q-series page common feature"
+    },
+    {
+      "label": "Navigation scanning angle",
+      "value": "360°",
+      "unit": "",
+      "condition": "Named Q-series page common feature"
+    },
+    {
+      "label": "Multi floor maps",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Named Q-series page common feature"
+    },
+    {
+      "label": "No go zone suggestions",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Named Q-series page common feature"
+    },
+    {
+      "label": "Voice assistant compatibility",
+      "value": "Alexa and Google Home",
+      "unit": "",
+      "condition": "Named Q-series page common feature"
+    },
+    {
+      "label": "Customizable cleaning modes",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Named Q-series page common feature"
+    },
+    {
+      "label": "Off peak charging",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Named Q-series page common feature"
+    },
+    {
+      "label": "Water flow options",
+      "value": "3 levels",
+      "unit": "",
+      "condition": "Q7 series common feature"
+    },
+    {
+      "label": "Simultaneous vacuuming and mopping",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Q7 series common feature"
+    },
+    {
+      "label": "Detachable mop",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Q7 series common feature"
+    },
+    {
+      "label": "Robot dimensions",
+      "value": "325 × 325 × 99 mm",
+      "unit": "",
+      "condition": "Explicit Q7 TF/BF table"
+    },
+    {
+      "label": "Child lock",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Q7 series source"
+    },
+    {
+      "label": "Dock",
+      "value": "RockDock Plus",
+      "unit": "",
+      "condition": "Explicit plus package"
+    },
+    {
+      "label": "Dock dimensions",
+      "value": "212 × 178 × 259 mm",
+      "unit": "",
+      "condition": "Explicit Q7 TF+/BF+ table"
+    },
+    {
+      "label": "Dust emptying interval",
+      "value": "Up to 7–9 weeks",
+      "unit": "",
+      "condition": "Manufacturer lab claim; home environment, cleanliness and user habits alter performance"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU/GTIN",
+    "Electrical ratings and runtime test conditions",
+    "Functions with footnote 7: some models require future OTA; not recorded as confirmed current",
+    "Q7 M5/L5 anti-scale claims not transferred to Q7 TF"
+  ],
+  "source_pages": [
+    {
+      "url": "https://ro.roborock.com/pages/roborock-q7-series",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP fetch; explicit named model sections and dimensions read",
+      "notes": "Romanian manufacturer facts translated into short English fields; region and footnote conditions preserved"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

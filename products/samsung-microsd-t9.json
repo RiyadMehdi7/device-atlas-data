@@ -1,0 +1,203 @@
+{
+  "id": "samsung-microsd-t9",
+  "brand": "Samsung",
+  "model": "microSD T9",
+  "model_family": "microSD T9",
+  "category": "Accessories",
+  "scope": "Manufacturer current document index, specific revision and capacity matrix. Single model-family reference; capacity/colour options are not separate products. EU GTIN and Tele2 stock unconfirmed.",
+  "identifiers": [
+    "MB-MH128T",
+    "MB-MH256T",
+    "MB-MH512T"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Samsung microSD T9 technical specifications",
+  "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/2026_Samsung_microSD_Card_T9_Datasheet_v.1.1.pdf",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Dimensions",
+      "value": "15 × 11 × 1 mm",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/2026_Samsung_microSD_Card_T9_Datasheet_v.1.1.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Mass",
+      "value": "Approx. 0.25 g, card only",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/2026_Samsung_microSD_Card_T9_Datasheet_v.1.1.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Operating temperature",
+      "value": "−25–85 °C",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/2026_Samsung_microSD_Card_T9_Datasheet_v.1.1.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Storage temperature",
+      "value": "−40–85 °C",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/2026_Samsung_microSD_Card_T9_Datasheet_v.1.1.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Magnetic test",
+      "value": "15000 gauss, 30 s",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/2026_Samsung_microSD_Card_T9_Datasheet_v.1.1.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "X-ray test",
+      "value": "100 mGy, 210 s",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/2026_Samsung_microSD_Card_T9_Datasheet_v.1.1.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Drop test",
+      "value": "5 m, 10 cycles",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/2026_Samsung_microSD_Card_T9_Datasheet_v.1.1.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Insertion durability",
+      "value": "10000 cycles",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/2026_Samsung_microSD_Card_T9_Datasheet_v.1.1.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Test scope",
+      "value": "Controlled laboratory tests; replication damage excluded from warranty",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/2026_Samsung_microSD_Card_T9_Datasheet_v.1.1.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Capacity convention",
+      "value": "1 GB = 10^9 bytes; formatted usable capacity varies",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/2026_Samsung_microSD_Card_T9_Datasheet_v.1.1.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Signalling",
+      "value": "1.8 V, up to 208 MHz",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/2026_Samsung_microSD_Card_T9_Datasheet_v.1.1.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Maximum current",
+      "value": "800 mA, dependent on test conditions",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/2026_Samsung_microSD_Card_T9_Datasheet_v.1.1.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Capacity options",
+      "value": "128/256/512 GB",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/2026_Samsung_microSD_Card_T9_Datasheet_v.1.1.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Interface",
+      "value": "UHS-I SDR104; DDR200 with specific Samsung reader",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/2026_Samsung_microSD_Card_T9_Datasheet_v.1.1.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Read maximum",
+      "value": "200 MB/s",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/2026_Samsung_microSD_Card_T9_Datasheet_v.1.1.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Maximum-speed condition",
+      "value": "Specific Samsung card reader required; actual speed depends on host and environment",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/2026_Samsung_microSD_Card_T9_Datasheet_v.1.1.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Speed classes",
+      "value": "C10, V30, U3, A2",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/2026_Samsung_microSD_Card_T9_Datasheet_v.1.1.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Warranty",
+      "value": "3 years limited",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/2026_Samsung_microSD_Card_T9_Datasheet_v.1.1.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Warranty use exclusion",
+      "value": "Continuous recording or other excessive write-intensive use excluded",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/2026_Samsung_microSD_Card_T9_Datasheet_v.1.1.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Water test",
+      "value": "Non-operating: 1 m, 3% NaCl, 72 h",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/2026_Samsung_microSD_Card_T9_Datasheet_v.1.1.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Write maximum",
+      "value": "130 MB/s",
+      "unit": "",
+      "condition": "Capacity-dependent values kept as explicit matrix; laboratory maxima are not sustained guarantees.",
+      "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/2026_Samsung_microSD_Card_T9_Datasheet_v.1.1.pdf",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia MPN/GTIN",
+    "Latvia retail package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://download.semiconductor.samsung.com/resources/data-sheet/2026_Samsung_microSD_Card_T9_Datasheet_v.1.1.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "Official PDF downloaded HTTP 200; pdftotext table read",
+      "notes": "Official source technical content read; factual extraction retained"
+    }
+  ],
+  "research_lane": "accessories"
+}

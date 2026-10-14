@@ -1,0 +1,330 @@
+{
+  "id": "honor-porsche-design-honor-magic7-rsr-uk-manufacturer-model-reference",
+  "brand": "Honor",
+  "model": "PORSCHE DESIGN | HONOR Magic7 RSR",
+  "category": "Phones",
+  "scope": "UK manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Specification of PORSCHE DESIGN | HONOR Magic7 RSR - HONOR UK",
+  "source_url": "https://www.honor.com/uk/phones/honor-magic7-rsr-porsche-design/spec/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Dimensions and Weight — Height",
+      "value": "162.7 mm",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Dimensions and Weight — Width",
+      "value": "77.1 mm",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Dimensions and Weight — Depth",
+      "value": "8.8 mm",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Dimensions and Weight — Weight",
+      "value": "Approx. 228 g (including the battery) | *The actual dimensions/weight may vary depending on the configuration, manufacturing process, and measurement method.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Size",
+      "value": "6.8 inches | *With a rounded corners design on the display, the diagonal length of the screen is 6.8 inches when measured according to the standard rectangle (the actual viewable area is slightly smaller).",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Colour",
+      "value": "1.07 billion colors",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Type",
+      "value": "OLED",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Resolution",
+      "value": "FHD+ 1280 x 2800 | *With a rounded corners design on the display, the resolution of the screen is 1280 x 2800 Pixels when measured according to the standard rectangle (the actual viewable area is slightly smaller).",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Gestures",
+      "value": "Supported",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Brightness",
+      "value": "HDR Peak Brightness: 5000 nits Global Peak Brightness: 1600 nits",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Screen Glass Material",
+      "value": "HONOR Anti-scratch NanoCrystal Shield",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Processor — CPU Model",
+      "value": "Snapdragon® 8 Elite Mobile Platform",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Processor — CPU Type",
+      "value": "Octa-core",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Processor — CPU Dominant Frequency",
+      "value": "2×Prime 4.32GHz+6×Performance 3.53GHz",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Processor — GPU",
+      "value": "Adreno™830",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "System — Operating System",
+      "value": "MagicOS 9.0 (Based on Android 15)",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Rear Camera",
+      "value": "50MP Wide Main Camera (f/1.4-f/2.0, OIS) 50MP Ultra Wide Camera (f/2.0) 200MP Telephoto Camera (f/1.88, 3x Optical Zoom, 100x Digital Zoom, OIS) | *The actual image resolution may vary depending on the shooting mode.The highest pixel requires entering the \"HIGH-RES\" mode for experience, please refer to the actual experience.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Video Shooting",
+      "value": "Support for 4K 60fps (3840×2160) video recording",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Focus Mode",
+      "value": "3x Optical Zoom, 100x Digital Zoom",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Image Resolution",
+      "value": "16384 x 12288 pixels | *The actual image resolution may vary depending on the shooting mode.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Video Resolution",
+      "value": "3840 × 2160 pixels | *The actual video resolution may vary depending on the shooting mode.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Rear Flashlight",
+      "value": "Rear single LED flash",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Capture Mode",
+      "value": "HD Super Burst, AI Enhanced Portrait, AI Super Zoom, Stage Mode,Motion Sensing Capture, Smart Focus, Movie, Multi-video, AI photography, High RES, Time-lapse, Super Wide Angle, Aperture, Night, Super Macro, Portrait, Pro, Slow-MO, Panorama, Filter, Watermark, Capture smiles, Video, Timer, Scan Document, Story, Light Painting, HDR | *OTA update to support AI Enhanced Portrait and AI Super Zoom. The actual image resolution may vary depending on the shooting mode.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Stablization Mode",
+      "value": "EIS+OIS",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Front Camera",
+      "value": "50MP Front Camera(f/2.0) + 3D Depth Camera | *In different photo modes, the number of pixels may be slightly different, please refer to the actual situation.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Image Resolution",
+      "value": "8192 x 6144 pixels | *The actual image resolution may vary depending on the shooting mode.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Video Resolution",
+      "value": "3840 × 2160 pixels | *The actual video resolution may vary depending on the shooting mode.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Video Shooting",
+      "value": "Support for 4K (3840×2160) video recording | *The actual image resolution may vary depending on the video recording mode.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Capture Mode",
+      "value": "Portrait, Filter, Capture smiles, Mirror reflection, Timer, Gesture control, Watermark, Night | *OTA update to support AI Enhanced Portrait and AI Super Zoom. The actual image resolution may vary depending on the shooting mode.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Face Recognition",
+      "value": "3D face unlock",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Battery — Capacity",
+      "value": "5850 mAh (typical value), 5750 mAh (rated value) | *This capacity is the nominal battery capacity. The actual battery capacity for each individual phone may be slightly above or below the nominal battery capacity.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Battery — Type",
+      "value": "Lithium polymer battery (Third-generation Silicon-carbon Battery)",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Battery — Wired Charging",
+      "value": "100W HONOR SuperCharge The phone supports up to 20V/5A SuperCharge, compatible with 11V/6A,10V/4A, 10V/2.25A, 10V/2A. | *The actual charging power will change intelligently with different scenarios, please refer to the actual situation.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Battery — Wireless Charging",
+      "value": "80W Wireless HONOR SuperCharge. | *The Wireless Charger is a separate purchase.The actual charging power will change intelligently with different scenarios, please refer to the actual situation.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Cellular Network — Network Standard",
+      "value": "5G (NR) 4G (LTE TDD/LTE FDD) 3G (WCDMA) 2G (GSM) | Note: 1. In Dual SIM version, either card slot can be set to accommodate the primary or secondary SIM card. 2. Functions available on the live network depend on the situations of carrier's network and related services deployment.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Cellular Network — SIM Card",
+      "value": "SIM1+SIM2 / SIM1+eSIM / eSIM1+eSIM2 | * eSIM requires a wireless service plan and allows you to activate a mobile network plan without the use of a Nano SIM. eSIM availability may vary depending on country and carrier. Please check the <a style=\"color: #256fff;\" href=\"https://www.honor.com/global/tech/honor-esim/\" target=\"_blank\">support list</a> for details.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Wi-Fi",
+      "value": "WLAN Protocols: 802.11 a/b/g/n/ac/ax/be, 2x2 MIMO *Wi-Fi 7 function needs to be used with the corresponding Wi-Fi 7 router. WLAN Frequency: 2.4GHz/5GHz/6GHz Support WLAN Hotspot and WLAN Direct",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Bluetooth",
+      "value": "BT5.4, BLE, SBC, AAC, LDAC, APTX, APTX HD",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Others",
+      "value": "Infrared Remote Control PC Data Sync (Computer need install HonorSuite) OTG (maximum output current 1A/5V during reverse power supply) USB: Type-C, USB 3.2 GEN1 Earjack: USB Type-C Video Call (operator and third-party software) | *The availability of this function depends on the network operators in different countries or regions. Contact your network operator for details.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Positioning",
+      "value": "Support GPS /AGPS/GLONASS/BeiDou/Galileo Support Cellular Network Positioning/Wi-Fi Network Positioning",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Sensors — Sensors",
+      "value": "Gravity Sensor Infrared Sensor Fingerprint Sensor Acceleration Sensor Barometric Pressure Sensor Gyroscope Compass Ambient Light Sensor Proximity Sensor",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Sensors — NFC",
+      "value": "Supported | 1. Only Card Emulation mode and Reader / Writer mode are supported. Peer-to-Peer mode is no longer supported. 2. The NFC sensing area is in the upper middle position of the back of the mobile phone.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Media and Audio — Video",
+      "value": "3gp/mp4",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Media and Audio — Audio",
+      "value": "mp3/mp4/3gp/ogg/amr/aac/flac/wav",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Media and Audio — Sound Effect",
+      "value": "DTS:X® Ultra sound effects",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Media and Audio — Stereo",
+      "value": "HONOR Surround Subwoofer",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Memory",
+      "value": "24GB+1TB",
+      "unit": "",
+      "condition": "UK manufacturer model reference; options grouped and manufacturer qualifiers retained.",
+      "source_url": "https://www.honor.com/uk/phones/honor-magic7-rsr-porsche-design/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Water and Dust Resistance",
+      "value": "Supported(IP68 and IP69) | *The phone is not professionally water resistant. It is splash-proof, water-resistant and dust-proof under normal use. It has been tested under controlled laboratory conditions and reaches the IP68 and IP69 level in accordance with IEC 60529 standards. Splash, water, and dust resistance are not permanently effective, and the protective performance may decrease due to daily wear and tear.",
+      "unit": "",
+      "condition": "UK manufacturer model reference; options grouped and manufacturer qualifiers retained.",
+      "source_url": "https://www.honor.com/uk/phones/honor-magic7-rsr-porsche-design/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "In the Box",
+      "value": "1. Phone(Built-in battery) x 1 2. HONOR SuperCharge x 2 3. Type-C Cable x 2 4. PU Protective cover x 1 5. Quick Start Guide x 1 6. Eject Tool x 1 7. Warranty Card x 1 8. TP protective film (Attached on the phone before delivery) x 1 | *Dependent on market.",
+      "unit": "",
+      "condition": "UK manufacturer model reference; options grouped and manufacturer qualifiers retained.",
+      "source_url": "https://www.honor.com/uk/phones/honor-magic7-rsr-porsche-design/spec/",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU / model code and GTIN matching",
+    "Colour-specific packaging and regional accessories"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.honor.com/uk/phones/honor-magic7-rsr-porsche-design/spec/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible manufacturer specification content parsed; model-reference scope, not an exact retailer SKU."
+    }
+  ],
+  "research_lane": "phones"
+}

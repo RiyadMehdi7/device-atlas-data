@@ -1,0 +1,345 @@
+{
+  "id": "lg-24ba450-b",
+  "brand": "LG",
+  "model": "24BA450-B",
+  "category": "Monitors",
+  "scope": "Exact base-model LG uk manufacturer reference. Tele2 listed 24BA450-B; regional suffix and EAN remain unmatched. No OLED claim transferred from retailer marketing.",
+  "identifiers": [
+    "24BA450-B"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "24” Full HD IPS Monitor | LG UK",
+  "source_url": "https://www.lg.com/uk/monitors/fhd-qhd/24ba450-b/",
+  "tele2_url": "https://www.tele2.lv/monitori/lg-24ba450-baeuq-238inch/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Product name",
+      "value": "PC Monitor",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Year",
+      "value": "Y24",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Size [Inch]",
+      "value": "23.8",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Size [cm]",
+      "value": "60.4",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Resolution",
+      "value": "1920 x 1080",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Panel Type",
+      "value": "IPS",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Aspect Ratio",
+      "value": "16:9",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Pixel Pitch [mm]",
+      "value": "0.2745 x 0.2745",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Color Gamut (Min.)",
+      "value": "sRGB 95% (CIE1931)",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Color Gamut (Typ.)",
+      "value": "sRGB 99% (CIE1931)",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Color Depth (Number of Colors)",
+      "value": "16.7M",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Contrast Ratio (Min.)",
+      "value": "910:1",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Contrast Ratio (Typ.)",
+      "value": "1300:1",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Response Time",
+      "value": "5ms (GtG at Faster)",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Refresh Rate (Max.) [Hz]",
+      "value": "100",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Viewing Angle (CR≥10)",
+      "value": "178º(R/L), 178º(U/D)",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Brightness (Min.) [cd/m²]",
+      "value": "200",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Brightness (Typ.) [cd/m²]",
+      "value": "250",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Colour Bit",
+      "value": "8bit (6bit+FRC)",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Flicker Safe",
+      "value": "YES",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Reader Mode",
+      "value": "YES",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Color Weakness",
+      "value": "YES",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Super Resolution+",
+      "value": "YES",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Black Stabiliser",
+      "value": "YES",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Dynamic Action Sync",
+      "value": "YES",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Auto Input Switch",
+      "value": "YES",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Smart Energy Saving",
+      "value": "YES",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "D-Sub",
+      "value": "YES(1ea)",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "D-Sub (Max. Resolution at Hz)",
+      "value": "1920 x 1080 at 75Hz",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "HDMI",
+      "value": "YES(1ea)",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "DisplayPort",
+      "value": "YES(1ea)",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "DP Version",
+      "value": "1.2",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Headphone output",
+      "value": "3-pole (Sound Only)",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Speaker",
+      "value": "2W x 2",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Type",
+      "value": "Built-in Power",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "AC Input",
+      "value": "100~240Vac, 50/60Hz",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Power Consumption (Sleep Mode)",
+      "value": "Less than 0.5W",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Power Consumption (DC Off)",
+      "value": "Less than 0.3W",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "DC Output",
+      "value": "19V / 2.2A",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Display Position Adjustments",
+      "value": "Tilt/Height/Swivel/Pivot",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Wall Mountable [mm]",
+      "value": "100 x 100",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Dimension with Stand (W x H x D) [mm]",
+      "value": "538.6mm x 508.9mm x 239.9mm",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Dimension without Stand (W x H x D) [mm]",
+      "value": "538.6mm x 319.8mm x 50.8mm",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Dimension in Shiping (W x H x D) [mm]",
+      "value": "610mm x 165mm x 482mm",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Weight with Stand [kg]",
+      "value": "4.45kg",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Weight without Stand [kg]",
+      "value": "2.65kg",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Weight in Shipping [kg]",
+      "value": "7.6kg",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Display Port",
+      "value": "YES",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Others (Accessory)",
+      "value": "Cable holder",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "HDMI (Color/Length)",
+      "value": "Black / 1.8m",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "Power Cord",
+      "value": "YES",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    },
+    {
+      "label": "The security update is supported for",
+      "value": "5 years from the product launch date stated at https://lgsecurity.lge.com/bulletins/monitorprojector",
+      "unit": "",
+      "condition": "Exact LG model manufacturer reference; typical/max and dimension/stand conditions retained. Regional stock suffix unresolved."
+    }
+  ],
+  "missing_fields": [
+    "Latvia regional suffix / EAN reconciliation",
+    "Dash-valued manufacturer entries excluded; absence not converted to No",
+    "Ambiguous repeated accessory/connector labels excluded unless explicit numeric values"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.lg.com/uk/monitors/fhd-qhd/24ba450-b/",
+      "fetched_at": "2026-10-14",
+      "method": "Exa web_fetch_exa full page",
+      "notes": "Full exact-model technical specification block read; direct HTTP returned 403 for sample LG UK pages; search snippets not used"
+    }
+  ],
+  "research_lane": "monitors"
+}

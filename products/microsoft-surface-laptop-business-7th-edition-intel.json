@@ -1,0 +1,159 @@
+{
+  "id": "microsoft-surface-laptop-business-7th-edition-intel",
+  "brand": "Microsoft",
+  "model": "Surface Laptop for Business 7th Edition Intel (13.8-inch / 15-inch)",
+  "category": "Laptops",
+  "scope": "Official global model/platform reference. Size/configuration alternatives explicit; no artificial RAM/storage combination. Latvia SKU, regional power adapter, warranty and keyboard unresolved.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Surface Laptop for Business 7th Edition Intel (13.8-inch / 15-inch) technical specifications",
+  "source_url": "https://learn.microsoft.com/en-us/surface/tech-specs/surface-laptop-intel-tech-specs",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Processor",
+      "value": "Surface Laptop 13.8\" and 15\" ; - Intel Core Ultra 5 processor 236V; - Intel Core Ultra 5 processor 238V; - Intel Core Ultra 7 processor 266V; - Intel Core Ultra 7 processor 268V",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "NPU",
+      "value": "Intel AI Boost with 40 TOPS ; - Intel Core Ultra 5 processor 236V; - Intel Core Ultra 5 processor 238V; ; Intel AI Boost with 48 TOPS ; - Intel Core Ultra 7 processor 266V; - Intel Core Ultra 7 processor 268V",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "Graphics",
+      "value": "- Intel Arc Graphics",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "Memory",
+      "value": "- 16 GB, 32 GB LPDDR5x RAM; Note: 16 GB configurations have 236V or 266V processors. 32 GB configurations have 238V or 268V processors",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "Storage",
+      "value": "- Removable solid-state drive (Gen 4 SSD) 256 GB, 512 GB, or 1 TB",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "Display",
+      "value": "13.8\" and 15\" models: ; - PixelSense Flow Display ; - Aspect ratio: 3:2 ; - Contrast ratio: 1300:1 ; - Dynamic refresh rate up to 120Hz ; - Color profile: sRGB and Vivid ; - Individually color-calibrated display ; - Adaptive color ; - Auto color management ; - Touch: 10-point multi-touch ; - Dolby Vision IQ support ; - Corning Gorilla Glass 5 ; - Anti-reflective, ISO 9241-307 certified ; ; Resolution and size differences: ; - 13.8\" models: Resolution 2304 × 1536 (201 PPI) ; - 15\" models: Resolution 2496 × 1664 (201 PPI)",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "Brightness",
+      "value": "- SDR: 600 nits maximum (typical); - HDR: 600 nits peak luminance",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "Size & weight",
+      "value": "Surface Laptop 13.8\" ; - Length: 11.85\" (301 mm); - Width: 8.67\" (220 mm); - Height: 0.69\" (17.5 mm); - Weight: 2.97 lbs. (1.35 kg); ; Surface Laptop 5G for Business, 13.8\" ; - Length: 11.85\" (301 mm); - Width: 8.67\" (220 mm); - Height: 0.70\" (17.8 mm); - Weight: 3.06 lbs. (1.39 kg); ; Surface Laptop 15\" ; - Length: 12.96\" (329 mm); - Width: 9.41\" (239 mm); - Height: 0.72\" (18.29 mm); - Weight: 3.66 lbs. (1.66 kg); - With smart card reader: 3.64 lbs. (1.65 kg)",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "Security",
+      "value": "- Enterprise-grade security with TPM 2.0 chip and BitLocker support; - Windows 11 Secured-core PC; - Microsoft Pluton technology; - Windows Hello face authentication with Enhanced Sign-in security; - Integrated smart card reader",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "Cameras",
+      "value": "- Full HD front-facing Surface Studio Camera; - 1080p Full HD camera; - Windows Studio Effects with automatic framing, Portrait Blur, Creative filters (illustrated, animated, watercolor), Eye Contact, and Portrait Light; - Windows Hello face authentication camera",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "Audio",
+      "value": "- Dual Studio Mics with voice focus; - Omnisonic Speakers with Dolby Atmos; - Support for Bluetooth LE Audio",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "Ports & charging",
+      "value": "13.8\" and 15\" models: ; - 2 × USB-C with USB4/ Thunderbolt 4 ports supporting: ; - Charging ; - Data transfer ; - DisplayPort 2.1 with support for up to two 4K monitors ; - Surface Thunderbolt 4 Dock and other accessories ; - Supports fast charging with minimum 60W charger via Surface Connect or USB-C ; - USB-A 3.1 Gen 2 ; - 3.5-mm headphone jack ; - Surface Connect port ; ; 13.8\" Wi-Fi + 5G model only ; - NanoSIM; ; 15\" model only: ; - MicroSDXC card reader ; - Integrated smart card reader (available on select models and markets)",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "Network & connectivity",
+      "value": "Wi-Fi Only Models ; - Wi-Fi 7; - Bluetooth Wireless 5.4 technology; ; 13.8\" Wi-Fi + 5G models ; - Wi-Fi 7; - Bluetooth Wireless 5.4 technology; - Location: GNSS L1, GPS, Galileo, BeiDou, QZSS and NAVIC support; - NanoSIM and eSIM support; - Supports 5G; - Cellular; -5G-NR SA/NSA, Release 16, DL 256 QAM up to 2.9 Gbps, 4x4 MIMO, UL 256 QAM ; -4G Gigabit LTE – Advanced Pro, Release 16, DL Cat 19 up to 1.6 Gbps, 256QAM, 4x4 MIMO, 5x DL CA, UL Cat 18, 256 QAM, Contiguous 2x ULCA; -5G-NR Bands: n1, n2, n3, n5, n7, n8, n12, n14, n20, n25, n26, n28, n29, n30, n38, n40, n41, n48, n66, n71, n77, n78; -LTE Bands: 1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 19, 20, 25, 26, 28, 29, 30, 38, 39, 40, 41, 42, 48, 66, 71; -WCDMA Bands: 1, 2, 4, 5, 8",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "Software",
+      "value": "- Windows 11 Pro 24H2; - Preloaded Microsoft 365 Apps; - Microsoft 365 Business Standard, Microsoft 365 Business Premium, or Microsoft 365 Apps 30-day trial",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "Accessibility",
+      "value": "- Surface Precision Haptic touchpad with adjustable click sensitivity, right-click area, and adaptive touch mode; - Compatible with Surface Adaptive Kit and Microsoft Adaptive Accessories; - Supports Microsoft Accessibility Features – learn more",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "Serviceability",
+      "value": "Replacement components ; - Display assembly (including camera); - Keyboard assembly (including touchpad); - Removable solid-state drive; - Battery; - Motherboard module (including main processor and memory); - Surface Connect; - Audio jack; - MicroSDXC Express card reader (15\"); - Speakers; - Thermal module; - Feet; - Fan; - 5G module (13.8\" Wi-Fi + 5G model only)",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "Exterior",
+      "value": "- Casing: Aluminum; - Colors: Platinum and Black",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "Sensors",
+      "value": "- Ambient color sensor",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "What's in the box",
+      "value": "- Surface Laptop 13.8\" or Surface Laptop 15\"; - Power Supply (in select markets, available only with specific configurations) 13.8\": 39W; 15\": 65W; - Quick Start Guide; - Safety and warranty documents",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "Warranty",
+      "value": "- 1-year limited hardware warranty",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "Battery capacities",
+      "value": "13.8\" models ; - Nominal (Wh): 54; - Min (WH): 52; ; 15\" models ; - Nominal (Wh): 66; - Min (WH): 64",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU/MPN",
+    "Selected RAM/storage combination",
+    "Regional keyboard/power/warranty"
+  ],
+  "source_pages": [
+    {
+      "url": "https://learn.microsoft.com/en-us/surface/tech-specs/surface-laptop-intel-tech-specs",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "http_status": 200,
+      "content_title": "Surface Laptop for Business 7th Edition Intel (13.8-inch / 15-inch) technical specifications",
+      "notes": "Official feature/description table read; structured extraction retained. Playback claims omitted."
+    }
+  ],
+  "research_lane": "computers"
+}

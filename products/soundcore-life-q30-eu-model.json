@@ -1,0 +1,91 @@
+{
+  "id": "soundcore-life-q30-eu-model",
+  "brand": "Soundcore",
+  "model": "Life Q30",
+  "category": "Headphones",
+  "scope": "EU manufacturer model reference; colour-specific examples not expanded; Latvia SKU matching required",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Life Q30 Bluetooth Noise Cancelling Headphones - soundcore EU",
+  "source_url": "https://www.soundcore.com/eu/products/a3028011",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/life-q30-over-ear-headphones/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Sound",
+      "value": "Robust Bass, 40mm Silk Drivers",
+      "unit": "",
+      "condition": "EU manufacturer specification"
+    },
+    {
+      "label": "Active Noise Cancellation",
+      "value": "Hybrid ANC with Multi-Modes",
+      "unit": "",
+      "condition": "EU manufacturer specification"
+    },
+    {
+      "label": "Fast Charging",
+      "value": "5 Mins = 4H",
+      "unit": "",
+      "condition": "EU manufacturer specification"
+    },
+    {
+      "label": "Calls",
+      "value": "2 Mics",
+      "unit": "",
+      "condition": "EU manufacturer specification"
+    },
+    {
+      "label": "Multipoint Connection",
+      "value": "Yes",
+      "unit": "",
+      "condition": "EU manufacturer specification"
+    },
+    {
+      "label": "Customized EQ",
+      "value": "Yes",
+      "unit": "",
+      "condition": "EU manufacturer specification"
+    },
+    {
+      "label": "Weight",
+      "value": "260g",
+      "unit": "",
+      "condition": "EU manufacturer specification"
+    },
+    {
+      "label": "Special Features",
+      "value": "AUX",
+      "unit": "",
+      "condition": "EU manufacturer specification"
+    },
+    {
+      "label": "Music ANC on",
+      "value": "40 hours",
+      "unit": "",
+      "condition": "ANC on; manufacturer maximum; volume unspecified"
+    },
+    {
+      "label": "Music ANC off",
+      "value": "60 hours",
+      "unit": "",
+      "condition": "ANC off; manufacturer maximum; volume unspecified"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU/GTIN matching",
+    "Battery capacity",
+    "Full playback test settings"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.soundcore.com/eu/products/a3028011",
+      "fetched_at": "2026-10-14",
+      "method": "web find/open",
+      "notes": "Actual model Specs table and features read; comparison rows not transferred"
+    }
+  ],
+  "research_lane": "audio"
+}

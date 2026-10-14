@@ -1,0 +1,255 @@
+{
+  "id": "oneplus-pad-lite",
+  "brand": "OnePlus",
+  "model": "Pad Lite",
+  "model_family": "Pad Lite",
+  "category": "Tablets",
+  "scope": "European manufacturer model reference. Regional configurations vary; not a Latvia SKU or availability claim.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer model source checked; Latvia SKU needs matching",
+  "source_name": "OnePlus Pad Lite technical specifications",
+  "source_url": "https://www.oneplus.com/uk/oneplus-pad-lite/specs",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Dimensions / Height",
+      "value": "about 166.46mm",
+      "unit": "",
+      "condition": "UK model reference; configurations and accessories vary.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-lite/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Width",
+      "value": "about 254.91mm",
+      "unit": "",
+      "condition": "UK model reference; configurations and accessories vary.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-lite/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Thickness",
+      "value": "about 7.39mm",
+      "unit": "",
+      "condition": "UK model reference; configurations and accessories vary.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-lite/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Weight",
+      "value": "about 530g",
+      "unit": "",
+      "condition": "UK model reference; configurations and accessories vary.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-lite/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Size",
+      "value": "27.94cm (11\")",
+      "unit": "",
+      "condition": "UK model reference; configurations and accessories vary.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-lite/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Screen-to-body Ratio",
+      "value": "85.3%",
+      "unit": "",
+      "condition": "UK model reference; configurations and accessories vary.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-lite/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Screen Ratio",
+      "value": "16:10",
+      "unit": "",
+      "condition": "UK model reference; configurations and accessories vary.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-lite/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Brightness",
+      "value": "500 nits",
+      "unit": "",
+      "condition": "UK model reference; configurations and accessories vary.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-lite/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Color Depth",
+      "value": "10 bit (8+2 bit)",
+      "unit": "",
+      "condition": "UK model reference; configurations and accessories vary.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-lite/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Colour Gamut",
+      "value": "70.8% NTSC",
+      "unit": "",
+      "condition": "UK model reference; configurations and accessories vary.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-lite/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Resolution",
+      "value": "1920 x 1200",
+      "unit": "",
+      "condition": "UK model reference; configurations and accessories vary.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-lite/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Pixel Density",
+      "value": "207 PPI",
+      "unit": "",
+      "condition": "UK model reference; configurations and accessories vary.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-lite/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Refresh Rate",
+      "value": "Max 90Hz",
+      "unit": "",
+      "condition": "UK model reference; configurations and accessories vary.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-lite/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Touch Sampling Rate",
+      "value": "180Hz",
+      "unit": "",
+      "condition": "UK model reference; configurations and accessories vary.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-lite/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / Type",
+      "value": "LCD",
+      "unit": "",
+      "condition": "UK model reference; configurations and accessories vary.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-lite/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Audio / Speakers",
+      "value": "Hi-Res Audio-certified Quad Speakers",
+      "unit": "",
+      "condition": "UK model reference; configurations and accessories vary.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-lite/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Audio / Bluetooth® Codec",
+      "value": "SBC, AAC, aptX, aptX HD, LDAC",
+      "unit": "",
+      "condition": "UK model reference; configurations and accessories vary.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-lite/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery & Charging / Battery Capacity",
+      "value": "9340 mAh (Typical) / 9098 mAh (Rated)",
+      "unit": "",
+      "condition": "UK model reference; configurations and accessories vary.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-lite/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery & Charging / Fast Charging",
+      "value": "Supports 33W SUPERVOOC",
+      "unit": "",
+      "condition": "UK model reference; configurations and accessories vary.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-lite/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery & Charging / Charging Port",
+      "value": "Type-C",
+      "unit": "",
+      "condition": "UK model reference; configurations and accessories vary.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-lite/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Performance / Operating System",
+      "value": "OxygenOS 15.0.1",
+      "unit": "",
+      "condition": "UK model reference; configurations and accessories vary.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-lite/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Performance / Platform",
+      "value": "MediaTek Helio G100",
+      "unit": "",
+      "condition": "UK model reference; configurations and accessories vary.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-lite/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Performance / RAM and ROM Capacities",
+      "value": "6GB + 128GB WI-FI / 8GB + 128GB LTE",
+      "unit": "",
+      "condition": "UK model reference; configurations and accessories vary.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-lite/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connectivity / Wi-Fi",
+      "value": "Wi-Fi 5 (802.11ac), 802.11a/b/g/n/  WLAN 2.4G/WLAN 5.1G/WLAN 5.8G",
+      "unit": "",
+      "condition": "UK model reference; configurations and accessories vary.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-lite/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connectivity / Bluetooth®",
+      "value": "Bluetooth® 5.4",
+      "unit": "",
+      "condition": "UK model reference; configurations and accessories vary.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-lite/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Camera / Rear Camera",
+      "value": "Megapixels: 5MP  Video: 1080P/720P@30fps",
+      "unit": "",
+      "condition": "UK model reference; configurations and accessories vary.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-lite/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Camera / Front Camera",
+      "value": "Megapixels: 5MP",
+      "unit": "",
+      "condition": "UK model reference; configurations and accessories vary.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-lite/specs",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Unlocking Method / detail 1",
+      "value": "Facial Recognition",
+      "unit": "",
+      "condition": "UK model reference; configurations and accessories vary.",
+      "source_url": "https://www.oneplus.com/uk/oneplus-pad-lite/specs",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia-specific MPN/GTIN",
+    "Latvia retail configuration and package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.oneplus.com/uk/oneplus-pad-lite/specs",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible official technical content read; structured facts retained"
+    }
+  ],
+  "research_lane": "tablets"
+}

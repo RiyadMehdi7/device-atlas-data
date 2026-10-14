@@ -1,0 +1,120 @@
+{
+  "id": "poco-poco-m7-global-manufacturer-model-reference",
+  "brand": "POCO",
+  "model": "POCO M7",
+  "category": "Phones",
+  "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Poco M7 Specs - Xiaomi Global",
+  "source_url": "https://www.mi.com/global/product/poco-m7/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Processor",
+      "value": "Snapdragon® 685 4G Mobile Platform | 6nm process, octa-core chipset | CPU: Qualcomm® Kryo™, up to 2.8GHz | GPU: Qualcomm® Adreno™",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Storage & RAM",
+      "value": "6GB + 128GB, 8GB + 256GB | Supports up to 16GB RAM with Memory extension | Expandable storage up to 2TB | LPDDR4X + UFS2.2",
+      "unit": "",
+      "condition": "*Available configurations may differ between regions. Available RAM and storage are less than the total memory due to storage of the operating system and the device's pre-installed software. *16GB RAM with memory extension is based on 8GB RAM version. Additional RAM will occupy a corresponding amount of ROM storage. Memory extension is only available when there is enough storage space on your device. Actual extension of RAM storage capacity varies between models. *microSD card for expandable storage sold separately. Please refer to the actual use."
+    },
+    {
+      "label": "Dimensions",
+      "value": "Height: 169.48mm | Width: 80.45mm | Thickness: 8.40mm | Weight: 214g",
+      "unit": "",
+      "condition": "*Data obtained from POCO Internal Labs. Industry measurement methods may vary, actual results may differ. *Product may vary by region, please refer to the actual product."
+    },
+    {
+      "label": "Display",
+      "value": "6.9\" FHD+ DotDisplay | Resolution: 2340 × 1080 | PPI 374 | Refresh rate: Up to 144Hz* | Touch sampling rate: Up to 288Hz | Brightness: 700 nits (typ) 850 nits (HBM) | Contrast ratio: 1400:1 | Color gamut: 85% NTSC | Reading mode | TÜV Rheinland Low Blue Light (Software Solution) Certified TÜV Rheinland Circadian Friendly Certified TÜV Rheinland Flicker Free Certified",
+      "unit": "",
+      "condition": "*Refresh rate can be adjusted up to 144Hz for supported apps."
+    },
+    {
+      "label": "Rear camera",
+      "value": "50MP main camera | 5P lens | f/1.8 | Film Camera | HDR mode | Night mode | Portrait mode | Time-lapse | Rear camera video recording | 1080p (1920x1080) HD video recording at 30 fps | 720p (1280x720) HD video recording at 30 fps",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Front camera",
+      "value": "8MP front camera | f/2 | Film Camera | HDR mode | Soft-light ring | Portrait mode | Time-lapse | Front camera video recording | 1080p (1920x1080) HD video recording at 30 fps | 720p (1280x720) HD video recording at 30 fps",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Battery & charging",
+      "value": "7000mAh (typ) battery | 33W fast charging",
+      "unit": "",
+      "condition": "*No power adapter is included in the box. It is recommended to use a 33W power adapter that supports PD charging or the official Xiaomi 33W power adapter."
+    },
+    {
+      "label": "Security",
+      "value": "Side fingerprint sensor | AI face unlock",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Network and connectivity",
+      "value": "SIM1 + Hybrid (SIM or microSD) | 2G: GSM:2/3/5/8 3G: WCDMA:1/2/4/5/6/8/19 4G: LTE FDD: 1/2/3/4/5/7/8/18/19/20/26/28/66 4G: LTE TDD: 38/40/41 | Wi-Fi: 2.4GHz | 5GHz | Bluetooth 5.0",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Water & Dust Resistance",
+      "value": "IP64",
+      "unit": "",
+      "condition": "*The device with IP64 has been tested to be resistant to splashes and dust in the presence of specific laboratory conditions with the classification IP64 ingress protection based on IEC 60529: 1989+A1:1999+A2:2013. Resistance is not permanent and may deteriorate naturally over time. If your device is wet, do not attempt to charge it. The life scene is different from the experimental environment. Do not immerse your smartphone in water completely or expose it to solutions such as seawater and chlorinated water or liquids such as drinks during daily use. Your warranty does not cover the damage caused by man-made immersion of your device in liquid."
+    },
+    {
+      "label": "NFC",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Navigation",
+      "value": "GPS | Glonass | Galileo | Beidou",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Audio",
+      "value": "Hi-Res Audio | Dolby Atmos®",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensor",
+      "value": "Virtual proximity sensor | Ambient light sensor | Accelerometer | Electronic compass | IR blaster",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Operating system",
+      "value": "Xiaomi HyperOS 2",
+      "unit": "",
+      "condition": "*Availability of Xiaomi HyperOS 2 features, apps and services may vary depending on software version and phone model."
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU / model code and GTIN matching",
+    "Colour-specific packaging and regional accessories"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/poco-m7/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible manufacturer specification content parsed; model-reference scope, not an exact retailer SKU."
+    }
+  ],
+  "research_lane": "phones"
+}

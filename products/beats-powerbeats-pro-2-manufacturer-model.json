@@ -1,0 +1,181 @@
+{
+  "id": "beats-powerbeats-pro-2-manufacturer-model",
+  "brand": "Beats",
+  "model": "Powerbeats Pro 2",
+  "category": "Earbuds",
+  "scope": "Official manufacturer reference; USA/global page, Latvia SKU matching required",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Powerbeats Pro 2 official technical specifications and FAQ",
+  "source_url": "https://www.beatsbydre.com/earbuds/powerbeats-pro-2",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/beats-beats-powerbeats-pro-2---high-perf/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Chip",
+      "value": "Apple H2",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "ANC",
+      "value": "Adaptive",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Transparency",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Spatial audio",
+      "value": "Personalised; dynamic head tracking",
+      "unit": "",
+      "condition": "Compatible content/devices"
+    },
+    {
+      "label": "Earhook",
+      "value": "Nickel-titanium alloy",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Earbud protection",
+      "value": "IPX4",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Case water resistance",
+      "value": "Not water-resistant",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Heart rate sensing",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Workouts; compatible Apple/Android apps"
+    },
+    {
+      "label": "Microphones per earbud",
+      "value": "3",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Voice accelerometer",
+      "value": "Each earbud",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Optical sensor",
+      "value": "Each earbud",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Gyroscope",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Accelerometer",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Volume control",
+      "value": "Tactile rocker each earbud",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Multi-function button",
+      "value": "Each earbud",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Ear tip sizes",
+      "value": "XS/S/M/L/XL",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Wireless case charging",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "USB-C cable included",
+      "value": "No",
+      "unit": "",
+      "condition": "Official manufacturer model reference; regional SKU matching required"
+    },
+    {
+      "label": "Earbud listening Adaptive EQ",
+      "value": "Up to 10 hours",
+      "unit": "",
+      "condition": "Adaptive EQ mode"
+    },
+    {
+      "label": "Additional case listening Adaptive EQ",
+      "value": "Up to 35 hours",
+      "unit": "",
+      "condition": "Adaptive EQ mode; additional case-supplied playback"
+    },
+    {
+      "label": "Total listening Adaptive EQ",
+      "value": "Up to 45 hours",
+      "unit": "",
+      "condition": "Adaptive EQ mode; including charging case"
+    },
+    {
+      "label": "Earbud listening ANC/Transparency",
+      "value": "Up to 8 hours",
+      "unit": "",
+      "condition": "ANC/Transparency on"
+    },
+    {
+      "label": "Additional case listening ANC/Transparency",
+      "value": "Up to 28 hours",
+      "unit": "",
+      "condition": "ANC/Transparency on; additional case-supplied playback"
+    },
+    {
+      "label": "Total listening ANC/Transparency",
+      "value": "Up to 36 hours",
+      "unit": "",
+      "condition": "ANC/Transparency on; including charging case"
+    },
+    {
+      "label": "Fast Fuel",
+      "value": "Up to 1.5 hours playback after 5-min charge",
+      "unit": "",
+      "condition": "Adaptive EQ mode"
+    }
+  ],
+  "missing_fields": [
+    "Battery capacities",
+    "Regional SKU matching",
+    "Full battery lab test protocol"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.beatsbydre.com/earbuds/powerbeats-pro-2",
+      "fetched_at": "2026-10-14",
+      "method": "web open/find",
+      "notes": "Official tech details and FAQ actually read; earbud/case playback separated"
+    }
+  ],
+  "research_lane": "audio"
+}

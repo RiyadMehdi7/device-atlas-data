@@ -1,0 +1,212 @@
+{
+  "id": "ezviz-e4p-global-reference",
+  "brand": "EZVIZ",
+  "model": "E4p",
+  "category": "Cameras",
+  "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+  "identifiers": [
+    "CS-E4p-R100-8C6WKF"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "EZVIZ E4p official specifications",
+  "source_url": "https://www.ezviz.com/product/e4p/65325",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/e4p-smart-wi-fi-panoramic-camera/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Model",
+      "value": "CS-E4p-R100-8C6WKF",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Image Sensor",
+      "value": "1/2.8” Progressive Scan CMOS",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Shutter Speed",
+      "value": "Self-adaptive shutter",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Lens",
+      "value": "M12",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Day & Night",
+      "value": "IR-cut filter with auto switch",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "DNR",
+      "value": "3D DNR",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "WDR",
+      "value": "Digital WDR",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Max. Resolution",
+      "value": "3K⁺ (2320 × 2320)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Smart Alarm",
+      "value": "Motion Detection, AI-Powered Human Shape Detection",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wi-Fi Pairing",
+      "value": "AP pairing",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Protocol",
+      "value": "EZVIZ Cloud Proprietary Protocol",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Storage",
+      "value": "Supports microSD card (max. 512 GB)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Power",
+      "value": "Type-C",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Standard",
+      "value": "IEEE802.11a, 802.11b, 802.11g, 802.11n, 802.11ac",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Frequency Range",
+      "value": "2.4G: 2.412 GHz ~ 2.472 GHz 5G: 5.17 GHz ~ 5.25 GHz",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Channel Bandwidth",
+      "value": "Support 20 MHz",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Security",
+      "value": "WPA / WPA2, WPA-PSK / WPA2-PSK",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Transmission Rate",
+      "value": "11b 11 Mbps, 11g 54 Mbps, 11nHT20 MCS7, 11a 54 Mbps, 11nHT20 MCS7, 11ac MSC7",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Output Power (EIRP)",
+      "value": "19 dBm",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Antenna Gain",
+      "value": "2.4G: 1.79 dBi 5G: 3.61dBi",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Operating Conditions",
+      "value": "-10°C to 45°C (14°F to 113 °F ), Humidity 95% or less (non-condensing)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Power Supply",
+      "value": "DC 5 V / 2 A",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Power Consumption",
+      "value": "Max. 8 W",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "IR Range",
+      "value": "Max. 10 meters (32.81 ft)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Product Dimensions",
+      "value": "φ80 × 35 mm (φ3.15 × 1.38 inch)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Packaging Dimensions",
+      "value": "114 × 114 × 120 mm (4.49 × 4.49 × 4.72 inch)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Bare Weight",
+      "value": "122 g (4.3 oz)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Weight",
+      "value": "610 g (21.52 oz)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "In the box",
+      "value": "- E4p Camera",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Certifications",
+      "value": "CE / RoHS / REACH / WEEE / UL",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU/GTIN",
+    "Hardware revision and region-specific differences"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.ezviz.com/product/e4p/65325",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP fetch; HTML specification rows parsed",
+      "notes": "30 factual specification rows read; marketing paragraphs excluded"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

@@ -1,0 +1,359 @@
+{
+  "id": "hisense-65e7q-eu",
+  "brand": "Hisense",
+  "model": "65E7Q",
+  "category": "Televisions",
+  "scope": "Exact European manufacturer 65E7Q model / product code 20016409; exact Tele2 Latvia model name observed. Belgium sheet has swapped cm/in headings and mislabels video codec list as audio; those errors are explicitly excluded/correctly unit-scoped.",
+  "identifiers": [
+    "65E7Q",
+    "20016409",
+    "6942351418902"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Exact variant source checked",
+  "source_name": "Hisense Belgium 65E7Q product specification sheet",
+  "source_url": "https://hisense-static.hgecdn.net/img/w_full/medias/productSheet-000000000020016409-bs-hisense-be-nl-BE.pdf?context=bWFzdGVyfGdlbmVyYXRlZFByb2R1Y3RTaGVldHN8MTM3MzM0N3xhcHBsaWNhdGlvbi9wZGZ8YUdZeUwyZzJaUzh4TmpBMU56Y3hOemc0TWpreE1DOXdjbTlrZFdOMFUyaGxaWFJmTURBd01EQXdNREF3TURJd01ERTJOREE1WDJKekxXaHBjMlZ1YzJVdFltVmZibXhmUWtVdWNHUm18MzEwMjMyMjVkMTM2N2MzODZlMWMwMDcxMmY4YmYwZjY2MGZlYWY1MWMxZWI3ZGQ4MTJiNTI2NzQ1MThlMzY5Nw",
+  "tele2_url": "https://www.tele2.lv/televizori/hisense-65e7q-uhd-65/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Display resolution",
+      "value": "3840 × 2160",
+      "unit": "pixels",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "Screen size",
+      "value": "65",
+      "unit": "inches",
+      "condition": "Manufacturer Dutch sheet swaps cm/in field headings; values retained with their printed units."
+    },
+    {
+      "label": "Measured screen diagonal",
+      "value": "164",
+      "unit": "cm",
+      "condition": "Manufacturer Dutch sheet swaps cm/in field headings; values retained with their printed units."
+    },
+    {
+      "label": "Aspect ratio",
+      "value": "16:9",
+      "unit": "",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "Viewing angle",
+      "value": "178",
+      "unit": "degrees",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "Refresh rate",
+      "value": "60",
+      "unit": "Hz",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "Contrast ratio",
+      "value": "3800:1",
+      "unit": "",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "Panel response time",
+      "value": "8",
+      "unit": "ms",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "Local dimming",
+      "value": "No",
+      "unit": "",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "Wide colour gamut",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "Quantum Dot Colour",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "HLG",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "HDR formats",
+      "value": "HDR10 / HDR10+ decoding / Dolby Vision",
+      "unit": "",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "Dolby Vision gaming",
+      "value": "No",
+      "unit": "",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "MEMC",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "Ultra HD upscaling",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "Game mode input latency",
+      "value": "≤10",
+      "unit": "ms",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "Speaker output",
+      "value": "2 × 10",
+      "unit": "W",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "Audio processing / decoding",
+      "value": "Dolby Atmos / DTS Virtual X",
+      "unit": "",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "Hi-Concerto",
+      "value": "No",
+      "unit": "",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "EzPlay",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "Operating system",
+      "value": "VIDAA Smart OS",
+      "unit": "",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "AirPlay 2",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "Screen sharing",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "Content sharing",
+      "value": "DMP / DMR",
+      "unit": "",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "Tuners",
+      "value": "DVB-T2/T/C/S2/S",
+      "unit": "",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "CI+ version",
+      "value": "2.0",
+      "unit": "",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "HDMI 1 capabilities",
+      "value": "HDMI 2.1 / ALLM / VRR 60 Hz",
+      "unit": "",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "HDMI 2 capabilities",
+      "value": "HDMI 2.1 / ALLM / VRR 60 Hz",
+      "unit": "",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "HDMI 3 capabilities",
+      "value": "HDMI 2.1 / eARC / ALLM / VRR 60 Hz",
+      "unit": "",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "USB 2.0 ports",
+      "value": "2",
+      "unit": "",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "Optical S/PDIF outputs",
+      "value": "1",
+      "unit": "",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "Headphone connections",
+      "value": "1",
+      "unit": "",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "Ethernet ports",
+      "value": "1",
+      "unit": "",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "Wi-Fi",
+      "value": "IEEE 802.11 a/b/g/n/ac; 2.4 GHz / 5 GHz",
+      "unit": "",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "Bluetooth",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "Light sensor",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "Voltage",
+      "value": "100–240",
+      "unit": "V",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "HDR energy efficiency class",
+      "value": "G",
+      "unit": "",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "SDR energy efficiency class",
+      "value": "E",
+      "unit": "",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "Standby power",
+      "value": "0.5",
+      "unit": "W",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "Maximum power consumption",
+      "value": "190",
+      "unit": "W",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "Stand width × depth",
+      "value": "992 × 298",
+      "unit": "mm",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "VESA mount",
+      "value": "400 × 300",
+      "unit": "mm",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "Gross weight",
+      "value": "22.5",
+      "unit": "kg",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "Net weight with stand",
+      "value": "15.2",
+      "unit": "kg",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "Dimensions with stand (W × H × D)",
+      "value": "1453 × 875 × 298",
+      "unit": "mm",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "Dimensions without stand (W × H × D)",
+      "value": "1453 × 838 × 76",
+      "unit": "mm",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "Package dimensions (W × H × D)",
+      "value": "1649 × 997 × 142",
+      "unit": "mm",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "Adjustable stand",
+      "value": "No",
+      "unit": "",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "Cable management",
+      "value": "No",
+      "unit": "",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "Product code",
+      "value": "20016409",
+      "unit": "",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    },
+    {
+      "label": "EAN",
+      "value": "6942351418902",
+      "unit": "",
+      "condition": "Official Belgium European 65E7Q sheet. Regional PVR/time shift and services require Latvia confirmation."
+    }
+  ],
+  "missing_fields": [
+    "Latvia PVR/time-shift restrictions",
+    "Manual and energy-sheet verification",
+    "Video/audio codec label correction"
+  ],
+  "source_pages": [
+    {
+      "url": "https://hisense-static.hgecdn.net/img/w_full/medias/productSheet-000000000020016409-bs-hisense-be-nl-BE.pdf?context=bWFzdGVyfGdlbmVyYXRlZFByb2R1Y3RTaGVldHN8MTM3MzM0N3xhcHBsaWNhdGlvbi9wZGZ8YUdZeUwyZzJaUzh4TmpBMU56Y3hOemc0TWpreE1DOXdjbTlrZFdOMFUyaGxaWFJmTURBd01EQXdNREF3TURJd01ERTJOREE1WDJKekxXaHBjMlZ1YzJVdFltVmZibXhmUWtVdWNHUm18MzEwMjMyMjVkMTM2N2MzODZlMWMwMDcxMmY4YmYwZjY2MGZlYWY1MWMxZWI3ZGQ4MTJiNTI2NzQ1MThlMzY5Nw",
+      "fetched_at": "2026-10-14",
+      "method": "web PDF click/read",
+      "notes": "Official exact model PDF read, 4 pages. Structured extract saved; direct HTTP PDF fetch 403."
+    },
+    {
+      "url": "https://be.hisense.com/producten/televisies/qled-tv/TV-SET-65E7Q-HSN/p/000000000020016409",
+      "fetched_at": "2026-10-14",
+      "method": "web find",
+      "notes": "Exact manufacturer product page and linked document read."
+    }
+  ],
+  "research_lane": "televisions"
+}

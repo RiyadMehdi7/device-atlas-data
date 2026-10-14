@@ -1,0 +1,217 @@
+{
+  "id": "honor-pad-x9a",
+  "brand": "HONOR",
+  "model": "Pad X9a",
+  "model_family": "Pad X9a",
+  "category": "Tablets",
+  "scope": "European manufacturer model reference. Regional configurations vary; not a Latvia SKU or availability claim.",
+  "identifiers": [],
+  "aliases": [
+    "Pad X9A"
+  ],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer model source checked; Latvia SKU needs matching",
+  "source_name": "HONOR Pad X9A technical specifications",
+  "source_url": "https://www.honor.com/uk/tablets/honor-pad-x9a/spec/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Width",
+      "value": "267.3mm",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x9a/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Height",
+      "value": "167.4mm",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x9a/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Thickness",
+      "value": "6.77mm",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x9a/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Weight",
+      "value": "Wi-Fi approx 475 g  (including the battery)",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x9a/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Size",
+      "value": "11.5 inches",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x9a/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Screen-to-body Ratio",
+      "value": "86%",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x9a/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "PPI",
+      "value": "255 PPI",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x9a/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Brightness",
+      "value": "400nit (typical value)",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x9a/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Contrast Ratio",
+      "value": "1500:1 (typical value)",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x9a/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Type",
+      "value": "LCD",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x9a/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Resolution",
+      "value": "1504*2508",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x9a/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Refresh Rate",
+      "value": "The maximum screen refresh rate is the highest 120Hz (Support 3 gears, 120HZ/90HZ/60HZ)",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x9a/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Screen Color",
+      "value": "1.07 billion colors",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x9a/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "CPU model",
+      "value": "Snapdragon® 685 4G Mobile Platform",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x9a/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Number of CPU Cores",
+      "value": "Octa-core 4xCortex-A73 2.8GHz +4xCortex-A53 1.9GHz",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x9a/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Operating System",
+      "value": "MagicOS 9.0 (Android 15)",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x9a/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear Camera",
+      "value": "8MP camera (Fno2.0 AF)",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x9a/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front Camera",
+      "value": "5MP camera (Fno2.2 FF)",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x9a/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery Capacity",
+      "value": "8300 mAh (typical value)",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x9a/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery Type",
+      "value": "Lithium-ion battery",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x9a/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi",
+      "value": "Wi-Fi 5, 802.11 a/b/g/n/ac",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x9a/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi Protocol",
+      "value": "2.4GHz and 5GHz",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x9a/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "BT5.1   Supported  BLE, SBC, AAC, LDAC",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x9a/spec/",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia-specific MPN/GTIN",
+    "Latvia retail configuration and package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.honor.com/uk/tablets/honor-pad-x9a/spec/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible official technical content read; structured facts retained"
+    }
+  ],
+  "research_lane": "tablets"
+}

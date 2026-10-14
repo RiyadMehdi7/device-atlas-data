@@ -1,0 +1,603 @@
+{
+  "id": "dell-p2426heb",
+  "brand": "Dell",
+  "model": "P2426HEB",
+  "category": "Monitors",
+  "scope": "Exact Dell en-hk manufacturer product technical specification. Regional units, supplied cables and warranty may differ; Tele2 stocked unit EAN/part reconciliation remains unresolved.",
+  "identifiers": [
+    "P2426HEB"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Dell Pro P 24-Inch FHD USB-C Conferencing Monitor - P2426HEB | Dell Hong Kong",
+  "source_url": "https://www.dell.com/en-hk/shop/dell-pro-p-24-usb-c-hub-conferencing-monitor-p2426heb/apd/210-bvnw/monitors-monitor-accessories",
+  "tele2_url": "https://www.tele2.lv/monitori/dell-p2426heb/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Number of Screens",
+      "value": "1",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Screen Size Class",
+      "value": "24\"",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Viewable Screen Size",
+      "value": "23.8\"",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Screen Mode",
+      "value": "Full HD",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Panel Technology",
+      "value": "In-plane Switching (IPS) Technology",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Response Time Details",
+      "value": "- 5 ms GTG (Fast) - 8 ms GTG",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Aspect Ratio",
+      "value": "16:9",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Pixel Pitch",
+      "value": "0.27500 mm x 0.27500 mm",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Horizontal Viewing Angle",
+      "value": "178°",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Vertical Viewing Angle",
+      "value": "178°",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Mount Type",
+      "value": "Panel Mount",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "HDCP Supported",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Maximum Adjustable Height",
+      "value": "150 mm",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Tilt Angle",
+      "value": "-5° to 21°",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Swivel Angle",
+      "value": "-45° to 45°",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Pivot Angle",
+      "value": "+/-90°",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Features",
+      "value": "- Anti-glare - sRGB - Eye Comfort Technology - Low Blue Light - Flicker-free - Cable Lock Slot - BFR Free - PVC Free",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Adjustable Stand",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Stand Adjustments",
+      "value": "- Swivel - Height - Pivot - Tilt",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Stand Included",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Pivot",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Glass Hardness",
+      "value": "3H",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Camera Resolution",
+      "value": "4 Megapixel",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Surface Treatment",
+      "value": "Anti-glare",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Flicker Free",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Maximum Resolution",
+      "value": "1920 x 1080 (120 Hz)",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Standard Refresh Rate",
+      "value": "120 Hz",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Colour Supported",
+      "value": "16.7 Million Colours",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Native Contrast Ratio",
+      "value": "1,500:1",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Brightness",
+      "value": "300 cd/m2",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Color Gamut",
+      "value": "99% sRGB (CIE 1931)",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Pixel Per Inch (PPI)",
+      "value": "93",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Resolution Type",
+      "value": "Standard",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Number of Speakers",
+      "value": "2",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Speakers",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Speaker Output Power",
+      "value": "2 x 5 W",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Connectivity",
+      "value": "- 1 HDMI port/s (HDCP 1.4) (Supports up to 1920 x 1080 as specified in HDMI 2.1 (TMDS)) - 1 DisplayPort 1.4 (HDCP 1.4) port/s - 1 DisplayPort Out 1.4 port/s - 2 USB Type-A 5Gbps downstream port/s - 1 USB Type-B 5Gbps upstream port/s - 1 USB-C 5Gbps upstream port/s (DisplayPort 1.4 Alt Mode, Power Delivery up to 90 W) - 1 RJ45 Ethernet port/s, 1GbE - 1 USB Type-A 5Gbps downstream port/s with Battery Charging 1.2 - 1 USB-C 5Gbps downstream port/s, Power Delivery up to 15 W",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "USB Type-C (Power Delivery) Upstream",
+      "value": "90 W",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "USB Type-C (Power Delivery) Downstream",
+      "value": "15 W",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Built-in Devices",
+      "value": "- USB Hub - KVM Switch",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Webcam",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Microphone",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Operating Temperature Range",
+      "value": "0°C to 40°C",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Non-operating Temperature Range",
+      "value": "-20°C to 60°C",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Operating Humidity Range",
+      "value": "10% to 80% (Non-condensing)",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Non-operating Humidity Range",
+      "value": "5% to 90% (Non-condensing)",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Maximum Operating Altitude",
+      "value": "5 km",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Maximum Non-operating Altitude",
+      "value": "12.19 km",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Input Voltage Range",
+      "value": "100V AC to 240V AC",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Operating Power Consumption",
+      "value": "14.50 W",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Standby Power Consumption",
+      "value": "0.50 W",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Off-Mode Power Consumption",
+      "value": "0.30 W",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Frequency",
+      "value": "- 50 Hz - 60 Hz",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Maximum Power Consumption",
+      "value": "195 W",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Voltage Current",
+      "value": "2.50 A",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Input Voltage Range/Current Details",
+      "value": "100 VAC to 240 VAC/50 Hz or 60 Hz ± 3 Hz/2.5 A",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "VESA Mount Compatible",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "VESA Mount Standard",
+      "value": "100 x 100",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Color Family",
+      "value": "Black",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Product Color",
+      "value": "Black",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Height",
+      "value": "351.38 mm",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Width",
+      "value": "538.64 mm",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Depth",
+      "value": "64.06 mm",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Bezel Width (Top)",
+      "value": "5.80 mm",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Bezel Width (Bottom)",
+      "value": "16.95 mm",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Bezel Width (Left)",
+      "value": "5.80 mm",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Bezel Width (Right)",
+      "value": "5.80 mm",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Weight (Approximate)",
+      "value": "4.10 kg",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Stand Height",
+      "value": "410.90 mm",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Stand Width",
+      "value": "249.80 mm",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Stand Depth",
+      "value": "186.25 mm",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Weight (with Packaging) with Stand",
+      "value": "7.90 kg",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Weight (with Packaging) without Stand",
+      "value": "6.43 kg",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Weight with Stand & Cables (Approximate)",
+      "value": "5.95 kg",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Package Contents",
+      "value": "- Monitor - Stand - Quick Start guide - Safety Information",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Windows Hello Compatible",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Certifications & Standards",
+      "value": "- BFR/PVC free monitor (excluding external cables) - Product Safety, EMC and Environmental Datasheets - Dell Regulatory Compliance Home Page - Dell and the Environment - Meets NFPA 99 leakage current requirements. - Ukraine EE - Mexico EE - CEL - GS Mark",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Platform Supported",
+      "value": "- Windows - Mac",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Energy Star",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Country of Origin",
+      "value": "China/Vietnam",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "TAA Compliant",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "TCO Certified",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Eye Comfort Certification",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Eye Comfort Rating",
+      "value": "4 Star",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Dell Display and Peripheral Manager Compatibility",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Remote Asset Management",
+      "value": "Dell Display and Peripheral Manager (DDPM)",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Application/Usage",
+      "value": "Conferencing",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Cable Type Included",
+      "value": "- Power cable - 1 x DisplayPort-DisplayPort cable - 1.80 m - 1 x USB Type A to Type B downstream cable 1.80 m - 1 x USB-C to C 5Gbps 100 W cable 1.80 m",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Environmentally Friendly",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Environmental Certification",
+      "value": "- Electronic Product Environmental Assessment Tool Gold (EPEAT Gold) - TCO Certified 10.0 - TCO Certified Edge - Electronic Product Environmental Assessment Tool Climate+ (EPEAT Climate+)",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Energy Efficiency Certification",
+      "value": "- China Energy Conservation Program (CECP) - ENERGY STAR 8.0",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Energy Efficiency Compliance",
+      "value": "- Energy-related Products Directive Lot 5 (ErP Lot 5) - Korea E-Standby - Korea Minimum Energy Performance Standards (MEPS)",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Environmental Compliance",
+      "value": "Restriction of Hazardous Substances (RoHS)",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Limited Warranty",
+      "value": "3 Year",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Additional Warranty Information",
+      "value": "3-Year Advanced Exchange Service and Premium Panel Exchange",
+      "unit": "",
+      "condition": "Dell en-hk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    }
+  ],
+  "missing_fields": [
+    "Latvia stocked unit EAN / manufacturer part reconciliation",
+    "Input timing table from official user manual",
+    "Built-in Devices — source extractor returned no value"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.dell.com/en-hk/shop/dell-pro-p-24-usb-c-hub-conferencing-monitor-p2426heb/apd/210-bvnw/monitors-monitor-accessories",
+      "fetched_at": "2026-10-14",
+      "method": "Exa full page fetch; technical block only",
+      "notes": "Full manufacturer page fetched; factual technical block read. Empty extractor values excluded; search snippets not used."
+    }
+  ],
+  "research_lane": "monitors"
+}

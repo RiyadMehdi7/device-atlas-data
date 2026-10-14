@@ -1,0 +1,167 @@
+{
+  "id": "jbl-cinema-sb510-uk-model",
+  "brand": "JBL",
+  "model": "Cinema SB510",
+  "category": "Speakers",
+  "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "JBL Cinema SB510 | 3.1 Channel Soundbar",
+  "source_url": "https://uk.jbl.com/SB510.html",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Model",
+      "value": "CINEMA SB510",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Sound system",
+      "value": "3.1 channel",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Power supply",
+      "value": "100 - 240V AC, ~ 50/60Hz",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Total speaker power output (Max @THD 1%)",
+      "value": "200W",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Soundbar output power (Max @THD 1%)",
+      "value": "150W",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Subwoofer output power (Max. @THD 1%)",
+      "value": "50W",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Soundbar transducer",
+      "value": "3x (45 x 80) mm racetrack drivers",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Subwoofer transducer",
+      "value": "1x (70 x 88) mm, built-in subwoofer",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Standby power",
+      "value": "< 0.5W",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Operating temperature",
+      "value": "0°C - 45 °C",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Frequency response",
+      "value": "55Hz-20kHz (-10dB)",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Audio inputs",
+      "value": "1 Optical, Bluetooth and USB (USB playback is available in US version. For other versions, USB is for Service only.)",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Soundbar dimensions (W x H x D)",
+      "value": "950 x 67 x 105 mm / 37.4’’ x 2.6’’ x 4.1’’",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Soundbar weight",
+      "value": "3.5kg / 7.7 lbs",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Packaging dimensions (W x H x D)",
+      "value": "1112 x 116 x 164 mm / 43.8\" x 4.6\" x 6.5\"",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Packaging Weight",
+      "value": "5.0kg / 11.0 lbs",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "USB port",
+      "value": "Type A",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "USB rating",
+      "value": "5V DC, 0.5A",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Supporting file formats",
+      "value": "mp3",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "MP3 codec",
+      "value": "MPEG 1 Layer 2/3, MPEG 2 Layer 3, MPEG 2.5 Layer 3",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "MP3 sampling rate",
+      "value": "16 - 48 kHz",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth version",
+      "value": "5.3",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth profile",
+      "value": "A2DP 1.3, AVRCP 1.6",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU/GTIN matching"
+  ],
+  "source_pages": [
+    {
+      "url": "https://uk.jbl.com/SB510.html",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Specification table read; conflicting or ambiguous playback totals omitted"
+    }
+  ],
+  "research_lane": "audio"
+}

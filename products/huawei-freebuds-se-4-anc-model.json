@@ -1,0 +1,180 @@
+{
+  "id": "huawei-freebuds-se-4-anc-model",
+  "brand": "Huawei",
+  "model": "FreeBuds SE 4 ANC",
+  "category": "Earbuds",
+  "scope": "Global manufacturer model reference; Latvia SKU matching required; no colour copies",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "FreeBuds SE 4 ANC Official specifications",
+  "source_url": "https://consumer.huawei.com/en/headphones/freebuds-se-4-anc/specs/",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/freebuds-se-4-anc/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Earbud dimensions",
+      "value": "32.3 x 21.3 x 24.0 mm (HxWxD)",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Case dimensions",
+      "value": "46.5 x 61.8 x 24.7 mm (HxWxD)",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Earbud weight",
+      "value": "4.3 g",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Case weight",
+      "value": "36 g",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Battery type",
+      "value": "Lithium-ion polymer",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Earbud capacity",
+      "value": "41 mAh",
+      "unit": "",
+      "condition": "Rated; single earbud"
+    },
+    {
+      "label": "Case capacity",
+      "value": "510 mAh",
+      "unit": "",
+      "condition": "Rated; charging case"
+    },
+    {
+      "label": "Charge connector",
+      "value": "USB-C",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Case charging",
+      "value": "Approx. 110 min",
+      "unit": "",
+      "condition": "Wired; alone or with earbuds"
+    },
+    {
+      "label": "Earbud charging",
+      "value": "Approx. 60 min",
+      "unit": "",
+      "condition": "In case"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "5.4",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Driver",
+      "value": "10 mm dynamic",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Frequency response",
+      "value": "20 Hz-20 kHz",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Earbud material",
+      "value": "PC",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Case material",
+      "value": "PC",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Tips material",
+      "value": "Silicone",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Sensors",
+      "value": "Hall effect; touch",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Codecs",
+      "value": "SBC; AAC; mSBC",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Indicator",
+      "value": "One three-colour indicator",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Call noise cancellation",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Multi-EQ",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Earbud protection",
+      "value": "IP54",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Case water resistance",
+      "value": "Not water-resistant",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Double tap",
+      "value": "Play/pause; answer/end call",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Triple tap",
+      "value": "Next/previous track",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU/GTIN matching",
+    "Playback omitted: ANC footnotes conflict with labelled claims"
+  ],
+  "source_pages": [
+    {
+      "url": "https://consumer.huawei.com/en/headphones/freebuds-se-4-anc/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Official specification page actually read; separate case/earbud values"
+    }
+  ],
+  "research_lane": "audio"
+}

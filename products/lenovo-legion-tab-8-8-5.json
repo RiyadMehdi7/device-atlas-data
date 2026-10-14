@@ -1,0 +1,305 @@
+{
+  "id": "lenovo-legion-tab-8-8-5",
+  "brand": "Lenovo",
+  "model": "Legion Tab (8.8-inch, 5)",
+  "model_family": "Legion Tab (8.8-inch, 5)",
+  "category": "Tablets",
+  "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
+  "identifiers": [],
+  "aliases": [
+    "Legion Tab 8 8 5"
+  ],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer model source checked; Latvia SKU needs matching",
+  "source_name": "Lenovo Legion Tab 8 8 5 technical specifications",
+  "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Legion_Tab_8_8_5/Legion_Tab_8_8_5_Spec.pdf",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Operating System",
+      "value": "Android™ 16 or later",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Legion_Tab_8_8_5/Legion_Tab_8_8_5_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Graphics",
+      "value": "Qualcomm® Adreno™ A840 GPU",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Legion_Tab_8_8_5/Legion_Tab_8_8_5_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Max Memory",
+      "value": "• 12GB soldered memory, not upgradable • 16GB soldered memory, not upgradable",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Legion_Tab_8_8_5/Legion_Tab_8_8_5_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Memory Type",
+      "value": "LPDDR5T",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Legion_Tab_8_8_5/Legion_Tab_8_8_5_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Max Storage Support",
+      "value": "• 256GB UFS on systemboard • 512GB UFS on systemboard • microSD card, supports up to 2TB",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Legion_Tab_8_8_5/Legion_Tab_8_8_5_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Card Reader",
+      "value": "microSD card slot",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Legion_Tab_8_8_5/Legion_Tab_8_8_5_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Speakers",
+      "value": "2x speakers, optimized with Dolby Atmos®",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Legion_Tab_8_8_5/Legion_Tab_8_8_5_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Microphone",
+      "value": "Dual microphone",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Legion_Tab_8_8_5/Legion_Tab_8_8_5_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Camera",
+      "value": "Front 8.0MP, fixed focus, face unlock Rear 50.0MP, autofocus, fixed focus, with flashlight",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Legion_Tab_8_8_5/Legion_Tab_8_8_5_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Vibration Motor",
+      "value": "Dual X-axis motor",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Legion_Tab_8_8_5/Legion_Tab_8_8_5_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Sensors",
+      "value": "•    Accelerometer + Gyroscope sensor •    Hall sensor •    Proximity (P) + Ambient Light sensor •    e-Compass",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Legion_Tab_8_8_5/Legion_Tab_8_8_5_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery",
+      "value": "9000mAh (typical) Rechargeable Li-ion Battery",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Legion_Tab_8_8_5/Legion_Tab_8_8_5_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Max Battery Life",
+      "value": "Online video playback: 23 hr Web browsing: 21.27 hr",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Legion_Tab_8_8_5/Legion_Tab_8_8_5_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Power Adapter",
+      "value": "• 5~11V/4.5A (45W max) USB-C® AC adapter, supports PD 3.0, PPS, 100-240V, 50-60Hz • 11V/6.2A (68.2W max) USB-C® AC adapter, supports PD 3.0, PPS, 100-240V, 50-60Hz • No power adapter",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Legion_Tab_8_8_5/Legion_Tab_8_8_5_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Touchscreen",
+      "value": "Capacitive-type multi-touch, supports 10-point touch",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Legion_Tab_8_8_5/Legion_Tab_8_8_5_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Screen-to-Body Ratio",
+      "value": "88%",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Legion_Tab_8_8_5/Legion_Tab_8_8_5_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Pen",
+      "value": "No pen bundled (purchase separately)[1]",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Legion_Tab_8_8_5/Legion_Tab_8_8_5_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions (WxDxH)",
+      "value": "206.46 x 128.5 x 7.59 mm (8.13 x 5.06 x 0.30 inches)",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Legion_Tab_8_8_5/Legion_Tab_8_8_5_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Weight",
+      "value": "Around 360 g (0.79 lbs)",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Legion_Tab_8_8_5/Legion_Tab_8_8_5_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Case Material",
+      "value": "Metal",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Legion_Tab_8_8_5/Legion_Tab_8_8_5_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "WLAN + Bluetooth®",
+      "value": "Wi-Fi® 7, 802.11be 2x2 Wi-Fi® + Bluetooth® 6.0",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Legion_Tab_8_8_5/Legion_Tab_8_8_5_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "WWAN",
+      "value": "No support",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Legion_Tab_8_8_5/Legion_Tab_8_8_5_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi® Direct",
+      "value": "Support",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Legion_Tab_8_8_5/Legion_Tab_8_8_5_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi® Display",
+      "value": "Support",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Legion_Tab_8_8_5/Legion_Tab_8_8_5_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Location Services",
+      "value": "GPS + GLONASS + Galileo + Beidou",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Legion_Tab_8_8_5/Legion_Tab_8_8_5_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Standard Ports",
+      "value": "• 1x USB-C® (Hi-Speed USB), with charging, OTG and audio • 1x USB-C® (USB 10Gbps), with charging, DP-Out, OTG and audio • 1x Card slot",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Legion_Tab_8_8_5/Legion_Tab_8_8_5_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Temperature",
+      "value": "Operating: 0°C (32°F) to 40°C (104°F) Storage: -20°C (-4°F) to 60°C (140°F)",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Legion_Tab_8_8_5/Legion_Tab_8_8_5_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dust and Water Resistant",
+      "value": "IP52",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Legion_Tab_8_8_5/Legion_Tab_8_8_5_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Processor table",
+      "value": "Processor Processor Name Cores Max Frequency Processor Graphics 2x Prime core Snapdragon® 8 Elite Gen 5 (Qualcomm® Octa-core, 2 x Prime core + 6 x @4.6GHz Qualcomm® Adreno™ 8850P) Mobile Platform Performance core 6x Performance core A840 GPU @3.62GHz",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Legion_Tab_8_8_5/Legion_Tab_8_8_5_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display diagonal options",
+      "value": "8.8\"",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Legion_Tab_8_8_5/Legion_Tab_8_8_5_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display resolution options",
+      "value": "3040x1904",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Legion_Tab_8_8_5/Legion_Tab_8_8_5_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display refresh options",
+      "value": "165Hz",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Legion_Tab_8_8_5/Legion_Tab_8_8_5_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display aspect ratios",
+      "value": "16:10",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Legion_Tab_8_8_5/Legion_Tab_8_8_5_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display brightness values",
+      "value": "600nits / 800nits",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Legion_Tab_8_8_5/Legion_Tab_8_8_5_Spec.pdf",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia-specific MPN/GTIN",
+    "Latvia retail configuration and package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Legion_Tab_8_8_5/Legion_Tab_8_8_5_Spec.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP PDF fetch + pdftotext",
+      "notes": "Official PSREF PDF read; locally retained as research/tablets/Legion_Tab_8_8_5.pdf"
+    }
+  ],
+  "research_lane": "tablets"
+}

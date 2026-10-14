@@ -1,0 +1,248 @@
+{
+  "id": "benq-xl2546x-plus",
+  "brand": "BenQ",
+  "model": "XL2546X+",
+  "category": "Monitors",
+  "scope": "Exact XL2546X+ manufacturer US technical specification reference; Latvia EAN, regional code and supplied accessories unresolved.",
+  "identifiers": [
+    "XL2546X+"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "XL2546X+ 24.1\" 280Hz Fast-TN Gaming Monitor with DyAc 2 for Pro FPS Players | ZOWIE US",
+  "source_url": "https://zowie.benq.com/en-us/monitor/xl2546x-plus.html",
+  "tele2_url": "https://www.tele2.lv/monitori/zowie-xl2546x-241inch-fhd-280hz/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Screen Size",
+      "value": "24.1 inch",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Aspect Ratio",
+      "value": "16:9",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Display area (mm)",
+      "value": "535.68 x 298.08",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Pixel Pitch (mm)",
+      "value": "0.279 mm",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Native Contrast",
+      "value": "1000:1",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Refresh Rate",
+      "value": "280 Hz",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Brightness (typ.)",
+      "value": "320 nits",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Max. resolution (PC/Laptop)",
+      "value": "1920 x 1080 at 280Hz (DP 1.2)‎‎‎‎",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Max. resolution (Console)",
+      "value": "1920 x 1080 at 120Hz for PS5 / Xbox series X/S (HDMI 2.0)",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Panel Type",
+      "value": "TN",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Fast liquid crystal",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Headphone Jack",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Voltage Rating",
+      "value": "100-240V",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Power Supply",
+      "value": "Built-in",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Power Consumption (max)",
+      "value": "<65W",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Tilt (down/up)",
+      "value": "-5˚- 35˚",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Swivel (left/right)",
+      "value": "45˚/ 45˚",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Height Adjustment Stand",
+      "value": "155 mm",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Net Weight (kg)",
+      "value": "5.8",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Gross Weight (kg)",
+      "value": "11.5",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "K Locker",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "VESA Wall Mount",
+      "value": "100x100 mm",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Dimensions (WxHxD) (mm)",
+      "value": "576.15x517.3(High)/362.3(Low)x171.65",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "S Switch‎",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Shield‎",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Video cable",
+      "value": "DP 1.2 (1.8m) / HDMI 2.0 (1.8m)",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Power Cable",
+      "value": "1.8 m",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "HDMI (v2.0)",
+      "value": "3",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "DisplayPort (v1.2)",
+      "value": "1",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Low Blue Light",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Flicker-free Technology",
+      "value": "Yes (DyAc 2 OFF)",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Color Vibrance",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "DyAc2",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Black eQualizer",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Variable Refresh Rate",
+      "value": "Yes (DyAc 2 OFF)",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "XL Setting to Share",
+      "value": "Yes (with Auto game mode)",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    }
+  ],
+  "missing_fields": [
+    "Latvia EAN / regional product code matching",
+    "Input timing limits from official user manual"
+  ],
+  "source_pages": [
+    {
+      "url": "https://zowie.benq.com/en-us/monitor/xl2546x-plus.html",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "HTTP 200; exact model heading and technical specification rows read"
+    }
+  ],
+  "research_lane": "monitors"
+}

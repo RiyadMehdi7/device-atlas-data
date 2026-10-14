@@ -1,0 +1,135 @@
+{
+  "id": "xiaomi-xiaomi-33w-power-bank-20000mah-integrated-cable",
+  "brand": "Xiaomi",
+  "model": "Xiaomi 33W Power Bank 20000mAh Integrated Cable",
+  "model_family": "Xiaomi 33W Power Bank 20000mAh Integrated Cable",
+  "category": "Accessories",
+  "scope": "Official Global specification model PB2030MI. Regional plug/package variants remain unresolved; model-name Tele2 matching does not prove exact EU SKU. Manufacturer recall affects a specified2024 batch; serial eligibility unresolved.",
+  "identifiers": [
+    "PB2030MI"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Xiaomi Xiaomi 33W Power Bank 20000Mah Integrated Cable technical specifications",
+  "source_url": "https://www.mi.com/global/product/xiaomi-33w-power-bank-20000mah-integrated-cable/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Model",
+      "value": "PB2030MI",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-33w-power-bank-20000mah-integrated-cable/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery type",
+      "value": "Lithium-ion battery",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-33w-power-bank-20000mah-integrated-cable/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rated battery power",
+      "value": "74Wh (7.4V 10000mAh)",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-33w-power-bank-20000mah-integrated-cable/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Typical battery power",
+      "value": "75.48Wh (7.4V 10200mAh)",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-33w-power-bank-20000mah-integrated-cable/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rated capacity",
+      "value": "12000mAh (5V/3A)",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-33w-power-bank-20000mah-integrated-cable/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Input port",
+      "value": "USB-C®/USB-C cable",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-33w-power-bank-20000mah-integrated-cable/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Output port",
+      "value": "USB-C®/USB-C cable/USB-A",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-33w-power-bank-20000mah-integrated-cable/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Input parameters",
+      "value": "IN1: 5V⎓3A 9V⎓2.5A 12V⎓2.5A; IN2: 5V⎓3A 9V⎓2.5A 12V⎓2.5A",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-33w-power-bank-20000mah-integrated-cable/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Output parameters",
+      "value": "33W MAX multiple ports 5V⎓3A; OUT1: 5V⎓3A 9V⎓3A 11V⎓3A 12V⎓2.5A 15V⎓2A 20V⎓1.5A MAX ; OUT2: 5V⎓3A 9V⎓3A 11V⎓3A 12V⎓2.5A 15V⎓2A 20V⎓1.5A MAX; OUT3: 5V⎓3A 9V⎓2.23A 10V⎓2.25A 12V⎓1.67A MAX",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-33w-power-bank-20000mah-integrated-cable/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions",
+      "value": "127 x 70.5 x 30.5mm",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-33w-power-bank-20000mah-integrated-cable/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Package Contents",
+      "value": "Xiaomi 33W Power Bank 20000mAh (Integrated Cable) x1; User manual x1",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-33w-power-bank-20000mah-integrated-cable/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Manufacturer batch recall notice",
+      "value": "PB2030MI units manufactured August–September2024; serial-number eligibility check required",
+      "unit": "",
+      "condition": "UK OPSS primary recall report confirming manufacturer batch recall. Model/batch/SN scope only; not every unit.",
+      "source_url": "https://www.gov.uk/product-safety-alerts-reports-recalls/product-recall-xiaomi-33w-power-bank-20000mah-with-integrated-cable-2510-0232",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia MPN/GTIN",
+    "Latvia retail package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/xiaomi-33w-power-bank-20000mah-integrated-cable/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Official source technical content read; factual extraction retained"
+    },
+    {
+      "url": "https://www.gov.uk/product-safety-alerts-reports-recalls/product-recall-xiaomi-33w-power-bank-20000mah-with-integrated-cable-2510-0232",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Primary OPSS recall report directly read; manufacturer safety notice loads only JS shell in this environment"
+    }
+  ],
+  "research_lane": "accessories"
+}

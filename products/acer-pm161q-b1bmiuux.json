@@ -1,0 +1,345 @@
+{
+  "id": "acer-pm161q-b1bmiuux",
+  "brand": "Acer",
+  "model": "PM161Q B1bmiuux",
+  "category": "Monitors",
+  "scope": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 US model reference. Complete suffix agrees with observed Tele2 name; Latvia regional part and EAN unresolved. US power cord bundle explicitly scoped.",
+  "identifiers": [
+    "PM161Q B1bmiuux",
+    "UM.ZP1AA.101"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "PM1 - PM161Q B1bmiuux Tech Specs | LCD Monitor | Acer United States",
+  "source_url": "https://www.acer.com/us-en/monitors/essential/pm1/pdp/UM.ZP1AA.101",
+  "tele2_url": "https://www.tele2.lv/monitori/acer-pm161q-b1bmiuux/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Number of Screens",
+      "value": "1",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Viewable Screen Size",
+      "value": "15.6\"",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Screen Size Class",
+      "value": "16\"",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Screen Mode",
+      "value": "Full HD",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Panel Technology",
+      "value": "In-plane Switching (IPS) Technology",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Response Time",
+      "value": "4 ms",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Response Time Details",
+      "value": "4 ms GTG",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Aspect Ratio",
+      "value": "16:9",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Pixel Pitch",
+      "value": "0.17900 mm x 0.17900 mm",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Horizontal Viewing Angle",
+      "value": "172°",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Vertical Viewing Angle",
+      "value": "178°",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Backlight Technology",
+      "value": "LED",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Tilt Angle",
+      "value": "0° to 90°",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Adjustable Display Pivot",
+      "value": "No",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Adjustable Display Height",
+      "value": "No",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Adjustable Stand",
+      "value": "No",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Active Display Area (mm)",
+      "value": "344x194",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Screen Surface",
+      "value": "Anti-glare",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Cover Glass",
+      "value": "No",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Speakers",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Speaker Output Power",
+      "value": "2 W",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "VESA Mount Compatible",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "VESA Mount Standard",
+      "value": "75 x 75",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Product Color",
+      "value": "Black",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Height",
+      "value": "8.7\"",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Width",
+      "value": "14\"",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Depth",
+      "value": "0.4\"",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Height with Stand",
+      "value": "8.70\"",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Width with Stand",
+      "value": "13.99\"",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Depth with Stand",
+      "value": "0.41\"",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Weight (Approximate)",
+      "value": "1.48 lb",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Weight with Stand (Approximate)",
+      "value": "1.52 lb",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Maximum Resolution",
+      "value": "1920 x 1080",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Standard Refresh Rate",
+      "value": "60 Hz",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Color Supported",
+      "value": "16.7 Million Colors",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Color Depth",
+      "value": "6-bit+FRC",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Dynamic Contrast Ratio",
+      "value": "100,000,000:1",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Brightness",
+      "value": "250 Nit",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Tearing Prevention Technology",
+      "value": "VESA Adaptive Sync",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Color Gamut",
+      "value": "45% NTSC",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Native Contrast Ratio",
+      "value": "1,000:1",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Maximum Resolution (HDMI)",
+      "value": "1920x1080@60Hz",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "EPREL No.",
+      "value": "2216840",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Package Contents",
+      "value": "1 x PM161Q B1 Widescreen LCD Monitor; 1 x HDMI Cable; 1 x Power Cord (US); 1 x USB Type-C Cable",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Built-in Devices",
+      "value": "Speaker",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "HDMI",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "HDMI Version",
+      "value": "1.4",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Total Number of HDMI Ports",
+      "value": "1",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Headphone",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Audio Line Out",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "USB Type-C",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    },
+    {
+      "label": "Total Number of USB Type-C Ports",
+      "value": "2",
+      "unit": "",
+      "condition": "Exact PM161Q B1bmiuux / UM.ZP1AA.101 official US technical table; original inches/lb and stand conditions retained"
+    }
+  ],
+  "missing_fields": [
+    "Latvia regional part and EAN reconciliation",
+    "Official user manual input timing table"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.acer.com/us-en/monitors/essential/pm1/pdp/UM.ZP1AA.101",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Initial web open returned complete explicit technical table, marked crawled 2 days ago. Subsequent reopens timed out. Values transcribed from original fetched technical rows."
+    }
+  ],
+  "research_lane": "monitors"
+}

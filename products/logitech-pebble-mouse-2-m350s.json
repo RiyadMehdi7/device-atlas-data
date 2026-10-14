@@ -1,0 +1,244 @@
+{
+  "id": "logitech-pebble-mouse-2-m350s",
+  "brand": "Logitech",
+  "model": "Pebble Mouse 2 M350s",
+  "model_family": "Pebble Mouse 2 M350s",
+  "category": "Accessories",
+  "scope": "UK manufacturer model reference. Explicit MPN options identify their labelled colour/layout variants; not a Latvia SKU. No colour/layout records generated.",
+  "identifiers": [
+    "910-007014",
+    "910-007015",
+    "910-007013"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Logitech Pebble Mouse 2 M350s technical specifications",
+  "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-2-m350s-wireless-mouse",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Dimensions / Height",
+      "value": "106 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-2-m350s-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Width",
+      "value": "58.7 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-2-m350s-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Depth",
+      "value": "26.62 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-2-m350s-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Weight",
+      "value": "76 g",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-2-m350s-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Sensor Technology",
+      "value": "High-precision optical tracking",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-2-m350s-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Nominal value",
+      "value": "1000 dpi",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-2-m350s-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "DPI (Minimal and maximal value)",
+      "value": "400-4000 dpi (Fully adjustable with 100DPI increments)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-2-m350s-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Number of Buttons",
+      "value": "3 (Left/Right-click, Scroll-wheel with middle click)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-2-m350s-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Customizable button with Logi Options+ App",
+      "value": "1 (scroll wheel with middle click)*. (*Available on Windows and macOS at logi.com/optionsplus)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-2-m350s-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Customization app",
+      "value": "Supported by Logi Options+ App on Windows and macOS*. (*Available on Windows and macOS at logi.com/optionsplus)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-2-m350s-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connect / Power",
+      "value": "On/Off Switch",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-2-m350s-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Indicator Lights",
+      "value": "3 Easy-Switch Bluetooth channels",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-2-m350s-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery type",
+      "value": "1 AA battery (Alkaline Battery)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-2-m350s-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery life",
+      "value": "24 months*. (*Battery life may vary based on user and computing conditions.)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-2-m350s-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connection Type",
+      "value": "Bluetooth Low Energy Technology",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-2-m350s-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Multi-device pairing",
+      "value": "up to 3 devices",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-2-m350s-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wireless range",
+      "value": "10 m*. (*Wireless range may vary due to environmental and computing conditions.)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-2-m350s-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connection type support",
+      "value": "Compatible with Logi Bolt USB receiver (not included)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-2-m350s-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Requirements",
+      "value": "Internet access required to download optional customization app Logi Options+",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-2-m350s-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "Bluetooth Low Energy Windows®* 10, 11 or later macOS* 11 or later iPadOS** 14 or later Android™** 9.0 or later ChromeOS™**, Linux®** Works With Chromebook™***. (*Customize the device by installing the Logi Options+ App for Windows or macOS., **Logi Options+ App is currently not supported. The device’s basic functions will work without it., ***This product works with devices capable of running the latest version of ChromeOS and has been certified to meet Google's compatibility standards. Google is not responsible for the operation of this product or its compliance with safety requirements. Chromebook and the Works With Chromebook badge are trademarks of Google LLC.)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-2-m350s-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Logi Bolt USB receiver",
+      "value": "Compatible with Logi Bolt USB receiver (not included).",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-2-m350s-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Compatibility",
+      "value": "Compatible with MacBook Neo laptops. Instant Bluetooth® connection. Seamless. Colour-matched.",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-2-m350s-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Manufacturer warranty",
+      "value": "2-Year Limited Hardware Warranty",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-2-m350s-wireless-mouse",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "UK package contents",
+      "value": "Pebble Mouse 2 M350s; 1 x AA Alkaline battery (pre-installed); User documentation; Important Info Document (IID)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-2-m350s-wireless-mouse",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia MPN/GTIN",
+    "Latvia retail package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.logitech.com/en-gb/shop/p/pebble-2-m350s-wireless-mouse",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Official source technical content read; factual extraction retained"
+    }
+  ],
+  "identifier_options": [
+    {
+      "mpn": "910-007014",
+      "name": "Pebble Mouse 2 M350s - Tonal Rose",
+      "colour": "Tonal Rose"
+    },
+    {
+      "mpn": "910-007015",
+      "name": "Pebble Mouse 2 M350s - Tonal Graphite",
+      "colour": "Tonal Graphite"
+    },
+    {
+      "mpn": "910-007013",
+      "name": "Pebble Mouse 2 M350s - Tonal White",
+      "colour": "Tonal White"
+    }
+  ],
+  "research_lane": "accessories"
+}

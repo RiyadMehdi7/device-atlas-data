@@ -1,0 +1,196 @@
+{
+  "id": "acer-vg270-e-regulatory-reference",
+  "brand": "Acer",
+  "model": "VG270 E",
+  "category": "Monitors",
+  "scope": "Exact supplier-declared EU regulatory model reference. Base identifier agrees with Tele2 attached product fiche; complete retail suffix, ports, panel subtype and stocked SKU remain unresolved.",
+  "identifiers": [
+    "VG270 E"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Acer VG270 E EU supplier product information sheet",
+  "source_url": "https://eprel.ec.europa.eu/fiches/electronicdisplays/Fiche_1410003_EN.pdf",
+  "tele2_url": "https://www.tele2.lv/monitori/acer-nitro-vg270ebmiix-27-ips1920x108016/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Supplier trademark",
+      "value": "acer",
+      "unit": "",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Regulatory model identifier",
+      "value": "VG270 E",
+      "unit": "",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "SDR energy efficiency class",
+      "value": "E",
+      "unit": "",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "On mode power demand in SDR",
+      "value": "17,3",
+      "unit": "W",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "HDR energy efficiency class",
+      "value": "n.a.",
+      "unit": "",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "On mode power demand in HDR",
+      "value": "n.a.",
+      "unit": "W",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Off mode power demand",
+      "value": "0,3",
+      "unit": "W",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Standby mode power demand",
+      "value": "0,5",
+      "unit": "W",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Networked standby power demand",
+      "value": "n.a.",
+      "unit": "W",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Electronic display category",
+      "value": "Monitor",
+      "unit": "",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Size ratio",
+      "value": "16 : 9",
+      "unit": "",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Screen resolution",
+      "value": "1 920 x 1 080",
+      "unit": "pixels",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Screen diagonal",
+      "value": "68,6",
+      "unit": "cm",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Screen diagonal",
+      "value": "27",
+      "unit": "inches",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Visible screen area",
+      "value": "20,0",
+      "unit": "dm²",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Panel technology used",
+      "value": "LED LCD",
+      "unit": "",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Automatic Brightness Control (ABC) available",
+      "value": "No",
+      "unit": "",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Voice recognition sensor available",
+      "value": "No",
+      "unit": "",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Room presence sensor available",
+      "value": "No",
+      "unit": "",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Image refresh frequency rate (default)",
+      "value": "100",
+      "unit": "Hz",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Minimum guaranteed software/firmware updates availability",
+      "value": "8",
+      "unit": "Years",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Minimum guaranteed spare parts availability",
+      "value": "7",
+      "unit": "Years",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Minimum guaranteed product support",
+      "value": "7",
+      "unit": "Years",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Minimum general guarantee duration offered by supplier",
+      "value": "2",
+      "unit": "Years",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Power supply type",
+      "value": "Internal",
+      "unit": "",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "EPREL registration number",
+      "value": "1410003",
+      "unit": "",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Declared Union market placement start",
+      "value": "31/07/2023",
+      "unit": "",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    }
+  ],
+  "missing_fields": [
+    "Full manufacturer part/EAN and retail suffix matching",
+    "Maximum refresh rate; regulatory default does not prove maximum",
+    "Brightness, IPS/VA subtype, HDMI/DP ports, stand dimensions and weight unresolved",
+    "Rich exact-suffix manufacturer technical page / manual not yet located"
+  ],
+  "source_pages": [
+    {
+      "url": "https://eprel.ec.europa.eu/fiches/electronicdisplays/Fiche_1410003_EN.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch and pdftotext -layout",
+      "notes": "HTTP 200; official EU registry supplier-declared product sheet; exact model identifier read. Facts are declarations, not independent measurements."
+    }
+  ],
+  "research_lane": "monitors"
+}

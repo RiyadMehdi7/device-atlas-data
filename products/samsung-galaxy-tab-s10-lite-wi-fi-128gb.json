@@ -1,0 +1,281 @@
+{
+  "id": "samsung-galaxy-tab-s10-lite-wi-fi-128gb",
+  "brand": "Samsung",
+  "model": "Galaxy Tab S10 Lite Wi-Fi 128GB",
+  "category": "Tablets",
+  "scope": "Exact UK SM-X400NZAREUB manufacturer SKU. UK specification and storage/connectivity scope only; Latvia part number must be matched.",
+  "identifiers": [
+    "SM-X400NZAREUB"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Exact UK variant source checked; Latvia SKU needs matching",
+  "source_name": "Galaxy Tab S10 Lite Wi-Fi 128 - manufacturer technical specifications",
+  "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s10-lite-grey-128gb-wi-fi-sm-x400nzareub/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "CPU type",
+      "value": "Octa-core",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s10-lite-grey-128gb-wi-fi-sm-x400nzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "CPU frequencies",
+      "value": "2.4GHz, 2GHz",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s10-lite-grey-128gb-wi-fi-sm-x400nzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display diagonal",
+      "value": "10.9 inches full rectangle; 10.8 rounded corners",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s10-lite-grey-128gb-wi-fi-sm-x400nzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display resolution",
+      "value": "2112 x 1320",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s10-lite-grey-128gb-wi-fi-sm-x400nzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display technology",
+      "value": "TFT",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s10-lite-grey-128gb-wi-fi-sm-x400nzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display colours",
+      "value": "16M",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s10-lite-grey-128gb-wi-fi-sm-x400nzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear cameras",
+      "value": "8MP",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s10-lite-grey-128gb-wi-fi-sm-x400nzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear autofocus",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s10-lite-grey-128gb-wi-fi-sm-x400nzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front camera",
+      "value": "5MP",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s10-lite-grey-128gb-wi-fi-sm-x400nzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear flash",
+      "value": "No",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s10-lite-grey-128gb-wi-fi-sm-x400nzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "RAM",
+      "value": "6GB",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s10-lite-grey-128gb-wi-fi-sm-x400nzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Storage",
+      "value": "128GB",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s10-lite-grey-128gb-wi-fi-sm-x400nzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Available storage",
+      "value": "104GB",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s10-lite-grey-128gb-wi-fi-sm-x400nzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Expandable storage",
+      "value": "microSD up to 2TB",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s10-lite-grey-128gb-wi-fi-sm-x400nzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "USB version",
+      "value": "2.0",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s10-lite-grey-128gb-wi-fi-sm-x400nzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Positioning",
+      "value": "GPS; GLONASS; BeiDou; Galileo; QZSS",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s10-lite-grey-128gb-wi-fi-sm-x400nzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Headphone interface",
+      "value": "USB Type-C",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s10-lite-grey-128gb-wi-fi-sm-x400nzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "MHL",
+      "value": "No",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s10-lite-grey-128gb-wi-fi-sm-x400nzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi Direct",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s10-lite-grey-128gb-wi-fi-sm-x400nzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "NFC",
+      "value": "No",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s10-lite-grey-128gb-wi-fi-sm-x400nzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "OS",
+      "value": "Android",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s10-lite-grey-128gb-wi-fi-sm-x400nzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions H x W x D",
+      "value": "165.8 x 254.3 x 6.6mm",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s10-lite-grey-128gb-wi-fi-sm-x400nzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Weight",
+      "value": "524g",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s10-lite-grey-128gb-wi-fi-sm-x400nzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery capacity",
+      "value": "8000mAh typical",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s10-lite-grey-128gb-wi-fi-sm-x400nzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery removable",
+      "value": "No",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s10-lite-grey-128gb-wi-fi-sm-x400nzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Energy efficiency class",
+      "value": "F",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s10-lite-grey-128gb-wi-fi-sm-x400nzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Minimum battery endurance",
+      "value": "2000 cycles",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s10-lite-grey-128gb-wi-fi-sm-x400nzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "S Pen support",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s10-lite-grey-128gb-wi-fi-sm-x400nzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Video recording",
+      "value": "FHD 1080p 30fps",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s10-lite-grey-128gb-wi-fi-sm-x400nzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "5.3",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s10-lite-grey-128gb-wi-fi-sm-x400nzareub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi",
+      "value": "802.11a/b/g/n/ac/ax, 2.4/5GHz HE80 MIMO",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s10-lite-grey-128gb-wi-fi-sm-x400nzareub/",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia-specific MPN/GTIN",
+    "Latvia retail package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s10-lite-grey-128gb-wi-fi-sm-x400nzareub/",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Official UK product technical specification section read; direct HTTP 403; web-readable page."
+    }
+  ],
+  "model_family": "Galaxy Tab S10 Lite",
+  "research_lane": "tablets"
+}

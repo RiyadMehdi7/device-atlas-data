@@ -1,0 +1,126 @@
+{
+  "id": "huawei-watch-6-46-mm",
+  "brand": "Huawei",
+  "model": "WATCH 6 46 mm",
+  "category": "Smartwatches",
+  "scope": "Global manufacturer WATCH 6 46 mm reference. Only values assigned to this size column or common model sections included. Battery is manufacturer lab claim; regional services and exact Latvia SKU unresolved.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Huawei WATCH 6 46 mm specifications",
+  "source_url": "https://consumer.huawei.com/en/wearables/watch-6/specs/",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/watch-6-46mm/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Dimensions",
+      "value": "46.4 mm × 46.4 mm × 10.9 mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Wrist Size",
+      "value": "140-210 mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Weight",
+      "value": "Approximately 60 g (strap excluded)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Display",
+      "value": "1.5 inches LTPO 2.0 AMOLED 466 × 466 pixels，PPI 310 3000 nits",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Watch Case",
+      "value": "Front case: Stainless Steel; Rear case: Polymer Composite Material",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Acceleration sensor | Gyroscope sensor | Compass sensor | Optical heart rate sensor | Barometer sensor | Ambient light sensor | Body temperature sensor | ECG sensor | Depth sensor | X-TAP sensor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Button",
+      "value": "Home Button (Rotating Crown) and Side Button",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Charging Port",
+      "value": "Wireless Fast Charging | With HUAWEI WATCH Wireless SuperCharger (2nd Generation USB-C)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "System Requirements",
+      "value": "Android 9.0 or later | iOS 13.0 or later",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Waterproof Level",
+      "value": "5 ATM | IP69 | Dive (Depth up to 40 metres) |",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Connectivity",
+      "value": "Supported | Supported | BT5.2 supported | GPS (L1 + L5 Dual-band)/GLONASS/BeiDou (B1I + B1C + B2a Tri-band)/GALILEO (E1 + E5a Dual-band)/QZSS (L1 + L5 Dual-band) | 2.4 GHz + 5 GHz",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Speaker",
+      "value": "Supported",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Microphone",
+      "value": "Supported",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Environment",
+      "value": "0°C–35°C",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Charging",
+      "value": "5 V-10 V DC/2 A MAX",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Battery Life",
+      "value": "Standard mode: 4.5 Days typical battery life; 3-day with AOD on Battery saver mode: 11-day of light usage; 7-day of typical usage; 4.5-day with AOD on",
+      "unit": "",
+      "condition": "Manufacturer specification; battery values are laboratory claims, actual use varies"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU / GTIN matching",
+    "Regional app and payment availability"
+  ],
+  "source_pages": [
+    {
+      "url": "https://consumer.huawei.com/en/wearables/watch-6/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Manufacturer technical specification content parsed; extracted factual fields only"
+    }
+  ],
+  "research_lane": "wearables"
+}

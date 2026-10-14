@@ -1,0 +1,393 @@
+{
+  "id": "samsung-ls27f320gauxen",
+  "brand": "Samsung",
+  "model": "LS27F320GAUXEN",
+  "category": "Monitors",
+  "scope": "Exact LS27F320GAUXEN manufacturer reference on fr Samsung site. Complete manufacturer suffix matches observed Tele2 name; physical stock EAN and regional smart-service availability remain unresolved.",
+  "identifiers": [
+    "LS27F320GAUXEN"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Exact variant source checked",
+  "source_name": "Écran PC 27 pouces noir S32GF - LS27F320GAUXEN | Samsung FR",
+  "source_url": "https://www.samsung.com/fr/monitors/full-hd-1080p/essential-monitor-s3-s32gf-27-inch-fhd-ips-120hz-ls27f320gauxen/",
+  "tele2_url": "https://www.tele2.lv/monitori/samsung-ls27f320gauxen-27-essential-s3-s/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Résolution",
+      "value": "FHD (1,920 x 1,080)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Format",
+      "value": "16:9",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Luminosité",
+      "value": "250cd/㎡",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Rapport de contraste (statique)",
+      "value": "1000:1(Typical)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Temps de réponse",
+      "value": "5 (GTG）",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Taux de rafraîchissement",
+      "value": "Max 120Hz",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Angle de vue (H/V)",
+      "value": "178˚/178˚",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Taille de l'écran",
+      "value": "27",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Plat / Incurvé",
+      "value": "Plat",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Zone active (HxV) (mm)",
+      "value": "597.888 x 336.312 mm",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Type de dalle",
+      "value": "IPS",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Luminosité",
+      "value": "250 cd/㎡",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Luminosité (Min)",
+      "value": "200 cd/㎡",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Ratio de Contraste (Dynamique)",
+      "value": "Mega",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Prise en charge des couleurs",
+      "value": "Max 16.7M",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Gamme de couleurs (NTSC)",
+      "value": "72% (CIE 1931)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Solution d'économie d'énergie",
+      "value": "Oui",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Mode protection des yeux",
+      "value": "Oui",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Antiscintillement",
+      "value": "Oui",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Taille de l'image",
+      "value": "Oui",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Certification Windows",
+      "value": "Windows11",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "FreeSync",
+      "value": "Non",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "G-Sync",
+      "value": "Non",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Off Timer Plus",
+      "value": "Oui",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Auto switch des sources",
+      "value": "Oui",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Smart Type",
+      "value": "Non",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "HDMI",
+      "value": "2 EA",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Version HDMI",
+      "value": "1.4",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Version HDCP (HDMI)",
+      "value": "1.4",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Prise casque",
+      "value": "Non",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Hub USB",
+      "value": "Non",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Version USB",
+      "value": "Non",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "USB-C",
+      "value": "Non",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Haut-parleurs",
+      "value": "Non",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Speaker Output",
+      "value": "Non",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Température",
+      "value": "10℃~ 40℃",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Taux d'humidité",
+      "value": "10% ~ 80%, non-condensée %",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Couleur des bords",
+      "value": "Noir",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Couleur arrière",
+      "value": "Noir",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Couleur du pied",
+      "value": "Noir",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Type de pied",
+      "value": "SIMPLE",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Inclinaison",
+      "value": "-2.0˚(±2.0˚)~21.0˚(±2.0˚)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Support mural",
+      "value": "100 x 100",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Classe d’efficacité énergétique",
+      "value": "D",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Plastique recyclé",
+      "value": "Non",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Alimentation",
+      "value": "AC 100~240V",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Consommation énergétique - Max",
+      "value": "25 W",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Consommation d'énergie (Typ)",
+      "value": "16.4 W",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Consommation d'énergie (DPMS)",
+      "value": "0.50 W",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Consommation d'énergie (Mode OFF)",
+      "value": "0.30 W",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Consommation anuelle",
+      "value": "24 kWh/year",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Type de produit",
+      "value": "Adaptateur externe",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Dimensions de l'ensemble avec pied (LxHxP)",
+      "value": "612.7 x 470.0 x 200.4 mm",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Dimensions de l'ensemble sans pied (LxHxP)",
+      "value": "612.7 x 360.9 x 36.2 mm",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Dimensions de l'emballage (LxHxP)",
+      "value": "710.0 x 100.0 x 403.0 mm",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Poids de l'ensemble avec pied",
+      "value": "3.0 kg",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Poids de l'ensemble sans pied",
+      "value": "2.5 kg",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Poids du produit dans son emballage",
+      "value": "4.3 kg",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Longueur du câble",
+      "value": "1.5 m",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Cable HDMI",
+      "value": "Oui",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27F320GAUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    }
+  ],
+  "missing_fields": [
+    "Tele2 physical stock EAN reconciliation",
+    "Manual HDMI/DP timing limits",
+    "Latvian availability of region-limited smart services if applicable"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.samsung.com/fr/monitors/full-hd-1080p/essential-monitor-s3-s32gf-27-inch-fhd-ips-120hz-ls27f320gauxen/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "HTTP 200; full model code present; explicit manufacturer technical label/value block read"
+    }
+  ],
+  "research_lane": "monitors"
+}

@@ -1,0 +1,156 @@
+{
+  "id": "soundcore-p40i-manufacturer-model",
+  "brand": "Soundcore",
+  "model": "P40i",
+  "category": "Earbuds",
+  "scope": "Spain manufacturer model reference; Latvia SKU matching required",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "P40i official specifications and FAQ",
+  "source_url": "https://www.soundcore.com/es/products/p40i-a3955011",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/anker-soundcore-p40i/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Form",
+      "value": "In-ear",
+      "unit": "",
+      "condition": "Official manufacturer model reference"
+    },
+    {
+      "label": "Control",
+      "value": "Touch",
+      "unit": "",
+      "condition": "Official manufacturer model reference"
+    },
+    {
+      "label": "Driver",
+      "value": "11 mm composite",
+      "unit": "",
+      "condition": "Official manufacturer model reference"
+    },
+    {
+      "label": "ANC",
+      "value": "Adaptive",
+      "unit": "",
+      "condition": "Official manufacturer model reference"
+    },
+    {
+      "label": "Microphones",
+      "value": "6",
+      "unit": "",
+      "condition": "Official manufacturer model reference"
+    },
+    {
+      "label": "Call processing",
+      "value": "AI algorithm",
+      "unit": "",
+      "condition": "Official manufacturer model reference"
+    },
+    {
+      "label": "EQ",
+      "value": "BassUp",
+      "unit": "",
+      "condition": "Official manufacturer model reference"
+    },
+    {
+      "label": "Sound",
+      "value": "3D",
+      "unit": "",
+      "condition": "Official manufacturer model reference"
+    },
+    {
+      "label": "Ear tips",
+      "value": "5 sizes",
+      "unit": "",
+      "condition": "Official manufacturer model reference"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "5.3",
+      "unit": "",
+      "condition": "Official manufacturer model reference"
+    },
+    {
+      "label": "Case stand",
+      "value": "Smartphone stand",
+      "unit": "",
+      "condition": "Official manufacturer model reference"
+    },
+    {
+      "label": "Fast charging",
+      "value": "4 hours playback after 10-min charge",
+      "unit": "",
+      "condition": "Manufacturer maximum"
+    },
+    {
+      "label": "Earbud charge time",
+      "value": "About 50 min",
+      "unit": "",
+      "condition": "Ambient 25 ±3 °C; manufacturer lab"
+    },
+    {
+      "label": "Case wired charge",
+      "value": "About 3 hours",
+      "unit": "",
+      "condition": "Wall charger"
+    },
+    {
+      "label": "Case wireless charge",
+      "value": "About 4 hours",
+      "unit": "",
+      "condition": "Wireless charger"
+    },
+    {
+      "label": "Earbud music normal",
+      "value": "12 hours",
+      "unit": "",
+      "condition": "Normal; 50% volume; default settings"
+    },
+    {
+      "label": "Music including case normal",
+      "value": "Up to 60 hours",
+      "unit": "",
+      "condition": "Normal; 50% volume; default settings; total with case"
+    },
+    {
+      "label": "Earbud music ANC",
+      "value": "10 hours",
+      "unit": "",
+      "condition": "ANC; 50% volume; default settings"
+    },
+    {
+      "label": "Earbud music transparency",
+      "value": "10 hours",
+      "unit": "",
+      "condition": "Transparency; 50% volume; default settings"
+    },
+    {
+      "label": "Earbud calls ANC off",
+      "value": "Up to 7 hours",
+      "unit": "",
+      "condition": "Calls; ANC off"
+    },
+    {
+      "label": "Earbud calls ANC on",
+      "value": "Up to 6.5 hours",
+      "unit": "",
+      "condition": "Calls; ANC on"
+    }
+  ],
+  "missing_fields": [
+    "Battery capacity",
+    "Latvia SKU matching"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.soundcore.com/es/products/p40i-a3955011",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Actual product details and FAQ read; table values not transferred from sibling models"
+    }
+  ],
+  "research_lane": "audio"
+}

@@ -1,0 +1,604 @@
+{
+  "id": "samsung-ls32dg702euxdu",
+  "brand": "Samsung",
+  "model": "LS32DG702EUXDU",
+  "category": "Monitors",
+  "scope": "Exact Latvian Samsung manufacturer reference LS32DG702EUXDU. Tele2 generic listing is connected through its attached regulatory sheet identifying S32DG702EU; complete physical stock SKU/EAN still unresolved.",
+  "identifiers": [
+    "LS32DG702EUXDU",
+    "S32DG702EU"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "27/32\" Odyssey G7 G70D UHD 144Hz Gaming Monitor LS32DG702EUXDU | Samsung Latvija",
+  "source_url": "https://www.samsung.com/lv/monitors/gaming/odyssey-g7-g70d-32-inch-144hz-1ms-4k-uhd-ls32dg702euxdu/",
+  "tele2_url": "https://www.tele2.lv/monitori/samsung-odyssey-g70/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Izšķirtspēja",
+      "value": "4K (3,840 x 2,160)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Malu attiecība",
+      "value": "16:9",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Spilgtums (tipiskais)",
+      "value": "350cd/㎡",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Kontrasta attiecība (statisks)",
+      "value": "1000:1",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Atbildes laiks (ms)",
+      "value": "1ms(GTG)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Kadru ātrums",
+      "value": "Max 144Hz",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Skata leņķis (H/V)",
+      "value": "178/178",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Ekrāna izmērs (klase)",
+      "value": "32",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Plakans / ieliekts",
+      "value": "Flat",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Aktīvais displeja izmērs (H x V) (mm)",
+      "value": "698.112 x 392.688",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Paneļa veids",
+      "value": "IPS",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Spilgtums (tipiskais)",
+      "value": "350 cd/㎡",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Spilgtums (min.)",
+      "value": "280 cd/㎡",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "HDR (augsts dinamiskais diapazons)",
+      "value": "VESA DisplayHDR 400",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "HDR10+",
+      "value": "HDR10+ Gaming",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Krāsu atbalsts",
+      "value": "Max 1B",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "sRGB nodrošinājums",
+      "value": "99% (CIE1931)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Režīms acu saaudzēšanai",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Bez ekrāna mirgošanās",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Attēla izmērs",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Windows sertifikācija",
+      "value": "Windows11",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "FreeSync",
+      "value": "FreeSync Premium",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "G-Sync",
+      "value": "G-Sync Compatible",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Väljalülitustaimer Plus",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Virtual AIM Point",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Core Sync",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Game Bar 2.0",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Videospēļu platforma",
+      "value": "Yes (KR, US, CA, BR, GB, FR, DE, IT, ES, MX, AU)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "HDMI-CEC",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Auto Source Switch",
+      "value": "Auto Source Switch+",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Adaptīvais attēls",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Ultrawide Game View",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Smart Type",
+      "value": "Smart",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Operētājsistēma",
+      "value": "Tizen™",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Bixby",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Tāla lauka balss mijiedarbība",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "TV Plus",
+      "value": "Yes (GB, FR, DE, IT, ES, CH, AT, NL, SE, NO, DK, FI, PT, IE, BE, LU)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Universāls ceļvedis",
+      "value": "Yes (GB, FR, DE, IT, ES)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Alexa Built-in",
+      "value": "Alexa (GB, DE, FR, IT, ES, AT, IE)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "SmartThings Hub",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Multi Device Experience",
+      "value": "Mobile to Screen, Screen initiate mirroring, Sound Mirroring, Wireless On, Tap View",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "My Contents",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Multi View",
+      "value": "up to 2 Videos",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Smart Calibration",
+      "value": "Basic",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Remote Access",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Bezvadu displejs",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Displeja pieslēgvieta",
+      "value": "1 EA",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Displeja porta versija",
+      "value": "1.4",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "HDMI",
+      "value": "2 EA",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "HDMI versija",
+      "value": "2.1",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "USB centrmezgls",
+      "value": "2",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "USB centrmezgla versija",
+      "value": "3.0",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "USB-C",
+      "value": "No",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "USB-B Upstream Port",
+      "value": "1",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Ethernet (LAN)",
+      "value": "1 EA",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Iebūvēts bezvadu lokālais tīkls",
+      "value": "Wi-Fi 5",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "Yes (5.2)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Skaļrunis",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Speaker Output",
+      "value": "10W",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Adaptive Sound",
+      "value": "Adaptive Sound Pro",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Temperatūra",
+      "value": "10~40 ℃",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Mitruma līmenis",
+      "value": "10~80,non-condensing",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Rūpnīcas skaņošana",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Ražotnes kalibrēšanas ziņojums",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Priekšpuses krāsa",
+      "value": "BLACK",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Aizmugures krāsa",
+      "value": "BLACK",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Statīva krāsa",
+      "value": "Black",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Statīva tips",
+      "value": "HAS PIVOT",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "HAS (regulējama augstuma statīvs)",
+      "value": "120.0 ±5.0",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Noliecams",
+      "value": "-2.0°(± 2°) ~ 25.0°(± 2°)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Šarnīrs",
+      "value": "-30.0°(± 3°) ~ 30.0°(± 3°)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Pagriežams",
+      "value": "-92.0°(± 2°) ~ 92.0°(± 2°)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Sienas stiprinājums",
+      "value": "100 x 100",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Energoefektivitātes klase",
+      "value": "G",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Enerģijas padeve",
+      "value": "AC100-240V",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Enerģijas patēriņš (maks.)",
+      "value": "78 W",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Strāvas patēriņš (standarts)",
+      "value": "33.0 W",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Enerģijas patēriņš (DPMS)",
+      "value": "0.50 W",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Enerģijas patēriņš (ik gadu)",
+      "value": "48 kWh/year",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Veids",
+      "value": "External Adaptor",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Izmēri ar statīvu (P x A x Dz)",
+      "value": "714.2 x 583.2 x 263.5 mm",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Izmēri bez statīva (P x A x Dz) (mm)",
+      "value": "714.2 x 418.4 x 73.8 mm",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Iepakojuma izmērs (PxAxG)",
+      "value": "796.0 x 166.0 x 517.0 mm",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Svars ar statīvu",
+      "value": "8.0 kg",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Iestatīt svaru bez statīva",
+      "value": "4.8 kg",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Iepakojuma svars",
+      "value": "10.1 kg",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Strāvas kabeļa garums",
+      "value": "1.5 m",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "DP kabelis",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "USB 3.0 Cable",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Remote Controller",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS32DG702EUXDU; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Regulatory model identifier",
+      "value": "S32DG702EU",
+      "unit": "",
+      "condition": "Supplier-declared EU electronic-display product information sheet; not an independent measurement",
+      "source_url": "https://eprel.ec.europa.eu/fiches/electronicdisplays/Fiche_2109446_EN.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EPREL registration number",
+      "value": "2109446",
+      "unit": "",
+      "condition": "Supplier-declared EU electronic-display product information sheet; not an independent measurement",
+      "source_url": "https://eprel.ec.europa.eu/fiches/electronicdisplays/Fiche_2109446_EN.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Declared Union market placement start",
+      "value": "13/12/2024",
+      "unit": "",
+      "condition": "Supplier-declared EU electronic-display product information sheet; not an independent measurement",
+      "source_url": "https://eprel.ec.europa.eu/fiches/electronicdisplays/Fiche_2109446_EN.pdf",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Tele2 physical stock EAN reconciliation",
+    "Manual HDMI/DP timing limits",
+    "Latvian availability of region-limited smart services if applicable"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.samsung.com/lv/monitors/gaming/odyssey-g7-g70d-32-inch-144hz-1ms-4k-uhd-ls32dg702euxdu/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "HTTP 200; full model code present; explicit manufacturer technical label/value block read"
+    },
+    {
+      "url": "https://eprel.ec.europa.eu/fiches/electronicdisplays/Fiche_2109446_EN.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch and pdftotext -layout",
+      "notes": "HTTP 200; supplier-declared regulatory identity read; agrees with Tele2 attached fiche. No unverified technical transfer from retailer HTML."
+    }
+  ],
+  "research_lane": "monitors"
+}

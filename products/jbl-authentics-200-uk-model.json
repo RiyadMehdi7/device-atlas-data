@@ -1,0 +1,155 @@
+{
+  "id": "jbl-authentics-200-uk-model",
+  "brand": "JBL",
+  "model": "Authentics 200",
+  "category": "Speakers",
+  "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "JBL Authentics 200 | Smart home speaker with Wi-Fi, Bluetooth and Voice Assistants with retro design",
+  "source_url": "https://uk.jbl.com/AUTHENTICS-200.html",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Sound system",
+      "value": "Stereo 2.0",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Power supply",
+      "value": "100 - 240V AC, ~ 50/60Hz",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Total speaker power output (Max @THD 1%)",
+      "value": "90W",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Transducer",
+      "value": "2 x 25mm tweeter + 5\" woofer",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Networked standby power",
+      "value": "< 2.0 W",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Operating temperature",
+      "value": "0 °C - 45 °C",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Frequency response",
+      "value": "50Hz - 20kHz (-6dB)",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Audio inputs",
+      "value": "1 Audio in, Bluetooth/WIFI, Ethernet and USB (USB playback is available in US version. For other versions, USB is for Service only.)",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Dimensions (W x H x D)",
+      "value": "266.3 x 171.7 x 167.4 mm / 10.48\" x 6.76\" x 6.59\"",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Weight",
+      "value": "3.12 kg / 6.88 lbs",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Packaging dimensions (W x H x D)",
+      "value": "319 x 254 x 218 mm / 12.6\" x 10\" x 8.6\"",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Packaging Weight",
+      "value": "4.15 kg / 9.1 lbs",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "USB port",
+      "value": "Type C",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "USB rating",
+      "value": "5V DC, 1A",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Supporting ­formats",
+      "value": "mp3,WAV",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "MP3 codec",
+      "value": "MPEG 1 Layer 2/3, MPEG 2 Layer 3, MPEG 2.5 Layer 3",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "MP3 sampling rate",
+      "value": "16 - 48 kHz",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "MP3 bitrate",
+      "value": "80 - 320 kpbs",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth version",
+      "value": "5.3",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth pro­le",
+      "value": "A2DP 1.3.2, AVRCP 1.5",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth transmitter frequency range",
+      "value": "2400 MHz - 2483.5 MHz",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU/GTIN matching"
+  ],
+  "source_pages": [
+    {
+      "url": "https://uk.jbl.com/AUTHENTICS-200.html",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Specification table read; conflicting or ambiguous playback totals omitted"
+    }
+  ],
+  "research_lane": "audio"
+}

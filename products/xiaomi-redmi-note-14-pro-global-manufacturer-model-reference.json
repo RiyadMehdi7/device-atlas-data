@@ -1,0 +1,138 @@
+{
+  "id": "xiaomi-redmi-note-14-pro-global-manufacturer-model-reference",
+  "brand": "Xiaomi",
+  "model": "Redmi Note 14 Pro",
+  "category": "Phones",
+  "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Redmi Note 14 Pro Specs - Xiaomi Global",
+  "source_url": "https://www.mi.com/global/product/redmi-note-14-pro/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Processor",
+      "value": "Helio G100-Ultra | 6nm manufacturing process | CPU: Octa-core processor, up to 2.2GHz | GPU: Mali-G57 MC2",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Storage & RAM",
+      "value": "8+128GB, 8+256GB, 12+256GB, 12+512GB | LPDDR4X + UFS2.2 | Expandable storage up to 1TB",
+      "unit": "",
+      "condition": "*Available storage and RAM are less than the total memory due to storage of the operating system and software pre-installed on the device. *Actual support and compatibility of memory cards may vary between manufacturers."
+    },
+    {
+      "label": "Dimensions",
+      "value": "162.16*74.92*8.24mm | 180g",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Display",
+      "value": "6.67\" AMOLED display | Resolution: 2400 x 1080 | Refresh rate: Up to 120Hz | Brightness: 1800nits peak brightness | Brightness: 500 nits (typ), HBM 1200 nits (typ) | Color depth: 10-bit | Contrast ratio: 5,000,000:1 | DCI- P3 wide color gamut | Corning® Gorilla® Glass Victus® 2 | Sunlight display | Reading mode | 1920Hz PWM dimming｜TÜV Rheinland Low Blue Light (Hardware Solution) Certified | TÜV Rheinland Flicker Free Certified | TÜV Rheinland Circadian Friendly Certified",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Rear camera",
+      "value": "200MP main camera | OIS | f/1.65 | 16-in-1 binning into one large 2.24μm pixel | 1/1.4” sensor size | 7P lens | 8MP ultra-wide camera | f2.2 | 2MP macro camera | f2.4 | Rear camera video recording | 1080p at 60fps | 1080p at 30fps | 720p at 30fps",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Front camera",
+      "value": "32MP front camera | f/2.2 | Front camera video recording | 1080p at 30fps | 720p at 30fps",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Battery and charging",
+      "value": "5500mAh (typ) | 45W turbo charging | 45W in-box charger",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "AI features",
+      "value": "Google Gemini, AI image editing",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Security",
+      "value": "In-screen fingerprint sensor | AI Face Unlock",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Network and Connectivity",
+      "value": "SIM 1 + Hybrid (SIM or microSD) | 2G: GSM: 850 900 1800 1900MHz | 3G: WCDMA:1/2/4/5/8 | 4G: LTE FDD:1/2/3/4/5/7/8/12/13/17/20/26/28/66 | 4G: LTE TDD:38/40/41 | Bluetooth 5.3 | Wi-Fi Protocol: 802.11a/b/g/n/ac",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Vibration motor",
+      "value": "Z-axis linear vibration motor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Water & Dust Resistance",
+      "value": "IP64",
+      "unit": "",
+      "condition": "*The device has been tested and certified to be resistant to splash resistant in the presence of specific laboratory conditions with the classification IP64 ingress protection based on IEC 60529:1989+A1:1999+A2:2013. *Splash-proof, waterproof and dustproof features may be degraded due to daily use loss. Do not charge your smartphone in a humid condition. The life scene is different from the experimental environment. Do not immerse your smartphone in water completely or expose it to solutions such as seawater and chlorinated water or liquids such as drinks during daily use. Your warranty does not cover the damage caused by man-made immersion of your device in liquid."
+    },
+    {
+      "label": "NFC",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Navigation",
+      "value": "Beidou:B1I｜GPS:L1｜Galileo:E1 GLONASS:G1｜QZSS:L1 | A-GPS supplementary positioning Wireless network | Data network|｜Sensor Assisted Positioning",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Audio",
+      "value": "Dual speakers | Dolby Atmos® | 3.5mm headphone jack",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensor",
+      "value": "Proximity sensor | Ambient light sensor | Accelerometer | Electronic compass | IR blaster ｜Gyroscope",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Operating system",
+      "value": "Xiaomi HyperOS",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Package content",
+      "value": "Mobile Phone / Adapter /USB Type-C Cable/ SIM Eject Tool /Protective Case /Safety Information/ Quick Start Guide and Warranty Card",
+      "unit": "",
+      "condition": "*Contents in the package may differ across different regions."
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU / model code and GTIN matching",
+    "Colour-specific packaging and regional accessories"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/redmi-note-14-pro/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible manufacturer specification content parsed; model-reference scope, not an exact retailer SKU."
+    }
+  ],
+  "research_lane": "phones"
+}

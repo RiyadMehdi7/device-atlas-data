@@ -1,0 +1,383 @@
+{
+  "id": "poco-poco-pad-x1",
+  "brand": "POCO",
+  "model": "POCO Pad X1",
+  "model_family": "POCO Pad X1",
+  "category": "Tablets",
+  "scope": "Global manufacturer model reference. Explicit RAM/storage options remain options. Not an exact Latvia SKU; retail package and radio availability vary.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer model source checked; Latvia SKU needs matching",
+  "source_name": "POCO POCO Pad X1 technical specifications",
+  "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Dimensions / Height",
+      "value": "251.22mm",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Width",
+      "value": "173.42mm",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Thickness",
+      "value": "6.18mm",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Weight",
+      "value": "500g",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Chipset",
+      "value": "Snapdragon 7+ Gen 3 Mobile Platform",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Chip process",
+      "value": "4nm manufacturing process",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Processor / detail 3",
+      "value": "Octa-core, up to 2.8GHz",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Processor / detail 4",
+      "value": "Adreno™ GPU",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Processor / detail 5",
+      "value": "Qualcomm AI engine",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Storage & RAM / detail 6",
+      "value": "8GB + 512GB",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Storage & RAM / detail 7",
+      "value": "LPDDR5X + UFS 4.0",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / detail 8",
+      "value": "3.2K 144Hz crystal-clear display",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display diagonal",
+      "value": "11.2\"",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display resolution and density",
+      "value": "3200 x 2136, 345 ppi",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / detail 11",
+      "value": "Up to 144Hz",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / detail 12",
+      "value": "Up to 360Hz",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / detail 13",
+      "value": "240Hz (with pen)",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Peak brightness",
+      "value": "800 nits peak brightness",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / detail 15",
+      "value": "TÜV Rheinland Low Blue Light (Hardware Solution)",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / detail 16",
+      "value": "TÜV Rheinland Flicker Free",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display / detail 17",
+      "value": "TÜV Rheinland Circadian Friendly",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display feature formats",
+      "value": "Original color PRO | Sunlight mode | 68 billion colors | DCI-P3 | Pro HDR | Reading mode | Adaptive colors | AI image engine | HDR10 | Dolby Vision® | Wet touch technology | 10x super resolution",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear camera / detail 18",
+      "value": "13MP 1/3.06\" 1.12μm pixel size",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear camera / detail 19",
+      "value": "f/2.2 PDAF",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear camera / detail 20",
+      "value": "4K video at 30fps",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear camera / detail 21",
+      "value": "1080P video at 30fps, 60fps",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear camera / detail 22",
+      "value": "720P video at 30fps",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front camera / detail 23",
+      "value": "8MP 1/4\" 1.12μm pixel size",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front camera / detail 24",
+      "value": "f/2.28",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front camera / detail 25",
+      "value": "1080P video at 30fps",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front camera / detail 26",
+      "value": "720P video at 30fps",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery & charging / detail 27",
+      "value": "8850mAh (typ)",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery & charging / detail 28",
+      "value": "45W turbo charging",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery & charging / detail 29",
+      "value": "USB Type-C",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery & charging / detail 30",
+      "value": "QC3+ / QC3.0 / QC2.0 / PD3.0 / PD2.0 / MI FC2.0",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Data transfer / detail 31",
+      "value": "USB 3.2 Gen 1",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Data transfer / detail 32",
+      "value": "Up to 5Gbps",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connectivity / detail 33",
+      "value": "Wi-Fi 6E",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connectivity / detail 34",
+      "value": "2x2 MIMO, 8x8 Sounding for MU-MIMO, Wi-Fi Direct, Miracast",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connectivity / detail 35",
+      "value": "Bluetooth 5.4",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connectivity / detail 36",
+      "value": "AAC / LDAC / LHDC 5.0",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connectivity / detail 37",
+      "value": "IPv6",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Sensors",
+      "value": "Accelerometer | Gyroscope | Front Ambient light (color temperature) sensor | Rear Ambient light sensor | Flicker sensor | Hall sensor | Magnetic sensor | Proximity sensor | RGB LED | IR remote control",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Operating system",
+      "value": "Xiaomi HyperOS 2",
+      "unit": "",
+      "condition": "Display is measured as full rectangle; viewable area smaller. Refresh depends on supported apps; brightness modes and compatible stylus/cable requirements preserved in source fields.",
+      "source_url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia-specific MPN/GTIN",
+    "Latvia retail configuration and package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/poco-pad-x1/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible official technical content read; structured facts retained"
+    }
+  ],
+  "research_lane": "tablets"
+}

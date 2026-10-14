@@ -1,0 +1,159 @@
+{
+  "id": "microsoft-surface-laptop-business-13-inch-snapdragon-1st-edition",
+  "brand": "Microsoft",
+  "model": "Surface Laptop for Business 13-inch Snapdragon 1st Edition",
+  "category": "Laptops",
+  "scope": "Official global model/platform reference. Size/configuration alternatives explicit; no artificial RAM/storage combination. Latvia SKU, regional power adapter, warranty and keyboard unresolved.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Surface Laptop for Business 13-inch Snapdragon 1st Edition technical specifications",
+  "source_url": "https://learn.microsoft.com/en-us/surface/tech-specs/surface-laptop-copilot-plus-pc-13inch-tech-specs",
+  "tele2_url": "https://www.tele2.lv/datori/ms-lp-13i-pls-16512-w11p-sc-plt-eni/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Processor",
+      "value": "- Snapdragon X Plus (8 Core) X1P-42-100",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "NPU",
+      "value": "- Qualcomm Hexagon with 45 TOPS",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "Graphics",
+      "value": "- Qualcomm Adreno GPU",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "Memory",
+      "value": "- 16 GB, 24 GB LPDDR5x RAM",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "Storage",
+      "value": "- Removable 256 GB (UFS), 512 GB (UFS); - Removable solid-state drive 1 TB (Gen 4 SSD)",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "Display",
+      "value": "- Touchscreen: 13-inch PixelSense display ; - Resolution: 1920 x 1280 (178 PPI); - Aspect ratio: 3:2; - Contrast ratio: 1000:1; - Refresh rate: up to 60 Hz; - Color profile: sRGB and Enhanced; - Individually color-calibrated display; - Adaptive color and contrast; - Touch: 10-point multi-touch; - Strengthened glass display; - Brightness: 400 nits maximum (typical); - Anti-reflective, ISO 9241-307 certified",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "Size & weight",
+      "value": "- Length: 11.25 inches (285.65 mm); - Width: 8.43 inches (214.14 mm); - Height: 0.61 inches (15.6 mm); - Weight: 2.7 lbs. (1.22 kg)",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "Security",
+      "value": "- Enhanced security with Microsoft Pluton TPM 2.0 and BitLocker support; - Windows 11 Secured-core PC; - Windows Hello Fingerprint Power Button with Enhanced Sign-in Security",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "Cameras",
+      "value": "- Full HD front-facing Surface Studio Camera (1080p); Support for Windows Studio Effects with automatic framing, portrait blur, creative filters, eye contact, portrait light; - 10 MP Ultra HD rear-facing camera; - Windows Hello face authentication camera with Enhanced Sign-in Security",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "Audio",
+      "value": "- Dual Studio Mics with enhanced voice focus ; - Omnisonic speakers with Dolby Audio; - Support for Bluetooth LE Audio",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "Ports and charging",
+      "value": "- 2 × USB-C/USB 3.2 ports with support for; - Charging; - Data transfer; - DisplayPort 1.4a (up to 2 × 4K @ 60 Hz); - Surface Thunderbolt™ 4 Dock support; - Supports fast charging with a minimum 60 W charger via USB-C ; - USB-A 3.1 (Gen 2); - 3.5-mm headphone jack",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "Network & connectivity",
+      "value": "- Wi-Fi 7 ; - Bluetooth Core 5.4 technology",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "Software",
+      "value": "- Windows 11 Pro; - Preloaded Microsoft 365 Apps ; - Microsoft 365 Business Standard, Business Premium, or Microsoft 365 Apps 30-day trial",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "Accessibility",
+      "value": "- Compatible with Surface Adaptive Kit and Microsoft Adaptive Accessories; - Includes Windows Accessibility Features – Learn more ; - Discover more Microsoft Accessible Devices & Products Accessible devices & accessories - Microsoft Store",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "Serviceability",
+      "value": "Replacement components include:; - Display assembly (including camera); - Keyboard assembly; - Touchpad ; - Battery; - Motherboard module (including main processor and main memory); - Speakers; - Enclosure (bucket); - Thermal module; - USB-C port; - USB-A port; - Headphone jack; - Feet; - Removable flash storage",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "Exterior",
+      "value": "- Casing: Anodized aluminum; - Colors: Platinum",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "Sensors",
+      "value": "- Ambient color sensor",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "What's in the box",
+      "value": "- Surface Laptop for Business; - USB-C charging cable; - Surface 45 W USB-C Wall Charger (optional in EMEA); - Quick Start Guide; - Safety and warranty documents",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "Keyboard layout",
+      "value": "- Activation: Moving (mechanical) keys; - Layout: QWERTY, full row of function keys (F1 – F12); - Windows key and dedicated buttons for media controls, screen brightness; - Keyboard backlight; - Copilot key; - Precision touchpad",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "Warranty",
+      "value": "1-year limited hardware warranty",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    },
+    {
+      "label": "Battery capacity",
+      "value": "- Battery Capacity Nominal (Wh): 50; - Battery Capacity Min (Wh): 48",
+      "unit": "",
+      "condition": "Microsoft official global platform reference. Named screen sizes/processors/memory/storage options remain alternatives, not one configured SKU."
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU/MPN",
+    "Selected RAM/storage combination",
+    "Regional keyboard/power/warranty"
+  ],
+  "source_pages": [
+    {
+      "url": "https://learn.microsoft.com/en-us/surface/tech-specs/surface-laptop-copilot-plus-pc-13inch-tech-specs",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "http_status": 200,
+      "content_title": "Surface Laptop for Business 13-inch Snapdragon 1st Edition technical specifications",
+      "notes": "Official feature/description table read; structured extraction retained. Playback claims omitted."
+    }
+  ],
+  "research_lane": "computers"
+}

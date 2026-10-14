@@ -1,0 +1,90 @@
+{
+  "id": "aqara-roller-shade-driver-e1-global-reference",
+  "brand": "Aqara",
+  "model": "Roller Shade Driver E1",
+  "category": "Smart home",
+  "scope": "Official Aqara EU English manufacturer reference; exact Latvian SKU and hardware revision require matching. Specifications are EU store claims. Conflicting or suspect manufacturer-store fields withheld and listed below.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Aqara Roller Shade Driver E1 official specifications",
+  "source_url": "https://eu.aqara.com/en-eu/products/aqara-roller-shade-driver-e1",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/aqara-smart-home-roller-shade-drivere1-r/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Batteries",
+      "value": "Lithium battery (not replaceable)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Color",
+      "value": "‎White",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Compatible Platforms",
+      "value": "Aqara Apple Home Alexa Google Home IFTTT",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Hub Required",
+      "value": "‎Yes（Aqara Zigbee 3.0 HUB）",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Item Net Weight",
+      "value": "‎0.52 Pounds / 234g",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Operating Humidity",
+      "value": "0-95% RH, without condensation",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Operating Temperature",
+      "value": "-10°C ~ 55℃ (14°F ~ 131°F)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Product Dimensions",
+      "value": "‎1.69×1.52×6.89 inches（42×37×165 mm）",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wireless Protocol",
+      "value": "Zigbee IEEE 802.15.4",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Included Components",
+      "value": "Aqara Roller Shade Driver E1 × 1, Screw × 2, Expansion Tube × 2, Double-Faced Adhesive Tape × 1, Spare Rotating Plate × 3, USB-C to USB-A Cable × 1",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU/GTIN",
+    "Hardware revision and region-specific differences"
+  ],
+  "source_pages": [
+    {
+      "url": "https://eu.aqara.com/en-eu/products/aqara-roller-shade-driver-e1",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP fetch; HTML specification rows parsed",
+      "notes": "10 factual specification rows read; marketing paragraphs excluded"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

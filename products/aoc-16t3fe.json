@@ -1,0 +1,340 @@
+{
+  "id": "aoc-16t3fe",
+  "brand": "AOC",
+  "model": "16T3FE",
+  "category": "Monitors",
+  "scope": "Exact model independently read on official AOC UK technical specification page. Current manufacturer catalogue candidate; no observed Tele2 Latvia listing or Latvian availability claim. UK/EU regional unit matching unresolved.",
+  "identifiers": [
+    "16T3FE",
+    "4038986133746"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "16T3FE 15.6\" Portable FHD Monitor | AOC",
+  "source_url": "https://www.aoc.com/uk/monitors/16t3fe",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Bezel type (front)",
+      "value": "SNB(Super Narrow Bezel)",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Speakers",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Speaker power",
+      "value": "1 W x 2",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "I/O define: Connectors on rear cabinet",
+      "value": "Side insert",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Bezel Colour (front)",
+      "value": "Black",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Bezel finishing (front)",
+      "value": "Texture",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Cabinet colour (backside)",
+      "value": "Black",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Cabinet finishing (backside)",
+      "value": "Texture",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Vesa wallmount",
+      "value": "75x75",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Audio Output",
+      "value": "Headphone out (3.5mm)",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Screen size (inch)",
+      "value": "15.6",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Screen size (cm)",
+      "value": "39.5",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Flat / Curved",
+      "value": "Flat",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Display hardness",
+      "value": "3H",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Panel treatment",
+      "value": "Antiglare (AG)",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Pixels per Inch",
+      "value": "141.21",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Panel resolution",
+      "value": "1920x1080",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Aspect ratio",
+      "value": "16:9",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Panel type",
+      "value": "IPS",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Max Refresh rate",
+      "value": "60 Hz",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Response time GtG",
+      "value": "20 ms",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Static contrast ratio",
+      "value": "1000:1",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Viewing angle (CR10)",
+      "value": "170/170",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Display colours",
+      "value": "16.7M (6bits+FRC)",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Brightness in nits",
+      "value": "250 cd/m²",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Resolution name",
+      "value": "FHD",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Tilt",
+      "value": "0°~26°~50°",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Pivot",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "EAN",
+      "value": "4038986133746",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Warranty period",
+      "value": "3 years",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Power supply",
+      "value": "Internal",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Power consumption on (maximum) in watts",
+      "value": "36.0",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Power consumption on (typical) in watts",
+      "value": "9.0",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Power consumption standby in watts",
+      "value": "0.5",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Power consumption off in watts",
+      "value": "0.3",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Energy class",
+      "value": "B",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Product dimensions excl. base (WxHxD) mm",
+      "value": "356.6 x 222.23 × 12.5",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Packaging dimensions (WxHxD) mm",
+      "value": "415 x 278 x 45",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Gross weight incl. package (in kg)",
+      "value": "1.85",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Net weight excl. package (in kg)",
+      "value": "0.86",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Product without stand (kg)",
+      "value": "0.73",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Digital Signal Frequency Vertical",
+      "value": "Type-C/HDMI 1.4: 59 -61 Hz (V)",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Digital Signal Frequency Horizontal",
+      "value": "Type-C/HDMI 1.4 : 24 - 83kHz (H)",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "HDR (High Dynamic Range)",
+      "value": "HDR Mode",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Colour space (sRGB) CIE 1931 %",
+      "value": "75.1",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Colour space (DCI-P3) CIE 1931 %",
+      "value": "55.3",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Colour space (Adobe RGB) CIE 1931 %",
+      "value": "39.7",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Flicker-Free",
+      "value": "Flicker Free",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "USB-C to C cable",
+      "value": "1.0",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "USB-C to C/A cable",
+      "value": "1.0",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    },
+    {
+      "label": "Mini HDMI to HDMI",
+      "value": "1.0",
+      "unit": "",
+      "condition": "Manufacturer UK reference; original field wording and units retained"
+    }
+  ],
+  "missing_fields": [
+    "No observed Tele2 Latvia listing",
+    "EU/Latvia regional MPN and EAN reconciliation",
+    "User manual input timing and test conditions where not explicit"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.aoc.com/uk/monitors/16t3fe",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "HTTP 200; exact model h1 16T3FE; structured specification block read"
+    }
+  ],
+  "research_lane": "monitors"
+}

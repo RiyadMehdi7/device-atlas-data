@@ -1,0 +1,161 @@
+{
+  "id": "sony-wh-ch720n-uk-model",
+  "brand": "Sony",
+  "model": "WH-CH720N",
+  "category": "Headphones",
+  "scope": "UK manufacturer model reference; Latvia variant matching required",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "WH-CH720N Wireless Noise Cancelling Specifications| Headphones | Sony UK",
+  "source_url": "https://www.sony.co.uk/headphones/products/wh-ch720n/spec",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/sony-wh-ch720nl/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "WEIGHT",
+      "value": "Approx. 192 g",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "HEADPHONE TYPE",
+      "value": "Closed",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "DRIVER UNIT",
+      "value": "Dynamic, 30 mm",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "IMPEDANCE (OHM)",
+      "value": "325 ohms (1 kHz) (when connecting via the headphone cable with the unit turned on) , 31 ohms (1 kHz) (when connecting via the headphone cable with the unit turned off)",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "FREQUENCY RESPONSE",
+      "value": "7 Hz - 20 000 Hz (JEITA)",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "FREQUENCY RESPONSE (ACTIVE OPERATION)",
+      "value": "7 Hz - 20 000 Hz (JEITA)",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "FREQUENCY RESPONSE(BLUETOOTH® COMMUNICATION)",
+      "value": "20 Hz - 20 000 Hz (Sampling frequency 44.1 kHz)",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "SENSITIVITIES (DB/MW)",
+      "value": "108 dB / mW (when connecting via the headphone cable with the unit turned on) , 99 dB / mW (when connecting via the headphone cable with the unit turned off)",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "VOLUME CONTROL",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "CORD TYPE",
+      "value": "Single-sided (detachable)",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "CORD LENGTH",
+      "value": "approx. 1.2 m",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "PLUG",
+      "value": "Gold-plated L-shaped stereo mini plug",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "INPUT(S)",
+      "value": "Stereo Mini Jack",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "WEARING STYLE",
+      "value": "Over Ear",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "DSEE",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "PASSIVE OPERATION",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "AMBIENT SOUND MODE",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "BATTERY CHARGE TIME",
+      "value": "Approx. 3.5 hrs",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "BATTERY CHARGE METHOD",
+      "value": "USB",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "BATTERY LIFE(CONTINUOUS MUSIC PLAYBACK TIME)",
+      "value": "Max. 35 hrs (NC ON) , Max. 50 hrs (NC OFF)",
+      "unit": "",
+      "condition": "BATTERY LIFE(CONTINUOUS MUSIC PLAYBACK TIME)"
+    },
+    {
+      "label": "BLUETOOTH® VERSION",
+      "value": "Bluetooth Specification Version 5.2",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    },
+    {
+      "label": "EFFECTIVE RANGE",
+      "value": "Approx. 10 m",
+      "unit": "",
+      "condition": "UK manufacturer model reference"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU/GTIN matching"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.sony.co.uk/headphones/products/wh-ch720n/spec",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Manufacturer specification table read"
+    }
+  ],
+  "research_lane": "audio"
+}

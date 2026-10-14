@@ -1,0 +1,288 @@
+{
+  "id": "caldigit-ts5-plus-thunderbolt-5-dock",
+  "brand": "CalDigit",
+  "model": "TS5 Plus Thunderbolt 5 Dock",
+  "model_family": "TS5 Plus Thunderbolt 5 Dock",
+  "category": "Accessories",
+  "scope": "Official global dock reference; EU supply plug/package and Tele2 availability unconfirmed.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "CalDigit TS5 Plus Thunderbolt 5 Dock technical specifications",
+  "source_url": "https://www.caldigit.com/thunderbolt-5-dock-ts5-plus/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Ports",
+      "value": "1 x Thunderbolt 5 Host Port (Up to 120Gb/s); 2 x Thunderbolt 5 Downstream Ports (80Gb/s); 5 x USB-C (10Gb/s); 5 x USB-A (10Gb/s); 1 x DisplayPort 2.1; 1 x SD 4.0 (UHS-II); 1 x microSD 4.0 (UHS-II); 1 x 10 Gigabit Ethernet; 1 x Front Combo Audio In/Out (3.5mm); 1 x Rear Audio Out (3.5mm); 1 x Rear Audio In (3.5mm); 1 x DC In (24V 13.75A)",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-5-dock-ts5-plus/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Minimum System Requirements",
+      "value": "Mac:; macOS 15 or newer; Thunderbolt 3 or newer; Windows:; Windows 11 or newer; Thunderbolt 4 or newer; Intel 12th Gen Processor or newer; Thunderbolt NVM Firmware 43.3 or newer; USB4 or USB4 v2 Computer; PCIe Tunneling support required; Thunderbolt/ USB4 iPad",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-5-dock-ts5-plus/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Power Delivery",
+      "value": "Thunderbolt 5/USB4 Host Port: Up to 140W; Each Downstream Thunderbolt 5/USB4 Port: 36W; Front 36W USB-C Port: 36W; Remaining USB-C Ports: 7.5W; USB-A Ports: 7.5W",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-5-dock-ts5-plus/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Size & Weight",
+      "value": "Height: 6.10” (155.0mm); Width: 1.85” (47.0mm); Length: 5.03” (127.9mm); Weight: 1.98 lbs (0.90kg)",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-5-dock-ts5-plus/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "In the Box",
+      "value": "1 x CalDigit TS5 Plus; 1 x Thunderbolt 5 Braided Cable (1.0m); 2 x Rubber Feet Strips; 1 x Power Cord; 1 x Power Supply (330W)",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-5-dock-ts5-plus/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Warranty",
+      "value": "2 Years",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-5-dock-ts5-plus/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: 1 x Thunderbolt 5 Host Port (Up to 120Gb/s)",
+      "value": "1 x Thunderbolt 5 Host Port (Up to 120Gb/s)",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-5-dock-ts5-plus/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: 2 x Thunderbolt 5 Downstream Ports (80Gb/s)",
+      "value": "2 x Thunderbolt 5 Downstream Ports (80Gb/s)",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-5-dock-ts5-plus/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: 5 x USB-C (10Gb/s)",
+      "value": "5 x USB-C (10Gb/s)",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-5-dock-ts5-plus/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: 5 x USB-A (10Gb/s)",
+      "value": "5 x USB-A (10Gb/s)",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-5-dock-ts5-plus/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: 1 x DisplayPort 2.1",
+      "value": "1 x DisplayPort 2.1",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-5-dock-ts5-plus/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: 1 x SD 4.0 (UHS-II)",
+      "value": "1 x SD 4.0 (UHS-II)",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-5-dock-ts5-plus/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: 1 x microSD 4.0 (UHS-II)",
+      "value": "1 x microSD 4.0 (UHS-II)",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-5-dock-ts5-plus/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: 1 x 10 Gigabit Ethernet",
+      "value": "1 x 10 Gigabit Ethernet",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-5-dock-ts5-plus/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: 1 x Front Combo Audio In/Out (3.5mm)",
+      "value": "1 x Front Combo Audio In/Out (3.5mm)",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-5-dock-ts5-plus/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: 1 x Rear Audio Out (3.5mm)",
+      "value": "1 x Rear Audio Out (3.5mm)",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-5-dock-ts5-plus/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: 1 x Rear Audio In (3.5mm)",
+      "value": "1 x Rear Audio In (3.5mm)",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-5-dock-ts5-plus/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: 1 x DC In (24V 13.75A)",
+      "value": "1 x DC In (24V 13.75A)",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-5-dock-ts5-plus/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: Thunderbolt 5/USB4 Host Port",
+      "value": "Thunderbolt 5/USB4 Host Port: Up to 140W",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-5-dock-ts5-plus/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: Each Downstream Thunderbolt 5/USB4 Port",
+      "value": "Each Downstream Thunderbolt 5/USB4 Port: 36W",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-5-dock-ts5-plus/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: Front 36W USB-C Port",
+      "value": "Front 36W USB-C Port: 36W",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-5-dock-ts5-plus/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: Remaining USB-C Ports",
+      "value": "Remaining USB-C Ports: 7.5W",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-5-dock-ts5-plus/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: USB-A Ports",
+      "value": "USB-A Ports: 7.5W",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-5-dock-ts5-plus/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: 1 x CalDigit TS5 Plus",
+      "value": "1 x CalDigit TS5 Plus",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-5-dock-ts5-plus/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: 1 x Thunderbolt 5 Braided Cable (1.0m)",
+      "value": "1 x Thunderbolt 5 Braided Cable (1.0m)",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-5-dock-ts5-plus/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: 1 x Power Cord",
+      "value": "1 x Power Cord",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-5-dock-ts5-plus/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port specification: 1 x Power Supply (330W)",
+      "value": "1 x Power Supply (330W)",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-5-dock-ts5-plus/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Thunderbolt bandwidth",
+      "value": "80 Gbps bidirectional; up to 120 Gbps display Bandwidth Boost",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-5-dock-ts5-plus/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "PCIe bandwidth",
+      "value": "64 Gbps PCIe 4.0",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-5-dock-ts5-plus/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display scope",
+      "value": "Host/GPU-specific: up to four displays on supported M5 Max; base M1/M2/M3 limited to one; some M3 dual only lid closed; DSC required for 6K/8K and some high refresh modes",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-5-dock-ts5-plus/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Windows requirements",
+      "value": "Windows 11+, Thunderbolt 4+, Intel 12th generation+, NVM firmware 43.3+; USB4 requires PCIe tunneling",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-5-dock-ts5-plus/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dual USB controllers",
+      "value": "Two USB 10 Gbps controllers; each downstream device shares available path capacity",
+      "unit": "",
+      "condition": "Host must support required Thunderbolt/USB4/display capabilities; per-port charging ceilings do not imply all combinations or unsupported USB-C modes.",
+      "source_url": "https://www.caldigit.com/thunderbolt-5-dock-ts5-plus/",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia MPN/GTIN",
+    "Latvia retail package contents",
+    "Host-specific USB-C fallback function matrix and display resolution matrix"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.caldigit.com/thunderbolt-5-dock-ts5-plus/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP 200 gzip decoded; official technical section read",
+      "notes": "Official source technical content read; factual extraction retained"
+    }
+  ],
+  "research_lane": "accessories"
+}

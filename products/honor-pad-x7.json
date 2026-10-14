@@ -1,0 +1,215 @@
+{
+  "id": "honor-pad-x7",
+  "brand": "HONOR",
+  "model": "Pad X7",
+  "model_family": "Pad X7",
+  "category": "Tablets",
+  "scope": "European manufacturer model reference. Regional configurations vary; not a Latvia SKU or availability claim.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer model source checked; Latvia SKU needs matching",
+  "source_name": "HONOR Pad X7 technical specifications",
+  "source_url": "https://www.honor.com/uk/tablets/honor-pad-x7/spec/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Width",
+      "value": "211.8mm",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x7/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Height",
+      "value": "124.8mm",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x7/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Thickness",
+      "value": "7.99mm",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x7/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Weight",
+      "value": "Approx. 365g (with battery)",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x7/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Size",
+      "value": "8.7 inches",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x7/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Screen-to-body Ratio",
+      "value": "85%",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x7/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "PPI",
+      "value": "180 PPI",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x7/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Brightness",
+      "value": "500nits (typical value), 625nits(sunlight mode)",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x7/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Contrast Ratio",
+      "value": "1500:1 (typical value)",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x7/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Type",
+      "value": "TFT LCD (IPS)",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x7/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Resolution",
+      "value": "1340*800",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x7/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Refresh Rate",
+      "value": "90Hz (Support 2 gears，90Hz/60Hz)",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x7/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Screen Color",
+      "value": "16.7 million colors, NTSC color gamut",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x7/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "CPU model",
+      "value": "Qualcomm® Snapdragon® 680 Processor (6nm)",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x7/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Number of CPU Cores",
+      "value": "Octa-core 4×Cortex-A73 2.4GHz + 4×Cortex-A53 1.9GHz",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x7/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Operating System",
+      "value": "Android 15",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x7/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear Camera",
+      "value": "8MP camera (Fno2.0 AF)",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x7/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front Camera",
+      "value": "5MP camera (Fno2.2 FF)",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x7/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery Capacity",
+      "value": "7020 mAh (typical value)",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x7/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery Type",
+      "value": "Lithium-ion battery",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x7/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi",
+      "value": "WIFI 5, 802.11 a/b/g/n/ac,",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x7/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi Frequency",
+      "value": "2.4GHz and 5GHz",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x7/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "BT 5.0",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-pad-x7/spec/",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia-specific MPN/GTIN",
+    "Latvia retail configuration and package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.honor.com/uk/tablets/honor-pad-x7/spec/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible official technical content read; structured facts retained"
+    }
+  ],
+  "research_lane": "tablets"
+}

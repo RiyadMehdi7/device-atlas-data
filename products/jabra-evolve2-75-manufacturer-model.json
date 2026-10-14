@@ -1,0 +1,161 @@
+{
+  "id": "jabra-evolve2-75-manufacturer-model",
+  "brand": "Jabra",
+  "model": "Evolve2 75",
+  "category": "Headphones",
+  "scope": "Official manufacturer technical revision; MS/UC, mono/stereo and USB adapter bundles require exact SKU matching; listed technical sheet revision can differ from Tele2 bundle",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Jabra Evolve2 75 official technical specifications",
+  "source_url": "https://www.jabra.com/_/media/Jabra_VXi_Product-Documentation/Jabra-Evolve2-75/Technical-specifications/RevD/Jabra-Evolve2-75-Tech-Spechs-230924.pdf",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/jabra-evolve2-75-link380a-ms-stereo-blk/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Main unit dimensions (WxHxD)",
+      "value": "145mm x 67mm x 190mm | 5.71in x 2.64in x 7.48in",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Materials used",
+      "value": "Dual-foam leatherette cushion, Headband ultra soft foam covered in color-matched leatherette, Metal slide arm",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Headset Weight (stereo variant)",
+      "value": "197g | 6.9oz",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "USB cable length",
+      "value": "1.2m | 3.9ft",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Warranty",
+      "value": "2 years",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Active Noise Cancellation (ANC)",
+      "value": "Jabra Advanced ANC™ using 4 of the device’s 8 microphones",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "HearThrough",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Speaker size",
+      "value": "40mm",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Speaker max input power",
+      "value": "30 mW",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Speaker frequency range",
+      "value": "20Hz - 20000Hz",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Speaker bandwidth (music mode)",
+      "value": "20Hz - 20000Hz",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Speaker bandwidth (speak mode)",
+      "value": "100Hz - 8000Hz",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Microphone type",
+      "value": "4 Analog MEMS / 4 Digital MEMS",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Microphone sensitivity",
+      "value": "-35 dBv/Pa (analog microphone)/-26 dBFS/Pa (digital microphone)",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Microphone frequency range",
+      "value": "Analog 5Hz - 20000Hz | Digital 100Hz - 8000Hz",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "User hearing protection",
+      "value": "PeakStop™, Jabra SafeTone™ 2.0, EU Noise at Work, G616",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Compatible software and/or apps",
+      "value": "Jabra Direct, Jabra Sound+, Jabra Xpress",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Form factor",
+      "value": "On-ear headband",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Music time",
+      "value": "Up to 36 hours (with ANC off)/Up to 33 hours (with ANC on)",
+      "unit": "",
+      "condition": "Music playback; ANC mode stated in value"
+    },
+    {
+      "label": "Corded charging",
+      "value": "USB-C™",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Sleep mode",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Connectivity",
+      "value": "Bluetooth®, USB-A, USB-C",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    }
+  ],
+  "missing_fields": [
+    "Exact Tele2 MS/UC, mono/stereo, adapter and charging bundle reconciliation"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.jabra.com/_/media/Jabra_VXi_Product-Documentation/Jabra-Evolve2-75/Technical-specifications/RevD/Jabra-Evolve2-75-Tech-Spechs-230924.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "web open official PDF",
+      "notes": "Model technical table actually read; bundle-specific accessory claims excluded"
+    }
+  ],
+  "research_lane": "audio"
+}

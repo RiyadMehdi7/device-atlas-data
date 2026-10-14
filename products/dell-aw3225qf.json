@@ -1,0 +1,249 @@
+{
+  "id": "dell-aw3225qf",
+  "brand": "Dell",
+  "model": "AW3225QF",
+  "category": "Monitors",
+  "scope": "Exact Dell en-uk manufacturer product technical specification. Regional units, supplied cables and warranty may differ; Tele2 stocked unit EAN/part reconciliation remains unresolved.",
+  "identifiers": [
+    "AW3225QF"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Alienware 32-inch 4K QD-OLED Curved Gaming Monitor | Dell UK",
+  "source_url": "https://www.dell.com/en-uk/shop/alienware-32-4k-qd-oled-gaming-monitor-aw3225qf/apd/210-bllv/monitors-monitor-accessories",
+  "tele2_url": "https://www.tele2.lv/monitori/dell-aw3225qf/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Diagonal Viewing Size",
+      "value": "31.6\"",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Preset Display Area (H x V)",
+      "value": "699.48 mm x 394.73 mm 27.54\" x 15.54\" 276,105.74 mm2 (427.97 inches2)",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Panel Type",
+      "value": "QD OLED",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Display Screen Coating",
+      "value": "Anti-reflection",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Maximum Preset Resolution",
+      "value": "3840 x 2160 at 240 Hz (DSC enabled and visually lossless)",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Viewing Angle",
+      "value": "178° vertical / 178° horizontal",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Pixel Pitch",
+      "value": "0.1814 mm x 0.1814 mm",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Pixel Per Inch (PPI)",
+      "value": "140",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Contrast Ratio",
+      "value": "1 million: 1 at SDR and HDR",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Aspect Ratio",
+      "value": "16:9",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Backlight Technology",
+      "value": "OLED",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Brightness",
+      "value": "1000 cd/m2 (typical)(HDR peak)",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Connectivity",
+      "value": "- Rear - 1x DP 1.4 (HDCP 1.4 & 2.3)(Supports up to 3840 x 2160 240 Hz, DSC, HDR) - 2 x HDMI 2.1 (HDCP 1.4 & 2.3)(Supports up to 3840 x 2160 240 Hz FRL, HDR, VRR as per specified in HDMI 2.1) (including 1x HDMI 2.1 FRL with eARC - to support Dolby ATMOS signal pass-through) - 1 x USB 3.2 Gen 1 (5 Gbps) Type-B upstream port - 2 x USB 3.2 Gen 1 (5 Gbps) Type-A downstream ports Bott - Quick Access - 1 x USB 3.2 Gen 1 (5 Gbps) Type-C downstream port which supports BC1.2 power-charging - 1 x USB 3.2 Gen 1 (5 Gbps) Type-A downstream port; Audio Line Out; No",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Built-in Speaker",
+      "value": "No",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Adjustability",
+      "value": "Height, Tilt, Swivel, Built in cable-management",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Tilt",
+      "value": "-5°/+21°",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Swivel",
+      "value": "-20°/+20°",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Dell Display Manager Compatibility",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Compliant Standards",
+      "value": "Product Safety, EMC and Environmental Datasheets Dell Regulatory Compliance Home Page Dell and the Environment",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Flat Panel Mount Interface",
+      "value": "VESA (100 mm x 100 mm)",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Temperature Range",
+      "value": "Operating: 0° to 40°C (32° to 104°F) Non-operating: -20° to 60° (-4° to 140° F)",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Humidity Range",
+      "value": "Operating: 10% to 80% (non-condensing) Non-Operating:5% to 90% (non-condensing)",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Voltage Required",
+      "value": "100 VAC to 240 VAC/50 Hz or 60 Hz + 3 Hz/3 A (typical)",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Power Consumption (Off Mode)",
+      "value": "0.3 W",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Power Consumption (Max)",
+      "value": "190.0 W",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Cables Included",
+      "value": "- 1 x Power cable - 1 x HDMI 2.1 FRL cable - 1 x DisplayPort to DisplayPort 1.4 cable - 1 x USB 3.2 Gen 1 (5 Gbps) upstream cable",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "What's Included",
+      "value": "Monitor Stand riser and base Microfiber cloth Quick setup guide Safety Information",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Height with stand (Compressed ~ Extended)",
+      "value": "472.77 mm ~ 582.77 mm",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Width",
+      "value": "715.56 mm",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Depth",
+      "value": "305.72 mm",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Height without stand",
+      "value": "421.92 mm",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Width without stand",
+      "value": "715.56 mm",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Depth without stand",
+      "value": "106.44 mm",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Weight (panel only - for VESA mount)",
+      "value": "6 kg",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Weight (with packaging)",
+      "value": "14.39 kg",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Specifications - Service / Support Details",
+      "value": "3-Year Advanced Exchange Service and Premium Panel Exchange (Including coverage for OLED burn in)",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    }
+  ],
+  "missing_fields": [
+    "Latvia stocked unit EAN / manufacturer part reconciliation",
+    "Input timing table from official user manual",
+    "Pivot — source extractor returned no value"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.dell.com/en-uk/shop/alienware-32-4k-qd-oled-gaming-monitor-aw3225qf/apd/210-bllv/monitors-monitor-accessories",
+      "fetched_at": "2026-10-14",
+      "method": "Exa full page fetch; technical block only",
+      "notes": "Full manufacturer page fetched; factual technical block read. Empty extractor values excluded; search snippets not used."
+    }
+  ],
+  "research_lane": "monitors"
+}

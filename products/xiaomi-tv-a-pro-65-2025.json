@@ -1,0 +1,248 @@
+{
+  "id": "xiaomi-tv-a-pro-65-2025",
+  "brand": "Xiaomi",
+  "model": "Xiaomi TV A Pro 65 2025",
+  "category": "Televisions",
+  "scope": "Exact marketed screen-size reference on Xiaomi Global. Regional MPN/GTIN and Latvia SKU unresolved; no EU availability assertion.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Xiaomi TV A Pro 65 2025 specifications — Xiaomi Global",
+  "source_url": "https://www.mi.com/global/product/xiaomi-tv-a-pro-65-2025/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Display Type",
+      "value": "QLED",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Resolution",
+      "value": "4K, 3,840 × 2,160",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Color gamut",
+      "value": "DCI-P3 94% (typ)",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Color depth",
+      "value": "1.07 billion",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Refresh rate",
+      "value": "60Hz",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "MEMC",
+      "value": "up to UHD 60Hz",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Viewing angle",
+      "value": "178°(H)/ 178°(V)",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Speaker (Sound Output)",
+      "value": "2 × 10 W",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "CPU",
+      "value": "Quad A55",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "GPU",
+      "value": "Mali G52 MC1",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "RAM",
+      "value": "2GB",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "ROM",
+      "value": "8GB",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Content",
+      "value": "Netflix, Amazon Prime Video and Youtube pre-installed",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Size",
+      "value": "65''",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Color",
+      "value": "Dark Gray",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Stand configuration",
+      "value": "Double",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Dimensions including base (L × W × H)",
+      "value": "1446mm x 390.5mm x 901mm",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Dimensions not including base (L × W × H)",
+      "value": "1446mm x 83mm x 839mm",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Packing size (L × W × H)",
+      "value": "1640mm x 155mm x 990mm",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Weight including base",
+      "value": "15.1kg±0.5kg",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Weight not including base",
+      "value": "14.7kg±0.5kg",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Packing weight",
+      "value": "20.7kg±0.5kg",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Frame",
+      "value": "Metal",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Stand material",
+      "value": "Plastic",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Composite In (AV)",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Ethernet (Lan)",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Optical Digital Audio Out",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "3.5mm headphone jack",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "CI+ Slot*",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Broadcasting system",
+      "value": "DVB-T2/C, DVB-S2*",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Power",
+      "value": "175W",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Voltage",
+      "value": "200-240V ~ 50/60Hz",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Operating temperature",
+      "value": "0℃～40℃, Humidity 20%～80%",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Storage temperature",
+      "value": "-15℃～45℃, Relative humidity < 80%",
+      "unit": "",
+      "condition": "Global manufacturer reference; regional connectors, tuners and services need Latvia SKU match."
+    },
+    {
+      "label": "Smart capability",
+      "value": "Google Assistant built-in",
+      "unit": "",
+      "condition": "Country, language and compatible-app/device restrictions apply."
+    },
+    {
+      "label": "Smart capability",
+      "value": "Supports Miracast",
+      "unit": "",
+      "condition": "Country, language and compatible-app/device restrictions apply."
+    }
+  ],
+  "missing_fields": [
+    "Regional model code / MPN",
+    "GTIN",
+    "Latvia SKU and tuner confirmation",
+    "EU energy product information sheet"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/xiaomi-tv-a-pro-65-2025/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "HTTP 200; exact Product structured title and paired specification rows read."
+    }
+  ],
+  "research_lane": "televisions"
+}

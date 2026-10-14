@@ -1,0 +1,322 @@
+{
+  "id": "iiyama-gb2471hsu-b1",
+  "brand": "Iiyama",
+  "model": "GB2471HSU-B1",
+  "category": "Monitors",
+  "scope": "Exact official Iiyama GB2471HSU-B1 reference. Tele2 listed GB2471HSU-B1; regional suffix, EAN and supplied bundle reconciliation remain unresolved.",
+  "identifiers": [
+    "GB2471HSU-B1",
+    "4948570126354"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "iiyama - G-Master GB2471HSU-B1 Join the pro squad with the 24\" G-Master Red Eagle, built for pure speed with a 240Hz refresh rate.",
+  "source_url": "https://iiyama.com/gb_en/products/g-master-gb2471hsu-b1/",
+  "tele2_url": "https://www.tele2.lv/monitori/iiyama-gb2471hsu-b1-24inch-fast-ips-gami/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Diagonal",
+      "value": "23.8\", 60.5cm",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Panel",
+      "value": "Fast IPS",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Native resolution",
+      "value": "1920 x 1080 @240Hz (2.1 megapixel full HD, DisplayPort)",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Aspect ratio",
+      "value": "16:9",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Panel brightness",
+      "value": "350 cd/m²",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Static contrast",
+      "value": "1000:1",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Advanced contrast",
+      "value": "80M:1",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Response time (MPRT)",
+      "value": "0.3ms",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Colour support",
+      "value": "16.7mln 8bit",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Horizontal Sync",
+      "value": "30 - 285kHz",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Viewable area W x H",
+      "value": "527 x 296.5mm, 20,7 x 11,7\"",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Pixel pitch",
+      "value": "0.275mm",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Colour",
+      "value": "matte, black",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Signal input",
+      "value": "HDMI x2 (v.2.0, max. 1920 x 1080 @240Hz)DisplayPort x1 (v.1.2, max. 1920 x 1080 @240Hz)",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "USB HUB",
+      "value": "x2 (1x Type A v.3.2 Gen 1 (5Gbps, 4.5W), 1x Type C (5Gbps, 5W)",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "HDCP",
+      "value": "yes",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Headphone connector",
+      "value": "yes",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Blue light reducer",
+      "value": "yes",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Flicker free",
+      "value": "yes",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Adaptive Sync support",
+      "value": "G-SYNC - 1920 x 1080 @48-240Hz, DisplayPort Only",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Extra",
+      "value": "i-Style Colour",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "HDR",
+      "value": "Yes, HDR10 Ready",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "OSD languages",
+      "value": "EN, DE, FR, IT, PT, RU, JP, CZ, NL, PL",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Control buttons",
+      "value": "power switch, joystick, menu (center), up / signal select, down / shortcut, left / volume -, right / volume +",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "User controls",
+      "value": "picture adjust (contrast, brightness, OverDrive, HDR, Adaptive Sync, night mode, blue light reducer, Motion Blur Reducer, gamma), input select (input source, auto/ manual, DP, HDMI1, HDMI2), audio adjust (volume, mute), store user settings (user modes), colour settings (6-axis, colour temperature, user preset, black tuner), image adjust (i-Style Colour, X-Res Technology, sharpness, HDMI range, Direct Drive Mode, video mode adjust), language, OSD setup menu (OSD H. position, OSD V. position, OSD Time, Opening Logo, Power LED, DDC/ DI Control, USB charge), display information, reset (reset all)",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Speakers",
+      "value": "2 x 2W",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Convenience",
+      "value": "Kensington-lock™ prepared, DDC/CI, DDC2B, Mac OSX",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Display position adjustments",
+      "value": "height, pivot (rotation), swivel, tilt",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Height adjustment",
+      "value": "150mm",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Rotation (PIVOT function)",
+      "value": "90°",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Swivel stand",
+      "value": "90°; 45° left; 45° right",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Tilt angle",
+      "value": "23° up; 5° down",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "VESA mounting",
+      "value": "100 x 100mm",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Cable management system",
+      "value": "yes",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Cables",
+      "value": "power (1.8m), USB (1.8m), HDMI (1.8m), DP (1.8m)",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Other",
+      "value": "quick start guide, safety guide",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Power supply unit",
+      "value": "internal",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Power supply",
+      "value": "AC 100 - 240V, 50/60Hz",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Power usage",
+      "value": "18W typical, 0.5W stand by, 0.3W off mode",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Regulations",
+      "value": "CE, TÜV-Bauart, EAC, PSE, RoHS support, ErP, WEEE, VCCI, REACH, UKCA",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Energy efficiency class (Regulation (EU) 2017/1369)",
+      "value": "E",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "REACH SVHC",
+      "value": "above 0.1%: Lead",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Product dimensions W x H x D",
+      "value": "540 x 378.5 (498.5) x 171mm",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Box dimensions W x H x D",
+      "value": "650 x 140 x 420mm",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Weight (without box)",
+      "value": "4.8kg",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Weight (without stand)",
+      "value": "3.1kg",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "Weight (with box)",
+      "value": "7.1kg",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    },
+    {
+      "label": "EAN code",
+      "value": "4948570126354",
+      "unit": "",
+      "condition": "Exact iiyama GB/B1 technical reference; source input-specific resolution/Hz, stand and weight conditions retained"
+    }
+  ],
+  "missing_fields": [
+    "Tele2 regional stock MPN / EAN reconciliation",
+    "User manual input timing table",
+    "Viewing-zone row renders incomplete horizontal angle; omitted pending manual"
+  ],
+  "source_pages": [
+    {
+      "url": "https://iiyama.com/gb_en/products/g-master-gb2471hsu-b1/",
+      "fetched_at": "2026-10-14",
+      "method": "Exa web_fetch_exa full manufacturer page",
+      "notes": "Full exact-model technical specification section read"
+    }
+  ],
+  "research_lane": "monitors"
+}

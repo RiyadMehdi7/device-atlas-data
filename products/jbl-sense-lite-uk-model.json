@@ -1,0 +1,236 @@
+{
+  "id": "jbl-sense-lite-uk-model",
+  "brand": "JBL",
+  "model": "Sense Lite",
+  "category": "Earbuds",
+  "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "JBL Sense Lite | True Wireless Open-ear Headphones",
+  "source_url": "https://uk.jbl.com/SENSELITE.html",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Activity",
+      "value": "Leisure",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Driver size (mm)",
+      "value": "18 x 11",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Number of Microphones",
+      "value": "4",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Driver sensitivity at 1kHz/1mW (dB)",
+      "value": "86",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Impedance (ohms)",
+      "value": "32",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Dynamic frequency response range (Hz)",
+      "value": "20 Hz - 20 kHz",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Charging Case Weight (g)",
+      "value": "64.5",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Earpiece Weight (g)",
+      "value": "19",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Weight (g)",
+      "value": "83.5",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Connection",
+      "value": "Wireless",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth version",
+      "value": "5.4",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth frequency",
+      "value": "2.4 GHz - 2.4835 GHz",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth profiles",
+      "value": "A2DP V1.4, AVRCP V1.6.3, HFP V1.8",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth transmitted modulation",
+      "value": "π/4-DQPSK, 8DPSK",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth transmitter power",
+      "value": "< 10 dBm (EIRP)",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Connectivity Technology",
+      "value": "Bluetooth",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Charging time (hours from empty)",
+      "value": "2 hrs from empty",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Maximum talk time (hours)",
+      "value": "5",
+      "unit": "",
+      "condition": "Manufacturer maximum; volume/test settings not specified in table"
+    },
+    {
+      "label": "Speed charge",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Built-in Microphone",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Charging case",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "JBL Headphone App",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Multi-Point Connection",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Touch Control",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "True Wireless",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Voice Aware",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Water Resistant",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Wireless",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "IP Code",
+      "value": "IP54",
+      "unit": "",
+      "condition": "Earbuds; case protection not assumed"
+    },
+    {
+      "label": "Rechargable battery",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Earbud battery",
+      "value": "Lithium-ion battery (55 mAh / 3.85 V)",
+      "unit": "",
+      "condition": "Per earbud",
+      "source_url": "https://uk.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw88033293/pdfs/JBL_Sense_Lite_Specsheet_EN.pdf"
+    },
+    {
+      "label": "Charging case battery",
+      "value": "Lithium-ion battery (560 mAh / 3.85 V)",
+      "unit": "",
+      "condition": "Charging case",
+      "source_url": "https://uk.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw88033293/pdfs/JBL_Sense_Lite_Specsheet_EN.pdf"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU/GTIN matching",
+    "Case-supplied playback ANC/test conditions not reconciled; ambiguous table total omitted"
+  ],
+  "source_pages": [
+    {
+      "url": "https://uk.jbl.com/SENSELITE.html",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Specification table read; conflicting or ambiguous playback totals omitted"
+    },
+    {
+      "url": "https://uk.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw88033293/pdfs/JBL_Sense_Lite_Specsheet_EN.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "web click official PDF",
+      "notes": "Official spec sheet read; earbud and charging-case capacity fields kept separate"
+    }
+  ],
+  "research_lane": "audio"
+}

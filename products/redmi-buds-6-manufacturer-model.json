@@ -1,0 +1,116 @@
+{
+  "id": "redmi-buds-6-manufacturer-model",
+  "brand": "Xiaomi",
+  "model": "Redmi Buds 6",
+  "category": "Earbuds",
+  "scope": "Global manufacturer model; Tele2 SKU reconciliation required; no colour duplicates",
+  "identifiers": [
+    "M2429E1"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "REDMI Buds 6 Specs",
+  "source_url": "https://www.mi.com/global/product/redmi-buds-6/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Model code",
+      "value": "M2429E1",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Earbud dimensions",
+      "value": "31.13mm*21.34mm*23.5mm",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Case dimensions",
+      "value": "61.01mm*51.71mm*24.80mm",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Earbud weight",
+      "value": "5.0g",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Total weight",
+      "value": "43.2g",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Charging connector",
+      "value": "USB-C",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Earbud input",
+      "value": "5V 150mA",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Case input",
+      "value": "5V 500mA",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Case output",
+      "value": "5V 300mA",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "Bluetooth® 5.4",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Protocols",
+      "value": "Bluetooth® Low Energy / HFP / A2DP / AVRCP",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Communication range",
+      "value": "10m (open space free of obstacles)",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Earbud capacity",
+      "value": "54mAH",
+      "unit": "",
+      "condition": "Earbuds; source capacity"
+    },
+    {
+      "label": "Case capacity",
+      "value": "475mAH",
+      "unit": "",
+      "condition": "Charging case"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU/GTIN reconciliation",
+    "Playback conditions or official manual enrichment"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/redmi-buds-6/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Actual manufacturer specification page read; redirect region retained"
+    }
+  ],
+  "research_lane": "audio"
+}

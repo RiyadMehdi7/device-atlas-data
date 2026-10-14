@@ -1,0 +1,424 @@
+{
+  "id": "samsung-galaxy-tab-s12-wi-fi-256gb",
+  "brand": "Samsung",
+  "model": "Galaxy Tab S12+ Wi-Fi 256GB",
+  "model_family": "Galaxy Tab S12+",
+  "category": "Tablets",
+  "scope": "UK official manufacturer reference; explicit variant/options preserved. Latvia manufacturer SKU matching remains unresolved. Tele2 barcode 8806099394493 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
+  "identifiers": [
+    "SM-X840NZSREUB",
+    "8806099394493"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer model source checked; Latvia SKU needs matching",
+  "source_name": "Samsung Galaxy Tab S12+ Wi-Fi 256GB technical specifications",
+  "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s12-plus-silver-256gb-sm-x840nzsreub/",
+  "tele2_url": "https://www.tele2.lv/plansetes/galaxy-tab-s12-wifi-256gb/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "CPU frequencies",
+      "value": "4.21GHz,3.5GHz,2.7GHz",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s12-plus-silver-256gb-sm-x840nzsreub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "CPU cores",
+      "value": "Octa-core",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s12-plus-silver-256gb-sm-x840nzsreub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display diagonal",
+      "value": "12.6 inches rectangular /12.5 rounded",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s12-plus-silver-256gb-sm-x840nzsreub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Resolution",
+      "value": "2800 x 1752",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s12-plus-silver-256gb-sm-x840nzsreub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display technology",
+      "value": "Dynamic AMOLED2X",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s12-plus-silver-256gb-sm-x840nzsreub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display colours",
+      "value": "16M",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s12-plus-silver-256gb-sm-x840nzsreub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "S Pen",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s12-plus-silver-256gb-sm-x840nzsreub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear camera",
+      "value": "13MP",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s12-plus-silver-256gb-sm-x840nzsreub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear autofocus",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s12-plus-silver-256gb-sm-x840nzsreub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear flash",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s12-plus-silver-256gb-sm-x840nzsreub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front camera",
+      "value": "12MP",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s12-plus-silver-256gb-sm-x840nzsreub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Video capture",
+      "value": "4K3840x2160 at60fps",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s12-plus-silver-256gb-sm-x840nzsreub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "RAM",
+      "value": "12GB",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s12-plus-silver-256gb-sm-x840nzsreub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Storage",
+      "value": "256GB",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s12-plus-silver-256gb-sm-x840nzsreub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Available storage",
+      "value": "226.2GB",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s12-plus-silver-256gb-sm-x840nzsreub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Expandable storage",
+      "value": "microSD up to2TB",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s12-plus-silver-256gb-sm-x840nzsreub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "USB",
+      "value": "3.2Gen1",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s12-plus-silver-256gb-sm-x840nzsreub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Positioning",
+      "value": "GPS;GLONASS;BeiDou;Galileo;QZSS",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s12-plus-silver-256gb-sm-x840nzsreub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Headphone connector",
+      "value": "USB Type-C",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s12-plus-silver-256gb-sm-x840nzsreub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "MHL",
+      "value": "No",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s12-plus-silver-256gb-sm-x840nzsreub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi",
+      "value": "802.11a/b/g/n/ac/ax;2.4/5/6GHz;HE160;MIMO;1024QAM",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s12-plus-silver-256gb-sm-x840nzsreub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi Direct",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s12-plus-silver-256gb-sm-x840nzsreub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "6.0",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s12-plus-silver-256gb-sm-x840nzsreub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "NFC",
+      "value": "No",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s12-plus-silver-256gb-sm-x840nzsreub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "OS",
+      "value": "Android",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s12-plus-silver-256gb-sm-x840nzsreub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Sensors",
+      "value": "Accelerometer;fingerprint;gyro;geomagnetic;hall;light",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s12-plus-silver-256gb-sm-x840nzsreub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions HxWxD",
+      "value": "187.8x289.5x5.3mm",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s12-plus-silver-256gb-sm-x840nzsreub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Weight",
+      "value": "553g",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s12-plus-silver-256gb-sm-x840nzsreub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery typical capacity",
+      "value": "10600mAh",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s12-plus-silver-256gb-sm-x840nzsreub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Video playback battery claim",
+      "value": "Up to21h; preproduction local 720p playback with Bluetooth earphones under defaults over LTE",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s12-plus-silver-256gb-sm-x840nzsreub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery removable",
+      "value": "No",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s12-plus-silver-256gb-sm-x840nzsreub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Energy class",
+      "value": "G",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s12-plus-silver-256gb-sm-x840nzsreub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Minimum endurance",
+      "value": "1200cycles",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s12-plus-silver-256gb-sm-x840nzsreub/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Tele2 rendered default variant barcode",
+      "value": "8806099394493",
+      "unit": "",
+      "condition": "Tele2 current rendered default colour token grey. Retailer labels value EAN; actual length 13. Applies only to that rendered colour variant, not all colours; manufacturer cross-match unresolved unless separately noted.",
+      "source_url": "https://www.tele2.lv/plansetes/galaxy-tab-s12-wifi-256gb/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU regulated battery endurance per cycle",
+      "value": "80",
+      "unit": "h",
+      "condition": "EU product information sheet under2023/1669 for hardware SM-X840. Regulatory endurance is a separate metric from video playback; charger required power is not maximum fast-charge power.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-x840nzsreub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rated battery capacity",
+      "value": "10392",
+      "unit": "mAh",
+      "condition": "EU product information sheet under2023/1669 for hardware SM-X840. Regulatory endurance is a separate metric from video playback; charger required power is not maximum fast-charge power.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-x840nzsreub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Regulatory charger required output power",
+      "value": "20",
+      "unit": "W",
+      "condition": "EU product information sheet under2023/1669 for hardware SM-X840. Regulatory endurance is a separate metric from video playback; charger required power is not maximum fast-charge power.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-x840nzsreub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU repairability class",
+      "value": "C",
+      "unit": "",
+      "condition": "EU product information sheet under2023/1669 for hardware SM-X840. Regulatory endurance is a separate metric from video playback; charger required power is not maximum fast-charge power.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-x840nzsreub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU repairability index",
+      "value": "2.86",
+      "unit": "",
+      "condition": "EU product information sheet under2023/1669 for hardware SM-X840. Regulatory endurance is a separate metric from video playback; charger required power is not maximum fast-charge power.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-x840nzsreub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Repeated free fall reliability class",
+      "value": "E",
+      "unit": "",
+      "condition": "EU product information sheet under2023/1669 for hardware SM-X840. Regulatory endurance is a separate metric from video playback; charger required power is not maximum fast-charge power.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-x840nzsreub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Screen scratch resistance Mohs",
+      "value": "5",
+      "unit": "",
+      "condition": "EU product information sheet under2023/1669 for hardware SM-X840. Regulatory endurance is a separate metric from video playback; charger required power is not maximum fast-charge power.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-x840nzsreub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Specified IPx8 immersion depth",
+      "value": "1.50",
+      "unit": "m",
+      "condition": "EU product information sheet under2023/1669 for hardware SM-X840. Regulatory endurance is a separate metric from video playback; charger required power is not maximum fast-charge power.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-x840nzsreub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Supplier minimum guarantee",
+      "value": "24",
+      "unit": "months",
+      "condition": "EU product information sheet under2023/1669 for hardware SM-X840. Regulatory endurance is a separate metric from video playback; charger required power is not maximum fast-charge power.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-x840nzsreub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia-specific MPN/GTIN",
+    "Latvia retail configuration and package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/galaxy-tab-s12-plus-silver-256gb-sm-x840nzsreub/",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Accessible official technical content read; structured facts retained"
+    },
+    {
+      "url": "https://www.tele2.lv/plansetes/galaxy-tab-s12-wifi-256gb/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Retailer product title and rendered #eancode directly read; barcode length/checksum validated; default-colour token retained"
+    },
+    {
+      "url": "https://downloadcenter.samsung.com/content/UM/202610/20261001105039544/SM-X84X_X94X_UG_EU_17_Eng_Rev.1.0_260825.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP PDF fetch + pdftotext",
+      "notes": "Official EU English user guide cover model codes SM-X840, SM-X846B, SM-X846E, SM-X940, SM-X946B; retained as s12-user-manual.pdf"
+    },
+    {
+      "url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-x840nzsreub-productfiche.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP PDF fetch + pdftotext",
+      "notes": "Official EU product information sheet for SM-X840 read; retained as s12plus-product-fiche.pdf"
+    }
+  ],
+  "identifier_evidence": [
+    {
+      "value": "8806099394493",
+      "scheme": "GTIN-13 / EAN-13",
+      "source_url": "https://www.tele2.lv/plansetes/galaxy-tab-s12-wifi-256gb/",
+      "checked_at": "2026-10-14",
+      "status": "Retailer directly observed; checksum valid; manufacturer match not yet verified",
+      "rendered_colour_token": "grey",
+      "scope": "Tele2 current rendered default colour token grey. Retailer labels value EAN; actual length 13. Applies only to that rendered colour variant, not all colours; manufacturer cross-match unresolved unless separately noted."
+    }
+  ],
+  "manuals": [
+    {
+      "url": "https://downloadcenter.samsung.com/content/UM/202610/20261001105039544/SM-X84X_X94X_UG_EU_17_Eng_Rev.1.0_260825.pdf",
+      "language": "English",
+      "region": "EU",
+      "version": "1.0",
+      "cover_model_codes": [
+        "SM-X840",
+        "SM-X846B",
+        "SM-X846E",
+        "SM-X940",
+        "SM-X946B"
+      ],
+      "checked_at": "2026-10-14",
+      "scope": "Manufacturer multi-model user guide; covers listed model codes. Guide may contain model-dependent features."
+    }
+  ],
+  "research_lane": "tablets"
+}

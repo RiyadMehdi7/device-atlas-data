@@ -1,0 +1,167 @@
+{
+  "id": "jbl-bar-300mk2-uk-model",
+  "brand": "JBL",
+  "model": "Bar 300MK2",
+  "category": "Speakers",
+  "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "JBL Bar 300MK2 | 5.0 channel all-in-one soundbar with Dolby Atmos ® and DTS Virtual:X®",
+  "source_url": "https://uk.jbl.com/BAR-300MK2.html",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Model",
+      "value": "BAR 300MK2",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Sound system",
+      "value": "5.0 channel",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Power supply",
+      "value": "100 - 240V AC, ~ 50/60Hz",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Total speaker power output* (Max. @THD 1%)",
+      "value": "450W",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Soundbar transducer",
+      "value": "5x (42x80)mm racetrack drivers, 4x 0.75\" (20mm) tweeters",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Networked standby power",
+      "value": "< 2.0 W",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Operating temperature",
+      "value": "0°C - 45 °C",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Frequency response",
+      "value": "50Hz - 20kHz (-6dB)",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Audio inputs",
+      "value": "Optical, Bluetooth, USB (USB playback is available in US version. For other versions, USB is for Service only.)",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Main soundbar dimensions (W x H x D)",
+      "value": "940 x 50.5 x 104 mm / 37\" x 2.0\" x 4.1\"",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Soundbar weight",
+      "value": "2.9kg / 6.5lbs",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Packaging dimensions (W x H x D)",
+      "value": "1180 x 120 x 160 mm / 46.5\" x 4.7\" x 6.3\"",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Packaging Weight",
+      "value": "4.8kg / 10.6 lbs",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "* RMS @THD 1%",
+      "value": "225W",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "USB port",
+      "value": "Type A",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "USB rating",
+      "value": "5V DC, 0.5A",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Supporting file formats",
+      "value": "mp3",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "MP3 codec",
+      "value": "MPEG 1 Layer 2/3, MPEG 2 Layer 3, MPEG 2.5 Layer 3",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "MP3 sampling rate",
+      "value": "16 - 48 kHz",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "MP3 bitrate",
+      "value": "80 - 320 kbps",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth version",
+      "value": "v5.3",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth profile",
+      "value": "A2DP v1.3, AVRCP v1.5",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth transmitter frequency range",
+      "value": "2400 MHz – 2483.5 MHz",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU/GTIN matching"
+  ],
+  "source_pages": [
+    {
+      "url": "https://uk.jbl.com/BAR-300MK2.html",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Specification table read; conflicting or ambiguous playback totals omitted"
+    }
+  ],
+  "research_lane": "audio"
+}

@@ -1,0 +1,128 @@
+{
+  "id": "xiaomi-xiaomi-17t-global-manufacturer-model-reference",
+  "brand": "Xiaomi",
+  "model": "Xiaomi 17T",
+  "category": "Phones",
+  "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+  "identifiers": [],
+  "aliases": [
+    "17T 256GB"
+  ],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Xiaomi 17t Specs",
+  "source_url": "https://www.mi.com/global/product/xiaomi-17t/specs/",
+  "tele2_url": "https://www.tele2.lv/telefoni/xiaomi-17t-256gb/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "RAM & Storage",
+      "value": "12GB+256GB | 12GB+512GB | RAM: LPDDR5X 9600Mbps | Storage: UFS 4.1",
+      "unit": "",
+      "condition": "*Available RAM and storage are less than the total memory due to storage of the operating system and software pre-installed on the device."
+    },
+    {
+      "label": "Dimensions",
+      "value": "Height: 157.6mm | Width: 75.2mm | Thickness: 8.17mm | Weight: 200g",
+      "unit": "",
+      "condition": "*Data tested in Xiaomi Internal Labs, actual results may vary."
+    },
+    {
+      "label": "Processor",
+      "value": "MediaTek Dimensity 8500-Ultra | 4nm process | CPU: | 1 x Arm Cortex-A725: up to 3.4GHz | 3 x Arm Cortex-A725: up to 3.2GHz | 4 x Arm Cortex-A725: up to 2.2GHz | GPU: | Mali-G720 MC8 | AI: | NPU 880",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Display",
+      "value": "6.59\" 120Hz eye-care AMOLED display | Corning Gorilla Glass 7i | Peak brightness: 3500nits (UHBM) @APL25% | Resolution: 1.5K, 2756 x 1268, 460 PPI | Refresh rate: Up to 120Hz | Touch sampling rate: 480Hz touch sampling rate, 3200Hz* instantaneous touch sampling rate | Color gamut: 100% DCI-P3 | Color depth: 12bit, 68 billion color | 3840Hz PWM dimming and DC dimming | Original color PRO | Pro HDR | Wet Touch Technology 2.0 | Xiaomi Vision Care* | HDR10+ | Dolby Vision® | TÜV Rheinland Low Blue Light (Hardware Solution) Certified | TÜV Rheinland Flicker Free Certified | TÜV Rheinland Circadian Friendly Certified | TÜV Rheinland Intelligent Eye Care Certified",
+      "unit": "",
+      "condition": "*Activated in Game Turbo mode *This product is not a medical device. Its features are not intended for medical use and are not intended to predict, diagnose, prevent, or cure any disease."
+    },
+    {
+      "label": "Battery & Charging",
+      "value": "6500mAh (typ) silicon-carbon battery | 67W HyperCharge | Supports 50W PPS | Supports 22.5W wired reverse charging | Supports PD3.0 / PD2.0 | USB-C charging port",
+      "unit": "",
+      "condition": "*No power adapter is included in the box. Using Xiaomi 67W power adapter or above is recommended. *Supports up to 50W charging with PPS-compatible adapters. Actual performance may vary. *Supports up to 22.5W wired reverse charging, compatible with devices verified through Xiaomi Internal Labs. Actual performance may vary depending on battery condition and other factors. Ensure your phone has sufficient charge and that the receiving device is compatible."
+    },
+    {
+      "label": "Rear Camera",
+      "value": "Leica Summilux optical lens | VARIO-SUMMILUX 1:1.7-3.0/15-115 ASPH. | Leica 23mm main camera | 50MP | Light Fusion 800 image sensor 1/1.55\" | 2.0µm 4-in-1 Super Pixel | f/1.7 | OIS | 23mm equivalent focal length | Leica 115mm periscope telephoto | 50MP | f/3.0 | OIS | 115mm equivalent focal length | Leica 15mm ultra-wide camera | 12MP | f/2.2 | 15mm equivalent focal length | 120° | Rear camera photography features | Two Leica photographic styles (Leica Authentic look | Leica Vibrant look) | Leica filters | Leica classic shutter sound | Leica watermark | Xiaomi ProFocus (Motion tracking focus, Motion capture and Lightning Burst) | Digital zoom up to 120x with AI Ultra Zoom | HDR | Live moment | Auto scene detection | Portrait mode | Master-lens system (23mm, 28mm, 35mm, 46mm, 75mm, 115mm) | 50MP mode (wide/telephoto) | Super macro | Panorama | Long exposure | Documents | Fastshot | Pro mode | Image formats captured: HEIF, JPEG | Supports RAW in Pro mode | Rear camera video features | Auto scene detection | ShootSteady | Pro mode | LUT parameters | 3-Mic array | Time-lapse | Rear camera video recording： | 4K (3840 x 2160) HDR10+ video recording at 30fps, 60fps | 1080p (1920 x 1080) HDR10+ video recording at 30fps, 60fps | 720p (1280 x 720) video recording at 30fps | Log video recording up to 4K at 30fps, 60fps | Slow motion video recording: | 720p at 120fps, 240fps, 960fps | 1080p at 120fps, 240fps, 960fps | Time-lapse video recording up to 4K at 30fps | Night video recording up to 4K at 24fps",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Front Camera",
+      "value": "32MP in-display selfie camera | 32MP | f/2.2 | 21mm equivalent focal length | Front camera photography features | HDR | Live moment | Portrait mode | Palm shutter | Voice shutter | Selfie timer | Fill light | Front camera video recording： | 4K (3840 x 2160) HDR10+ video recording at 30fps | 1080p (1920 x 1080) HDR10+ video recording at 30fps, 60fps | 720p (1280 x 720) video recording at 30fps | Slow motion video recording up to 1080p at 120fps | Time-lapse video recording up to 4K at 30fps | Dual video | Video teleprompter",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Cooling system",
+      "value": "Xiaomi 3D IceLoop System",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Security & Authentication",
+      "value": "In-screen fingerprint sensor | AI Face Unlock",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "NFC",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Network & Connectivity",
+      "value": "Dual SIM (nano SIM + nano SIM or nano SIM + eSIM, eSIM + eSIM)* | Network bands: | 5G: SA: n1/2/3/5/7/8/12/20/26/28/34/38/39/40/41/48/66/ 71/75/77/78 | 5G: NSA: n1/2/3/5/7/8/20/28/38/40/41/66/71/75/77/78 | 4G: LTE FDD: B1/2/3/4/5/7/8/12/13/17/18/19/20/26/28/32/66/71 | 4G: LTE TDD: B34/38/39/40/41/42/48 | 3G: WCDMA: B1/2/4/5/8 | 2G: GSM: B2/3/5/8 | Wireless Networks: | Wi-Fi 6E | Supports 2x2 MIMO, Wi-Fi Direct | Bluetooth 6.0",
+      "unit": "",
+      "condition": "*Use of eSIM requires a wireless service plan. This service plan may be subject to certain restrictions of use on switching service providers and roaming (even after contract expiration). eSIM availability may vary depending on country/region and carrier. For more details, please contact your carrier for more information. *Wi-Fi 6E/Wi-Fi 6 capability may vary based on regional availability and local network support."
+    },
+    {
+      "label": "Dust & Water Resistance",
+      "value": "IP68",
+      "unit": "",
+      "condition": "*The device has been tested and certified to be resistant to splash, water, and dust in the presence of specific laboratory conditions with the classification IP68 ingress protection based on IEC 60529:1989+A1:1999+A2:2013. Manufacturer laboratory rating; resistance is not permanent, avoid wet charging. See source for precise freshwater depth/time/temperature test limits. Freshwater 1.5 m, up to 30 minutes; temperature difference ≤5 °C."
+    },
+    {
+      "label": "Video & Audio Playback",
+      "value": "Dual stereo speakers | Dolby Atmos®, Hi-Res & Hi-Res Wireless | Supports audio formats: MP3, FLAC, APE, AAC, OGG, WAV, AMR, AWB | Supports video formats: MP4, MKV, WEBM, 3GP, TS | Supports HDR display when playing HDR10, HDR10+, Dolby Vision® video content",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Navigation & Positioning",
+      "value": "GPS: L1 + L5 | GLONASS: G1｜Beidou: B1I + B1C + B2a | Galileo: E1 + E5a｜NavIC: L5 | QZSS: L1 + L5 | A-GPS supplementary positioning｜Wireless network | Data network",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Proximity sensor | Ambient light sensor | Accelerometer | Gyroscope | Electronic compass | IR blaster | Flicker sensor | X-axis linear vibration motor | Color temperature sensor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Operating System",
+      "value": "Xiaomi HyperOS 3",
+      "unit": "",
+      "condition": ""
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU / model code and GTIN matching",
+    "Colour-specific packaging and regional accessories"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/xiaomi-17t/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible manufacturer specification content parsed; model-reference scope, not an exact retailer SKU."
+    }
+  ],
+  "research_lane": "phones"
+}

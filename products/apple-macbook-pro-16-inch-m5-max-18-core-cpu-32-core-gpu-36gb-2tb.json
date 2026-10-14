@@ -1,0 +1,160 @@
+{
+  "id": "apple-macbook-pro-16-inch-m5-max-18-core-cpu-32-core-gpu-36gb-2tb",
+  "brand": "Apple",
+  "model": "MacBook Pro 16-inch M5 Max 18-core CPU 32-core GPU 36GB/2TB",
+  "category": "Laptops",
+  "scope": "Actual standard configuration from corresponding Apple Ireland CPU/GPU/memory/storage specification column. Configurable upgrades excluded. The 14-inch 15-core CPU/16-core GPU/24GB column explicitly lists standard 1TB or 2TB storage. Colour, regional keyboard/MPN and Latvia availability unresolved.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Exact variant source checked",
+  "source_name": "Apple Ireland MacBook Pro 16-inch technical specifications",
+  "source_url": "https://www.apple.com/ie/macbook-pro/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Finish",
+      "value": "Space Black Silver",
+      "unit": "",
+      "condition": "Apple Ireland standard specification column 3. Shared rows can explicitly state alternatives for M5 Pro versus Max or chassis option; local part number unverified."
+    },
+    {
+      "label": "Chip",
+      "value": "Apple M5 Max chip 18‑core CPU with 6 super cores and 12 performance cores 32-core GPU Neural Accelerators Hardware-accelerated ray tracing 16‑core Neural Engine 460GB/s memory bandwidth Media Engine Hardware-accelerated H.264, HEVC, ProRes and ProRes RAW Video decode engine Two video encode engines Two ProRes encode and decode engines AV1 decode",
+      "unit": "",
+      "condition": "Apple Ireland standard specification column 3. Shared rows can explicitly state alternatives for M5 Pro versus Max or chassis option; local part number unverified."
+    },
+    {
+      "label": "Memory",
+      "value": "36GB 36GB unified memory",
+      "unit": "",
+      "condition": "Apple Ireland standard specification column 3. Shared rows can explicitly state alternatives for M5 Pro versus Max or chassis option; local part number unverified."
+    },
+    {
+      "label": "Storage",
+      "value": "2TB SSD",
+      "unit": "",
+      "condition": "Apple Ireland standard specification column 3. Shared rows can explicitly state alternatives for M5 Pro versus Max or chassis option; local part number unverified. Explicit standard SSD size listed in this same CPU/memory column."
+    },
+    {
+      "label": "Display",
+      "value": "Liquid Retina XDR display 16.2-inch (diagonal) Liquid Retina XDR display;2 3456x2234 native resolution at 254 pixels per inch XDR (Extreme Dynamic Range) 1,000,000:1 contrast ratio XDR brightness: 1,000 nits sustained full-screen, 1,600 nits peak3 (HDR content only) SDR brightness: up to 1,000 nits (outdoor) Colour 1 billion colours Wide colour (P3) True Tone technology Refresh rates ProMotion technology for adaptive refresh rates up to 120Hz Fixed refresh rates: 47.95Hz, 48.00Hz, 50.00Hz, 59.94Hz, 60.00Hz Configurable with: Nano-texture display",
+      "unit": "",
+      "condition": "Apple Ireland standard specification column 3. Shared rows can explicitly state alternatives for M5 Pro versus Max or chassis option; local part number unverified."
+    },
+    {
+      "label": "Char­ging and Expan­sion",
+      "value": "SDXC card slot HDMI port 3.5mm headphone jack MagSafe 3 port Three Thunderbolt 5 (USB-C) ports with support for: Char­ging DisplayPort Thunderbolt 5 (up to 120Gb/s) USB 4 (up to 120Gb/s) MagSafe 3 Thunderbolt Thunderbolt 5 3.5mm headphone jack SDXC Thunderbolt 5 HDMI",
+      "unit": "",
+      "condition": "Apple Ireland standard specification column 3. Shared rows can explicitly state alternatives for M5 Pro versus Max or chassis option; local part number unverified."
+    },
+    {
+      "label": "External Display Support",
+      "value": "M5 Pro Supports up to three external displays over any combination of Thunderbolt and HDMI ports: Three displays up to a native resolution of 6K at 60Hz or 4K at 144Hz or One display up to a native resolution of 8K at 60Hz or 5K at 120Hz or 4K at 240Hz plus a second display up to a native resolution of 5K at 120Hz or 4K at 200Hz Supports up to three external displays over a single Thunderbolt port Simultaneously supports the built‑in display at full native resolution M5 Max Supports up to four external displays over any combination of Thunderbolt and HDMI ports: Four displays up to a native resolution of 6K at 60Hz or 4K at 144Hz or Two displays up to a native resolution of 8K at 60Hz or 5K at 120Hz or 4K at 240Hz Supports up to four external displays over a single Thunderbolt port Simultaneously supports the built‑in display at full native resolution Thunderbolt 5 (USB‑C) ports support native DisplayPort 2.1 speeds Learn more about connecting a display to your Mac",
+      "unit": "",
+      "condition": "Apple Ireland standard specification column 3. Shared rows can explicitly state alternatives for M5 Pro versus Max or chassis option; local part number unverified."
+    },
+    {
+      "label": "Video Playback",
+      "value": "Supported formats include HEVC, H.264, AV1 and ProRes HDR with Dolby Vision, HDR10+/HDR10 and HLG",
+      "unit": "",
+      "condition": "Apple Ireland standard specification column 3. Shared rows can explicitly state alternatives for M5 Pro versus Max or chassis option; local part number unverified."
+    },
+    {
+      "label": "Audio Playback",
+      "value": "Supported formats include AAC, MP3, Apple Lossless, FLAC, Dolby Digital, Dolby Digital Plus and Dolby Atmos",
+      "unit": "",
+      "condition": "Apple Ireland standard specification column 3. Shared rows can explicitly state alternatives for M5 Pro versus Max or chassis option; local part number unverified."
+    },
+    {
+      "label": "Key­board and Track­pad",
+      "value": "Backlit Magic Key­board with: 78 (ANSI) or 79 (ISO) keys including 12 full‑height function keys Touch ID Ambient light sensor Force Touch trackpad for precise cursor control and pressure-sensing capabilities; enables Force clicks, accelerators, pressure-sensitive drawing and Multi‑Touch gestures Force Touch trackpad",
+      "unit": "",
+      "condition": "Apple Ireland standard specification column 3. Shared rows can explicitly state alternatives for M5 Pro versus Max or chassis option; local part number unverified."
+    },
+    {
+      "label": "Wireless",
+      "value": "Apple N1 wireless networking chip Wi‑Fi 7 (802.11be)6 Bluetooth 6 Thread networking technology",
+      "unit": "",
+      "condition": "Apple Ireland standard specification column 3. Shared rows can explicitly state alternatives for M5 Pro versus Max or chassis option; local part number unverified."
+    },
+    {
+      "label": "Camera",
+      "value": "12MP Center Stage camera with support for Desk View 1080p HD video recording Advanced image signal processor with computational video",
+      "unit": "",
+      "condition": "Apple Ireland standard specification column 3. Shared rows can explicitly state alternatives for M5 Pro versus Max or chassis option; local part number unverified."
+    },
+    {
+      "label": "Audio",
+      "value": "High‑fidelity six‑speaker sound system with force‑cancelling woofers Wide stereo sound Support for Spatial Audio when playing music or video with Dolby Atmos on built‑in speakers Spatial Audio with dynamic head tracking when using supported models of AirPods, AirPods Pro and AirPods Max7 Studio‑quality three‑mic array with high signal‑to‑noise ratio and directional beamforming Voice Isolation and Wide Spectrum microphone modes for enhanced voice clarity in audio and video calls 3.5mm headphone jack with advanced support for high‑impedance headphones HDMI port supports multi‑channel audio output",
+      "unit": "",
+      "condition": "Apple Ireland standard specification column 3. Shared rows can explicitly state alternatives for M5 Pro versus Max or chassis option; local part number unverified."
+    },
+    {
+      "label": "Operating Requirements",
+      "value": "Line voltage: 100V to 240V AC Frequency: 50Hz to 60Hz Operating temperature: 10° to 35° C (50° to 95° F) Storage temperature: –25° to 45° C (‑13° to 113° F) Relative humidity: 0% to 90% non‑condensing Operating altitude: tested up to 3,000 metres (10,000 feet) Maximum storage altitude: 4,500 metres (15,000 feet) Maximum shipping altitude: 10,500 metres (35,000 feet)",
+      "unit": "",
+      "condition": "Apple Ireland standard specification column 3. Shared rows can explicitly state alternatives for M5 Pro versus Max or chassis option; local part number unverified."
+    },
+    {
+      "label": "Size and Weight",
+      "value": "Height: 1.68 cm (0.66 inches) Width: 35.57 cm (14.01 inches) Depth: 24.81 cm (9.77 inches) Weight (M5 Pro): 2.14 kg (4.7 pounds)8 Weight (M5 Max): 2.15 kg (4.7 pounds)8 Depth: 24.81 cm (9.77 inches) Width: 35.57 cm (14.01 inches) Height: 1.68 cm (0.66 inches)",
+      "unit": "",
+      "condition": "Apple Ireland standard specification column 3. Shared rows can explicitly state alternatives for M5 Pro versus Max or chassis option; local part number unverified."
+    },
+    {
+      "label": "Oper­at­ing System",
+      "value": "macOS macOS is the most advanced desktop operating system in the world. Siri AI9 is a powerful and capable assistant with personal context understanding, broad world knowledge and onscreen awareness. Express yourself through photos and images, save time with Safari, and get more done with Apple Intelligence9 seamlessly integrated into your everyday apps and experiences. And window tiling, Sidecar and more help you stay productive.",
+      "unit": "",
+      "condition": "Apple Ireland standard specification column 3. Shared rows can explicitly state alternatives for M5 Pro versus Max or chassis option; local part number unverified."
+    },
+    {
+      "label": "Accessi­bility",
+      "value": "Accessi­bility features help people with disabilities get the most out of their new MacBook Pro. With built-in support for vision, hearing, mobility and learning, you can create and do amazing things. Features include: VoiceOver Zoom Motion, display and text settings Accessi­bility Reader Switch Control Closed Captions Live Captions Personal Voice and Live Speech",
+      "unit": "",
+      "condition": "Apple Ireland standard specification column 3. Shared rows can explicitly state alternatives for M5 Pro versus Max or chassis option; local part number unverified."
+    },
+    {
+      "label": "Built-in Apps",
+      "value": "App Store Books Calendar Contacts FaceTime Find My Freeform Games GarageBand Home iMovie Journal Keynote Mail Maps Messages Music Notes Numbers Pages Passwords Phone Photo Booth Photos Podcasts Preview QuickTime Player Reminders Safari Shortcuts Stocks Time Machine Tips TV Voice Memos Weather",
+      "unit": "",
+      "condition": "Apple Ireland standard specification column 3. Shared rows can explicitly state alternatives for M5 Pro versus Max or chassis option; local part number unverified."
+    },
+    {
+      "label": "In the Box",
+      "value": "16-inch MacBook Pro USB‑C to MagSafe 3 Cable (2m) Polishing cloth (only with nano-texture display option) Power adapter sold separately",
+      "unit": "",
+      "condition": "Apple Ireland standard specification column 3. Shared rows can explicitly state alternatives for M5 Pro versus Max or chassis option; local part number unverified."
+    },
+    {
+      "label": "Con­fig­ure to Order",
+      "value": "Con­fig­ure your MacBook Pro with these options at apple.com: M5 Max with 18‑core CPU, 32‑core GPU and 16‑core Neural Engine M5 Max with 18‑core CPU, 40‑core GPU and 16‑core Neural Engine 36GB unified memory (M5 Max with 32‑core GPU) 48GB unified memory (M5 Pro and M5 Max with 40‑core GPU) 64GB unified memory (M5 Pro with 20‑core GPU and M5 Max and 40‑core GPU) 128GB unified memory (M5 Max with 40‑core GPU) 2TB or 4TB SSD (M5 Pro and M5 Max) 8TB SSD (M5 Max) Nano-texture display",
+      "unit": "",
+      "condition": "Apple Ireland standard specification column 3. Shared rows can explicitly state alternatives for M5 Pro versus Max or chassis option; local part number unverified."
+    },
+    {
+      "label": "MacBook Pro and the Environment",
+      "value": "The 16‑inch MacBook Pro is designed to reduce environmental impact:11 See the 16-inch MacBook Pro Product En­viron­men­tal Report (PDF) Progress towards Apple 2030 Apple 2030 is our commitment to be carbon neutral for our entire carbon footprint. Our plan to decarbonise products is rigorous and focuses on transitioning to low‑carbon electricity, designing with recycled and low‑carbon materials and prioritising lower‑carbon ways of shipping products, like sea freight. See Apple’s commitment Materials The 16‑inch MacBook Pro is made with 45% recycled content,12 including: 100% recycled aluminium in the enclosure and thermal module stage 100% recycled cobalt and 95% recycled lithium in the battery 100% recycled copper in multiple printed circuit boards and thermal module components 100% recycled gold plating and tin solder in all Apple-designed printed circuit boards 100% recycled rare earth elements in all magnets 80% or more recycled steel in the keyboard feature plate and speaker components Energy 50% of manufacturing electricity for the 16‑inch MacBook Pro is sourced from low-carbon electricity13 ENERGY STAR® certified14 Packaging 100% fibre-based packaging15 Waste No established final assembly sites generate waste sent to landfill as part of Apple’s Zero Waste Programme16 Smarter chemistry17 All of the materials used in Apple products, accessories and packaging are covered by the requirements of our Regulated Substances Specification, which was one of the first in industry to restrict the use of key substances of concern. See the latest En­viron­men­tal Progress Report to understand Apple’s recent efforts in phasing out these chemistries.",
+      "unit": "",
+      "condition": "Apple Ireland standard specification column 3. Shared rows can explicitly state alternatives for M5 Pro versus Max or chassis option; local part number unverified."
+    }
+  ],
+  "missing_fields": [
+    "Latvia MPN/GTIN",
+    "Keyboard locale",
+    "Latvia availability",
+    "Battery playback conditions/claims omitted"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.apple.com/ie/macbook-pro/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "http_status": 200,
+      "content_title": "MacBook Pro technical specifications",
+      "notes": "Official standard configuration columns read; selection justified by corresponding CPU/GPU, fixed memory and listed standard SSD sizes. 14-inch base M5 column has multiple memory alternatives and was not split."
+    }
+  ],
+  "research_lane": "computers"
+}

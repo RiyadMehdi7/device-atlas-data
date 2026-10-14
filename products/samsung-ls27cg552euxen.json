@@ -1,0 +1,405 @@
+{
+  "id": "samsung-ls27cg552euxen",
+  "brand": "Samsung",
+  "model": "LS27CG552EUXEN",
+  "category": "Monitors",
+  "scope": "Exact LS27CG552EUXEN manufacturer reference on be_fr Samsung site. Complete manufacturer suffix matches observed Tele2 name; physical stock EAN and regional smart-service availability remain unresolved.",
+  "identifiers": [
+    "LS27CG552EUXEN"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Exact variant source checked",
+  "source_name": "27\" Odyssey G5 G55C QHD Curved Gaming Moniteur| Samsung BE_FR",
+  "source_url": "https://www.samsung.com/be_fr/monitors/gaming/odyssey-g5-g55c-27-inch-165hz-curved-qhd-ls27cg552euxen/",
+  "tele2_url": "https://www.tele2.lv/monitori/samsung-ls27cg552euxen-27inch-va/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Définition",
+      "value": "QHD (2,560 x 1,440)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Aspect Ratio",
+      "value": "16:9",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Screen Curvature",
+      "value": "1000R",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Luminosité (normal)",
+      "value": "300cd/㎡",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Contrast Ratio Static",
+      "value": "2,500:1(Typ.)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Temps de réponse",
+      "value": "1 (MPRT)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Refresh Rate",
+      "value": "Max 165Hz",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Angle de vue (horizontaux/verticaux, degrés)",
+      "value": "178°(H)/178°(V)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Screen Size (Class)",
+      "value": "27",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Flat / Curved",
+      "value": "Curved",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Active Display Size (HxV) (mm)",
+      "value": "596.736(H)x335.664(V)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Type de dalle",
+      "value": "VA",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Luminosité (normal)",
+      "value": "300 cd/㎡",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Brightness (Min)",
+      "value": "200 cd/㎡",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Contrast Ratio (Dynamic)",
+      "value": "Mega ∞ DCR",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "HDR(High Dynamic Range)",
+      "value": "HDR10",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Color Support",
+      "value": "Max 16.7M",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Eye Saver Mode",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Flicker Free",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Image Size",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Windows Certification",
+      "value": "Windows 11",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "FreeSync",
+      "value": "FreeSync",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Off Timer Plus",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Black Equalizer",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Low Input Lag Mode",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Virtual AIM Point",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Refresh Rate Optimizor",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Super Arena Gaming UX",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Auto Source Switch",
+      "value": "Auto Source Switch+",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Display Port",
+      "value": "1 st.",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Display Port Version",
+      "value": "1.2",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "HDCP Version (DP)",
+      "value": "2.2",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "HDMI",
+      "value": "1 st.",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "HDMI Version",
+      "value": "2",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "HDCP Version (HDMI)",
+      "value": "2.2",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Headphone",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Température",
+      "value": "10~40 ℃",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Humidité",
+      "value": "10~80,non-condensing",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Color Mode",
+      "value": "PC:Entertain/Graphic/Eco/Game Standard/RPG/RTS/FPS/Sports/Original/Custom, AV:Dynamic/Standard/Eco/Movie/Game Standard/RPG/RTS/FPS/Sports/Original/Custom",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Front Color",
+      "value": "BLACK",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Rear Color",
+      "value": "BLACK",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Stand Color",
+      "value": "Black",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Type de socle",
+      "value": "SIMPLE",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Tilt",
+      "value": "-2 ~ 18",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Wall Mount",
+      "value": "75 x 75",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Classe d’efficacité énergétique",
+      "value": "F",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Alimentation",
+      "value": "AC 100~240V",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Puissance absorbée (maximale)",
+      "value": "40 W",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Power Consumption (Typ)",
+      "value": "26.0 W",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Power Consumption (DPMS)",
+      "value": "0.50 W",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Consommation électrique (hors tension)",
+      "value": "0.30 W",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Power Consumption (Yearly)",
+      "value": "38 kWh/year",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Type",
+      "value": "External Adaptor",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Set Dimension with Stand (WxHxD)",
+      "value": "616.6 x 477.4 x 272.6 mm",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Set Dimension without Stand (WxHxD)",
+      "value": "614.6 x 382.8 x 120.0 mm",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Dimensions du produit emballé (L x H x P)",
+      "value": "679.0 x 188 x 438.0 mm",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Set Weight with Stand",
+      "value": "4.1 kg",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Set Weight without Stand",
+      "value": "3.7 kg",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Poids du produit emballé",
+      "value": "5.7 kg",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Power Cable Length",
+      "value": "1.5 m",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "HDMI Cable",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "DP Cable",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LS27CG552EUXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    }
+  ],
+  "missing_fields": [
+    "Tele2 physical stock EAN reconciliation",
+    "Manual HDMI/DP timing limits",
+    "Latvian availability of region-limited smart services if applicable"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.samsung.com/be_fr/monitors/gaming/odyssey-g5-g55c-27-inch-165hz-curved-qhd-ls27cg552euxen/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "HTTP 200; full model code present; explicit manufacturer technical label/value block read"
+    }
+  ],
+  "research_lane": "monitors"
+}

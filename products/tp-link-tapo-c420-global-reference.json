@@ -1,0 +1,270 @@
+{
+  "id": "tp-link-tapo-c420-global-reference",
+  "brand": "TP-Link",
+  "model": "Tapo C420",
+  "category": "Cameras",
+  "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "TP-Link Tapo C420 official specifications",
+  "source_url": "https://www.tp-link.com/en/home-networking/cloud-camera/tapo-c420/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Image Sensor",
+      "value": "1/3\" Progressive Scan CMOS Starlight Sensor",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Lens",
+      "value": "Focal Length: 3.2 mm Aperture: F1.6 Field of View: 113° (Diagonal), 97°(Horizontal), 54°(Vertical)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Night Vision",
+      "value": "850 nm IR LED (49 ft / 15 m) Full-Color Night Vision",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Lighting",
+      "value": "2× Built-in Spotlights",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Hub Compatibility",
+      "value": "Compatible with Tapo H200(Sold separately)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Interface & Button",
+      "value": "1× SYNC/RESET Button",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Maximum Resolution",
+      "value": "2K QHD 4MP (2560 × 1440 px)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Frame Rate",
+      "value": "15 fps / 20 fps",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Digital Zoom",
+      "value": "12×",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Video Compression",
+      "value": "H.264",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Live View",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Image Enhancement",
+      "value": "3DNR WDR",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Audio Input & Output",
+      "value": "Built-in Microphone and Speaker",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Audio Communication",
+      "value": "Two-Way Audio with Noise Cancellation",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Siren Volume",
+      "value": "Camera: 92 dB (Level measured at 4-inch/10-cm distance) Hub: 100 dB (Level measured at 4-inch/10-cm distance)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Local Storage",
+      "value": "MicroSD Card Slot on Hub (Up to 512 GB) *Hub sold separately. General Information about using MicroSD Cards >",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Cloud Storage",
+      "value": "Tapo Care Cloud Storage Services (Subscription required)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Sensor",
+      "value": "Single Motion Sensor (FOV: 110° horizontal) Single Ambient Light Sensors",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "AI Detection",
+      "value": "Motion Detection Person Detection Pet Detection Vehicle Detection",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Activity Zones",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Output Notification",
+      "value": "System Notification System Notification with Snapshot (Tapo Care Services)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Network Connectivity",
+      "value": "Connect via Wi-Fi or Ethernet",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wireless Connectivity",
+      "value": "IEEE 802.11b/g/n, 2.4 GHz Wi-Fi Sub-1G, 868MHz or 922MHz (Used for local connection between camera and hub)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Ethernet Port",
+      "value": "1× 10/100 Mbps RJ45 Port on Hub *Hub sold separately.",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Security",
+      "value": "128-bit AES Encryption with SSL/TLS WPA/WPA2-PSK",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Power Source",
+      "value": "Camera： Removable Rechargeable Lithium-ion Battery Optional Solar Panel: Tapo A200 (Sold separately)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Input Voltage",
+      "value": "Camera Battery Pack Adapter Input: 100-240 V, 50/60 Hz",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Output Voltage",
+      "value": "Camera Battery Pack Adapter Output: 5.0 V, 1.0 A",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Smart Integration",
+      "value": "Google Assistant, Amazon Alexa",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Weather Resistance",
+      "value": "Camera: IP65",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "System Requirements",
+      "value": "Tapo App: iOS 11.0 or higher, Andriod 5.0 or higher",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Mounting Options",
+      "value": "Tabletop Ceiling-Mounted Wall-Mounted",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Operating Temperature",
+      "value": "Camera:-20℃~45℃",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Storage Temperature",
+      "value": "-20℃~60℃",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Operating Humidity",
+      "value": "10%~90% RH, Non-condensing",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Storage Humidity",
+      "value": "5%~90% RH, Non-condensing",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Charging Temperature",
+      "value": "0-55℃",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Dimensions ( W x D x H )",
+      "value": "Camera Dimensions: 4.35 × 2.52 × 2.52 in (110.6 × 64.2 × 64.2 mm)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Package Content",
+      "value": "Tapo C420 Camera Tapo A100 Battery USB Adapter USB Adapter Cable Mounting Anchors Mounting Screws Mounting Template Camera Bracket Quick Start Guide",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Certifications",
+      "value": "CE, FCC, RCM",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU/GTIN",
+    "Hardware revision and region-specific differences"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.tp-link.com/en/home-networking/cloud-camera/tapo-c420/",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP fetch; HTML specification rows parsed",
+      "notes": "40 factual specification rows read; marketing paragraphs excluded"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

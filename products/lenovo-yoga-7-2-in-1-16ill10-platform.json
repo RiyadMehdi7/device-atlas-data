@@ -1,0 +1,324 @@
+{
+  "id": "lenovo-yoga-7-2-in-1-16ill10-platform",
+  "brand": "Lenovo",
+  "model": "Yoga 7 2-in-1 16ILL10",
+  "category": "Laptops",
+  "scope": "Manufacturer global platform/model reference; option lists do not establish an actual RAM/storage/display combination. EU/Latvia exact SKU, keyboard and warranty need matching.",
+  "identifiers": [],
+  "aliases": [
+    "Yoga 7 2 in 1 16ILL10"
+  ],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Lenovo PSREF Yoga 7 2-in-1 16ILL10",
+  "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Yoga/Yoga_7_2_in_1_16ILL10/Yoga_7_2_in_1_16ILL10_Spec.html",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Processor Family",
+      "value": "Intel® 200V Series Core Ultra 5 / 7 Processor (Series 2)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "AI PC Category",
+      "value": "Copilot+ PC",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "NPU",
+      "value": "Integrated Intel® AI Boost, up to 47 TOPS",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Operating System",
+      "value": "Windows® 11 Pro ; Windows® 11 Home ; Windows® 11 Home Single Language ; No preload operating system",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Monitor Support",
+      "value": "Supports up to 4 independent displays (native display and 3 external monitors via HDMI® or Thunderbolt™) • HDMI® supports up to 4K@30Hz • Thunderbolt™ supports up to 8K@60Hz",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Chipset",
+      "value": "Intel® SoC (System on Chip) platform",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Max Memory",
+      "value": "16GB soldered memory, not upgradable ; 32GB soldered memory, not upgradable",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Memory Slots",
+      "value": "Memory soldered to systemboard, no slots, dual-channel",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Memory Type",
+      "value": "LPDDR5x-8533, MoP (Memory on Package) memory",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Storage Support",
+      "value": "One drive, up to 1TB M.2 2242 SSD",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Storage Slot",
+      "value": "One M.2 2242 PCIe® 4.0 x4 slot",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Storage Type",
+      "value": "Disk Type | Interface | Offering | ; M.2 2242 SSD | PCIe® NVMe®, PCIe® 4.0 x4 | 512GB / 1TB",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Card Reader",
+      "value": "microSD card reader",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Audio Chip",
+      "value": "High Definition (HD) Audio, Realtek® ALC3306 codec",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Speakers",
+      "value": "4 stereo speakers, 2W x2 (woofers), 2W x2 (tweeters), optimized with Dolby Atmos®, Smart Amplifier (AMP)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Microphone",
+      "value": "Quad-microphone array, 3D array",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Camera",
+      "value": "5.0MP + IR, with privacy shutter, fixed focus ; FHD 1080p + IR, with privacy shutter, fixed focus",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Sensors",
+      "value": "(Optional) Ambient light sensor (ALS) ; Accelerometer (G) sensor ; Hall sensor",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Battery",
+      "value": "Integrated Li-Polymer 70Wh battery, supports Rapid Charge Express (get 3 hours of runtime with a 15-minute charge)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Power Adapter",
+      "value": "65W USB-C® (3-pin) AC adapter, supports PD 3.0, 100-240V, 50-60Hz",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Display",
+      "value": "Size | Resolution | Touch | Type | Brightness | Surface | Aspect Ratio | Contrast Ratio | Color Gamut | Refresh Rate | Viewing Angle (L/R/U/D) | Key Features | ; 16\" | WUXGA (1920x1200) | Multi-touch | IPS | 300nits | Glossy, anti-fingerprint | 16:10 | 1,000:1 | 45% NTSC | 60Hz | 89° / 89° / 89° / 89° | Dolby Vision®, TÜV Low Blue Light (Software), Glass | ; 16\" | 2.8K WQXGA+ (2880x1800) | Multi-touch | OLED | 1,100nits (HDR Peak) / 500nits (SDR Typical) | Glossy, anti-fingerprint | 16:10 | 100,000:1 | 100% DCI-P3 | 120Hz (Max) | 85° / 85° / 85° / 85° | Dolby Vision®, DisplayHDR™ True Black 1000, TÜV Low Blue Light (Hardware), Glass",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Color Calibration",
+      "value": "No color calibration",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Touchscreen",
+      "value": "OGM (One Glass Metal mesh) multi-touch, supports 10-point touch",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Multi-mode",
+      "value": "Laptop, tent, stand, and tablet modes supported by 360° hinge",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Pen",
+      "value": "Lenovo® Yoga® Pen ; No pen (purchase separately)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Keyboard",
+      "value": "6-row, multimedia Fn keys, numeric keypad, Copilot key",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Keyboard Backlight",
+      "value": "LED backlight",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Touchpad",
+      "value": "Buttonless glass surface multi-touch touchpad, supports Precision TouchPad (PTP), 80 x 135 mm (3.15 x 5.31 inches)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Dimensions (WxDxH)",
+      "value": "361 x 257 x 15.85 mm (14.21 x 10.11 x 0.62 inches)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Weight",
+      "value": "Models | Weight | ; Models with IPS panel | Starting at 1.92 kg (4.23 lbs) | ; Models with OLED panel | Starting at 1.77 kg (3.90 lbs)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Case Color",
+      "value": "Luna grey",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Surface Treatment",
+      "value": "Aluminium stamping (anodized with sandblasting)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Case Material",
+      "value": "Aluminium (top), aluminium (bottom)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Ethernet",
+      "value": "No onboard Ethernet",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "WLAN + Bluetooth®",
+      "value": "Wi-Fi® 7, 802.11be 2x2 Wi-Fi® + Bluetooth® 5.4, M.2 card",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "WWAN",
+      "value": "No support",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Standard Ports",
+      "value": "1x USB-A (USB 5Gbps / USB 3.2 Gen 1), Always On ; 2x USB-C® (Thunderbolt™ 4 / USB4® 40Gbps), with USB PD 3.0 and DisplayPort™ 2.1 ; 1x HDMI® 1.4b ; 1x Headphone / microphone combo jack (3.5mm) ; 1x microSD card reader",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Docking",
+      "value": "Various docking solutions are supported via Thunderbolt™. For more compatible docking solutions, please visit Docking for Yoga® 7 2-in-1 16ILL10",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Security Chip",
+      "value": "Firmware TPM 2.0 integrated in SoC",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Fingerprint Reader",
+      "value": "Touch style fingerprint reader on palm rest ; No fingerprint reader",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "BIOS Security",
+      "value": "Administrator password ; User password ; Master hard disk password ; User hard disk password ; Self-healing BIOS",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Other Security",
+      "value": "IR camera for Windows® Hello (facial recognition) ; Camera privacy shutter",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Base Warranty",
+      "value": "1-year courier or carry-in service ; 2-year (1-yr battery) courier or carry-in service",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Bundled Accessories",
+      "value": "Yoga® Slim Mouse ; None",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Temperature",
+      "value": "At altitudes up to 2438 m (8,000 ft) - Operating: 5°C to 35°C (41°F to 95°F) - Storage: 5°C to 43°C (41°F to 109°F) ; At altitudes above 2438 m (8,000 ft) - Maximum temperature when operating under the unpressurized condition: 31.3°C (88°F)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Relative Humidity",
+      "value": "Operating: 8% to 95% at wet-bulb temperature 23°C (73°F) ; Storage and transportation: 5% to 95% at wet-bulb temperature 27°C (81°F)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Altitude",
+      "value": "Maximum altitude (without pressurization): 3048 m (10,000 ft)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Mil-Spec Test",
+      "value": "MIL-STD-810H military test passed (21 test items)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    }
+  ],
+  "missing_fields": [
+    "Exact EU/Latvia MPN or GTIN",
+    "Actual configured RAM/storage/display",
+    "Regional keyboard",
+    "Regional availability and warranty"
+  ],
+  "source_pages": [
+    {
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/Yoga/Yoga_7_2_in_1_16ILL10/Yoga_7_2_in_1_16ILL10_Spec.html",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Structured specifications read; options kept together as platform alternatives. Structured field values preserved in per-product JSON evidence.",
+      "http_status": 200,
+      "content_title": "Lenovo PSREF Yoga 7 2-in-1 16ILL10"
+    }
+  ],
+  "research_lane": "computers"
+}

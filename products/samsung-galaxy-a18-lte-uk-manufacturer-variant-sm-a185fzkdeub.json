@@ -1,0 +1,660 @@
+{
+  "id": "samsung-galaxy-a18-lte-uk-manufacturer-variant-sm-a185fzkdeub",
+  "brand": "Samsung",
+  "model": "Galaxy A18 LTE",
+  "category": "Phones",
+  "scope": "Belgian EU manufacturer variant SM-A185FZKDEUB; exact Belgian EU storage/colour scope, Latvia SKU needs matching",
+  "identifiers": [
+    "SM-A185FZKDEUB"
+  ],
+  "aliases": [
+    "Galaxy A18 LTE 128GB"
+  ],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Acheter le Galaxy A18 LTE | 128GB | Black | Samsung BEFR",
+  "source_url": "https://www.samsung.com/be_fr/smartphones/galaxy-a/galaxy-a18-black-128gb-sm-a185fzkdeub/",
+  "tele2_url": "https://www.tele2.lv/telefoni/galaxy-a18-lte-128gb/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Vitesse d'horloge",
+      "value": "2.4GHz, 2GHz",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Processeur",
+      "value": "Octa Core",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Format (l'écran principal)",
+      "value": "169.1mm (6.7\" le rectangle complet) / 164.5mm (6.5\" en compte les coins arrondis)",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Résolution (écran principal)",
+      "value": "1080 x 2340 (FHD+)",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Technologie (écran principal)",
+      "value": "Super AMOLED",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Nombre de couleurs (écran principal)",
+      "value": "16M",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Résolution (APN arrière) (Plusieurs)",
+      "value": "50.0 MP + 5.0 MP + 2.0 MP",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Camera arrière - F Numéro (Plusieurs)",
+      "value": "F1.8 , F2.2 , F2.4",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Camera arrière - Mise au point automatique",
+      "value": "Oui",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Camera arrière - OIS",
+      "value": "Non",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Camera arrière Zoom",
+      "value": "Zoom Numérique jusqu'à 10x",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Résolution (APN avant)",
+      "value": "13.0 Mégapixels",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Camera avant - F Numéro",
+      "value": "F2.0",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Camera avant - Mise au point automatique",
+      "value": "Non",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Camera avant - OIS",
+      "value": "Non",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Camera arrière - Flash",
+      "value": "Oui",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Camera avant - Flash",
+      "value": "Non",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Résolution vidéo Recording",
+      "value": "FHD (1920 x 1080 pixel) @30fps",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Slow Motion",
+      "value": "120fps @HD",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Mémoire (Go)",
+      "value": "4 Go",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Stockage (Go)",
+      "value": "128 Go",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Stockage Disponible (Go)",
+      "value": "109.5",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Stockage externe support",
+      "value": "MicroSD (jusqu'à 2 To)",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Nombre de SIM",
+      "value": "Dual-SIM",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "SIM Format",
+      "value": "Nano SIM (4FF)",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Type de SIM",
+      "value": "SIM 1 + Hybrid (SIM ou MicroSD)",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Infra",
+      "value": "2G GSM, 3G WCDMA, 4G LTE FDD, 4G LTE TDD",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "2G GSM",
+      "value": "GSM850, GSM900, DCS1800, PCS1900",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "3G UMTS",
+      "value": "B1(2100), B5(850), B8(900)",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "4G FDD LTE",
+      "value": "B1(2100), B3(1800), B5(850), B7(2600), B8(900), B20(800), B28(700)",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "4G TDD LTE",
+      "value": "B38(2600), B40(2300), B41(2500)",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "USB Interface",
+      "value": "USB Type-C",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "USB Version",
+      "value": "USB 2.0",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Localisation",
+      "value": "GPS, Glonass, Beidou, Galileo, QZSS",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Earjack",
+      "value": "USB Type-C",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "MHL",
+      "value": "Non",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Wi-Fi",
+      "value": "802.11a/b/g/n/ac 2.4GHz+5GHz, VHT80",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Wi-Fi Direct",
+      "value": "Oui",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Version Bluetooth",
+      "value": "Bluetooth v5.3",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "NFC",
+      "value": "Oui",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "PC Sync.",
+      "value": "Smart Switch (PC version)",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Facteur de forme",
+      "value": "Touch Bar",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Dimensions (HxWxD,mm)",
+      "value": "164.4 x 77.9 x 7.7",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Poids (g)",
+      "value": "196",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Capacité de la batterie (mAh, Typique)",
+      "value": "5000",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Amovible",
+      "value": "Non",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Classe d'efficacité énergétique",
+      "value": "A",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Durée de vie minimale de la batterie en cycles",
+      "value": "1200",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Haut-parleurs stéréo",
+      "value": "Non",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Formats lecteur vidéo",
+      "value": "MP4, M4V, 3GP, 3G2, AVI, FLV, MKV, WEBM",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Résolution lecteur vidéo",
+      "value": "FHD (1920 x 1080 pixel) @60fps",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Formats lecteur audio",
+      "value": "MP3, M4A, 3GA, AAC, OGG, OGA, WAV, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Contenu recyclé (%)",
+      "value": "1.13",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Poids de la matière première critique - Cobalt (g)",
+      "value": "10 ≤",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Poids de la matière première critique - Tantale (g)",
+      "value": "< 0.01",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Poids de la matière première critique - Néodyme (g)",
+      "value": "0.2 ≤",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Poids de la matière première critique - Or (g)",
+      "value": "< 0.02",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Recyclabilité (%)",
+      "value": "11.8",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Puissance requise pour la charge (Min / Max., W)",
+      "value": "10 | 25",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Objets connectés compatibles",
+      "value": "Galaxy Ring, Galaxy Buds Core, Galaxy Buds4 Pro, Galaxy Buds3 Pro, Galaxy Buds2 Pro, Galaxy Buds Pro, Galaxy Buds Live, Galaxy Buds+, Galaxy Buds4, Galaxy Buds3, Galaxy Buds2, Galaxy Buds, Galaxy Buds3 FE, Galaxy Buds FE, Galaxy Fit3, Galaxy Fit2, Galaxy Watch FE, Galaxy Watch Ultra2, Galaxy Watch Ultra, Galaxy Watch9, Galaxy Watch8, Galaxy Watch7, Galaxy Watch6, Galaxy Watch5, Galaxy Watch4, Galaxy Watch3, Galaxy Watch, Galaxy Watch Active2, Galaxy Watch Active",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Samsung DeX Support",
+      "value": "Non",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Bluetooth® Hearing Aid Support",
+      "value": "Android Audio Streaming for Hearing Aid(ASHA)",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "SmartThings Support",
+      "value": "Oui",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Mobile TV",
+      "value": "Non",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Période de mise à jour du support logiciel (valable jusqu’au)",
+      "value": "31 octobre 2032",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Période de support logiciel",
+      "value": "31 octobre 2032",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Version OS (à l'introduction)",
+      "value": "Android 17.0",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Nombre de versions OS",
+      "value": "6",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Plus d'information",
+      "value": "Voir la mise à jour du logiciel et de la sécurité pour plus d informations.",
+      "unit": "",
+      "condition": "Belgian EU exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Manual — Recommended operating temperature",
+      "value": "0 °C to 35 °C",
+      "unit": "",
+      "condition": "Manufacturer EU user guide linked by the exact source SKU; recommended operating range, not storage temperature.",
+      "source_url": "https://org.downloadcenter.samsung.com/downloadfile/ContentsFile.aspx?CDSite=UNI_BE_FR&OriginYN=N&ModelType=N&ModelName=SM-A185F%2FDS&CttFileID=11772117&CDCttType=UM&VPath=UM%2F202610%2F20261001184405381%2FSM-A185_UG_EU_17_Eng_Rev.1.0_261001.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Device type",
+      "value": "Smartphone",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-a185fzkdeub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Operating system",
+      "value": "Android",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-a185fzkdeub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Energy efficiency class",
+      "value": "A",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-a185fzkdeub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Battery user-replaceable",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-a185fzkdeub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Battery endurance per cycle (ENDdevice [h])",
+      "value": "51",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-a185fzkdeub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Battery endurance in cycles – default settings [cycles]",
+      "value": "1200",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-a185fzkdeub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Rated battery capacity (Crated [mAh])",
+      "value": "4860",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-a185fzkdeub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Shipped with protective cover",
+      "value": "No",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-a185fzkdeub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Repeated free fall reliability test – falls without defect [n]",
+      "value": "180",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-a185fzkdeub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Repeated free fall reliability class",
+      "value": "B",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-a185fzkdeub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Ingress protection rating",
+      "value": "IP64",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-a185fzkdeub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Screen scratch resistance on Mohs hardness scale",
+      "value": "5",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-a185fzkdeub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — ",
+      "value": "5",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-a185fzkdeub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Repairability Class (based on the index below)",
+      "value": "C",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-a185fzkdeub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Repairability Index",
+      "value": "2.99",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-a185fzkdeub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Disassembly Depth (SDD) score",
+      "value": "2.00",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-a185fzkdeub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Fasteners (type) score (SF)",
+      "value": "3.00",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-a185fzkdeub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Tools (type) score (ST)",
+      "value": "3.60",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-a185fzkdeub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Spare Part score (SSP)",
+      "value": "4.00",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-a185fzkdeub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Software Updates (duration) score (SSU)",
+      "value": "1.00",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-a185fzkdeub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Repair Information score (SRI)",
+      "value": "5.00",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-a185fzkdeub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Minimum duration of the guarantee offered by the supplier [months]",
+      "value": "24",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-a185fzkdeub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Charger required output power",
+      "value": "10",
+      "unit": "W",
+      "condition": "EU product information sheet charger requirement.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-a185fzkdeub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Charger receptacle type",
+      "value": "USB_C",
+      "unit": "",
+      "condition": "EU product information sheet.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-a185fzkdeub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU / model code and GTIN matching",
+    "Colour-specific packaging and regional accessories"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.samsung.com/be_fr/smartphones/galaxy-a/galaxy-a18-black-128gb-sm-a185fzkdeub/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible manufacturer specification content parsed; model-reference scope, not an exact retailer SKU."
+    },
+    {
+      "url": "https://org.downloadcenter.samsung.com/downloadfile/ContentsFile.aspx?CDSite=UNI_BE_FR&OriginYN=N&ModelType=N&ModelName=SM-A185F%2FDS&CttFileID=11772117&CDCttType=UM&VPath=UM%2F202610%2F20261001184405381%2FSM-A185_UG_EU_17_Eng_Rev.1.0_261001.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch + pdftotext",
+      "notes": "Official EU user guide linked by exact manufacturer SKU; operating-temperature and unambiguous water-resistance lab conditions extracted where present."
+    },
+    {
+      "url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-a185fzkdeub-productfiche.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch + pdftotext",
+      "notes": "Official EU regulatory product information sheet; rated battery/endurance and repairability metrics explicitly separated from consumer usage claims."
+    }
+  ],
+  "research_lane": "phones"
+}

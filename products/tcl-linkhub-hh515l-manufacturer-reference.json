@@ -1,0 +1,94 @@
+{
+  "id": "tcl-linkhub-hh515l-manufacturer-reference",
+  "brand": "TCL",
+  "model": "LINKHUB HH515L",
+  "category": "Routers",
+  "scope": "Official manufacturer technical document reference. Exact Latvian SKU/hardware/region requires matching. BROVI Max5 is only a candidate match to generic Tele2 Max Outdoor family. TCL source is UK; H153 source manual includes EU/Latvia regulatory restrictions. Performance conditions preserved.",
+  "identifiers": [
+    "HH515L"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "TCL LINKHUB HH515L official specifications/manual",
+  "source_url": "https://www.tcl.com/uk/en/routers/tcl-linkhub-hh515l",
+  "tele2_url": "https://www.tele2.lv/ruteri/tcl-hh515l/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Model code",
+      "value": "HH515L",
+      "unit": ""
+    },
+    {
+      "label": "Cellular network",
+      "value": "5G NR",
+      "unit": ""
+    },
+    {
+      "label": "Peak download speed",
+      "value": "Up to 4.67Gbps",
+      "unit": ""
+    },
+    {
+      "label": "5G antenna gain",
+      "value": "10dBi",
+      "unit": ""
+    },
+    {
+      "label": "Wi-Fi standard",
+      "value": "Wi-Fi6",
+      "unit": ""
+    },
+    {
+      "label": "Wi-Fi class",
+      "value": "AX3000 concurrent dual-band",
+      "unit": ""
+    },
+    {
+      "label": "5GHz antenna design",
+      "value": "3T3R",
+      "unit": ""
+    },
+    {
+      "label": "Mesh",
+      "value": "EasyMesh compatible",
+      "unit": ""
+    },
+    {
+      "label": "Management app",
+      "value": "TCL Connect",
+      "unit": ""
+    },
+    {
+      "label": "Parental controls",
+      "value": "Screen-time and website-access settings",
+      "unit": ""
+    },
+    {
+      "label": "eSIM design",
+      "value": "Designed to support eSIM; carrier/firmware applicability requires matching",
+      "unit": ""
+    },
+    {
+      "label": "Telephone connector scope",
+      "value": "RJ11 offered only on HH515LV variant",
+      "unit": ""
+    }
+  ],
+  "missing_fields": [
+    "UK reference: Latvia mains adaptor and exact hardware require matching",
+    "NR bands, dimensions, electrical rating, Ethernet ports missing from retrieved specification renderer",
+    "Peak speed varies by carrier and region",
+    "Exact Latvian GTIN/MPN and regional package"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.tcl.com/uk/en/routers/tcl-linkhub-hh515l",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP fetch; visible manufacturer page read",
+      "notes": "Technical facts extracted; full copyright source documents not retained"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

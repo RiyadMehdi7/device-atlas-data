@@ -1,0 +1,75 @@
+{
+  "id": "xiaomi-smart-pet-food-feeder-2-global-reference",
+  "brand": "Xiaomi",
+  "model": "Xiaomi Smart Pet Food Feeder 2",
+  "category": "Smart home",
+  "scope": "Official global English model reference; current Tele2 listing observed separately. EU mains adaptor, exact SKU and GTIN require matching. Robot and dock measurements kept separate.",
+  "identifiers": [
+    "XMWSQ02"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Xiaomi Smart Pet Food Feeder 2 official specifications",
+  "source_url": "https://www.mi.com/global/product/xiaomi-smart-pet-food-feeder-2/specs/",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/xiaomi-smart-pet-food-feeder-2-eu/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Product model number",
+      "value": "XMWSQ02",
+      "unit": "",
+      "condition": "Official global specifications; Latvia EU retail SKU needs matching"
+    },
+    {
+      "label": "Input parameters",
+      "value": "5.9V⎓1A",
+      "unit": "",
+      "condition": "Official global specifications; Latvia EU retail SKU needs matching"
+    },
+    {
+      "label": "Wireless connectivity",
+      "value": "Wi-Fi IEEE802.11b/g/n 2.4GHz",
+      "unit": "",
+      "condition": "Official global specifications; Latvia EU retail SKU needs matching"
+    },
+    {
+      "label": "Product dimensions",
+      "value": "370 x 220 x 324mm",
+      "unit": "",
+      "condition": "Official global specifications; Latvia EU retail SKU needs matching"
+    },
+    {
+      "label": "Operating temperature",
+      "value": "0–40°C",
+      "unit": "",
+      "condition": "Official global specifications; Latvia EU retail SKU needs matching"
+    },
+    {
+      "label": "Rated power",
+      "value": "5.9W",
+      "unit": "",
+      "condition": "Official global specifications; Latvia EU retail SKU needs matching"
+    },
+    {
+      "label": "Supported systems",
+      "value": "Android 8.0, iOS 12.0 or above",
+      "unit": "",
+      "condition": "Official global specifications; Latvia EU retail SKU needs matching"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvia/EU SKU/GTIN",
+    "Regional mains adaptor",
+    "Operating modes and performance conditions not in fetched specification page"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/xiaomi-smart-pet-food-feeder-2/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP fetch; visible specifications read",
+      "notes": "Sparse technical specification page; 7 fields supported"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

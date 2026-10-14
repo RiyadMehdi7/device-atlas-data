@@ -1,0 +1,102 @@
+{
+  "id": "xiaomi-smart-band-9-active",
+  "brand": "Xiaomi",
+  "model": "Smart Band 9 Active",
+  "category": "Smartwatches",
+  "scope": "Global manufacturer model-family reference. Strap/colour alternatives do not form separate products. Any NFC, LTE, ceramic or regional subvariants described remain conditional; exact Latvia SKU unresolved.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Xiaomi Smart Band 9 Active specifications",
+  "source_url": "https://www.mi.com/global/product/xiaomi-smart-band-9-active/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Weight",
+      "value": "16.5g (without strap)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Adjustable length:",
+      "value": "135–215mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Material:",
+      "value": "TPU",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Color:",
+      "value": "Black, Beige White, Pink, Purple, Green",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Resolution:",
+      "value": "172 x 320 pixels, 247 PPI",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Material:",
+      "value": "Reinforced glass cover",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Band faces:",
+      "value": "100+",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Charging type:",
+      "value": "Magnetic charging",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Charging time:",
+      "value": "Less than 120 minutes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Typical use time:",
+      "value": "Up to 18 days",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Capacity:",
+      "value": "300mAh",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Compatibility",
+      "value": "supports smartphones with Android 8.0/ iOS 14.0 and above",
+      "unit": "",
+      "condition": ""
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU / GTIN matching",
+    "Regional app and payment availability"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/xiaomi-smart-band-9-active/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Manufacturer technical specification content parsed; extracted factual fields only"
+    }
+  ],
+  "research_lane": "wearables"
+}

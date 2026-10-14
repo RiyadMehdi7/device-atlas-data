@@ -1,0 +1,344 @@
+{
+  "id": "lenovo-82yy0064mh",
+  "brand": "Lenovo",
+  "model": "Lenovo V15 G4 ABP (82YY0064MH)",
+  "category": "Laptops",
+  "scope": "Exact manufacturer configuration. Lenovo PSREF rendered model table explicitly lists MPN 82YY0064MH and EAN/UPC/JAN 199275397936; same identifier read from Tele2 listing. Regional country/keyboard and warranty values are kept as manufacturer claims, not inferred Latvia service terms. Max memory/storage are capacity support, not installed amounts.",
+  "identifiers": [
+    "82YY0064MH",
+    "199275397936"
+  ],
+  "aliases": [
+    "Lenovo V15 G4 ABP"
+  ],
+  "checked_at": "2026-10-14",
+  "status": "Exact variant source checked",
+  "source_name": "Lenovo PSREF Lenovo V15 G4 ABP 82YY0064MH",
+  "source_url": "https://psref.lenovo.com/Detail/Lenovo_V15_G4_ABP?M=82YY0064MH",
+  "tele2_url": "https://www.tele2.lv/datori/lenovo-v15-g4-abp-r5-5625u-15i-8gb-512gb/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Processor",
+      "value": "AMD Ryzen 5 5625U (6C / 12T, 2.3 / 4.3GHz, 3MB L2 / 16MB L3)",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Graphics",
+      "value": "Integrated AMD Radeon Graphics",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Chipset",
+      "value": "AMD SoC Platform",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Memory",
+      "value": "8GB Soldered DDR4-3200",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Memory Slots",
+      "value": "One memory soldered to systemboard, one DDR4 SODIMM slot, dual-channel capable",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Max Memory",
+      "value": "Up to 16GB (8GB soldered + 8GB SODIMM) DDR4-3200 offering",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Storage",
+      "value": "512GB SSD M.2 2242 PCIe 4.0x4 NVMe",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Storage Slot",
+      "value": "Models with 45Wh battery: one M.2 slot; One M.2 2280 PCIe 3.0 x4 slot",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Max Storage Support",
+      "value": "Models with 45Wh battery: one drive, 1x M.2 SSD; M.2 2242 SSD up to 1TB",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Optical",
+      "value": "None",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Card Reader",
+      "value": "No Card Reader",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Audio Chip",
+      "value": "High Definition (HD) Audio, Realtek ALC3287 codec",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Speakers",
+      "value": "Stereo speakers, 1.5W x2, Dolby Audio",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Microphone",
+      "value": "2x, Array",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Camera",
+      "value": "HD 720p with Privacy Shutter",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Battery",
+      "value": "45Wh",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Power Adapter",
+      "value": "65W Round Tip (3-pin)",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Display",
+      "value": "15.6 inch FHD (1920x1080) TN 250nits Anti-glare",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Touchscreen",
+      "value": "None",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Screen-to-Body Ratio",
+      "value": "87%",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Pen",
+      "value": "Pen Not Supported",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Keyboard",
+      "value": "Non-backlit, English (EU)",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Touchpad",
+      "value": "Buttonless Mylar surface multi-touch touchpad, supports Precision TouchPad (PTP), 62 x 104 mm (2.44 x 4.09 inches)",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Dimensions (WxDxH)",
+      "value": "359.2 x 235.8 x 19.9 mm (14.14 x 9.28 x 0.78 inches)",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Weight",
+      "value": "Starting at 1.65 kg (3.64 lbs)",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Case Color",
+      "value": "Business Black",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Case Material",
+      "value": "PC-ABS (Top), PC-ABS (Bottom)",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Surface Treatment",
+      "value": "Texture",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Operating System",
+      "value": "Windows 11 Pro, Benelux (EN/FR/DE/NL)",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "WLAN + Bluetooth",
+      "value": "Wi-Fi 6, 802.11ax 2x2 + BT5.2",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "WWAN",
+      "value": "WWAN Not Supported",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Ethernet",
+      "value": "100/1000M (RJ-45)",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Standard Ports",
+      "value": "1x USB-A (USB 5Gbps / USB 3.2 Gen 1); 1x USB-C (USB 5Gbps / USB 3.2 Gen 1), with USB PD 45-65W and DisplayPort 1.2; 1x USB 2.0; 1x HDMI 1.4b; 1x Headphone / microphone combo jack (3.5mm); 1x Ethernet (RJ-45); 1x Round tip power connector",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Security Chip",
+      "value": "Firmware TPM 2.0 Enabled",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Physical Locks",
+      "value": "Kensington Nano Security Slot, 2.5 x 6 mm",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Fingerprint Reader",
+      "value": "No Fingerprint Reader",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Other Security",
+      "value": "Camera privacy shutter",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Base Warranty",
+      "value": "1-year, Courier or Carry-in",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Included Upgrade",
+      "value": "None",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Bundled Accessories",
+      "value": "None",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Green Certifications",
+      "value": "ENERGY STAR 9.0; ErP Lot 6/26; FSC certified package; RoHS compliant",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Mil-Spec Test",
+      "value": "MIL-STD-810H military test passed",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Other Certifications",
+      "value": "TÜV Rheinland Low Blue Light (Software Solution)",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Model",
+      "value": "82YY0064MH",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Machine Type",
+      "value": "82YY",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Region",
+      "value": "WE",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Country/Region",
+      "value": "Netherlands",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "EAN / UPC / JAN",
+      "value": "199275397936",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Announce Date",
+      "value": "2026-02-12",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "End of Support",
+      "value": "2030-04-26",
+      "unit": "",
+      "condition": "Exact MPN 82YY0064MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    }
+  ],
+  "missing_fields": [
+    "Current stock and Latvia seller warranty terms",
+    "GTIN normalization: source lists 12-digit UPC under EAN/UPC/JAN"
+  ],
+  "source_pages": [
+    {
+      "url": "https://psref.lenovo.com/Detail/Lenovo_V15_G4_ABP?M=82YY0064MH",
+      "fetched_at": "2026-10-14",
+      "method": "Chrome browser rendered official PSREF table, DOM read",
+      "content_title": "Specifications - Lenovo PSREF",
+      "notes": "Visible model-specific manufacturer table read including EAN/UPC/JAN. No HTTP status inferred. Structured factual extraction saved."
+    },
+    {
+      "url": "https://www.tele2.lv/datori/lenovo-v15-g4-abp-r5-5625u-15i-8gb-512gb/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "http_status": 200,
+      "content_title": "Lenovo V15 G4 ABP Tele2 listing",
+      "notes": "Retailer identifier directly read and joined to independently observed manufacturer identifier."
+    }
+  ],
+  "research_lane": "computers"
+}

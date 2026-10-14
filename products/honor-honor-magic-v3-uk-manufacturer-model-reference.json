@@ -1,0 +1,336 @@
+{
+  "id": "honor-honor-magic-v3-uk-manufacturer-model-reference",
+  "brand": "Honor",
+  "model": "HONOR Magic V3",
+  "category": "Phones",
+  "scope": "UK manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "HONOR Magic V3 specification - HONOR UK",
+  "source_url": "https://www.honor.com/uk/phones/honor-magic-v3/spec/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Dimensions and Weight — Height",
+      "value": "156.6mm",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Dimensions and Weight — Width",
+      "value": "folded: 74.0mm unfolded: 145.3mm",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Dimensions and Weight — Depth",
+      "value": "Black Version: folded: 9.2mm unfolded: 4.35mm Other Version: folded: 9.3mm unfolded: 4.4mm",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Dimensions and Weight — Weight",
+      "value": "Black Version: Approx. 226 g (including the battery); Other Version: Approx. 230 g (including the battery) | *The actual dimensions and weight may vary depending on the configuration, manufacturing process, and measurement method.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Size",
+      "value": "inner screen: 7.92 inches Outer screen: 6.43 inches | *The display screen adopts a rounded corner design. When measured according to a standard rectangle, the diagonal length of the screen is 6.43 inches for the outer screen and 7.92 inches for the inner screen (the actual viewing area is slightly smaller).",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Colour",
+      "value": "1.07 billion colors, DCI-P3 wide color gamut",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Type",
+      "value": "inner screen: foldable OLED Outer screen: OLED",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Eye Comfort Technology",
+      "value": "AI Defocus Display, 4320Hz PWM Flicker Free Dimming, Dynamic Dimming, Circadian Night Display, Nature Tone Display | *This product is not medical equipment and is not available for treatment.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Resolution",
+      "value": "inner screen: 2344x2156 Pixels Outer screen: 2376x1060 Pixels | *This resolution corresponds to a standard rectangle, and the actual screen has slightly fewer effective pixels.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Gestures",
+      "value": "Supported",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Brightness",
+      "value": "Outer screen: 5000nits Peak Brightness",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Display — Screen Glass Material",
+      "value": "Inner screen: HONOR Super Armored Inner Screen Outer screen: HONOR Anti-scratch NanoCrystal Shield",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Processor — CPU Model",
+      "value": "Snapdragon 8 Gen 3",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Processor — CPU Type",
+      "value": "Octa-core",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Processor — CPU Dominant Frequency",
+      "value": "1×Cortex-X4 3.3GHz+3×Cortex-A720 3.2GHz+2×Cortex-A720 3.0GHz+2×Cortex-A520 2.3GHz",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Processor — GPU",
+      "value": "Adreno 750",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "System — Operating System",
+      "value": "MagicOS 8.0.1 (Based on Android 14)",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Rear Camera",
+      "value": "40MP Ultra Wide Camera (f/2.2) 50MP Wide Camera (f/1.6, OIS) 50MP Telephoto Lens Camera (f/3.0, OIS) | *The pixels may vary with different photo and video modes. Please refer to the actual situations.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Video Shooting",
+      "value": "Support for 4K (3840×2160 pixels) | *The actual image resolution may vary depending on the video recording mode.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Focus Mode",
+      "value": "100x Digital zoom",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Image Resolution",
+      "value": "8192×6144 pixels | *The actual image resolution may vary depending on the shooting mode.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Video Resolution",
+      "value": "3840x2160 pixels | *The actual image resolution may vary depending on the video recording mode.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Rear Flashlight",
+      "value": "Rear single LED flash",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Capture Mode",
+      "value": "AI photography, Super Wide Angle, Aperture, Night, Portrait mode, Photo, Pro mode, Video, Panorama, Filter, Watermark, Scan Document, Super Macro, Capture smiles, Time-lapse, Timer, Movie, Slow-MO, Story",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Rear Camera — Stablization Mode",
+      "value": "EIS+OIS",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Front Camera",
+      "value": "20MP Wide Camera (f/2.2) (Interior screen) 20MP Wide Camera (f/2.2) (Exterior screen) | *The pixels may vary with different photo and video modes. Please refer to the actual situations.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Image Resolution",
+      "value": "5120×3840 pixels | *The actual image resolution may vary depending on the shooting mode",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Video Resolution",
+      "value": "3840×2160 pixels | *The actual image resolution may vary depending on the video recording mode.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Video Shooting",
+      "value": "Supported 4K (3840×2160 pixels) | *The actual image resolution may vary depending on the video recording mode.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Capture Mode",
+      "value": "Portrait, Filter, Watermark, Capture smiles, Mirror reflection, Timer, Night, Gesture control",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Front Camera — Face Recognition",
+      "value": "Supported 2D face unlock",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Battery — Capacity",
+      "value": "5150mAh (typical value), 5050 mAh (rated value)",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Battery — Type",
+      "value": "Lithium polymer battery (HONOR Third-generation Silicon-carbon Battery)",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Battery — Wired Charging",
+      "value": "66W HONOR SuperCharge The phone supports up to 11V/6A SuperCharge, compatible with 10V/4A and 5V/2A. | *The supported maximum wired charging power is 66W when going with the original SuperCharge charger. The actual charging power will intelligently change depending on different scenarios.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Battery — Wireless Charging",
+      "value": "50W Wireless HONOR SuperCharge | *The wireless charging base is sold separately.The actual charging power will change intelligently with different scenarios, please refer to the actual situation.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Cellular Network — Network Standard",
+      "value": "Support 5G/4G+/4G/3G/2G | *In Dual SIM version, either card slot can be set to accommodate the primary or secondary SIM card. *Whether 5G/4G is available depends on the deployment of operators' network and related services.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Cellular Network — SIM Card",
+      "value": "Nano SIM card | Nano SIM card / eSIM* | *eSIM requires a wireless service plan and allows you to activate a mobile network plan without the use of a Nano SIM. eSIM availability may vary depending on country and carrier. Please check the <a style=\"color: #256fff;\" href=\"https://www.honor.com/global/tech/honor-esim/\" target=\"_blank\"> support list</a> for details. *For Dual SIM model, SIM Card 2 can be set up as eSIM or nano card; For Single SIM model, SIM Card 2 only support eSIM.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Wi-Fi",
+      "value": "WLAN Protocols: 802.11 a/b/g/n/ac/ax/be WLAN Frequency: 2.4GHz and 5GHz Support WLAN Hotspot and WLAN Direct",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Bluetooth",
+      "value": "Bluetooth 5.3, Support Bluetooth Low Energy, SBC, AAC, LDAC , AptX, AptX HD.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Others",
+      "value": "Infrared Remote Control PC Data Sync (Computer need install HonorSuite) OTG (maximum output current 1A/5V during reverse power supply) USB: USB Type-C, USB 3.1 GEN1 Earjack: USB Type-C Video Call (operator and third-party software) | *The availability of this function depends on the network operators in different countries or regions. Contact your network operator for details.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Connectivity and Location — Positioning",
+      "value": "Support GPS(L1+L5) /AGPS/GLONASS/BeiDou(B1I+B1C+B2a)/Galileo(E1 + E5a) /QZSS (L1 + L5) Support Cellular Network Positioning/Wi-Fi Network Positioning",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Sensors — Sensors",
+      "value": "Gravity Sensor Infrared Sensor Hall sensor Fingerprint Sensor Gyroscope Compass Barometer sensor Color temperature sensor Ambient Light Sensor Proximity Sensor",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Sensors — NFC",
+      "value": "Support Reader/Writer Mode, Card Emulation Mode (SIM*, HCE) | *Only SIM1 support.",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Media and Audio — Video",
+      "value": "3gp/mp4",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Media and Audio — Audio",
+      "value": "mp3/mp4/3gp/ogg/amr/aac/flac/wav/midi",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Media and Audio — Sound Effect",
+      "value": "DTS:X® Ultra",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Media and Audio — Stereo",
+      "value": "Supported",
+      "unit": "",
+      "condition": "UK manufacturer reference; regional variations remain possible"
+    },
+    {
+      "label": "Memory",
+      "value": "12GB+512GB | *The available internal storage may be smaller as part of the internal storage is occupied by software.",
+      "unit": "",
+      "condition": "UK manufacturer model reference; options grouped and manufacturer qualifiers retained.",
+      "source_url": "https://www.honor.com/uk/phones/honor-magic-v3/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Water and Dust Resistance",
+      "value": "IPX8 | *HONOR Magic V3 is rated as IPX8 for splash and water resistance under IEC standard 60529 and was tested under controlled laboratory conditions. Splash and water resistance are not permanent conditions and resistance may decrease over time with normal use. Do not charge the phone when it is wet or in moist environments. Refer to the manual for cleaning and drying instructions. Submersion in liquid and the resulting damage is not covered by the warranty. IPX8 rating means that based on certain defined test conditions, the device is protected against harmful ingress of static water at up to 2.5 metres, for up to 30 minutes, meanwhile the temperature difference between water and device is not more than 5℃.",
+      "unit": "",
+      "condition": "UK manufacturer model reference; options grouped and manufacturer qualifiers retained.",
+      "source_url": "https://www.honor.com/uk/phones/honor-magic-v3/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "In the Box",
+      "value": "1. Phone(Built-in battery) x 1 2. USB Type-C Cable x 1 3. Quick Start Guide x 1 4. Eject Tool x 1 5. Inner screen protective film (Attached on the phone before delivery) x 1 6. External screen protective film (Attached on the phone before delivery) x 1 7. Warranty Card x 1 8. PU Protective cover x 1 | * Dependent on market",
+      "unit": "",
+      "condition": "UK manufacturer model reference; options grouped and manufacturer qualifiers retained.",
+      "source_url": "https://www.honor.com/uk/phones/honor-magic-v3/spec/",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU / model code and GTIN matching",
+    "Colour-specific packaging and regional accessories"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.honor.com/uk/phones/honor-magic-v3/spec/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible manufacturer specification content parsed; model-reference scope, not an exact retailer SKU."
+    }
+  ],
+  "research_lane": "phones"
+}

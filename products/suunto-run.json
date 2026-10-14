@@ -1,0 +1,1086 @@
+{
+  "id": "suunto-run",
+  "brand": "Suunto",
+  "model": "Run",
+  "category": "Smartwatches",
+  "scope": "Official European manufacturer selected material/storage model reference; colour used only to anchor source and not separately counted. Country-specific services and Latvian SKU unresolved.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Suunto Run specifications",
+  "source_url": "https://www.suunto.com/en-hu/Products/sports-watches/suunto-run/suunto-run-all-black/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Bezel material",
+      "value": "Stainless steel",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Case material",
+      "value": "Glass fibre reinforced polyamide",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Strap material",
+      "value": "Nylon textile",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Weight (g)",
+      "value": "36",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Width (mm)",
+      "value": "46",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Height (mm)",
+      "value": "46",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Depth (mm)",
+      "value": "11,5",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Battery type",
+      "value": "rechargeable lithium-ion",
+      "unit": "",
+      "condition": "Manufacturer specification; battery values are laboratory claims, actual use varies"
+    },
+    {
+      "label": "Strap width:",
+      "value": "22 mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Wrist sizes:",
+      "value": "125-175 mm (accessory strap -215 mm)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Customizable watch faces",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Touch screen lock",
+      "value": "during exercise",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Touch display",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Color display",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Water resistance",
+      "value": "50 m",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Firmware upgradable",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Time, date",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Alarm clock",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Dual time",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Countdown timer",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Stopwatch timer",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Automatic timekeeping",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Vibration alert",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Languages",
+      "value": "EN, CS, DA, DE, EL, ES, FI, FR, IT, JA, KO, NL, NO, PL, PT, RU, SV, TR, HE, ZH*, TH*, ZHTW*",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Backlight",
+      "value": "AMOLED",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Always-on display",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Configurable backlight",
+      "value": "automatic brightness",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Button lock",
+      "value": "during exercise",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Display size",
+      "value": "1,32\"",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Display type",
+      "value": "matrix",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Display resolution",
+      "value": "466 x 466",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Battery indicator",
+      "value": "percentage / icon",
+      "unit": "",
+      "condition": "Manufacturer specification; battery values are laboratory claims, actual use varies"
+    },
+    {
+      "label": "Metric and imperial units",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Automatic daylight saving time",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Blood oxygen",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Integrated wrist heart rate",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Automatic firmware updates over the air",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Control your music with watch",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Offline music with watch",
+      "value": "4GB",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Smartphone compatibility",
+      "value": "Most common models supported",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Connectivity (between devices)",
+      "value": "Bluetooth",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Phone notifications on the watch",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Media controls on watch",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Send predefined replies to incoming messages from watch",
+      "value": "Android only",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Compatible with online sports communities",
+      "value": "Strava, TrainingPeaks and more",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Automatic over the air software updates",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Watch software updates from cloud",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Compatible with Suunto app",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Operating temperature",
+      "value": "-20° C to +55° C / -5° F to +130° F",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Storage temperature",
+      "value": "-20° C to +55° C / -5° F to +130° F",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Recommended charging temperature",
+      "value": "0° C to +35° C / +32° F to +95° F",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Intelligent charge reminders",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Daily use: Smartwatch mode",
+      "value": "up to 12 days",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Daily use: Standby time mode only",
+      "value": "up to 20 days",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Training: All-Systems GNSS mode + Multi-Band",
+      "value": "up to 20h",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Training: All-Systems GNSS mode + Single-Band",
+      "value": "up to 30h",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Training: All battery modes battery promises",
+      "value": "20h / 30h / 40h",
+      "unit": "",
+      "condition": "Manufacturer specification; battery values are laboratory claims, actual use varies"
+    },
+    {
+      "label": "Training: Power saving GNSS modes",
+      "value": "up to 40h",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Digital compass",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Tilt compensation",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Declination correction",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Direction scale",
+      "value": "degrees / mils",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Needle",
+      "value": "north indicator",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Compass accuracy",
+      "value": "5°",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Compass resolution",
+      "value": "1°",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Calories burned",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Step counter",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Activity targets",
+      "value": "steps, calories",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Activity history",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Calorie burn rate and heart rate during daily activities",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Daily minimum heart rate tracking",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sleep duration",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Bed times",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Deep sleep",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Light sleep",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "REM",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "HRV from sleep",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Average and minimum heart rate during sleep",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Time awake",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Stress and recovery status",
+      "value": "Recovery Index",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "HRV measurement",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Daily resource level",
+      "value": "Recovery Index",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Satellite systems",
+      "value": "GPS, GLONASS, GALILEO, QZSS, BEIDOU",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "GNSS frequency support",
+      "value": "Dual band (L1+L5)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Simultaneous satellite systems",
+      "value": "4",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Max connected satellites",
+      "value": "32",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Intelligent battery modes",
+      "value": "Performance, Endurance, Power saving",
+      "unit": "",
+      "condition": "Manufacturer specification; battery values are laboratory claims, actual use varies"
+    },
+    {
+      "label": "GPS recording rate",
+      "value": "Best, Good, Low",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Waypoint and visual route navigation",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Zoom levels in navigation",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Breadcrumb trail in real time",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Route planning with altitude profile",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Outdoor terrain and satellite maps",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Global heatmaps for 20 sports",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Route planning with heatmaps",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Personal route library synced to watch",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Snap to route",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Point of Interest (POI) navigation",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "GPS track analysis",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Track logging, viewing and sharing",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "ETA (estimated time of arrival)",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Barometric altitude",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "GPS altitude",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Combined GPS and barometric altitude (FusedAlti™)",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Altitude in daily mode",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Altitude acclimation with blood oxygen",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Total ascent/descent",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Vertical speed",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Automatic alti/baro profile",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Log recording rate",
+      "value": "1 s",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Resolution",
+      "value": "1 m",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Range",
+      "value": "-500 - 9999 m",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sunrise/sunset times",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Storm alarm",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sea level pressure",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Temperature",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Temperature display range",
+      "value": "-20° C to +55° C / -5° F to +130° F",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Temperature resolution",
+      "value": "1° C / 1.5° F",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Pressure resolution",
+      "value": "1 hPa",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Altitude graph shown in exercise summary",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Interval guidance during training",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Setup intervals",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Structured intervals",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Heart rate measured from wrist",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Heart rate belt compatibility",
+      "value": "Bluetooth HR belts",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Heart rate in beats per minute",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Records heart rate in swimming",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Heart rate graph in real time",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Real-time average heart rate",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Calories",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Peak Training Effect",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Recovery time",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Personal heart rate zones",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Fitness level (VO2max)",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Lactate threshold detection",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Cadence based speed and distance",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "GPS speed and distance",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Chrono",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Foot POD support",
+      "value": "Bluetooth Smart",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Autolaps",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Manual laps",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Analysis of pace, speed graphs and tracks on the map",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Feeling stored after training to watch",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Logbook with exercise details",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Exercise summary with lap details",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Training load with totals by sport",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Training logbook for long term overviews",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Exercise rating and commenting",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Exercise sharing to social media",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Follow other members and get feedback via activity stream",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Pool swim pace and distance",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Openwater swim distance",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Swimming time by pool length, lap, total",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Swimming stroke rate, count and type",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Stroke efficiency (SWOLF)",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Automatic intervals",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Interval lap table",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Cycling speed",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Average speed in real time",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Interval guidance with power/speed/heart rate",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Bike Power (W), average and maximum (with power sensor)",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Bike power meter support",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Bike Lap and Lap Maximum Power  (with power sensor)",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Running pace",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Ghost runner",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Foot POD calibration",
+      "value": "automatic",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Lap table in watch and Suunto app",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Average, max, lap pace in real time",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Interval guidance with running pace/heart rate/distance",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Multisport exercise summary on watch",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Change sport mode during exercise",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Preconfigured multisport modes",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Post-analysis of multisport exercise by sport",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Customizable sport modes and displays",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Graphical displays in sport modes",
+      "value": "Listed feature",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Pre-installed sport modes on watch",
+      "value": "> 32",
+      "unit": "",
+      "condition": ""
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU / GTIN matching",
+    "Regional app and payment availability"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.suunto.com/en-hu/Products/sports-watches/suunto-run/suunto-run-all-black/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Manufacturer technical specification content parsed; extracted factual fields only"
+    }
+  ],
+  "research_lane": "wearables"
+}

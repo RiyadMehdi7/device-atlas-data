@@ -1,0 +1,342 @@
+{
+  "id": "lenovo-legion-pro-5-16iax10-platform",
+  "brand": "Lenovo",
+  "model": "Legion Pro 5 16IAX10",
+  "category": "Laptops",
+  "scope": "Manufacturer global platform/model reference; option lists do not establish an actual RAM/storage/display combination. EU/Latvia exact SKU, keyboard and warranty need matching.",
+  "identifiers": [],
+  "aliases": [
+    "Legion Pro 5 16IAX10"
+  ],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Lenovo PSREF Legion Pro 5 16IAX10",
+  "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Legion/Legion_Pro_5_16IAX10/Legion_Pro_5_16IAX10_Spec.html",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Processor Family",
+      "value": "Intel® Core™ Ultra 5 / 7 / 9 Processor (Series 2)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Processor",
+      "value": "Processor Name | Cores | Threads | Base Frequency | Max Frequency | Cache | Processor Graphics | NPU | ; Core Ultra 7 255HX | 20 (8 P-core + 12 E-core) | 20 | P-core 2.4GHz / E-core GHz | P-core 5.2GHz / E-core GHz | 30MB | Intel® Graphics | Intel® AI Boost | ; Core Ultra 9 275HX | 24 (8 P-core + 16 E-core) | 24 | P-core 2.7GHz / E-core 2.1GHz | P-core 5.4GHz / E-core 4.6GHz | 36MB | Intel® Graphics | Intel® AI Boost",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "AI PC Category",
+      "value": "AI-Powered Gaming PC",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "AI Performance",
+      "value": "Up to 36 overall TOPS",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "NPU",
+      "value": "Integrated Intel® AI Boost, up to 13 TOPS",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Operating System",
+      "value": "Windows® 11 Pro ; Windows® 11 Home ; Windows® 11 Home Single Language ; No preload operating system",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Graphics",
+      "value": "Graphics | Type | Memory | Boost Clock | TGP | AI TOPS (Peak) | Key Features | ; NVIDIA® GeForce RTX™ 5060 Laptop GPU | Discrete | 8GB GDDR7 | 2497 MHz | 115W | 572 TOPS | DLSS 4, Reflex 2, DirectX® 12 Ultimate | ; NVIDIA® GeForce RTX™ 5070 Laptop GPU | Discrete | 8GB GDDR7 | 2347 MHz | 115W | 798 TOPS | DLSS 4, Reflex 2, DirectX® 12 Ultimate",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Monitor Support",
+      "value": "Supports up to 4 independent displays (native display and 3 external monitors via HDMI® and USB-C®) • HDMI® supports up to 8K@60Hz • USB-C® supports up to 8K@60Hz",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Chipset",
+      "value": "Intel® HM870 chipset",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Max Memory",
+      "value": "Up to 32GB DDR5-5600 offering ; Up to 32GB DDR5-6400 offering",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Memory Slots",
+      "value": "Two DDR5 CSODIMM slots, dual-channel capable ; Two DDR5 SO-DIMM slots, dual-channel capable",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Memory Type",
+      "value": "DDR5-5600 ; DDR5-6400",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Storage Support",
+      "value": "Up to two drives, 2x M.2 SSD • M.2 2242 SSD up to 1TB • M.2 2280 SSD up to 1TB",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Storage Slot",
+      "value": "Two M.2 2280 PCIe® 4.0 x4 slots",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Storage Type *",
+      "value": "Disk Type | Interface | Offering | ; M.2 2242 SSD | PCIe® NVMe®, PCIe® 4.0 x4 | 512GB / 1TB | ; M.2 2280 SSD | PCIe® NVMe®, PCIe® 4.0 x4 | 1TB",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Optical",
+      "value": "None",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Card Reader",
+      "value": "No card reader",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Audio Chip",
+      "value": "High Definition (HD) Audio, Realtek® ALC3306 codec",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Speakers",
+      "value": "Stereo speakers, 2W x2, audio by HARMAN, optimized with Nahimic Audio",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Microphone",
+      "value": "Dual-microphone array",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Camera",
+      "value": "HD 720p, with E-shutter, fixed focus ; 5.0MP, with E-shutter, fixed focus",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Battery",
+      "value": "80Wh Rechargeable Li-ion Battery, supports Super Rapid Charge (10min charge 0~30% capacity, 30min charge 0~70% capacity, 80min charge 0~100% capacity)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Power Adapter",
+      "value": "245W slim tip (3-pin) AC adapter, 100-240V, 50-60Hz",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Special Features",
+      "value": "AI Chip: LA3",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Display",
+      "value": "Size | Resolution | Touch | Type | Brightness | Surface | Aspect Ratio | Contrast Ratio | Color Gamut | Refresh Rate | Viewing Angle (L/R/U/D) | Key Features | ; 16\" | WQXGA (2560x1600) | None | IPS | 500nits | Anti-glare | 16:10 | 1200:1 | 100% DCI-P3 | 240Hz | 89° / 89° / 89° / 89° | DisplayHDR™ 400, Dolby Vision®, NVIDIA® G-SYNC®, Advanced Optimus, TÜV Low Blue Light, TÜV High Gaming Performance | ; 16\" | WQXGA (2560x1600) | None | OLED | 1100nits (HDR peak) / 500nits (SDR typical) | Glossy | 16:10 | 100,000:1 | 100% DCI-P3 | 165Hz | 89° / 89° / 89° / 89° | DisplayHDR™ True Black 1000, Dolby Vision®, NVIDIA® G-SYNC®, Advanced Optimus, TÜV Low Blue Light, TÜV High Gaming Performance, TÜV Rheinland® Flicker Free",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Color Calibration",
+      "value": "X-Rite® factory color calibration",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Touchscreen",
+      "value": "Non-touch",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Pen",
+      "value": "No support",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Keyboard",
+      "value": "6-row, multimedia Fn keys, numeric keypad, Copilot key",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Keyboard Backlight",
+      "value": "24-Zone RGB backlight ; White backlight",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Touchpad",
+      "value": "Buttonless Mylar® surface multi-touch touchpad, supports Precision TouchPad (PTP), 75 x 120 mm (2.95 x 4.72 inches)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Dimensions (WxDxH)",
+      "value": "364.38 x 268.06 x 21.69-25.95 mm (14.35 x 10.55 x 0.85-1.02 inches)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Weight",
+      "value": "Around 2.43 kg (5.36 lbs)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Case Color",
+      "value": "Eclipse black",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Surface Treatment",
+      "value": "Anodizing sandblasting",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Case Material",
+      "value": "Aluminium (top), PC-ABS (bottom)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "System Lighting",
+      "value": "No system lighting",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "WLAN + Bluetooth®",
+      "value": "Wi-Fi® 6, 802.11ax 2x2 Wi-Fi® + Bluetooth® 5.2, M.2 card ; Wi-Fi® 7, 802.11be 2x2 Wi-Fi® + Bluetooth® 5.4, M.2 card",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "WWAN",
+      "value": "No support",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Ethernet",
+      "value": "Gigabit Ethernet, 1x RJ-45, supports Wake-on-LAN",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Standard Ports",
+      "value": "2x USB-A (USB 5Gbps / USB 3.2 Gen 1) ; 1x USB-A (USB 10Gbps / USB 3.2 Gen 2), Always On ; 1x USB-C® (USB 10Gbps / USB 3.2 Gen 2), with USB PD 65-100W and DisplayPort™ 2.1 ; 1x USB-C® (Thunderbolt™ 4 / USB4® 40Gbps), with DisplayPort™ 2.1 ; 1x HDMI® 2.1, up to 8K/60Hz ; 1x Headphone / microphone combo jack (3.5mm) ; 1x Ethernet (RJ-45) ; 1x Power connector",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Docking",
+      "value": "Various docking solutions supported via Thunderbolt™ or USB-C®. For more compatible docking solutions, please visit Docking for Legion Pro 5 16IAX10",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Security Chip",
+      "value": "Firmware TPM 2.0 integrated in chipset",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Fingerprint Reader",
+      "value": "No fingerprint reader",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "BIOS Security",
+      "value": "Hard disk password ; Master hard disk password ; Power-on password ; Supervisor password ; User hard disk password ; User password ; Self-healing BIOS",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Other Security",
+      "value": "E-shutter",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Base Warranty",
+      "value": "1-year courier or carry-in service ; 1-year courier or carry-in with 2-year system board service (Korea only) ; 2-year (1-yr battery) courier or carry-in service ; 3-year (1-yr battery) courier or carry-in service",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Bundled Accessories *",
+      "value": "4 switchable keycaps ; Lenovo® Legion™ Gaming Speed Mouse Pad M ; Lenovo® Legion™ M300s RGB Gaming Mouse (USB connector) ; None",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Temperature",
+      "value": "At altitudes up to 2438 m (8,000 ft) - Operating: 5°C to 35°C (41°F to 95°F) - Storage: 5°C to 43°C (41°F to 109°F)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Relative Humidity",
+      "value": "Operating: 8% to 95% at wet-bulb temperature 23°C (73°F) ; Storage: 5% to 95% at wet-bulb temperature 27°C (81°F)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Altitude",
+      "value": "Maximum altitude (without pressurization): 3048 m (10,000 ft)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    }
+  ],
+  "missing_fields": [
+    "Exact EU/Latvia MPN or GTIN",
+    "Actual configured RAM/storage/display",
+    "Regional keyboard",
+    "Regional availability and warranty"
+  ],
+  "source_pages": [
+    {
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/Legion/Legion_Pro_5_16IAX10/Legion_Pro_5_16IAX10_Spec.html",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Structured specifications read; options kept together as platform alternatives. Structured field values preserved in per-product JSON evidence.",
+      "http_status": 200,
+      "content_title": "Lenovo PSREF Legion Pro 5 16IAX10"
+    }
+  ],
+  "research_lane": "computers"
+}

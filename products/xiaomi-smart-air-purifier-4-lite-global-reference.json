@@ -1,0 +1,75 @@
+{
+  "id": "xiaomi-smart-air-purifier-4-lite-global-reference",
+  "brand": "Xiaomi",
+  "model": "Xiaomi Smart Air Purifier 4 Lite",
+  "category": "Smart home",
+  "scope": "Official global English model reference; current Tele2 listing observed separately. EU mains adaptor, exact SKU and GTIN require matching. Robot and dock measurements kept separate.",
+  "identifiers": [
+    "AC-M17-SC"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Xiaomi Smart Air Purifier 4 Lite official specifications",
+  "source_url": "https://www.mi.com/global/product/xiaomi-smart-air-purifier-4-lite/specs/",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/xiaomi-gaisa-attiritajs-xiaomi-smart-air/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Product model",
+      "value": "AC-M17-SC",
+      "unit": "",
+      "condition": "Official global specifications; Latvia EU retail SKU needs matching"
+    },
+    {
+      "label": "Product dimensions",
+      "value": "240 x 240 x 533.5mm",
+      "unit": "",
+      "condition": "Official global specifications; Latvia EU retail SKU needs matching"
+    },
+    {
+      "label": "Net product weight",
+      "value": "Approx. 4.8kg",
+      "unit": "",
+      "condition": "Official global specifications; Latvia EU retail SKU needs matching"
+    },
+    {
+      "label": "Effective coverage area",
+      "value": "25-43m²",
+      "unit": "",
+      "condition": "Official global specifications; Latvia EU retail SKU needs matching"
+    },
+    {
+      "label": "Noise",
+      "value": "≤ 61dB(A)",
+      "unit": "",
+      "condition": "Official global specifications; Latvia EU retail SKU needs matching"
+    },
+    {
+      "label": "PM CADR",
+      "value": "360m³/h",
+      "unit": "",
+      "condition": "Official global specifications; Latvia EU retail SKU needs matching"
+    },
+    {
+      "label": "Particle purification efficiency",
+      "value": "High",
+      "unit": "",
+      "condition": "Official global specifications; Latvia EU retail SKU needs matching"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvia/EU SKU/GTIN",
+    "Regional mains adaptor",
+    "Operating modes and performance conditions not in fetched specification page"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/xiaomi-smart-air-purifier-4-lite/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP fetch; visible specifications read",
+      "notes": "Sparse technical specification page; 7 fields supported"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

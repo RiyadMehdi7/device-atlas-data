@@ -1,0 +1,272 @@
+{
+  "id": "jbl-tour-pro-3-uk-model",
+  "brand": "JBL",
+  "model": "Tour Pro 3",
+  "category": "Earbuds",
+  "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "JBL Tour Pro 3 | True Wireless Noise Cancelling earbuds with Smart Charging Case™",
+  "source_url": "https://uk.jbl.com/TOUR-PRO-3.html",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Activity",
+      "value": "Leisure",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Driver size (mm)",
+      "value": "10.2 mm/ 0.402\" Dynamic Driver + 5.1 mm x 2.8 mm Balanced Armature",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Noise Cancelling",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Noise Cancelling Type",
+      "value": "True Adaptive Noise Canceling 2.0",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Number of Microphones",
+      "value": "6",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Driver sensitivity at 1kHz/1mW (dB)",
+      "value": "104",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Impedance (ohms)",
+      "value": "32",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Dynamic frequency response range (Hz)",
+      "value": "20 Hz - 40 kHz",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Charging Case Weight (g)",
+      "value": "71.8",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Charging Case Weight (oz)",
+      "value": "2.5",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Earpiece Weight (g)",
+      "value": "5.6",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Weight (g)",
+      "value": "83",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Weight (oz)",
+      "value": "2.9",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Connection",
+      "value": "Wireless",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth version",
+      "value": "5.3",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth frequency",
+      "value": "2.4 GHz – 2.4835 GHz",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth profiles",
+      "value": "A2DP V1.4, AVRCP V1.6.2, HFP V1.8",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth transmitted modulation",
+      "value": "GFSK, π/4-DQPSK, 8DPSK",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth transmitter power",
+      "value": "<13 dBm (EIRP)",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Connectivity Technology",
+      "value": "Bluetooth",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Charging time (hours from empty)",
+      "value": "2",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Maximum music play time with ANC off (hours)",
+      "value": "11",
+      "unit": "",
+      "condition": "Maximum music play time with ANC off (hours)"
+    },
+    {
+      "label": "Maximum music play time with ANC on (hours)",
+      "value": "8",
+      "unit": "",
+      "condition": "Maximum music play time with ANC on (hours)"
+    },
+    {
+      "label": "Maximum talk time (hours)",
+      "value": "5.5",
+      "unit": "",
+      "condition": "Manufacturer maximum; volume/test settings not specified in table"
+    },
+    {
+      "label": "Speed charge",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Supports Auracast",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Ambient Aware",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Built-in Microphone",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Charging case",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Ear-bud",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "In-ear",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "JBL Headphone App",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "JBL Legendary Pro Audio Sound",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "JBL Original Pro Sound",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Multi-Point Connection",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Smart case",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "TalkThru",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer maximum; volume/test settings not specified in table"
+    },
+    {
+      "label": "Earbud battery",
+      "value": "Lithium-ion battery (65 mAh/ 3.85 V)",
+      "unit": "",
+      "condition": "Per earbud",
+      "source_url": "https://uk.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw6088cb8f/pdfs/JBL_Tour_Pro_3_Specsheet_EN.pdf"
+    },
+    {
+      "label": "Charging case battery",
+      "value": "Lithium-ion battery ( 850 mAh/ 3.8 V)",
+      "unit": "",
+      "condition": "Charging case",
+      "source_url": "https://uk.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw6088cb8f/pdfs/JBL_Tour_Pro_3_Specsheet_EN.pdf"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU/GTIN matching",
+    "Case-supplied playback ANC/test conditions not reconciled; ambiguous table total omitted"
+  ],
+  "source_pages": [
+    {
+      "url": "https://uk.jbl.com/TOUR-PRO-3.html",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Specification table read; conflicting or ambiguous playback totals omitted"
+    },
+    {
+      "url": "https://uk.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw6088cb8f/pdfs/JBL_Tour_Pro_3_Specsheet_EN.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "web click official PDF",
+      "notes": "Official spec sheet read; earbud and charging-case capacity fields kept separate"
+    }
+  ],
+  "research_lane": "audio"
+}

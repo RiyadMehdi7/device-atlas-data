@@ -1,0 +1,145 @@
+{
+  "id": "redmi-buds-8-lite-manufacturer-model",
+  "brand": "Xiaomi",
+  "model": "Redmi Buds 8 Lite",
+  "category": "Earbuds",
+  "scope": "Global manufacturer model; Tele2 SKU reconciliation required; no colour duplicates",
+  "identifiers": [
+    "M2539E1"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "REDMI Buds 8 Lite Specs",
+  "source_url": "https://www.mi.com/global/product/redmi-buds-8-lite/specs/",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/redmi-buds-8-lite/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Model code",
+      "value": "M2539E1",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Frequency response",
+      "value": "20Hz-20kHz",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Earbud dimensions",
+      "value": "31.02mm * 21.45mm * 23.48mm",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Case dimensions",
+      "value": "56.43mm * 55.99mm * 26.24mm",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Earbud weight",
+      "value": "4.5g (±0.2g)",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Case weight",
+      "value": "35.2g (±2g)",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Total weight",
+      "value": "45.3g (±2g)",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Charging connector",
+      "value": "Type-C",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Earbud input",
+      "value": "5V ⎓ 150mA",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Case input",
+      "value": "5V ⎓ 800mA",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Case output",
+      "value": "5V ⎓ 300mA",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "Bluetooth® 5.4",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Protocols",
+      "value": "Bluetooth®Low Energy / HFP / A2DP / AVRCP",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Communication range",
+      "value": "10m (open space free of obstacles)",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Earbud capacity",
+      "value": "45mAh",
+      "unit": "",
+      "condition": "Earbuds; source capacity"
+    },
+    {
+      "label": "Case capacity",
+      "value": "475mAh",
+      "unit": "",
+      "condition": "Charging case"
+    },
+    {
+      "label": "Earbud music playback",
+      "value": "8 hours",
+      "unit": "",
+      "condition": "AAC Bluetooth; 50% volume; default other settings"
+    },
+    {
+      "label": "Music playback including case",
+      "value": "36 hours",
+      "unit": "",
+      "condition": "AAC Bluetooth; 50% volume; default other settings"
+    },
+    {
+      "label": "Speaker impedance",
+      "value": "32 Ω",
+      "unit": "",
+      "condition": "Manufacturer specification"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU/GTIN reconciliation"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/redmi-buds-8-lite/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Actual manufacturer specification page read; redirect region retained"
+    }
+  ],
+  "research_lane": "audio"
+}

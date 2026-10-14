@@ -1,0 +1,221 @@
+{
+  "id": "apple-airpods-max-2-model",
+  "brand": "Apple",
+  "model": "AirPods Max 2",
+  "category": "Headphones",
+  "scope": "UK manufacturer model reference; Latvia SKU matching required; no colour copies",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "AirPods Max 2 Official specifications",
+  "source_url": "https://www.apple.com/uk/airpods-max/specs/",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/airpods-max-2/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Driver",
+      "value": "Apple-designed dynamic",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Amplifier",
+      "value": "Custom high dynamic range",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "ANC",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Adaptive audio",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Transparency",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Conversation awareness",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Voice isolation",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Personalised volume",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Loud sound reduction",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Spatial audio",
+      "value": "Personalised; dynamic head tracking",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Adaptive EQ",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Audio recording",
+      "value": "Studio quality",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Lossless",
+      "value": "USB-C",
+      "unit": "",
+      "condition": "Compatible content/software required"
+    },
+    {
+      "label": "Optical sensor",
+      "value": "Each ear cup",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Position sensor",
+      "value": "Each ear cup",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Case-detect sensor",
+      "value": "Each ear cup",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Accelerometer",
+      "value": "Each ear cup",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Gyroscope",
+      "value": "Left ear cup",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Microphones total",
+      "value": "9",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "ANC microphones",
+      "value": "8",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Voice microphones",
+      "value": "3 (2 shared with ANC)",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Chip",
+      "value": "H2 each ear cup",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Height",
+      "value": "187.3 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Width",
+      "value": "168.6 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Depth",
+      "value": "83.4 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Headphone weight",
+      "value": "386.2 g",
+      "unit": "",
+      "condition": "Including cushions"
+    },
+    {
+      "label": "Smart Case weight",
+      "value": "134.5 g",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Listening",
+      "value": "Up to 20 hours",
+      "unit": "",
+      "condition": "Single charge; ANC enabled"
+    },
+    {
+      "label": "Fast charge",
+      "value": "About 1.5 hours listening from 5 min charge",
+      "unit": "",
+      "condition": "Manufacturer maximum"
+    },
+    {
+      "label": "Charging",
+      "value": "USB-C",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "5.3",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Case storage",
+      "value": "Ultra-low-power state",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU/GTIN matching"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.apple.com/uk/airpods-max/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Official specification page actually read; separate case/earbud values"
+    }
+  ],
+  "research_lane": "audio"
+}

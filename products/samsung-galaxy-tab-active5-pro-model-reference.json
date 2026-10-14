@@ -1,0 +1,379 @@
+{
+  "id": "samsung-galaxy-tab-active5-pro-model-reference",
+  "brand": "Samsung",
+  "model": "Galaxy Tab Active5 Pro (model reference)",
+  "model_family": "Galaxy Tab Active5 Pro",
+  "category": "Tablets",
+  "scope": "UK official manufacturer reference; explicit variant/options preserved. Latvia manufacturer SKU matching remains unresolved. Tele2 barcode 8806097103271 is only the rendered default colour variant; UK/reference MPN may differ by region and colour. Exact EU identification resolves the Tele2 default variant as 5G 128GB Enterprise Edition, green. Generic platform alternatives remain labelled in source facts.",
+  "identifiers": [
+    "8806097103271",
+    "SM-X356BZGAEEE"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Tele2 barcode matched to official manufacturer EU MPN; specification regional scope retained",
+  "source_name": "Samsung Galaxy Tab Active5 Pro (model reference) technical specifications",
+  "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+  "tele2_url": "https://www.tele2.lv/plansetes/galaxy-tab-active5-pro/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Display diagonal",
+      "value": "10.1 inches rectangular",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Aspect ratio",
+      "value": "16:10",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display resolution class",
+      "value": "WUXGA",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display technology",
+      "value": "TFT LCD",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Refresh",
+      "value": "Up to120Hz;app dependent",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "OS",
+      "value": "Android15",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions",
+      "value": "170.2x242.9x10.2mm",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Weight variants",
+      "value": "Wi-Fi680g /5G683g",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear camera",
+      "value": "12MP f/1.8 wide;flash",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front camera",
+      "value": "8MP f/2.0",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "RAM/storage options",
+      "value": "6GB+128GB /8GB+256GB",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Expandable storage",
+      "value": "microSD up to2TB",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Processor",
+      "value": "Snapdragon7s Gen3",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Chip process",
+      "value": "4nm",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "CPU",
+      "value": "Octa-core",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery typical",
+      "value": "10100mAh",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery replacement",
+      "value": "User-replaceable;dual hot-swap one battery at a time",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Cellular option",
+      "value": "5G sub6;LTE",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi",
+      "value": "6E;Wi-FiDirect",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "5.4",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "NFC",
+      "value": "Front tagging",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "SIM cellular variant",
+      "value": "pSIM+eSIM dualSIM;availability regional",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "USB",
+      "value": "3.2Type-C",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Pogo pins",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Headphone",
+      "value": "3.5mm",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Sensors",
+      "value": "Accelerometer;gyro;geomagnetic;hall;RGBlight;proximity;fingerprint",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Positioning",
+      "value": "GPS;GLONASS;Galileo;BeiDou;QZSS;availability regional",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Durability",
+      "value": "IP68;MIL-STD-810H tests;GorillaGlassVictus+",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "IP68 test",
+      "value": "1.5m freshwater30minutes",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Sound",
+      "value": "Stereo2speakers;DolbyAtmos",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "S Pen",
+      "value": "Inbox;IP68",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Security",
+      "value": "Knox;KnoxVault;eSE",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Biometrics",
+      "value": "Face;fingerprint",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Programmable key",
+      "value": "Active Key",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "No Battery Mode",
+      "value": "DedicatedUSB-C9V2.3A orabove,PD2.0 orabove;CPU/display/volume limits apply",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Brightness",
+      "value": "Up to600nits",
+      "unit": "",
+      "condition": "Manufacturer specifications; regional availability varies; rounded display effective area is smaller.",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Tele2 rendered default variant barcode",
+      "value": "8806097103271",
+      "unit": "",
+      "condition": "Tele2 current rendered default colour token green. Retailer labels value EAN; actual length 13. Applies only to that rendered colour variant, not all colours; manufacturer cross-match unresolved unless separately noted.",
+      "source_url": "https://www.tele2.lv/plansetes/galaxy-tab-active5-pro/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Manufacturer EU MPN matched by Tele2 barcode",
+      "value": "SM-X356BZGAEEE",
+      "unit": "",
+      "condition": "Exact GTIN row in official Samsung Austria EU product list; colour Green. UK technical specification MPN remains a regional reference where different.",
+      "source_url": "https://images.samsung.com/is/content/samsung/assets/at/downloads/terms/2026/Terms_B2B-Trade-In_2026-02.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Matched Tele2 EU storage/connectivity edition",
+      "value": "5G; 128GB; Enterprise Edition; Green",
+      "unit": "",
+      "condition": "Exact manufacturer MPN/EAN row matched to retailer displayed barcode",
+      "source_url": "https://images.samsung.com/is/content/samsung/assets/at/downloads/terms/2026/Terms_B2B-Trade-In_2026-02.pdf",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia-specific MPN/GTIN",
+    "Latvia retail configuration and package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://news.samsung.com/uk/samsung-introduces-galaxy-xcover7-pro-and-galaxy-tab-active5-pro-your-ultimate-rugged-work-companions",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Accessible official technical content read; structured facts retained"
+    },
+    {
+      "url": "https://www.tele2.lv/plansetes/galaxy-tab-active5-pro/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Retailer product title and rendered #eancode directly read; barcode length/checksum validated; default-colour token retained"
+    },
+    {
+      "url": "https://images.samsung.com/is/content/samsung/assets/at/downloads/terms/2026/Terms_B2B-Trade-In_2026-02.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP PDF fetch + pdftotext",
+      "notes": "Exact manufacturer EU MPN/colour/EAN row matched to Tele2 displayed barcode"
+    }
+  ],
+  "identifier_evidence": [
+    {
+      "value": "8806097103271",
+      "scheme": "GTIN-13 / EAN-13",
+      "source_url": "https://www.tele2.lv/plansetes/galaxy-tab-active5-pro/",
+      "checked_at": "2026-10-14",
+      "status": "Matched independently to official manufacturer EU MPN SM-X356BZGAEEE",
+      "rendered_colour_token": "green",
+      "scope": "Tele2 current rendered default colour token green. Retailer labels value EAN; actual length 13. Applies only to that rendered colour variant, not all colours; manufacturer cross-match unresolved unless separately noted."
+    },
+    {
+      "value": "SM-X356BZGAEEE",
+      "scheme": "Manufacturer EU MPN",
+      "source_url": "https://images.samsung.com/is/content/samsung/assets/at/downloads/terms/2026/Terms_B2B-Trade-In_2026-02.pdf",
+      "checked_at": "2026-10-14",
+      "status": "Exact manufacturer EU MPN/GTIN cross-match to observed Tele2 barcode",
+      "matched_gtin": "8806097103271",
+      "colour": "Green",
+      "manufacturer_row": "Galaxy Tab Active5 Pro 5G 128GB Enterprise Edition SM-X356BZGAEEE Green 8806097103271 70"
+    }
+  ],
+  "research_lane": "tablets"
+}

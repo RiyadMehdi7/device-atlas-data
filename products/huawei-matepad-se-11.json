@@ -1,0 +1,327 @@
+{
+  "id": "huawei-matepad-se-11",
+  "brand": "HUAWEI",
+  "model": "MatePad SE 11",
+  "model_family": "MatePad SE 11",
+  "category": "Tablets",
+  "scope": "Manufacturer model reference. UK official manufacturer reference. Capacity options remain options; EU/non-EU battery distinctions retained. PaperMatte scope where named. No Latvia availability claim.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer model source checked; Latvia SKU needs matching",
+  "source_name": "HUAWEI MatePad SE 11 technical specifications",
+  "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Height",
+      "value": "252.3 mm",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Width",
+      "value": "163.8 mm",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Thickness",
+      "value": "6.9 mm",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Weight",
+      "value": "Approx. 475 g (including the battery)",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Size",
+      "value": "11 inch",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Screen-to-Body ratio",
+      "value": "85%",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Resolution",
+      "value": "1920 × 1200, 207 PPI",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Colour",
+      "value": "16.7 million colours, 100% sRGB (typical value)",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Type",
+      "value": "TFT LCD (IPS)",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Operating System",
+      "value": "HarmonyOS 2.0",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "ROM",
+      "value": "128 GB",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "RAM",
+      "value": "6 GB",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery",
+      "value": "7,700 mAh (typical value)",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Network",
+      "value": "Not Supported",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Standard charger",
+      "value": "the standard charger supports 10V/2.25A MAX",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Quick charging",
+      "value": "the tablet supports 10V/2.25A fast charging and is compatible with 9V/2A or 5V/2A charging.",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "WLAN",
+      "value": "IEEE 802.11a/b/g/n/ac",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "WLAN Frequency",
+      "value": "2.4 GHz and 5 GHz",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "Bluetooth5.1, BLE, SBC, AAC are supported.",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "File Transmission Over Bluetooth",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "PC Data Synchronization",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "OTG",
+      "value": "Supported (maximum output current 1A/5V during reverse power supply)",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "USB",
+      "value": "Type-C, USB 2.0",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Location",
+      "value": "Wi-Fi Network Positioning Supported",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Sensors",
+      "value": "Gravity Sensor, Ambient Light Sensor",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Microphones",
+      "value": "1 microphone",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Speakers",
+      "value": "4 Speakers",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Audio",
+      "value": "HUAWEI Histen 9.0 Audio file format: .mp3, .mp4, .3gp,.ogg, .amr, .aac, .flac, .wav, .midi",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Video",
+      "value": "Video file format: .mp4, .3gp",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear Camera",
+      "value": "8 MP (f/2.0 aperture, AF)",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Image resolution of the rear camera",
+      "value": "3264 × 2448 pixels",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Video recording of the rear camera",
+      "value": "1920 × 1080 pixels",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear camera capture mode",
+      "value": "Beauty/Panorama/Audio Control/Timer/ Time-Lapse/Watermark/Documents/ Hivision",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front Camera",
+      "value": "5 MP (f/2.2 aperture, fixed focal length)",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Image resolution of the front camera",
+      "value": "2560 × 1920 pixels",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Video recording of the front camera",
+      "value": "1280 × 720 pixels",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front camera capture mode",
+      "value": "Mirror reflection/Audio Control/Timer/Time-Lapse/Watermark",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia-specific MPN/GTIN",
+    "Latvia retail configuration and package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://consumer.huawei.com/uk/tablets/matepad-se-11/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible official technical content read; structured facts retained"
+    }
+  ],
+  "research_lane": "tablets"
+}

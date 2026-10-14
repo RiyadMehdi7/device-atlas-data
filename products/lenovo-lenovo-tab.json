@@ -1,0 +1,303 @@
+{
+  "id": "lenovo-lenovo-tab",
+  "brand": "Lenovo",
+  "model": "Lenovo Tab",
+  "model_family": "Lenovo Tab",
+  "category": "Tablets",
+  "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer model source checked; Latvia SKU needs matching",
+  "source_name": "Lenovo Lenovo Tab technical specifications",
+  "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Lenovo_Tab/Lenovo_Tab_Spec.pdf",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Operating System",
+      "value": "Android™ 14 or later",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Lenovo_Tab/Lenovo_Tab_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Graphics",
+      "value": "Arm Mali-G52 MC2 GPU",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Lenovo_Tab/Lenovo_Tab_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Max Memory",
+      "value": "• 4GB soldered memory, not upgradable • 8GB soldered memory, not upgradable",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Lenovo_Tab/Lenovo_Tab_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Memory Type",
+      "value": "LPDDR4X",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Lenovo_Tab/Lenovo_Tab_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Max Storage Support",
+      "value": "• 64GB eMMC 5.1 on systemboard • 128GB eMMC 5.1 on systemboard • microSD card, supports up to 1TB",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Lenovo_Tab/Lenovo_Tab_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Card Reader",
+      "value": "• Nano-SIM + microSD card slot (WWAN models) • microSD card slot (WLAN models)",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Lenovo_Tab/Lenovo_Tab_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Speakers",
+      "value": "2 side speakers, optimized with Dolby Atmos®",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Lenovo_Tab/Lenovo_Tab_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Microphone",
+      "value": "Single microphone",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Lenovo_Tab/Lenovo_Tab_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Camera",
+      "value": "Front 5.0MP, fixed focus, face unlock Rear 8.0MP, autofocus",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Lenovo_Tab/Lenovo_Tab_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Vibration Motor",
+      "value": "No support",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Lenovo_Tab/Lenovo_Tab_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Sensors",
+      "value": "• Accelerometer sensor • Hall sensor • Virtual light sensor",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Lenovo_Tab/Lenovo_Tab_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery",
+      "value": "5100mAh (typical) Rechargeable Li-ion Battery[1]",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Lenovo_Tab/Lenovo_Tab_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Max Battery Life",
+      "value": "Video streaming: 9.5 hr of YouTube streaming Web browsing: 10.5 hr of Chrome browsing Standby time: 1000 hr",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Lenovo_Tab/Lenovo_Tab_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Power Adapter",
+      "value": "• 45W USB-C® AC adapter, 100-240V, 50-60Hz • 10V/2A (20W) AC adapter, 100-240V, 50-60Hz • No power adapter[1]",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Lenovo_Tab/Lenovo_Tab_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Touchscreen",
+      "value": "In-cell multi-touch, supports 10-point touch",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Lenovo_Tab/Lenovo_Tab_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Screen-to-Body Ratio",
+      "value": "83%",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Lenovo_Tab/Lenovo_Tab_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Pen",
+      "value": "• Passive Pen included in Lenovo® Tab Play Suite • No pen bundled[1]",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Lenovo_Tab/Lenovo_Tab_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions (WxDxH)",
+      "value": "235.7 x 154.5 x 7.5 mm, with camera bump 9.4 mm (9.28 x 6.08 x 0.29-0.37 inches)",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Lenovo_Tab/Lenovo_Tab_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Weight",
+      "value": "Around 425 g (0.94 lbs)",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Lenovo_Tab/Lenovo_Tab_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Case Material",
+      "value": "Metal",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Lenovo_Tab/Lenovo_Tab_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "WLAN + Bluetooth®",
+      "value": "Wi-Fi® 5, 802.11ac 1x1 Wi-Fi® + Bluetooth® 5.3",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Lenovo_Tab/Lenovo_Tab_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "WWAN",
+      "value": "• 4G LTE • No support",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Lenovo_Tab/Lenovo_Tab_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi® Direct",
+      "value": "Support",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Lenovo_Tab/Lenovo_Tab_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi® Display",
+      "value": "Support",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Lenovo_Tab/Lenovo_Tab_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Location Services",
+      "value": "Models                         Location WLAN models         GPS + GLONASS + Galileo + Beidou WWAN models GPS + GLONASS + Galileo + Beidou + A-GPS",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Lenovo_Tab/Lenovo_Tab_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Standard Ports",
+      "value": "• 1x USB-C® (Hi-Speed USB / USB 2.0), with charging and digital audio • 1x Headphone / microphone combo jack (3.5mm) • 1x Card slot",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Lenovo_Tab/Lenovo_Tab_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Temperature",
+      "value": "Operating: 0°C (32°F) to 40°C (104°F) Storage: -20°C (-4°F) to 60°C (140°F)",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Lenovo_Tab/Lenovo_Tab_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dust and Water Resistant",
+      "value": "IP52",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Lenovo_Tab/Lenovo_Tab_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Processor table",
+      "value": "Processor Processor Name Cores Max Frequency Processor Graphics MediaTek Helio G85 Octa-core 2x A75 + 6x A55 A75@2.0GHz / A55@1.8GHz Arm Mali-G52 MC2 GPU",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Lenovo_Tab/Lenovo_Tab_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display diagonal options",
+      "value": "10.1\"",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Lenovo_Tab/Lenovo_Tab_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display resolution options",
+      "value": "1920x1200",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Lenovo_Tab/Lenovo_Tab_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display refresh options",
+      "value": "60Hz",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Lenovo_Tab/Lenovo_Tab_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display aspect ratios",
+      "value": "16:10",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Lenovo_Tab/Lenovo_Tab_Spec.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display brightness values",
+      "value": "400nits",
+      "unit": "",
+      "condition": "PSREF reference options; ** offerings vary. Approximate weights/dimensions. Battery figures from internal optimal laboratory/network tests and vary with use/configuration.",
+      "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Lenovo_Tab/Lenovo_Tab_Spec.pdf",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia-specific MPN/GTIN",
+    "Latvia retail configuration and package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Lenovo_Tab/Lenovo_Tab_Spec.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP PDF fetch + pdftotext",
+      "notes": "Official PSREF PDF read; locally retained as research/tablets/Lenovo_Tab.pdf"
+    }
+  ],
+  "research_lane": "tablets"
+}

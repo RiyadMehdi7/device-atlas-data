@@ -1,0 +1,476 @@
+{
+  "id": "amazfit-t-rex-dual-solar",
+  "brand": "Amazfit",
+  "model": "T-Rex Dual Solar",
+  "category": "Smartwatches",
+  "scope": "Current German manufacturer storefront model-family specification. Original German field wording/units retained. Any steel/titanium, standard/premium or size alternatives remain expressly grouped; no colour/storage combinations invented. This supports EU relevance, not Latvia SKU or Tele2 availability.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Amazfit T-Rex Dual Solar specifications",
+  "source_url": "https://de.amazfit.com/products/t-rex-dual-solar",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Abmessungen",
+      "value": "Bildschirmdurchmesser (Saphirglas-Abdeckung): 43,9mm | Gehäusedurchmesser (branchenübliche Messung): 51,4mm | Dicke (mit Herzfrequenzsensor): 16,9mm | Dicke (ohne Herzfrequenzsensor): 14,5mm",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Gewicht",
+      "value": "Uhrengehäuse: 69g | Schwarzes Armband: 25,5g",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Gehäusematerial",
+      "value": "Lünette und Tasten: Grade 5 Titan | Mittlerer Rahmen: Faserverstärkter Polymer | Untere Schale: Grade 5 Titan & Glaskeramik",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Tasten",
+      "value": "4",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Wasserbeständigkeit",
+      "value": "10 ATM",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Taschenlampe",
+      "value": "Unterstützt",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Mikrofon und Lautsprecher",
+      "value": "Unterstützt",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Motor",
+      "value": "Linearer Motor",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Material",
+      "value": "AMOLED",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Größe",
+      "value": "1,32\"",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Maximale Helligkeit",
+      "value": "Bis zu 3.000 Nits",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Auflösung",
+      "value": "466 x 466",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "PPI",
+      "value": "353",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Touchscreen",
+      "value": "Saphirglas",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Akkukapazität",
+      "value": "660 mAh (Nennwert)",
+      "unit": "",
+      "condition": "Manufacturer laboratory estimate in original German; named mode retained; usage and enabled-feature test conditions in source footnotes. Actual use varies."
+    },
+    {
+      "label": "Typische Nutzungsdauer",
+      "value": "Bis zu 25 Tage",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Akkulaufzeit bei intensiver Nutzung",
+      "value": "Bis zu 13 Tage",
+      "unit": "",
+      "condition": "Manufacturer laboratory estimate in original German; named mode retained; usage and enabled-feature test conditions in source footnotes. Actual use varies."
+    },
+    {
+      "label": "GPS-Modus mit hoher Genauigkeit",
+      "value": "Bis zu 41 Stunden",
+      "unit": "",
+      "condition": "Manufacturer laboratory estimate in original German; named mode retained; usage and enabled-feature test conditions in source footnotes. Actual use varies."
+    },
+    {
+      "label": "Trail-Running-Modus – Normal",
+      "value": "Bis zu 48 Stunden",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Trail-Running-Modus – Intensiv",
+      "value": "Bis zu 33 Stunden",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Uhrenmodus",
+      "value": "Bis zu 60 Tage",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Outdoor-Extremmodus",
+      "value": "Bis zu 40 Tage",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Gesundheit",
+      "value": "BioTracker™ 6.0 PPG-Biosensor (5PD + 2LED)",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Bewegung",
+      "value": "Beschleunigungssensor, Gyroskop, geomagnetischer Sensor, barometrischer Höhenmesser, Umgebungslichtsensor, Temperatursensor, kapazitiver Trage-Sensor",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Positionierung",
+      "value": "Dualband-Positionierung, 6 Satellitenpositionierungssysteme, zirkular polarisierte GPS-Antenne",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Verbindung",
+      "value": "Wi-Fi 2.4GHz, Bluetooth 5.2, BLE",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Breite",
+      "value": "26mm",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Min. und max. Handgelenkumfang",
+      "value": "145-215mm",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Schließe",
+      "value": "Klassische Dornschließe",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Lieferumfang",
+      "value": "Smartwatch (inkl. Standardarmband), magnetischer Ladeständer (ohne Kabel), Bedienungsanleitung",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Unterstützte Geräte",
+      "value": "Android 7.0 und höher, iOS 15.0 und höher",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "App",
+      "value": "Zepp-App",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Sportmodi",
+      "value": "180+",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Intelligente Erkennung von",
+      "value": "25 Krafttrainingsbewegungen¹⁵ | 8 Sportbewegungen¹⁶",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Vorlagen-Erstellung¹⁷",
+      "value": "Trainingsvorlagen (über die Zepp-App) | HYROX-Trainingsvorlagen (über die Zepp-App) | Intervalltraining (über die Uhr)",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Erweiterte Laufunterstützung",
+      "value": "Bahnlaufmodus, intelligente Trajektorienkorrektur, virtueller Pacemaker",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Verbindung mit Peripherie-Trainingsgeräten",
+      "value": "Herzfrequenzgurt | Laufleistungsmesser | Fahrradleistungsmesser | Fahrradtachometer | Fahrradkadenzmessgerät",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Sportcoach",
+      "value": "Zepp Coach™",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Trainingsstatus",
+      "value": "PeakBeats™",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Synchronisierung mit Fitness-Apps von Drittanbietern¹⁸",
+      "value": "Strava, Wikilocs, komoot, TrainingPeaks, Relive, Runkeeper, adidas Running, Apple Health, Google Fit, intervals.icu, Treinus",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Sportlicher Komfort",
+      "value": "Live-Übertragung von Sportdaten¹⁹ | Live-Übertragung von Abbiegehinweisen | Sportdaten bleiben auf dem Bildschirm | Bedingte Pause",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "HybridCharge™",
+      "value": "Unterstützt",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "24-Stunden-Überwachung",
+      "value": "Herzfrequenz²⁰ | Blutsauerstoffsättigung | Stresslevel | Hauttemperatur (Thermometer)",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Manuelle Messung",
+      "value": "Herzfrequenz | Blutsauerstoffsättigung | Stresslevel | Messung mit einem Tipp",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Überwachung der Schlafqualität²⁰¹",
+      "value": "Schlaf-Herzfrequenzvariabilität | Schlafphasen (inkl. REM) | Tagschläfchen | Schlafplan | Schlafatmungsqualität | Schlaf-Score",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Atemübung",
+      "value": "Unterstützt | Atemtrainings-Übung (aus der Zepp-App herunterladbar) | Atemtest (aus der Zepp-App herunterladbar)",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Gesundheitserinnerungen",
+      "value": "Abnormal hohe und niedrige Herzfrequenz | Niedriger Blutsauerstoff | Hohes Stresslevel | Hinweise auf eine stressreduzierende Atemübung | Höhenhinweise für den Blutsauerstofftest",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Gesundheitsbewertungssystem",
+      "value": "PAI",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Positionierung",
+      "value": "Dualband: Unterstützt | Einzelband: Unterstützt | Satellitenpositionierungssysteme: 6",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "GPS-Modi",
+      "value": "Genauigkeitsmodus: Unterstützt | Automatikmodus: Unterstützt (wechselt je nach Signalstärke intelligent die GPS-Einstellungen, um Strom zu sparen) | Energiesparmodus: Unterstützt | GPS-Modus mit langer Akkulaufzeit: Unterstützt (nur in den Sportmodi Wandern und Klettern) | GPS-Modus mit maximaler Akkulaufzeit: Unterstützt (nur in den Sportmodi Wandern und Klettern) | Trail-Running – Normalmodus: Unterstützt | Trail-Running – Intensivmodus: Unterstützt",
+      "unit": "",
+      "condition": "Manufacturer laboratory estimate in original German; named mode retained; usage and enabled-feature test conditions in source footnotes. Actual use varies."
+    },
+    {
+      "label": "Navigation und Karten",
+      "value": "Offline-Karten: Unterstützt | Turn-by-Turn-Anweisungen: Unterstützt | Suche nach Sehenswürdigkeiten: Unterstützt | Erstellung von Rundwegen: Unterstützt | Routenplanung: Unterstützt | Automatische Umleitung: Unterstützt | Wegpunkterinnerungen: Unterstützt | Routenimport: Unterstützt | Echtzeitnavigation: Unterstützt | Echtzeit-Bewegungsverfolgung: Unterstützt | Standortpunkt speichern: Unterstützt | Direkte Rückkehrnavigation: Unterstützt | Erinnerungen bei Routenabweichung: Unterstützt",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Outdoor- und Umwelttools",
+      "value": "Solarladung: Unterstützt",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Informationen und Frühwarnhinweise",
+      "value": "Sonnenaufgang und Sonnenuntergang: Unterstützt | Mondphase: Unterstützt | Gezeitenanzeige: Unterstützt | Sturmwarnungen: Unterstützt | Blutsauerstoff-Erinnerungen in großer Höhe: Unterstützt",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "KI-Assistent",
+      "value": "Zepp Flow™: Unterstützt (ausgewählte Länder und Regionen)",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Komfort",
+      "value": "Mitgliedskarten²²: Unterstützt | Verknüpfungskarten: Unterstützt | OTA-Update über Wi-Fi: Unterstützt | Terminerinnerung: Unterstützt | Aufgabenliste: Unterstützt",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Smartphone-Unterstützung",
+      "value": "Bluetooth-Anrufe: Unterstützt | Musiksteuerung des Telefons über Bluetooth: Unterstützt | Kamerasteuerung des Telefons über Bluetooth | (nur iOS): Unterstützt | Anrufbenachrichtigungen: Unterstützt | SMS-Benachrichtigungen: Unterstützt | App-Benachrichtigungen: Unterstützt | Schnellantwort auf Anrufe (nur Android): Unterstützt | Mein Telefon finden: Unterstützt",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Zeitmessung",
+      "value": "Wecker: Unterstützt | Weltzeituhr: Unterstützt | Stoppuhr: Unterstützt | Pomodoro-Timer: Unterstützt",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Alltag",
+      "value": "Wetter: Unterstützt | Thermometer: Unterstützt | Bewegungserinnerungen: Unterstützt | Bildschirmsperre und Passwort: Unterstützt | Nicht stören: Unterstützt | Sprachmemo: Unterstützt | Tagesbriefing²³ (Morgen-Updates und Abendrückblick): Unterstützt | Musikspeicher: Unterstützt",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Laufen und Gehen",
+      "value": "Laufen im Freien, Laufband, Gehen, Trailrunning, Gehen in Innenräumen, Sportgehen, Bahnlauf, Ultramarathon, Gassi gehen",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Radfahren",
+      "value": "Radfahren im Freien, Indoor-Cycling, Mountainbiking, BMX, E-Bike, E-MTB, Gravel-Radfahren, Radpendeln, Radtourismus, Straßenradfahren, Cyclocross",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Schwimmen",
+      "value": "Schwimmen im Pool, Freiwasserschwimmen, Flossenschwimmen, Kunstschwimmen",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Outdoor-Trainings",
+      "value": "Klettern, Wandern, Orientierungslauf, Felsklettern, Angeln, Jagen, Skateboarden, Inlineskaten, Parkour, Quad, Offroad-Motorrad, Bergwandern, Rucking, Expedition",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Indoor-Trainings",
+      "value": "Hybridtraining, Crosstrainer, Rudergerät, Treppensteigmaschine, Stepper, Spinning, Indoor-Fitness, Gemischtes Aerobic, Cross-Training, Aerobic, Gruppen-Gymnastik, Body Combat, Krafttraining, Step-Training, Core-Training, Beweglichkeitstraining, Freies Training, HIIT, Yoga, Pilates, Turnen, Reck, Barren, Battling Ropes, Stretching, Bouldern, Klettern in der Halle, Skimaschine",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "HYROX",
+      "value": "HYROX-Rennen, HYROX PFT, HYROX-Training, HYROX-Simulation",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Tanz",
+      "value": "Square Dance, Gesellschaftstanz, Bauchtanz, Ballett, Streetdance, Zumba, Lateinamerikanischer Tanz, Jazztanz, Hip-Hop-Tanz, Pole Dance, Breaking, Volkstanz, Tanzen, Modern Dance, Disco, Stepptanz",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Kampfsport",
+      "value": "Boxen, Ringen, Kampfkünste, Tai-Chi, Muay Thai, Judo, Taekwondo, Karate, Kickboxen, Fechten, Jiu-Jitsu, Kendo",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Ballsport",
+      "value": "Fußball, Beachsoccer, Basketball, Volleyball, Beachvolleyball, Baseball, Softball, Rugby, Hockey, Tischtennis, Badminton, Tennis, Golf, Golfschwung, Squash, Gateball, Cricket, Handball, Bowling, Polo, Racquetball, Billard, Sepak Takraw, Völkerball, Wasserball, Eishockey, Federball, Hallenfußball, Footbag, Boccia, Pelota, Floorball, Pickleball, Padel",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Wassersport",
+      "value": "Bootfahren im Freien, Segeln, Kajak, Rudern, Drachenboot, Paddleboarding, Indoor-Surfen, Tubing, Wasserski, Schnorcheln, Kitesurfen, Surfen, Wakesurfen",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Tauchsport",
+      "value": "Freitauchen im Freien, Freitauchen in Innenräumen, Freizeittauchen, Speerfischen",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Wintersport",
+      "value": "Skifahren, Snowboarden, Abfahrtski, Skilanglauf, Ski-Orientierungslauf, Biathlon, Schlittschuhlaufen im Freien, Schlittschuhlaufen in Innenräumen, Curling, Bob und Rodeln, Rodeln, Schneemobil, Schneeschuhwandern, Skitourengehen",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Extremsport",
+      "value": "Fallschirmspringen, Gleitschirmfliegen, Wingsuit-Fliegen",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Freizeitaktivitäten",
+      "value": "Hula-Hoop, Frisbee, Darts, Drachensteigen, Tauziehen, Jianzi, Esports, Air Walker, Swing, Shuffleboard, Tischfußball, Bewegungssensor-Spiel",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Brett- und Kartenspiele",
+      "value": "Schach, Dame, Go, Bridge, Brettspiel",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    },
+    {
+      "label": "Sonstiges",
+      "value": "Seilspringen, Bogenschießen, Reiten, Fahren, Treppensteigen, Triathlon, Multisport, Schneeschaufeln",
+      "unit": "",
+      "condition": "German manufacturer model-family reference; explicitly described material/size/options remain conditional."
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU / GTIN matching",
+    "Regional app and payment availability",
+    "Latvian operator/payment/app feature availability",
+    "Exact material/size/standard-premium option matching where source lists alternatives"
+  ],
+  "source_pages": [
+    {
+      "url": "https://de.amazfit.com/products/t-rex-dual-solar",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Manufacturer technical specification content parsed; extracted factual fields only"
+    }
+  ],
+  "research_lane": "wearables"
+}

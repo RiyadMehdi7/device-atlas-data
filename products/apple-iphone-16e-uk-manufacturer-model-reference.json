@@ -1,0 +1,205 @@
+{
+  "id": "apple-iphone-16e-uk-manufacturer-model-reference",
+  "brand": "Apple",
+  "model": "iPhone 16e",
+  "category": "Phones",
+  "scope": "UK manufacturer model reference; capacities grouped, regional radio/SIM scope in fields",
+  "identifiers": [
+    "A3409"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "iPhone 16e - Tech Specs – Apple Support (UK)",
+  "source_url": "https://support.apple.com/en-gb/122208",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Finish",
+      "value": "Black White Aluminium design, Ceramic Shield front, Glass back",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Capacity",
+      "value": "128GB 256GB 512GB",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Size and Weight",
+      "value": "Width: 71.5 mm (2.82 inches) Height: 146.7 mm (5.78 inches) Depth: 7.80 mm (0.31 inches) Weight: 167 grams (5.88 ounces)",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Display",
+      "value": "Super Retina XDR display 6.1‑inch (diagonal) all‑screen OLED display 2532x1170-pixel resolution at 460 ppi HDR display True Tone Wide colour (P3) Haptic Touch 2,000,000:1 contrast ratio (typical) 800 nits max brightness (typical); 1,200 nits peak brightness (HDR) Fingerprint-resistant oleophobic coating Display Zoom Reachability The iPhone 16e display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 6.06 inches diagonally (actual viewable area is less).",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Splash, Water and Dust Resistant",
+      "value": "Rated IP68 (maximum depth of 6 metres up to 30 minutes) under IEC standard 60529",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Chip",
+      "value": "A18 chip 6‑core CPU with 2 perform­ance and 4 efficiency cores 4‑core GPU 16‑core Neural Engine",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Camera",
+      "value": "2‑in‑1 camera system 48MP Fusion Main: 26mm, ƒ/1.6 aperture, optical image stabilisation, Hybrid Focus Pixels, super-high-resolution photos (24MP and 48MP) Also enables 12MP 2x Telephoto: 52mm, ƒ/1.6 aperture, optical image stabilisation, Hybrid Focus Pixels Digital zoom up to 10x",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Video Recording",
+      "value": "4K Dolby Vision video recording at 24 fps, 25 fps, 30 fps or 60 fps 1080p Dolby Vision video recording at 25 fps, 30 fps or 60 fps 720p Dolby Vision video recording at 30 fps Slo‑mo video support for 1080p at 120 fps or 240 fps Time‑lapse video with stabilisation Night mode Time-lapse QuickTake video Optical image stabilisation for video Digital zoom up to 6x Audio zoom True Tone flash Cinematic video stabilisation (4K, 1080p and 720p) Continuous autofocus video Take 8MP still photos while recording 4K video Playback zoom Video formats recorded: HEVC and H.264 Spatial Audio and stereo recording Wind noise reduction Audio Mix",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "True­Depth Camera",
+      "value": "12MP camera ƒ/1.9 aperture Autofocus with Focus Pixels Retina Flash Photonic Engine Deep Fusion Smart HDR 5 Portrait mode with Depth Control Portrait Lighting with six effects Animoji and Memoji Night mode Photo­graphic Styles Wide colour capture for photos and Live Photos Lens correction Auto image stabilisation Burst mode 4K Dolby Vision video recording at 24 fps, 25 fps, 30 fps or 60 fps 1080p Dolby Vision video recording at 25 fps, 30 fps or 60 fps Slo-mo video support for 1080p at 120 fps Time‑lapse video with stabilisation Night mode Time-lapse QuickTake video Cinematic video stabilisation (4K, 1080p and 720p) Spatial Audio and stereo recording Wind noise reduction Audio Mix",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Face ID",
+      "value": "Enabled by True­Depth camera for facial recognition",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Peace of Mind",
+      "value": "Emergency SOS via satellite 8 Crash Detection 9 Roadside Assistance via satellite 8",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Mobile and Wireless",
+      "value": "Model A3409 — 5G NR (Bands n1, n2, n3, n5, n7, n8, n12, n20, n25, n26, n28, n30, n38, n40, n41, n48, n53, n66, n70, n75, n76, n77, n78, n79) FDD‑LTE (Bands 1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 66) TD‑LTE (Bands 34, 38, 39, 40, 41, 42, 48, 53) UMTS/HSPA+ (850, 900, 1700/2100, 1900, 2100 MHz) GSM/EDGE (850, 900, 1800, 1900 MHz) Apple C1 cellular modem 5G (sub-6GHz) with 4x4 MIMO 10 Gigabit LTE with 4x4 MIMO 10 Wi‑Fi 6 (802.11ax) with 2x2 MIMO Bluetooth 5.3 NFC with reader mode Express Cards with Power Reserve For details on 5G and LTE support, contact your provider and see apple.com/uk/iphone/cellular .",
+      "unit": "",
+      "condition": "UK manufacturer radio profile selected only for A3409. Exact model/size mapping is independently verified by Apple identifier hub, or the dedicated single-model Duo UK table. Shared-profile headings explicitly applied to this code; Latvia retail GTIN/SKU matching remains unresolved."
+    },
+    {
+      "label": "Location",
+      "value": "GPS, GLONASS, Galileo, QZSS, BeiDou and NavIC Digital compass Wi‑Fi Mobile data iBeacon micro‑location",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Audio Playback",
+      "value": "Supported formats include AAC, MP3, Apple Lossless, FLAC, Dolby Digital, Dolby Digital Plus and Dolby Atmos Spatial Audio playback User‑configurable maximum volume limit",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Video Playback",
+      "value": "Supported formats include HEVC, H.264 and AV1 Supports Dolby Vision, HDR10+/HDR10 and HLG Up to 4K HDR AirPlay for mirroring, photos and video out to Apple TV (2nd generation or later) or AirPlay‑enabled smart TV",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "External Buttons and Connectors",
+      "value": "Front camera Side button USB-C connector SIM tray (available on models purchased outside the U.S.) Volume buttons Action button Action button features Silent Mode, Focus, Camera, Visual Intelligence, 11 Torch, Voice Memo, Recognise Music, Translate, Magnifier, Controls, Shortcut or Accessibility",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Char­ging and Expan­sion",
+      "value": "USB‑C connector with support for: Char­ging USB 2 (up to 480Mb/s)",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Power and Battery",
+      "value": "Video playback: Up to 26 hours Video playback (streamed): Up to 21 hours Audio playback: Up to 90 hours Fast-charge capable: Up to 50% charge in 30 minutes 6 with 20W adapter or higher (available separately) paired with USB‑C charging cable Built-in rechargeable lithium‑ion battery Wireless charging (works with Qi chargers 7 )",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Sensors",
+      "value": "Face ID Barometer High dynamic range gyro High-g accelerometer Proximity sensor Dual ambient light sensors",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Oper­at­ing System",
+      "value": "iOS Our most personal and secure mobile operating system yet, iOS 26 is packed with powerful features and designed to protect your privacy. iPhone User Guide",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "SIM Card",
+      "value": "Dual SIM (nano-SIM and eSIM) 12 Dual eSIM support",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Rating for Hearing Aids",
+      "value": "Hearing Aid Compatible",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "System Requirements",
+      "value": "Apple Account (required for some features) Internet access 16 Syncing to a Mac or PC requires: macOS Catalina 10.15 or later using the Finder macOS High Sierra 10.13 through macOS Mojave 10.14.6 using iTunes 12.8 or later Windows 10 or later using iTunes 12.12.10 or later (free download from apple.com/uk/itunes/download )",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "En­viron­men­tal Require­ments",
+      "value": "Ambient operating temperature: 0° to 35° C (32° to 95° F) Non-operating temperature: −20° to 45° C (−4° to 113° F) Relative humidity: 5% to 95% non-condensing Oper­at­ing altitude: tested up to 3,000 metres (10,000 feet)",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "In the Box",
+      "value": "iPhone 16e USB‑C Charge Cable (1m) Documentation",
+      "unit": "",
+      "condition": "UK Apple support reference. Battery claims depend on settings/network; see linked manufacturer test conditions."
+    },
+    {
+      "label": "Regional manufacturer model identifier",
+      "value": "A3409",
+      "unit": "",
+      "condition": "Apple explicitly maps this exact model/size to the other countries and regions group; exact Latvia retail SKU matching remains unresolved.",
+      "source_url": "https://support.apple.com/en-gb/108044",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Year introduced",
+      "value": "2025",
+      "unit": "year",
+      "condition": "Manufacturer identify-your-iPhone model entry.",
+      "source_url": "https://support.apple.com/en-gb/108044",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU / model code and GTIN matching",
+    "Colour-specific packaging and regional accessories",
+    "Matching this manufacturer regional A-code to the exact Latvian retail SKU/GTIN remains unresolved"
+  ],
+  "source_pages": [
+    {
+      "url": "https://support.apple.com/en-gb/122208",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible manufacturer specification content parsed; model-reference scope, not an exact retailer SKU."
+    },
+    {
+      "url": "https://support.apple.com/en-gb/108044",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Exact model/size heading with explicitly scoped regional A-code mapping and introduced year; only other-countries-and-regions code attached."
+    }
+  ],
+  "research_lane": "phones"
+}

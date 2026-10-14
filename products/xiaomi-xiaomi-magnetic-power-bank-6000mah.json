@@ -1,0 +1,129 @@
+{
+  "id": "xiaomi-xiaomi-magnetic-power-bank-6000mah",
+  "brand": "Xiaomi",
+  "model": "Xiaomi Magnetic Power Bank 6000mAh",
+  "model_family": "Xiaomi Magnetic Power Bank 6000mAh",
+  "category": "Accessories",
+  "scope": "Official Global specification model WPB0620MI. Regional plug/package variants remain unresolved; model-name Tele2 matching does not prove exact EU SKU.",
+  "identifiers": [
+    "WPB0620MI"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Xiaomi Xiaomi Magnetic Power Bank 6000Mah technical specifications",
+  "source_url": "https://www.mi.com/global/product/xiaomi-magnetic-power-bank-6000mah/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Model",
+      "value": "WPB0620MI",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-magnetic-power-bank-6000mah/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Input parameters",
+      "value": "USB-C (IN) 5V⎓3A 9V⎓2.22A",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-magnetic-power-bank-6000mah/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery type",
+      "value": "Lithium-ion battery",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-magnetic-power-bank-6000mah/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wireless output",
+      "value": "15W MAX",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-magnetic-power-bank-6000mah/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rated capacity",
+      "value": "3600mAh (5V/2.4A)",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-magnetic-power-bank-6000mah/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wired output",
+      "value": "USB-C (OUT) 5V⎓2.4A 9V⎓2A MAX",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-magnetic-power-bank-6000mah/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rated power",
+      "value": "23.22Wh 3.87V 6000mAh",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-magnetic-power-bank-6000mah/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Simultaneous wired and wireless output",
+      "value": "10W",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-magnetic-power-bank-6000mah/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Input port",
+      "value": "USB-C®",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-magnetic-power-bank-6000mah/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Output port",
+      "value": "USB-C",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-magnetic-power-bank-6000mah/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions",
+      "value": "104.8 x 68 x 15.1mm",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-magnetic-power-bank-6000mah/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Package contents",
+      "value": "Xiaomi Magnetic Power Bank 6000mAh x1; USB-C data cable x1; User manual x1",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-magnetic-power-bank-6000mah/specs/",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia MPN/GTIN",
+    "Latvia retail package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/xiaomi-magnetic-power-bank-6000mah/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Official source technical content read; factual extraction retained"
+    }
+  ],
+  "research_lane": "accessories"
+}

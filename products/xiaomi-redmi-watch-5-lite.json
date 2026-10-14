@@ -1,0 +1,144 @@
+{
+  "id": "xiaomi-redmi-watch-5-lite",
+  "brand": "Xiaomi",
+  "model": "Redmi Watch 5 Lite",
+  "category": "Smartwatches",
+  "scope": "Global manufacturer model-family reference. Strap/colour alternatives do not form separate products. Any NFC, LTE, ceramic or regional subvariants described remain conditional; exact Latvia SKU unresolved.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Xiaomi Redmi Watch 5 Lite specifications",
+  "source_url": "https://www.mi.com/global/product/redmi-watch-5-lite/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Specification",
+      "value": "Light Gold",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Dimensions",
+      "value": "48.1mm x 39.2mm x 10.6mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Dimensions",
+      "value": "29.2g (without inbox strap)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Frame",
+      "value": "Plastic (NCVM)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "size",
+      "value": "135mm ~ 205mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Heart rate sensor (with blood oxygen sensor)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Accelerometer",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Gyroscope",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Satellite positioning systems",
+      "value": "GPS | Galileo | Glonass | BeiDou | QZSS",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Typical use time",
+      "value": "18 days",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Capacity",
+      "value": "470mAh",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Display",
+      "value": "1.96\" Square AMOLED display",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Resolution",
+      "value": "410 x 502｜332PPI",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Built-in GNSS",
+      "value": "supported",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Speaker",
+      "value": "supported",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Bluetooth call",
+      "value": "supported",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Wireless connectivity",
+      "value": "Bluetooth® 5.3",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Operating System",
+      "value": "Xiaomi HyperOS",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Compatibility",
+      "value": "only supports smartphones with Android 8.0 and above, iOS 12.0 and above",
+      "unit": "",
+      "condition": ""
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU / GTIN matching",
+    "Regional app and payment availability"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/redmi-watch-5-lite/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Manufacturer technical specification content parsed; extracted factual fields only"
+    }
+  ],
+  "research_lane": "wearables"
+}

@@ -1,0 +1,440 @@
+{
+  "id": "philips-65oled801-12",
+  "brand": "Philips",
+  "model": "65OLED801/12",
+  "category": "Televisions",
+  "scope": "Exact /12 European 65-inch model in official 2026 product leaflet; country-specific services need confirmation.",
+  "identifiers": [
+    "65OLED801/12"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Exact variant source checked",
+  "source_name": "65OLED801/12 Philips 4K Ambilight-TV product leaflet",
+  "source_url": "https://www.documents.philips.com/assets/20260601/79b8adf913bd461f834fb45c002dc548.pdf",
+  "tele2_url": "https://www.tele2.lv/televizori/philips-65oled80112-65-164-cm-4k-oled-am/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Ambilight - Ambilight-funksjoner",
+      "value": "Game Mode, Wall colour adaptive, Sunrise Alarm, Music Mode, Ambilight Suite",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Ambilight - Ambilight-versjon",
+      "value": "3-sided",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Bilde/skjerm - Diagonal skjermstørrelse (tommer)",
+      "value": "65 tommer",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Bilde/skjerm - Diagonal skjermstørrelse (cm)",
+      "value": "164 cm",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Bilde/skjerm - Skjerm",
+      "value": "4K Ultra HD OLED",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Bilde/skjerm - Paneloppløsning",
+      "value": "3840 x 2160",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Bilde/skjerm - Opprinnelig oppdateringshastighet",
+      "value": "120 Hz",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Bilde/skjerm - Bildemotor",
+      "value": "P5 AI Perfect Picture Engine",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Bilde/skjerm - Bildeforbedring",
+      "value": "Auto Film & Filmmaker Mode, Calman, Calman Autocal Ready & Manual Calibration, Crystal Clear, ECO, Game, Home Cinema, MEMC / FRC Embedded, Micro Dimming Perfect, Monitor, Perfect Natural Motion",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Skjermoppløsning - Oppløsningsoppdateringshastighet",
+      "value": "640x480- 60Hz, 576p-50Hz, 720p-50Hz,60Hz, 1920 x 1080p -24/25/30/50/ 60/100/120Hz, 2560 x 1440 - 60/120Hz, 3840x2160p - 24/25/30/50/60/100/120Hz",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Tuner/mottak/overføring - Digital-TV",
+      "value": "DVB-T/T2/C/S/S2",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Tuner/mottak/overføring - Signalstyrkeindikasjon",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Tuner/mottak/overføring - Tekst-tv",
+      "value": "1000 page Hypertext",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Tuner/mottak/overføring - Støtter HEVC",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Smart TV - Smart TV-apper*",
+      "value": "Disney+, HBO, Netflix*, YouTube, Amazon Prime Video, BBC iplayer, NFT app*",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Smart TV - Operativsystem",
+      "value": "TITAN OS",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Smart TV - Minnestørrelse (Flash)*",
+      "value": "8GB",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Smart TV-funksjoner - Interaktiv TV",
+      "value": "HbbTV",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Smart TV-funksjoner - Taleassistent*",
+      "value": "Works with Google Home, Amazon Alexa built-in, RC with Mic.",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Smart TV-funksjoner - Smarthjemopplevelse",
+      "value": "MATTER, Home- automation system ready, please visit Control4 website, Works with Apple Home",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Smart TV-funksjoner - Spillkontrolllinje",
+      "value": "Gamebar 2.0",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Smart TV-funksjoner - TTS-støtte",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Multimedieprogrammer - Formater for videoavspilling",
+      "value": "AVI, MKV, HEVC, H.264/MPEG-4 AVC, MPEG1, MPEG2, MPEG4, VP9, HEVC (H.265), AV1",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Multimedieprogrammer - Avspillingsformater for musikk",
+      "value": "MP3, WAV, AAC, FLAC",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Multimedieprogrammer - Tekstformatstøtte",
+      "value": "SRT, SMI, SSA, SUB, ASS, TXT",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Multimedieprogrammer - Avspillingsformater for bilde",
+      "value": "JPEG, GIF, PNG, BMP, HEIF",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Lyd - Lyd",
+      "value": "2.0 Channel",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Lyd - Utgangseffekt (RMS)",
+      "value": "20 W",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Lyd - Høyttalerkonfigurasjon",
+      "value": "2 stk. 10 W fulltonehøyttalere",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Lyd - Kodek",
+      "value": "Dolby Digital MS12 V2.6.2, Dolby Atmos,",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Lyd - DTS",
+      "value": "X",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Lyd - Lydforbedring",
+      "value": "All Sound Style, AVL Mode, Bass Enhancement, Dialogue, Dolby Media Intelligence, Entertainment, Equalizer, Hearing Profile, Music, Night mode, Room Calibration, Personal, Vocal Boost",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Lyd - Hodetelefonfunksjoner",
+      "value": "Dolby Atmos for Headphone",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Lyd - Lydmotor",
+      "value": "IntelliSound",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Lyd - Hovedhøyttaler",
+      "value": "Full Range Large Box",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Tilkoblingsmuligheter - Antall HDMI-kontakter",
+      "value": "4",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Tilkoblingsmuligheter - HDMI-funksjoner",
+      "value": "4K, Audio Return Channel",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Tilkoblingsmuligheter - EasyLink (HDMI-CEC)",
+      "value": "Remote control pass- through, System standby, System audio control, One touch play",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Tilkoblingsmuligheter - Antall USB-kontakter",
+      "value": "2",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Tilkoblingsmuligheter - Trådløs tilkobling",
+      "value": "Wi-Fi 802.11ac, 2x2, Dual band, Bluetooth 5.2, Works with Apple AirPlay",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Tilkoblingsmuligheter - HDCP 2,3",
+      "value": "Yes on all HDMI",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Tilkoblingsmuligheter - HDMI ARC",
+      "value": "HDMI 2",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Tilkoblingsmuligheter - HDMI 2.1 Funksjon",
+      "value": "eARC on HDMI 2",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Tilkoblingsmuligheter - EasyLink 2.0",
+      "value": "External setting via TV UI, HDMI- CEC for Philips TV/SB",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Støttede HDMI-videofunksjoner - Spill",
+      "value": "HDMI VRR, ALLM and Auto Game, AMD FreeSync Premium, Nvidia G-Sync compatible",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Støttede HDMI-videofunksjoner - HDR",
+      "value": "HDR10+ Adaptive, Dolby Vision, HLG, HGIG",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "EU-energikort - EPREL-registreringsnumre",
+      "value": "2687067",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "EU-energikort - SDR-energiklasse",
+      "value": "F",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "EU-energikort - Strømkrav i på-modus for SDR",
+      "value": "102 Kwh/1000 t",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "EU-energikort - HDR-energiklasse",
+      "value": "F",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "EU-energikort - Strømkrav i på-modus for HDR",
+      "value": "89 Kwh/1000 t",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "EU-energikort - Effektforbruk når apparatet er slått av",
+      "value": "i/t",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "EU-energikort - Nettverkstilkoblet standbymodus",
+      "value": "2,0 W",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "EU-energikort - Panelteknologi som brukes",
+      "value": "OLED",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Drift - Strømnett",
+      "value": "AC 100–240 V, 50/60 Hz",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Drift - Effektforbruk i standby",
+      "value": "mindre enn 0,3 W",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Drift - Strømsparingsfunksjoner",
+      "value": "Auto switch-off timer, Eco mode, Light sensor, Picture mute (for radio)",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Tilbehør - Vedlagt tilbehør",
+      "value": "2 x AAA Batteries, Power cord, Quick start guide, Safety & Legal Leaflet, Remote Control, Table top stand",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Formgivning - TV-farge",
+      "value": "Metal bezel frame",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Formgivning - Stativutforming",
+      "value": "Satin chrome stands",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Mål - Avstand mellom to stativer",
+      "value": "793 millimeter",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Mål - Veggfeste-kompatibel",
+      "value": "300 x 300 mm",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Mål - TV uten stativ (B x H x D)",
+      "value": "1449 x 832 x 58 mm",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Mål - TV med stativ (B x H x D)",
+      "value": "1449 x 852 x 248 mm",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Mål - Emballasjekartong (B x H x D))",
+      "value": "1660 x 995 x 170 mm",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Mål - Vekt av TV uten stativ",
+      "value": "23,22 kg",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Mål - Vekt av TV med stativ",
+      "value": "23,515 kg",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    },
+    {
+      "label": "Mål - Vekt, inkl. emballasje",
+      "value": "29,5 kg",
+      "unit": "",
+      "condition": "Exact manufacturer /12 Norwegian-language leaflet. Original values retained; streaming/voice services vary by country and language."
+    }
+  ],
+  "missing_fields": [
+    "GTIN",
+    "Independent EPREL cross-check"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.documents.philips.com/assets/20260601/79b8adf913bd461f834fb45c002dc548.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP PDF fetch and pdftotext -raw",
+      "notes": "HTTP 200; exact /12 model and specification tables read; issue date 2026-07-10."
+    }
+  ],
+  "research_lane": "televisions"
+}

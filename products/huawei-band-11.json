@@ -1,0 +1,114 @@
+{
+  "id": "huawei-band-11",
+  "brand": "Huawei",
+  "model": "Band 11",
+  "category": "Smartwatches",
+  "scope": "Global manufacturer Band 11 reference. Only values assigned to this size column or common model sections included. Battery is manufacturer lab claim; regional services and exact Latvia SKU unresolved.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Huawei Band 11 specifications",
+  "source_url": "https://consumer.huawei.com/en/wearables/band11/specs/",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/band-11/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Dimensions",
+      "value": "42.6 × 28.2 × 8.99 mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Applicable Wrist Circumference",
+      "value": "130-210 mm | 120-190 mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Weight",
+      "value": "Beige, Green, Purple, White, Black (Aluminium alloy case): Approximately 17 g (without the strap) Purple, Black (Durable polymer materials case): Approximately 16 g (without the strap)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Display",
+      "value": "1.62 inch AMOLED 286 × 482 pixels, PPI 347",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Watch Case",
+      "value": "Beige, Green, Purple, White, Black (Aluminium alloy case) Purple, Black (Durable polymer materials case)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "9-axis IMU sensor (Accelerometer sensor, Gyroscope sensor, Magnetometer sensor) Optical heart rate sensor Ambient light sensor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Button",
+      "value": "Full-screen touch + side button",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Charging Port",
+      "value": "Magnetic charging port",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "System Requirements",
+      "value": "Android 9.0 or later iOS 13.0 or later",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Waterproof Level",
+      "value": "5 ATM | For more information about the water resistance on HUAWEI wearables, visit https://consumer.huawei.com/en/support/content/en-us15851428/ | Water resistance is not permanent, and performance may deteriorate with daily wear and tear.",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Connectivity",
+      "value": "2.4 GHz, BT 6.0, and BLE",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Environment",
+      "value": "0℃～35℃",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Charging",
+      "value": "5V/1A",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Battery Life",
+      "value": "The device can last for a maximum of 14 days. Heart rate monitoring is always on, HUAWEI TruSleep™ is off at night, 30 minutes of workouts per week, message notifications is on (including 50 messages, 6 calls, and 3 alarms per day), and screen turns on 200 times per day. The device can last for up to 8 days under typical usage. heart rate monitoring always on, TruSleep™ on at night, continuous SpO₂ Monitoring on, Emotion/Stress Assistant Tracker on, 60 minutes of exercise on average per week, message notifications on (50 messages, 6 calls, and 3 alarms per day), and the device screen turned on 500 times per day. The device can last for up to",
+      "unit": "",
+      "condition": "Manufacturer specification; battery values are laboratory claims, actual use varies"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU / GTIN matching",
+    "Regional app and payment availability"
+  ],
+  "source_pages": [
+    {
+      "url": "https://consumer.huawei.com/en/wearables/band11/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Manufacturer technical specification content parsed; extracted factual fields only"
+    }
+  ],
+  "research_lane": "wearables"
+}

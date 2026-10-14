@@ -1,0 +1,168 @@
+{
+  "id": "reolink-nvs16-eu-reference",
+  "brand": "Reolink",
+  "model": "NVS16",
+  "category": "Cameras",
+  "scope": "Manufacturer reference from public web-open content. DK/BE regional scope where indicated; global W330 reference. Exact Latvia hardware, model code and included kit require matching. NVS16 applies only to N6MB01. Conflicting rows withheld.",
+  "identifiers": [
+    "N6MB01"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Reolink NVS16 official specifications",
+  "source_url": "https://reolink.com/dk/product/nvs16/",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/reolink-nvs16-tikla-video-ierakstitajs/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Hardware revision",
+      "value": "N6MB01",
+      "unit": ""
+    },
+    {
+      "label": "Maximum cameras",
+      "value": "24; maximum 16 wired",
+      "unit": ""
+    },
+    {
+      "label": "Audio input",
+      "value": "Camera built-in microphone",
+      "unit": ""
+    },
+    {
+      "label": "Video output",
+      "value": "VGA, HDMI",
+      "unit": ""
+    },
+    {
+      "label": "HDMI resolutions",
+      "value": "3840×2160, 1920×1080, 1280×1024, 1280×720, 1024×768",
+      "unit": ""
+    },
+    {
+      "label": "VGA resolutions",
+      "value": "1920×1080, 1280×1024, 1280×720, 1024×768",
+      "unit": ""
+    },
+    {
+      "label": "Audio output",
+      "value": "One RCA channel",
+      "unit": ""
+    },
+    {
+      "label": "Codecs",
+      "value": "H.265, H.264",
+      "unit": ""
+    },
+    {
+      "label": "Synchronous playback",
+      "value": "Up to 4 channels",
+      "unit": ""
+    },
+    {
+      "label": "SATA interfaces",
+      "value": "Two",
+      "unit": ""
+    },
+    {
+      "label": "Included HDD",
+      "value": "4TB",
+      "unit": ""
+    },
+    {
+      "label": "Storage maximum",
+      "value": "16TB;8TB each HDD",
+      "unit": ""
+    },
+    {
+      "label": "External HDD",
+      "value": "No",
+      "unit": ""
+    },
+    {
+      "label": "USB",
+      "value": "Two USB 2.0",
+      "unit": ""
+    },
+    {
+      "label": "LAN/WAN",
+      "value": "One RJ45, 10/100Mbps",
+      "unit": ""
+    },
+    {
+      "label": "Camera ports",
+      "value": "16 RJ45 PoE, 10/100Mbps",
+      "unit": ""
+    },
+    {
+      "label": "PoE maximum per port",
+      "value": "25W",
+      "unit": ""
+    },
+    {
+      "label": "PoE standard",
+      "value": "IEEE802.3af/at",
+      "unit": ""
+    },
+    {
+      "label": "Browsers",
+      "value": "Firefox, Chrome, Edge, Safari",
+      "unit": ""
+    },
+    {
+      "label": "Operating systems",
+      "value": "Windows, macOS, iOS, Android",
+      "unit": ""
+    },
+    {
+      "label": "Maximum users",
+      "value": "20;one admin, 19 users",
+      "unit": ""
+    },
+    {
+      "label": "Maximum streams",
+      "value": "12;10 substream, 2 mainstream",
+      "unit": ""
+    },
+    {
+      "label": "DC supply",
+      "value": "48–54V",
+      "unit": ""
+    },
+    {
+      "label": "Power consumption",
+      "value": "<10W excluding HDD and PoE",
+      "unit": ""
+    },
+    {
+      "label": "Operating temperature",
+      "value": "-10°C to+45°C",
+      "unit": ""
+    },
+    {
+      "label": "Operating humidity",
+      "value": "10–90%",
+      "unit": ""
+    },
+    {
+      "label": "Dimensions",
+      "value": "330 × 45 × 285mm",
+      "unit": ""
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU/GTIN and hardware revision",
+    "Other NVS16 hardware revisions must not inherit N6MB01 limits",
+    "Latvian included HDD/hardware requires matching"
+  ],
+  "source_pages": [
+    {
+      "url": "https://reolink.com/dk/product/nvs16/",
+      "fetched_at": "2026-10-14",
+      "method": "web open; public manufacturer page content read",
+      "notes": "Direct HTTP403; ordinary web open succeeded; no bypass or credentials. Technical rows read, source contradictions withheld"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

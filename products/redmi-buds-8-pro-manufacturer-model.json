@@ -1,0 +1,122 @@
+{
+  "id": "redmi-buds-8-pro-manufacturer-model",
+  "brand": "Xiaomi",
+  "model": "Redmi Buds 8 Pro",
+  "category": "Earbuds",
+  "scope": "Australia manufacturer page after global URL redirect; Tele2 SKU reconciliation required; no colour duplicates",
+  "identifiers": [
+    "M2535E1"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "REDMI Buds 8 Pro Specs, Features | Xiaomi Australia",
+  "source_url": "https://www.mi.com/au/product/redmi-buds-8-pro/specs/?f=switch_lang",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/redmi-buds-8-pro/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Model code",
+      "value": "M2535E1",
+      "unit": "",
+      "condition": "Manufacturer Australia specification"
+    },
+    {
+      "label": "Earbud dimensions",
+      "value": "30.6mm*21.3mm*24.5mm",
+      "unit": "",
+      "condition": "Manufacturer Australia specification"
+    },
+    {
+      "label": "Case dimensions",
+      "value": "61.01mm*48.28mm*25.17mm",
+      "unit": "",
+      "condition": "Manufacturer Australia specification"
+    },
+    {
+      "label": "Earbud weight",
+      "value": "5.3±0.1g",
+      "unit": "",
+      "condition": "Manufacturer Australia specification"
+    },
+    {
+      "label": "Case weight",
+      "value": "36.3g±1g",
+      "unit": "",
+      "condition": "Manufacturer Australia specification"
+    },
+    {
+      "label": "Total weight",
+      "value": "46.9g±1g",
+      "unit": "",
+      "condition": "Manufacturer Australia specification"
+    },
+    {
+      "label": "Charging connector",
+      "value": "Type-C",
+      "unit": "",
+      "condition": "Manufacturer Australia specification"
+    },
+    {
+      "label": "Earbud input",
+      "value": "5V⎓250mA MAX",
+      "unit": "",
+      "condition": "Manufacturer Australia specification"
+    },
+    {
+      "label": "Case input",
+      "value": "5V⎓700mA MAX",
+      "unit": "",
+      "condition": "Manufacturer Australia specification"
+    },
+    {
+      "label": "Case output",
+      "value": "5V⎓500mA MAX",
+      "unit": "",
+      "condition": "Manufacturer Australia specification"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "Bluetooth® 5.4",
+      "unit": "",
+      "condition": "Manufacturer Australia specification"
+    },
+    {
+      "label": "Protocols",
+      "value": "Bluetooth®Low Energy / HFP / A2DP / AVRCP",
+      "unit": "",
+      "condition": "Manufacturer Australia specification"
+    },
+    {
+      "label": "Communication range",
+      "value": "10m (open space free of obstacles)",
+      "unit": "",
+      "condition": "Manufacturer Australia specification"
+    },
+    {
+      "label": "Earbud capacity",
+      "value": "54 mAh",
+      "unit": "",
+      "condition": "Earbuds; source capacity"
+    },
+    {
+      "label": "Case capacity",
+      "value": "480 mAh",
+      "unit": "",
+      "condition": "Charging case"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU/GTIN reconciliation",
+    "Playback conditions or official manual enrichment"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/au/product/redmi-buds-8-pro/specs/?f=switch_lang",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Actual manufacturer specification page read; redirect region retained"
+    }
+  ],
+  "research_lane": "audio"
+}

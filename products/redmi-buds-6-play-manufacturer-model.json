@@ -1,0 +1,164 @@
+{
+  "id": "redmi-buds-6-play-manufacturer-model",
+  "brand": "Xiaomi",
+  "model": "Redmi Buds 6 Play",
+  "category": "Earbuds",
+  "scope": "Global manufacturer model; Tele2 SKU reconciliation required; no colour duplicates",
+  "identifiers": [
+    "M2420E1"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Redmi Buds 6 Play Specs",
+  "source_url": "https://www.mi.com/global/product/redmi-buds-6-play/specs/",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/buds-6-play/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Model code",
+      "value": "M2420E1",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Frequency response",
+      "value": "20Hz~20KHz",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Earbud dimensions",
+      "value": "L20.6*W14.5*H22mm",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Case dimensions",
+      "value": "L53.9*W53.9*H27.4mm",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Earbud weight",
+      "value": "3.6g",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Case weight",
+      "value": "32.8g",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Total weight",
+      "value": "40.0g",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Charging connector",
+      "value": "TYPE-C",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Earbud input",
+      "value": "5V 170mA",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Case input",
+      "value": "5V 800mA",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Case output",
+      "value": "5V 340mA",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "Bluetooth® 5.4",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Protocols",
+      "value": "Bluetooth® Low Energy / HFP / A2DP / AVRCP",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Communication range",
+      "value": "10m (open space free of obstacles)",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Product form",
+      "value": "Bean-shaped earbuds",
+      "unit": "",
+      "condition": "Manufacturer global specification"
+    },
+    {
+      "label": "Earbud capacity",
+      "value": "57mAh",
+      "unit": "",
+      "condition": "Earbuds; source capacity"
+    },
+    {
+      "label": "Case capacity",
+      "value": "600mAh",
+      "unit": "",
+      "condition": "Charging case"
+    },
+    {
+      "label": "Earbud playback",
+      "value": "7.5 hours",
+      "unit": "",
+      "condition": "Source battery-life claim; activity and test settings unresolved"
+    },
+    {
+      "label": "Playback including case",
+      "value": "36 hours",
+      "unit": "",
+      "condition": "Source battery-life claim; activity and test settings unresolved"
+    },
+    {
+      "label": "Speaker impedance",
+      "value": "16 Ω",
+      "unit": "",
+      "condition": "Manufacturer specification"
+    },
+    {
+      "label": "Rated power",
+      "value": "5 mW",
+      "unit": "",
+      "condition": "Manufacturer specification"
+    },
+    {
+      "label": "Maximum power",
+      "value": "10 mW",
+      "unit": "",
+      "condition": "Manufacturer specification"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU/GTIN reconciliation",
+    "Playback conditions or official manual enrichment"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/redmi-buds-6-play/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Actual manufacturer specification page read; redirect region retained"
+    }
+  ],
+  "research_lane": "audio"
+}

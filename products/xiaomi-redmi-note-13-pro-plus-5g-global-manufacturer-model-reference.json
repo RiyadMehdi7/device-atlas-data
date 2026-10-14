@@ -1,0 +1,120 @@
+{
+  "id": "xiaomi-redmi-note-13-pro-plus-5g-global-manufacturer-model-reference",
+  "brand": "Xiaomi",
+  "model": "Redmi Note 13 Pro+ 5G",
+  "category": "Phones",
+  "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Redmi Note 13 Pro+ 5G Specs",
+  "source_url": "https://www.mi.com/global/product/redmi-note-13-pro-plus-5g/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Processor",
+      "value": "MediaTek Dimensity 7200-Ultra | 4nm process technology | CPU: Octa-core processor, up to 2.8GHz | GPU: Mali-G610",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Storage & RAM",
+      "value": "8+256GB | 12+512GB | LPDDR5 + UFS3.1",
+      "unit": "",
+      "condition": "*Configurations available may differ between different regions. Available storage and RAM are less than the total memory due to storage of the operating system and software pre-installed on the device."
+    },
+    {
+      "label": "Dimensions",
+      "value": "Height: 161.4mm | Width: 74.2mm | Thickness: 8.9mm | Weight: 204.5g",
+      "unit": "",
+      "condition": "*Data provided by internal laboratories. Industry measurment methods may vary, and therefore actual results may differ."
+    },
+    {
+      "label": "Display",
+      "value": "6.67\" CrystalRes AMOLED display | Refresh rate: Up to 120Hz | Brightness: 1800nits peak brightness | Color depth: 12-bit | Contrast ratio: 5,000,000:1 | Resolution: 2712x1220, 446PPI | Color gamut: DCI-P3 100% | Corning® Gorilla® Glass Victus® | Supports Dolby Vision® | Supports reading mode | 1920Hz PWM dimming | 16,000-level brightness adjustment | HDR10+ | TÜV Rheinland Low Blue Light (Hardware Solution) Certified | TÜV Rheinland Circadian Friendly Certified | TÜV Rheinland Flicker Free Certified",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Rear Camera",
+      "value": "200MP+8MP+2MP triple camera | 200MP main camera | OIS | f/1.65 | 16-in-1 binning into one large 2.24μm pixel | 1/1.4” sensor size | 7P lens | 8MP ultra-wide camera | f/2.2 | 2MP macro camera | f/2.4 | Rear camera video recording | 4K 3840x2160 at 24/30fps | 1080p 1920x1080 at 30/60fps | 720p 1280x720 at 30fps | Slow motion: 1080p 1920x1080 at 120fps | Slow motion: 720p 1280x720 at 120/240fps",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Front Camera",
+      "value": "16MP camera | f/2.4 | Front camera video recording | 1080p 1920x1080 at 30/60fps | 720p 1280x720 at 30fps",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Battery & Charging",
+      "value": "5000mAh battery(typ) | Supports 120W HyperCharge | USB-C | 120W in-box charger",
+      "unit": "",
+      "condition": "*Power adapter is sold separately in certain regions."
+    },
+    {
+      "label": "Security",
+      "value": "In-screen fingerprint sensor | AI Face Unlock",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "NFC",
+      "value": "Yes*",
+      "unit": "",
+      "condition": "*NFC function may vary between markets."
+    },
+    {
+      "label": "Network & Connectivity",
+      "value": "Dual SIM (nano SIM + nano SIM or nano SIM + eSIM) | Network bands | 2G: GSM: 850 900 1800 1900MHz | 3G: WCDMA:1/2/4/5/6/8/19 | 4G: LTE FDD:1/2/3/4/5/7/8/12/13/17/18/19/20/26/28/32/66 | 4G: LTE TDD:38/40/41 | 5G: n1/3/5/7/8/20/28/38/40/41/66/77/78 | Wireless Networks | Wi-Fi: Wi-Fi 6/Wi-Fi 5/Wi-Fi 4/802.11a/b/g | Supports 2.4GHz Wi-Fi | 5GHz Wi-Fi | Supports 2x2 MIMO，Wi-Fi Direct | Bluetooth 5.3",
+      "unit": "",
+      "condition": "*5G connectivity may vary based on region availability and local operator support."
+    },
+    {
+      "label": "Navigation & Positioning",
+      "value": "Beidou:B1I｜GPS:L1｜Galileo:E1 | GLONASS:G1｜QZSS:L1 | AGNSS:A-GPS/A-GLONASS/A-BDS | Wireless network | Data network｜Sensor Assisted Positioning",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Audio",
+      "value": "Dual speakers | Supports Dolby Atmos®",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Splash,Water and Dust Resistant",
+      "value": "IP68",
+      "unit": "",
+      "condition": "*The device has been tested and certified to be resistant to splash, water, and dust in the presence of specific laboratory conditions with the classification IP68 ingress protection based on IEC 60529:1989+A1:1999+A2:2013."
+    },
+    {
+      "label": "Sensors",
+      "value": "Proximity sensor | Ambient light sensor | Accelerometer | Electronic compass | IR blaster | Gyroscope | X-axis linear motor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Operating System",
+      "value": "MIUI 14",
+      "unit": "",
+      "condition": ""
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU / model code and GTIN matching",
+    "Colour-specific packaging and regional accessories"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/redmi-note-13-pro-plus-5g/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible manufacturer specification content parsed; model-reference scope, not an exact retailer SKU."
+    }
+  ],
+  "research_lane": "phones"
+}

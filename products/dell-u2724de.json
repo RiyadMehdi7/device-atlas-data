@@ -1,0 +1,330 @@
+{
+  "id": "dell-u2724de",
+  "brand": "Dell",
+  "model": "U2724DE",
+  "category": "Monitors",
+  "scope": "Exact Dell en-uk manufacturer product technical specification. Regional units, supplied cables and warranty may differ; Tele2 stocked unit EAN/part reconciliation remains unresolved.",
+  "identifiers": [
+    "U2724DE"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Dell UltraSharp 27 Inch Thunderbolt™ 4 Hub Monitor - U2724DE | Dell UK",
+  "source_url": "https://www.dell.com/en-uk/shop/dell-ultrasharp-27-thunderbolt-hub-monitor-u2724de/apd/210-bktv/monitors-monitor-accessories",
+  "tele2_url": "https://www.tele2.lv/monitori/dell-lcd-u2724de-27-ips-qhd2560x1440hdmi/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Diagonal Viewing Size",
+      "value": "27\"",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Preset Display Area (H x V)",
+      "value": "596.74 mm x 335.66 mm 23.49\" x 13.22\" 200,301.74 mm 2 (310.47 inches 2)",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Panel Type",
+      "value": "IPS Black Technology",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Display Screen Coating",
+      "value": "Anti-Glare with 3H hardness",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Maximum Preset Resolution",
+      "value": "2560 x 1440 at 120 Hz",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Viewing Angle",
+      "value": "178 ° vertical / 178° ° horizontal",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Pixel Pitch",
+      "value": "0.2331 mm x 0.2331 mm",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Pixel Per Inch (PPI)",
+      "value": "108.97",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Contrast Ratio",
+      "value": "2000 to 1 (typical)",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Aspect Ratio",
+      "value": "16:9",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Backlight Technology",
+      "value": "LED Edgelight System",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Brightness",
+      "value": "350 cd/m 2 (typical)",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Response Time Details",
+      "value": "8 ms (Normal) 5 ms (Fast)",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Ambient Light Sensor",
+      "value": "Yes, auto brightness and color temperature adjustmemt",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "color support",
+      "value": "1.07 billion colors",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Color Gamut",
+      "value": "100% sRGB, 100% BT.709, 98% Display P3, 98% DCI-P3, Delta E < 2 (average) (sRGB, BT.709, Display P3, DCI-P3)",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Interfaces",
+      "value": "- 1 x DisplayPort 1.4 (DRR for Microsoft Windows) (Supports 2 x QHD 120Hz 8 bit) - 1 x DisplayPort 1.4 (Out) - 1 x HDMI (HDCP 1.4)(Supports up to QHD 2560 x 1440 120Hz TMDS, VRR as per specified in HDMI 2.1) - 1 x ThunderboltTM 4 downstream port (15W) for daisy chaining - 1 x ThunderboltTM 4 upstream port (Video + Data). Alternate mode with DisplayPort 1.4, power delivery up to 90W. - 1 x USB-Type C upstream port (data only) (SuperSpeed USB 10 Gbps, USB 3.2 Gen 2 - 3 x USB Type-A downstream port (SuperSpeed USB 10 Gbps, USB 3.2 Gen 2) - 1 x Audio line out - 1 x RJ45 Ethernet port, 2.5GbE - 1 x USB Type-A downstream port (SuperSpeed USB 10 Gbps, USB 3.2 Gen 2) with BC1.2 power charging - 1 x USB Type-C downstream port (SuperSpeed USB 10 Gbps, USB 3.2 Gen 2) with power charging (15W)",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Adjustability",
+      "value": "Height, Tilt, Swivel, Pivot",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Height adjustable",
+      "value": "150 mm",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Tilt",
+      "value": "-5 ° /+21 °",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Swivel",
+      "value": "-45 ° /+45 °",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Pivot",
+      "value": "-90 ° /+90 °",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Audio Output",
+      "value": "1 x Audio line-out",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Built-in Speaker",
+      "value": "No",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Security",
+      "value": "Security lock slot (cable lock sold separately) Anti-theft stand lock slot (to lock stand to monitor using screw)",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Compliant Standards",
+      "value": "ENERGY STAR certified Monitor. EPEAT registered where applicable. EPEAT registration varies by country. See https://www.epeat.net for registration status by country. TCO Certified & TCO Certified Edge. RoHS Compliant. BFR/PVC Free monitor (excluding external cables). Arsenic-Free glass and Mercury-Free for the panel only",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Flat Panel Mount Interface",
+      "value": "VESA mounting holes (100 mm x 100 mm - behind attached VESA Cover)",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "What's Included",
+      "value": "Monitor, Stand Riser, Stand Base, Quick setup guide, Safety, Environmental and Regulatory Information, Factory calibration report",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Cables Included",
+      "value": "1 x Power cable 1 x DisplayPort 1.4 cable - 1.8 m 1 x USB Type-A to USB Type-C Gen 2 cable - 1 m 1 x Thunderbolt TM 4 cable - 1 m",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Voltage Required",
+      "value": "100 VAC to 240 VAC / 50 Hz or 60 Hz ± 3 Hz / 2.65 A (typical)",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Power Consumption (On mode)",
+      "value": "24.4 W",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Power Consumption (Max)",
+      "value": "225 W",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Power Consumption Stand by",
+      "value": "0.5 W",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Power Consumption (Off Mode)",
+      "value": "0.3 W",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Networked standby mode",
+      "value": "1.5 W",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Dell Display Manager Compatibility",
+      "value": "Yes , Easy Arrange, Other key features",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Temperature Range",
+      "value": "Operating: 0°C to 40°C (32°F to 104°F) Non-operating: –20°C to 60°C (–4°F to 140°F)",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Humidity Range",
+      "value": "Operating: 10% to 80% (non-condensing) Non-Operating: 5% to 90% (non-condensing)",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Altitude",
+      "value": "Operating: 5000 m (16404 ft) max Non-Operating: 12192 (40000 ft) max",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Height with stand (Compressed ~ Extended)",
+      "value": "385.58 mm ~ 535.58 mm",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Width with stand",
+      "value": "612.24 mm",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Depth with stand",
+      "value": "192.28 mm",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Height without stand",
+      "value": "352.51 mm",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Width without stand",
+      "value": "612.24 mm",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Depth without stand",
+      "value": "50.12 mm",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Weight (panel only - for VESA mount)",
+      "value": "5.23 kg",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Weight (with stand assembly and cables)",
+      "value": "7.37 kg",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Weight (with packaging)",
+      "value": "10.21 kg",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    },
+    {
+      "label": "Specifications - Service / Support Details",
+      "value": "3-Year Advanced Exchange Service and Premium Panel Exchange",
+      "unit": "",
+      "condition": "Dell en-uk exact-model technical reference; original physical/stand, input, operating/standby and test wording retained"
+    }
+  ],
+  "missing_fields": [
+    "Latvia stocked unit EAN / manufacturer part reconciliation",
+    "Input timing table from official user manual",
+    "HDR Ready — source extractor returned no value",
+    "PbP / PiP — source extractor returned no value",
+    "Keyboard, Video and Mouse ( KVM) — source extractor returned no value",
+    "Daisy Chain Availability — source extractor returned no value"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.dell.com/en-uk/shop/dell-ultrasharp-27-thunderbolt-hub-monitor-u2724de/apd/210-bktv/monitors-monitor-accessories",
+      "fetched_at": "2026-10-14",
+      "method": "Exa full page fetch; technical block only",
+      "notes": "Full manufacturer page fetched; factual technical block read. Empty extractor values excluded; search snippets not used."
+    }
+  ],
+  "research_lane": "monitors"
+}

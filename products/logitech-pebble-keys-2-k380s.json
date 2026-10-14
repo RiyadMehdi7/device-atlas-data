@@ -1,0 +1,288 @@
+{
+  "id": "logitech-pebble-keys-2-k380s",
+  "brand": "Logitech",
+  "model": "Pebble Keys 2 K380s",
+  "model_family": "Pebble Keys 2 K380s",
+  "category": "Accessories",
+  "scope": "UK manufacturer model reference. Explicit MPN options identify their labelled colour/layout variants; not a Latvia SKU. No colour/layout records generated.",
+  "identifiers": [
+    "920-011843",
+    "920-011795",
+    "920-011851",
+    "920-011803",
+    "920-011819",
+    "920-011811",
+    "920-011827",
+    "920-011879",
+    "920-011845",
+    "920-011797",
+    "920-011853",
+    "920-011805",
+    "920-011821",
+    "920-011829",
+    "920-011844",
+    "920-011796",
+    "920-011852",
+    "920-011804",
+    "920-011820",
+    "920-011828",
+    "920-011880"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Logitech Pebble Keys 2 K380s technical specifications",
+  "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-keys-2",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "listed feature: Dimensions",
+      "value": "Dimensions",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-keys-2",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Indicator Lights",
+      "value": "Battery LED and 3 Easy-Switch Bluetooth channels",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-keys-2",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Special Keys",
+      "value": "Show desktop, search, back, voice dictation, emoji menu, screen capture",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-keys-2",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Customization app",
+      "value": "Supported by Logi Options+ App on Windows and macOS*. (*Available on Windows and macOS at logi.com/optionsplus)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-keys-2",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery type",
+      "value": "2 x AAA (Alkaline Battery)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-keys-2",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery life",
+      "value": "36 months*. (*Battery life may vary based on user and computing conditions.)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-keys-2",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Power switch",
+      "value": "On/Off Switch",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-keys-2",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connection Type",
+      "value": "Bluetooth Low Energy Technology",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-keys-2",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wireless range",
+      "value": "10 m*. (*Wireless range may vary due to environmental and computing conditions.)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-keys-2",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connection type support",
+      "value": "Compatible with Logi Bolt USB receiver (not included)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-keys-2",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Requirements",
+      "value": "Internet access required to download optional customization app Logi Options+.",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-keys-2",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "Required: Bluetooth Low Energy Windows®* 10, 11 or later macOS* 11 or later iPadOS** 14 or later iOS** 14 or later Android™** 9.0 or later ChromeOS™**, Linux®** Works With Chromebook™***. (*Customize the device by installing the Logi Options+ App for Windows or macOS at logi.com/optionsplus, **Logi Options+ App is currently not supported. The device’s basic functions will work without it., ***This product works with devices capable of running the latest version of ChromeOS and has been certified to meet Google's compatibility standards. Google is not responsible for the operation of this product or its compliance with safety requirements. Chromebook and the Works With Chromebook badge are trademarks of Google LLC.)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-keys-2",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Logi Bolt USB receiver",
+      "value": "Compatible with Logi Bolt USB receiver (not included).",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-keys-2",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Compatibility",
+      "value": "Compatible with MacBook Neo laptops. Instant Bluetooth® connection. Seamless. Colour-matched.",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-keys-2",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Manufacturer warranty",
+      "value": "2-Year Limited Hardware Warranty",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-keys-2",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "UK package contents",
+      "value": "Pebble Keys 2 K380s keyboard; 2 X AAA Alkaline batteries (pre-installed); User documentation; Important Info Document (IID)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/pebble-keys-2",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia MPN/GTIN",
+    "Latvia retail package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.logitech.com/en-gb/shop/p/pebble-keys-2",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Official source technical content read; factual extraction retained"
+    }
+  ],
+  "identifier_options": [
+    {
+      "mpn": "920-011843",
+      "name": "Pebble Keys 2 K380s - Tonal Graphite - English UK (QWERTY)",
+      "colour": "Tonal Graphite"
+    },
+    {
+      "mpn": "920-011795",
+      "name": "Pebble Keys 2 K380s - Tonal Graphite - German (QWERTZ)",
+      "colour": "Tonal Graphite"
+    },
+    {
+      "mpn": "920-011851",
+      "name": "Pebble Keys 2 K380s - Tonal Graphite - English International (QWERTY)",
+      "colour": "Tonal Graphite"
+    },
+    {
+      "mpn": "920-011803",
+      "name": "Pebble Keys 2 K380s - Tonal Graphite - French (AZERTY)",
+      "colour": "Tonal Graphite"
+    },
+    {
+      "mpn": "920-011819",
+      "name": "Pebble Keys 2 K380s - Tonal Graphite - Italian (QWERTY)",
+      "colour": "Tonal Graphite"
+    },
+    {
+      "mpn": "920-011811",
+      "name": "Pebble Keys 2 K380s - Tonal Graphite - Swiss (QWERTZ)",
+      "colour": "Tonal Graphite"
+    },
+    {
+      "mpn": "920-011827",
+      "name": "Pebble Keys 2 K380s - Tonal Graphite - Spanish (QWERTY)",
+      "colour": "Tonal Graphite"
+    },
+    {
+      "mpn": "920-011879",
+      "name": "Pebble Keys 2 K380s - Tonal Graphite - Danish / Norwegian / Swedish / Finnish (QWERTY)",
+      "colour": "Tonal Graphite"
+    },
+    {
+      "mpn": "920-011845",
+      "name": "Pebble Keys 2 K380s - Tonal Rose - English UK (QWERTY)",
+      "colour": "Tonal Rose"
+    },
+    {
+      "mpn": "920-011797",
+      "name": "Pebble Keys 2 K380s - Tonal Rose - German (QWERTZ)",
+      "colour": "Tonal Rose"
+    },
+    {
+      "mpn": "920-011853",
+      "name": "Pebble Keys 2 K380s - Tonal Rose - English International (QWERTY)",
+      "colour": "Tonal Rose"
+    },
+    {
+      "mpn": "920-011805",
+      "name": "Pebble Keys 2 K380s - Tonal Rose - French (AZERTY)",
+      "colour": "Tonal Rose"
+    },
+    {
+      "mpn": "920-011821",
+      "name": "Pebble Keys 2 K380s - Tonal Rose - Italian (QWERTY)",
+      "colour": "Tonal Rose"
+    },
+    {
+      "mpn": "920-011829",
+      "name": "Pebble Keys 2 K380s - Tonal Rose - Spanish (QWERTY)",
+      "colour": "Tonal Rose"
+    },
+    {
+      "mpn": "920-011844",
+      "name": "Pebble Keys 2 K380s - Tonal White - English UK (QWERTY)",
+      "colour": "Tonal White"
+    },
+    {
+      "mpn": "920-011796",
+      "name": "Pebble Keys 2 K380s - Tonal White - German (QWERTZ)",
+      "colour": "Tonal White"
+    },
+    {
+      "mpn": "920-011852",
+      "name": "Pebble Keys 2 K380s - Tonal White - English International (QWERTY)",
+      "colour": "Tonal White"
+    },
+    {
+      "mpn": "920-011804",
+      "name": "Pebble Keys 2 K380s - Tonal White - French (AZERTY)",
+      "colour": "Tonal White"
+    },
+    {
+      "mpn": "920-011820",
+      "name": "Pebble Keys 2 K380s - Tonal White - Italian (QWERTY)",
+      "colour": "Tonal White"
+    },
+    {
+      "mpn": "920-011828",
+      "name": "Pebble Keys 2 K380s - Tonal White - Spanish (QWERTY)",
+      "colour": "Tonal White"
+    },
+    {
+      "mpn": "920-011880",
+      "name": "Pebble Keys 2 K380s - Tonal White - Danish / Norwegian / Swedish / Finnish (QWERTY)",
+      "colour": "Tonal White"
+    }
+  ],
+  "research_lane": "accessories"
+}

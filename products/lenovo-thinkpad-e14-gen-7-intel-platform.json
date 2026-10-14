@@ -1,0 +1,348 @@
+{
+  "id": "lenovo-thinkpad-e14-gen-7-intel-platform",
+  "brand": "Lenovo",
+  "model": "ThinkPad E14 Gen 7 (Intel)",
+  "category": "Laptops",
+  "scope": "Manufacturer global platform/model reference; option lists do not establish an actual RAM/storage/display combination. EU/Latvia exact SKU, keyboard and warranty need matching.",
+  "identifiers": [],
+  "aliases": [
+    "ThinkPad E14 Gen 7 Intel"
+  ],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Lenovo PSREF ThinkPad E14 Gen 7 (Intel)",
+  "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_E14_Gen_7_Intel/ThinkPad_E14_Gen_7_Intel_Spec.html",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Processor Family",
+      "value": "Intel® U or H Series Core Ultra 5 / 7 Processor (Series 2)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Processor",
+      "value": "Processor Name | Cores | Threads | Base Frequency | Max Frequency | Cache | Processor Graphics | NPU | ; Core Ultra 5 225H | 14 (4 P-core + 8 E-core + 2 LPE-core) | 14 | P-core 1.7GHz / E-core 1.3GHz / LPE-core 700MHz | P-core 4.9GHz / E-core 4.3GHz / LPE-core 2.5GHz | 18MB | Intel® Arc™ 130T GPU, up to 63 TOPS | Intel® AI Boost | ; Core Ultra 5 225U | 12 (2 P-core + 8 E-core + 2 LPE-core) | 14 | P-core 1.5GHz / E-core 1.3GHz / LPE-core 700MHz | P-core 4.8GHz / E-core 3.8GHz / LPE-core 2.4GHz | 12MB | Intel® Graphics | Intel® AI Boost | ; Core Ultra 5 235U | 12 (2 P-core + 8 E-core + 2 LPE-core) | 14 | P-core 2.0GHz / E-core 1.6GHz / LPE-core 700MHz | P-core 4.9GHz / E-core 4.1GHz / LPE-core 2.4GHz | 12MB | Intel® Graphics | Intel® AI Boost | ; Core Ultra 7 255H | 16 (6 P-core + 8 E-core + 2 LPE-core) | 16 | P-core 2GHz / E-core 1.5GHz / LPE-core 700MHz | P-core 5.1GHz / E-core 4.4GHz / LPE-core 2.5GHz | 24MB | Intel® Arc™ 140T GPU, up to 74 TOPS | Intel® AI Boost | ; Core Ultra 7 265U | 12 (2 P-core + 8 E-core + 2 LPE-core) | 14 | P-core 2.1GHz / E-core 1.7GHz / LPE-core 700MHz | P-core 5.3GHz / E-core 4.2GHz / LPE-core 2.4GHz | 12MB | Intel® Graphics | Intel® AI Boost",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "AI PC Category",
+      "value": "AI PC",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "AI Performance",
+      "value": "Up to 96 overall TOPS",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "NPU",
+      "value": "Integrated Intel® AI Boost, up to 13 TOPS",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Operating System",
+      "value": "Windows® 11 Pro ; Windows® 11 Home ; Windows® 11 Home Single Language ; No preload operating system",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Graphics",
+      "value": "Graphics | Type | Memory | TGP | Key Features | ; Intel® Arc™ 130T GPU | Integrated | Shared | Share CPU TDP | DirectX® 12.2 | ; Intel® Arc™ 140T GPU | Integrated | Shared | Share CPU TDP | DirectX® 12.2 | ; Intel® Graphics | Integrated | Shared | Share CPU TDP | DirectX® 12.2",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Monitor Support",
+      "value": "Supports up to 4 independent displays (native display and 3 external monitors via HDMI®, USB-C® and Thunderbolt™) • HDMI® supports up to 4096x2160@60Hz • USB-C® supports up to 5120x3200@60Hz • Thunderbolt™ supports up to 7680x4320@60Hz",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Chipset",
+      "value": "Intel® SoC (System on Chip) platform",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Max Memory",
+      "value": "Up to 64GB DDR5-5600",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Memory Slots",
+      "value": "Two DDR5 SO-DIMM slots, dual-channel capable",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Memory Type",
+      "value": "DDR5-5600",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Storage Support",
+      "value": "Up to two drives, 2x M.2 SSD • M.2 2242 SSD up to 1TB • M.2 2280 SSD up to 1TB",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Storage Slot",
+      "value": "Two M.2 slots • One M.2 2242 PCIe® 4.0 x4 slot • One M.2 2280 PCIe® 4.0 x4 slot",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Storage Type",
+      "value": "Disk Type | Interface | Offering | Security | ; M.2 2242 SSD | PCIe® NVMe®, PCIe® 4.0 x4 | 256GB / 512GB / 1TB | Opal 2.0",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Card Reader",
+      "value": "No card reader",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Audio Chip",
+      "value": "High Definition (HD) Audio, Senary SN6147 codec",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Speakers",
+      "value": "Stereo speakers, 2W x2, Dolby Atmos®, audio by HARMAN",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Microphone",
+      "value": "Dual-microphone array with smart noise-cancelling",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Camera",
+      "value": "5.0MP, with privacy shutter, fixed focus, temporal noise reduction ; FHD 1080p + IR hybrid, with privacy shutter, fixed focus, temporal noise reduction ; HD 720p, with privacy shutter, fixed focus",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Battery",
+      "value": "48Wh Rechargeable Li-ion Battery, supports Rapid Charge Pro (charge up to 50% in 30min) ; 64Wh Rechargeable Li-ion Battery",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Power Adapter",
+      "value": "65W USB-C® (2-pin) AC adapter, supports PD 3.0, 100-240V, 50-60Hz ; 65W USB-C® (3-pin) AC adapter, supports PD 3.0, 100-240V, 50-60Hz ; 65W USB-C® slim (2-pin, wall-mount) AC adapter, supports PD 3.0, 100-240V, 50-60Hz ; No power adapter",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Display",
+      "value": "Size | Resolution | Touch | Type | Brightness | Surface | Aspect Ratio | Contrast Ratio | Color Gamut | Refresh Rate | Viewing Angle (L/R/U/D) | Key Features | ; 14\" | WUXGA (1920x1200) | None | IPS | 300nits | Anti-glare | 16:10 | 1000:1 | 45% NTSC | 60Hz | 89° / 89° / 89° / 89° | TÜV Low Blue Light (Software) | ; 14\" | WUXGA (1920x1200) | Multi-touch | IPS | 300nits | Anti-glare | 16:10 | 1000:1 | 45% NTSC | 60Hz | 89° / 89° / 89° / 89° | TÜV Low Blue Light (Software) | ; 14\" | 2.8K (2880x1800) | None | IPS | 400nits | Anti-glare | 16:10 | 1500:1 | 100% sRGB | 120Hz (Max) | 89° / 89° / 89° / 89° | Eyesafe® Certified 2.0",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Touchscreen",
+      "value": "Add-on Film Touch, supports 10-point touch ; Non-touch",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Pen",
+      "value": "No support",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Keyboard",
+      "value": "6-row, spill-resistant, multimedia Fn keys, Copilot key",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Keyboard Backlight",
+      "value": "LED backlight ; Non-backlight",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "UltraNav™",
+      "value": "TrackPoint® pointing device, double-tap to open the TrackPoint® Quick Menu Mylar® surface multi-touch 3-button Trackpad, 60 x 115 mm (2.36 x 4.53 inches)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Dimensions (WxDxH)",
+      "value": "Models | Dimensions | ; Models with aluminium (top) and PC-ABS (bottom) | 313 x 220.3 x 10.1/15.25 (front/rear), 20.5 (maximum) mm; 12.32 x 8.67 x 0.40/0.60 (front/rear), 0.81 (maximum) inches | ; Models with aluminium (top) and aluminium (bottom) | 313 x 220.3 x 10.1/15.25 (front/rear), 19.7 (maximum) mm; 12.32 x 8.67 x 0.40/0.60 (front/rear), 0.78 (maximum) inches",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Weight",
+      "value": "Starting at 1.34 kg (2.95 lbs)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Case Color",
+      "value": "Black",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Case Material",
+      "value": "Aluminium (top), PC-ABS (bottom) ; Aluminium (top), aluminium (bottom)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "WLAN + Bluetooth®",
+      "value": "Wi-Fi® 6, 802.11ax 2x2 Wi-Fi® + Bluetooth® 5.3, M.2 card ; Realtek® Wi-Fi® 6 RTL8852BE, 802.11ax Dual Band 2x2 Wi-Fi® + Bluetooth® 5.3, M.2 card ; Intel® Wi-Fi® 6 AX203, 802.11ax 2x2 Wi-Fi® + Bluetooth® 5.2, M.2 Card ; Wi-Fi® 6E, 802.11ax 2x2 Wi-Fi® + Bluetooth® 5.3, M.2 card ; Intel® Wi-Fi® 6E AX211, 802.11ax 2x2 Wi-Fi® + Bluetooth® 5.3, M.2 Card",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "WWAN",
+      "value": "No support",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "SIM Card",
+      "value": "No physical SIM card inbox",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Ethernet",
+      "value": "Gigabit Ethernet, Intel® Ethernet Connection I219-LM (vPro® models), 1x RJ-45, supports Wake-on-LAN ; Gigabit Ethernet, Intel® Ethernet Connection I219-V (non-vPro® models), 1x RJ-45, supports Wake-on-LAN",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "NFC",
+      "value": "No support",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Standard Ports",
+      "value": "1x USB-A (USB 5Gbps / USB 3.2 Gen 1) ; 1x USB-A (USB 10Gbps / USB 3.2 Gen 2), Always On ; 1x USB-C® (USB 20Gbps / USB 3.2 Gen 2x2), with USB PD 3.1 and DisplayPort™ 1.4 ; 1x USB-C® (Thunderbolt™ 4 / USB4® 40Gbps), with USB PD 3.1 and DisplayPort™ 2.1 ; 1x HDMI® 2.1, up to 4K/60Hz ; 1x Headphone / microphone combo jack (3.5mm) ; 1x Ethernet (RJ-45)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Docking",
+      "value": "Various docking solutions supported via Thunderbolt™ or USB-C®. For more compatible docking solutions, please visit Docking for ThinkPad® E14 Gen 7 (Intel®)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Security Chip",
+      "value": "Discrete TPM 2.0, TCG certified, FIPS 140-2 certified",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Physical Locks",
+      "value": "Kensington® Nano Security Slot™, 2.5 x 6 mm",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Smart Card Reader",
+      "value": "No smart card reader",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Fingerprint Reader",
+      "value": "Touch style fingerprint reader integrated in power button, match-on-chip ; No fingerprint reader",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "BIOS Security",
+      "value": "NVMe® password ; Power-on password ; Supervisor password ; System management password ; Certificate-based BIOS athentication ; FIDO (Fast Identity Online) authentication ; Self-healing BIOS",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Other Security",
+      "value": "Camera privacy shutter ; (Optional) IR camera for Windows® Hello (facial recognition)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "System Management",
+      "value": "Intel® vPro® Enterprise ; Non-vPro®",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Base Warranty",
+      "value": "1-year mail-in service ; 1-year courier or carry-in service ; 1-year courier or carry-in with 2-year system board service (Korea only) ; 1-year limited onsite service ; No base warranty",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Bundled Accessories",
+      "value": "Lenovo® 15.6\" laptop casual toploader, polyester ; None",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Temperature",
+      "value": "Operating: 5°C (41°F) to 35°C (95°F) ; Storage and transportation in original shipping package: -20°C (-4°F ) to 60°C (140°F) ; Storage without package: 5°C (41°F) to 43°C (109°F)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Relative Humidity",
+      "value": "Operating: 8% to 95% at wet-bulb temperature 23°C (73°F) ; Storage and transportation: 5% to 95% at wet-bulb temperature 27°C (81°F)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Altitude",
+      "value": "Maximum altitude (without pressurization): 3048 m (10,000 ft)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Mil-Spec Test",
+      "value": "Work in progress",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    }
+  ],
+  "missing_fields": [
+    "Exact EU/Latvia MPN or GTIN",
+    "Actual configured RAM/storage/display",
+    "Regional keyboard",
+    "Regional availability and warranty"
+  ],
+  "source_pages": [
+    {
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_E14_Gen_7_Intel/ThinkPad_E14_Gen_7_Intel_Spec.html",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Structured specifications read; options kept together as platform alternatives. Structured field values preserved in per-product JSON evidence.",
+      "http_status": 200,
+      "content_title": "Lenovo PSREF ThinkPad E14 Gen 7 (Intel)"
+    }
+  ],
+  "research_lane": "computers"
+}

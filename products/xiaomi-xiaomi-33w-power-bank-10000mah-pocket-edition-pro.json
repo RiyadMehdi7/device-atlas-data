@@ -1,0 +1,154 @@
+{
+  "id": "xiaomi-xiaomi-33w-power-bank-10000mah-pocket-edition-pro",
+  "brand": "Xiaomi",
+  "model": "Xiaomi 33W Power Bank 10000mAh Pocket Edition Pro",
+  "model_family": "Xiaomi 33W Power Bank 10000mAh Pocket Edition Pro",
+  "category": "Accessories",
+  "scope": "Official Global specification model PB1030ZM. Regional plug/package variants remain unresolved; model-name Tele2 matching does not prove exact EU SKU.",
+  "identifiers": [
+    "PB1030ZM"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Xiaomi Xiaomi 33W Power Bank 10000mAh Pocket Edition Pro technical specifications",
+  "source_url": "https://www.mi.com/global/product/xiaomi-33w-power-bank-10000mah-pocket-edition-pro/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Product name",
+      "value": "Xiaomi 33W Power Bank 10000mAh Pocket Edition Pro",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-33w-power-bank-10000mah-pocket-edition-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Model",
+      "value": "PB1030ZM",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-33w-power-bank-10000mah-pocket-edition-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery type",
+      "value": "Lithium-ion battery",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-33w-power-bank-10000mah-pocket-edition-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery power",
+      "value": "35.2Wh/36Wh 9800mAh/10000mAh",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-33w-power-bank-10000mah-pocket-edition-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rated capacity",
+      "value": "5600mAh (5V/3A)",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-33w-power-bank-10000mah-pocket-edition-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Output port",
+      "value": "USB-A / Type-C",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-33w-power-bank-10000mah-pocket-edition-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Input parameters",
+      "value": "5V⎓3V 9V⎓2.5A 12V⎓1.8A",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-33w-power-bank-10000mah-pocket-edition-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Output parameter",
+      "value": "33W MAX",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-33w-power-bank-10000mah-pocket-edition-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Operating temperature",
+      "value": "5°C~35°C",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-33w-power-bank-10000mah-pocket-edition-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "USB-A",
+      "value": "5V⎓3V 9V⎓2.23A 12V⎓1.67A 10V⎓2.25A MAX",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-33w-power-bank-10000mah-pocket-edition-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Product dimensions",
+      "value": "105 × 55.8 × 25.5 mm",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-33w-power-bank-10000mah-pocket-edition-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Type-C",
+      "value": "5V⎓3V 9V⎓3A 12V⎓2.25A 11V⎓3A MAX",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-33w-power-bank-10000mah-pocket-edition-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Package contents",
+      "value": "Xiaomi 33W Power Bank 10000mAh Pocket Edition Pro; charging cable ×1; User manual ×1",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-33w-power-bank-10000mah-pocket-edition-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Source inconsistency",
+      "value": "Vendor repeats voltage units in current positions (e.g.5V/3V); charging times appear reversed between5V2A andfast charger. Unresolved; not corrected by inference.",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-33w-power-bank-10000mah-pocket-edition-pro/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Vendor charging-time text (unresolved)",
+      "value": "Approx. 2.7 hours; (using 5V/2A charger, with charging cable in the package); Approx. 5.2 hours; (using 18W and above fast charger, with charging cable in the package)",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-33w-power-bank-10000mah-pocket-edition-pro/specs/",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia MPN/GTIN",
+    "Latvia retail package contents",
+    "Validated input current units and recharge times (official source contradictions)"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/xiaomi-33w-power-bank-10000mah-pocket-edition-pro/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Official source technical content read; factual extraction retained"
+    }
+  ],
+  "research_lane": "accessories"
+}

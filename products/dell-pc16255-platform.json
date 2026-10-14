@@ -1,0 +1,174 @@
+{
+  "id": "dell-pc16255-platform",
+  "brand": "Dell",
+  "model": "Dell Pro 16 PC16255",
+  "category": "Laptops",
+  "scope": "Manufacturer global platform reference from official owner manual. No exact Tele2 model-code/SKU match established; CPU/memory/display/battery alternatives kept as table groups. European relevance candidate only, availability unverified.",
+  "identifiers": [
+    "PC16255"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Dell Pro 16 PC16255 Owner's Manual",
+  "source_url": "https://dl.dell.com/content/manual33305221-dell-pro-16-pc16255-owner-s-manual.pdf?language=en-us",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Dimensions and weight",
+      "value": "Description Values ; Front height 18.89 mm (0.74 in.) ; Rear height 20.85 mm (0.82 in.) ; Width 358.00mm (14.09 in.) ; Depth 251.82 mm (9.91 in.) ; Weight Minimum - 1.94 kg (4.27 lb)",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Processor (For computers shipped with AMD Ryzen AI 300 series)",
+      "value": "Description Option one Option two Option three ; Processor type AMD Ryzen AI 5 PRO AMD Ryzen AI 7 350 AMD Ryzen AI 7 PRO ; 340 350 ; Configurable Thermal Design Power 15 W–54 W 15 W–54 W 15 W–54 W ; Optimized 15 W 15 W 15 W ; Performance 18 W 18 W 18 W ; Processor core count 6 8 8 ; Processor thread count 12 16 16 ; Processor speed Up to 4.8 GHz Up to 5.0 GHz Up to 5.0 GHz ; Processor cache L2 6 MB 8 MB 8 MB ; Processor cache L3 16 MB 16 MB 16 MB ; Integrated graphics AMD Radeon 840M AMD Radeon 860M AMD Radeon 860M ; Graphics Graphics Graphics ; Neural Processing Units (NPU) Up to 50 TOPS Up to 50 TOPS Up to 50 TOPS",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Processor (For computers shipped with AMD Ryzen 200 series)",
+      "value": "Description Option one Option two Option Option four Option five Option six Option ; three seven ; Processor type AMD Ryzen AMD Ryzen AMD Ryzen 5 AMD Ryzen AMD Ryzen AMD Ryzen AMD Ryzen ; 3 210 3 PRO 210 220 5 PRO 215 5 PRO 220 5 PRO 230 7 PRO 250 ; Configurable Thermal 15 W–30 W 15 W–30 W 15 W–30 W 15 W–30 W 15 W–30 W 15 W–30 W 15 W–30 W ; Optimized 15 W 15 W 15 W 15 W 15 W 15 W 15 W ; Performance 18 W 18 W 18 W 18 W 18 W 18 W 18 W ; Processor core count 4 4 6 6 6 6 8 ; Processor thread 8 8 12 12 12 12 16 ; Processor speed Up to 4.7 Up to 4.7 Up to 4.9 Up to 4.7 Up to 4.9 Up to 4.9 Up to 5.1 ; GHz GHz GHz GHz GHz GHz GHz ; Processor cache L2 4 MB 4 MB 6 MB 6 MB 6 MB 6 MB 8 MB ; Processor cache L3 8 MB 8 MB 16 MB 16 MB 16 MB 16 MB 16 MB ; Integrated graphics AMD Radeon AMD Radeon AMD Radeon AMD Radeon AMD Radeon AMD Radeon AMD Radeon ; 740M 740M 740M 740M 740M 760M 780M ; Graphics Graphics Graphics Graphics Graphics Graphics Graphics ; Neural Processing Not Not Not Not Not Up to 16 Up to 16 ; Units (NPU) applicable applicable applicable applicable applicable TOPS TOPS",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Chipset",
+      "value": "Description Values ; Chipset Integrated in the processor ; Processor ● AMD Ryzen AI 7 PRO 350 ; ● AMD Ryzen AI 7 350 ; ● AMD Ryzen AI 5 PRO 340 ; ● AMD Ryzen 7 PRO 250 ; ● AMD Ryzen 5 PRO 230 ; ● AMD Ryzen 5 PRO 220 ; ● AMD Ryzen 5 PRO 215 ; ● AMD Ryzen 5 220 ; ● AMD Ryzen 3 PRO 210 ; ● AMD Ryzen 3 210 ; DRAM bus width 64-bit ; Flash EPROM 64 MB ; PCIe bus Up to Gen4 ; ● Windows 11 Home ; ● Windows 11 Professional ; ● Windows 11 Home ; ● Windows 11 Professional ; ● Windows 10 Home ; ● Windows 10 Professional",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Memory specifications",
+      "value": "Description Values ; Memory slots Two SODIMM slots ; Memory type DDR5 ; Memory speed 5600 MT/s ; Maximum memory configuration 64 GB ; Minimum memory configuration 8 GB ; Memory size per slot 8 GB, 16 GB, 32 GB ; Memory configurations supported ● 8 GB: 1 x 8 GB, DDR5, 5600 MT/s, single-channel ; ● 16 GB: 2 x 8 GB, DDR5, 5600 MT/s, dual-channel ; ● 16 GB: 1 x 16 GB, DDR5, 5600 MT/s, single-channel ; ● 32 GB: 1 x 32 GB, DDR5, 5600 MT/s, single-channel ; ● 32 GB: 2 x 16 GB, DDR5, 5600 MT/s, dual-channel ; ● 64 GB: 2 x 32 GB, DDR5, 5600 MT/s, dual-channel",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "External ports and slots",
+      "value": "Description Values ; Network port One RJ45 ethernet port (1 Gbps) ; USB ports ● One USB 3.2 Gen 1 (5 Gbps) port ; ● One USB 3.2 Gen 1 (5 Gbps) port with PowerShare ; Description Values ; ● Two USB (40 Gbps) port with Power Delivery and ; DisplayPort ; ○ For computers shipped with AMD Ryzen AI 300 Series ; processors: Supports DisplayPort 2.1 ; ○ For computers shipped with AMD Ryzen 200 Series ; processors: Supports DisplayPort 1.4a ; port. For more information, search in the Knowledge ; Base Resource at Dell Support Site. ; Audio port One global headset port ; Video port(s) One HDMI 2.1 Transition-minimized differential signaling ; (TMDS) port ; Media-card reader Not applicable ; Power-adapter port One 4.5 mm x 2.9 mm DC-in ; Security-cable slot One security-cable slot (wedge-shaped)",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Internal slots",
+      "value": "Description Values ; M.2 ● One M.2 2230 slot for solid state drive ; ● One M.2 2230 slot for WLAN card, Wi-Fi/Bluetooth ; types of M.2 cards, search Dell Support Site.",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Ethernet specifications",
+      "value": "Description Values ; Model Integrated Realtek RTL8111H-CG ; Transfer rate 10/100/1000 Mbps",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Wireless module specifications",
+      "value": "Description Values ; Model number MediaTek MT7922 ; Transfer rate 2400 Mbps ; Frequency bands supported 2.4 GHz/5 GHz/6 GHz ; Wireless standards ● WiFi 802.11a/b/g ; ● Wi-Fi 4 (WiFi 802.11n) ; ● Wi-Fi 5 (WiFi 802.11ac) ; ● Wi-Fi 6E (WiFi 802.11ax) ; Encryption ● 64-bit/128-bit WEP ; ● AES-CCMP ; ● TKIP ; Bluetooth wireless card Bluetooth 5.2",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Audio specifications",
+      "value": "Description Values ; Audio controller Realtek ALC3204 ; Stereo conversion Supported ; Internal audio interface High definition audio ; External audio interface One global headset (headphone and microphone combo) port ; Number of speakers Two ; Internal-speaker amplifier Supported (audio codec integrated) ; External volume controls Keyboard shortcut controls ; Average 2Wx2=4W ; Peak 2.5 W x 2 = 5 W ; Microphone Dual-array microphone ; ● One M.2 2230 solid state drive",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Storage specifications",
+      "value": "Storage type Interface type Capacity ; M.2 2230 solid state drive, TLC PCIe Gen4 NVMe, up to 64 Gbps 256 GB/512 GB ; M.2 2230 solid state drive, QLC PCIe Gen4 NVMe, up to 64 Gbps 512 GB/1 TB/2 TB",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Keyboard specifications",
+      "value": "Description Values ; Keyboard type ● Backlit keyboard with Copilot key and fingerprint reader ; ● Backlit keyboard with Copilot key ; ● Non-backlit keyboard with Copilot key and fingerprint ; reader ; ● Non-backlit keyboard with Copilot key ; Keyboard layout QWERTY ; Number of keys ● Arabic, Chinese (Traditional), English International, English ; US, Hebrew, Ukrainian: 99 keys with numeric keypad ; ● Belgian, Bulgarian, Czech and Slovakian (MUI), English ; UK, French (European), French (European), German, ; Hungarian, Greek, Hebrew, Italian, Nordic (MUI), ; Portuguese Iberian, Portuguese Brazil, Russian, Spanish ; (Castillian), Spanish (Latin America), Swiss European ; (MUI), Turkish: 100 keys with numeric keypad ; ● Japanese: 103 keys with numeric keypad ; Key pitch Horizontal= 18.05 mm (Numeric keypad: 17.05 mm) ; Vertical= 18.05 mm ; Keyboard shortcuts Some keys on your keyboard have two symbols on them. ; These keys can be used to type alternate characters or to ; perform secondary functions. ; ● To type the alternate character, press Shift and the ; desired key. ; ● To perform secondary functions, press Fn and the desired ; key. ; function keys (F1–F12) changing Function Key Behavior ; in the BIOS Setup program.",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Camera specifications",
+      "value": "Description Values ; Number of cameras Two ; is optional and may not be ; included in all configurations. ; Camera type ● HD RGB ; ● FHD RGB ; ● FHD RGB + IR ; Camera location Front camera ; Camera sensor type CMOS sensor technology ; Still image ● 0.92 megapixels (HD) ; ● 2.07 megapixels (FHD) ; Video ● 1280 x 720 (HD) at 30 fps ; ● 1920 x 1080 (FHD) at 30 fps ; Video 640 x 360 at 15 fps ; Camera ● 75.0 degress (HD) ; ● 80.2 degress (FHD) ; Infrared camera 86.6 degrees",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Touchpad specifications",
+      "value": "Description Values ; Touchpad resolution: >300 DPI ; Horizontal 115.00 mm (4.52 in.) ; Vertical 80.00 mm (4.52 in.) ; Touchpad gestures For more information about the touchpad gestures available ; on Windows, search Microsoft Support Site.",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Power-adapter specifications",
+      "value": "Description Option one Option two Option three ; Type 65W AC adapter, 4.5 mm 65W AC adapter, USB Type- 60W AC adapter, USB Type-C, ; barrel, E4 C, PECOS 2-pin (Japan) ; External diameter 4.50 mm Not applicable Not applicable ; Internal diameter 2.90 mm N/A N/A ; Height 29.5 mm 28 mm 22 mm ; Width 46.0 mm 51 mm 55 mm ; Depth 108.0 mm 112 mm 66 mm ; Input voltage 100 VAC - 240 VAC 100 VAC - 240 VAC 100 VAC - 240 VAC ; Input frequency 50 Hz - 60 Hz 50 Hz - 60 Hz 50 Hz - 60 Hz ; Input current (maximum) 1.7 A 1.7 A 1.7 A ; Output current (continuous) 3.34 A ● 20 V/3.25 A (Continuous) ● 20 V/3 A (Continuous) ; ● 15 V/3 A (Continuous) ● 15 V/3 A (Continuous) ; ● 9 V/3 A (Continuous) ● 9 V/3 A (Continuous) ; ● 5 V/3 A (Continuous) ● 5 V/3 A (Continuous) ; Rated output voltage 19.5 VDC ● 20 VDC ● 20 VDC ; ● 15 VDC ● 15 VDC ; ● 9 VDC ● 9 VDC ; ● 5 VDC ● 5 VDC ; Description Option one Option two Option three ; Operating 0°C to 40°C (32°F to 104°F) 0°C to 40°C (32°F to 0°C to 40°C (32°F to 104°F) ; 104°F) ; Storage -40°C to 70°C (-40°F to -40°C to 70°C (-40°F to -40°C to 70°C (-40°F to ; 158°F) 158°F) 158°F)",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Battery specifications",
+      "value": "Description Option one Option two Option three Option four ; Battery type 3-cell, 45 Wh, 3-cell, 45 Wh, 3-cell, 55 Wh, 3-cell, 55 ; ExpressCharge 1.0, ExpressCharge 1.0, ExpressCharge 1.0, Wh, ExpressCharge ; ExpressCharge Boost ExpressCharge Boost, ExpressCharge Boost 1.0, ExpressCharge ; Long Life Cycle Capable Boost, Long Life ; Cycle ; Battery voltage 11.25 VDC 11.25 VDC 11.70 VDC 11.70 VDC ; Battery weight 0.20 kg (0.44 lb) 0.20 kg (0.44 lb) 0.21 kg (0.48 lb) 0.21 kg (0.48 lb) ; Height 6.30 mm (0.25 in.) 6.30 mm (0.25 in.) 6.30 mm (0.25 in.) 6.30 mm (0.25 in.) ; Width 255.05 mm (10.04 in.) 255.05 mm (10.04 in.) 255.05 mm (10.04 255.05 mm (10.04 ; in.) in.) ; Depth 73.00 mm (2.87 in.) 73.00 mm (2.87 in.) 73.00 mm (2.87 in.) 73.00 mm (2.87 in.) ; Operating ● Charge: 0°C to ● Charge: 0°C to 45°C ● Charge: 0°C to ● Charge: 0°C to ; 45°C (32°F to (32°F to 113°F) 45°C (32°F to 45°C (32°F to ; 113°F) ● Discharge: 0°C to 113°F) 113°F) ; 70°C (32°F to 158°F) ; Description Option one Option two Option three Option four ; ● Discharge: 0°C to ● Discharge: 0°C ● Discharge: 0°C ; 70°C (32°F to to 70°C (32°F to to 70°C (32°F to ; 158°F) 158°F) 158°F) ; Storage -20°C to 60°C (-4°F -20°C to 60°C (-4°F to -20°C to 60°C -20°C to 60°C ; to 140°F) 140°F) (-4°F to 140°F) (-4°F to 140°F) ; Battery operating time Varies depending on Varies depending on Varies depending Varies depending ; operating conditions operating conditions and on operating on operating ; and can significantly can significantly reduce conditions and can conditions and can ; reduce under under certain power- significantly reduce significantly reduce ; certain power-intensive intensive conditions. under certain power- under certain power- ; conditions. intensive conditions. intensive conditions. ; Battery charging time ● 0°C to 15°C—4 ● 0°C to 15°C—4 hours ● 0°C to 15°C—4 ● 0°C to 15°C—4 ; (approximate) hours (when the (when the computer is hours (when the hours (when the ; the charging time, ● 16°C to 45°C—2 ● 16°C to 45°C—2 ● 16°C to 45°C—2 ● 16°C to 45°C—2 ; duration, start and hours (when the hours (when the hours (when the hours (when the ; end time, and so on computer is off) computer is off) computer is off) computer is off) ; using the Dell Power ● 46°C to 50°C— ● 46°C to 50°C— ● 46°C to 50°C— ● 46°C to 50°C— ; Manager application. 3 hours(when the 3 hours(when the 3 hours(when the 3 hours(when the ; Coin-cell battery Not supported Not supported Not supported Not supported",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Display specifications",
+      "value": "Description Option one Option two ; Display type 16-inch, Full High Definition Plus (FHD+) 16-inch, Full High Definition Plus (FHD+) ; Touch options Non-Touch Touch ; Display-panel technology In-Plane Switching (IPS) In-Plane Switching (IPS) ; Height 215.42 mm (8.48 in.) 215.42 mm (8.48 in.) ; Width 344.68 mm (13.57 in.) 344.68 mm (13.57 in.) ; Diagonal 406.46 mm (16.00 in.) 406.46 mm (16.00 in.) ; Display-panel native resolution 1920 x 1200 1920 x 1200 ; Luminance (typical) 300 nits 300 nits ; Megapixels 2.30 2.30 ; Color gamut 45% NTSC (typical) 45% NTSC (typical) ; Pixels Per Inch (PPI) 141 141 ; Description Option one Option two ; Contrast ratio (minimum) ● 800:1 (minimum) ● 800:1 (minimum) ; ● 1000:1 (typical) ● 1000:1 (typical) ; Response time (maximum) 35 milliseconds 35 milliseconds ; Refresh rate 60 Hz 60 Hz ; Horizontal view angle ● +/- 80 degrees (minimum) ● +/- 80 degrees (minimum) ; ● +/- 85 degrees (typical) ● +/- 85 degrees (typical) ; Vertical view angle ● +/- 80 degrees (minimum) ● +/- 80 degrees (minimum) ; ● +/- 85 degrees (typical) ● +/- 85 degrees (typical) ; Pixel pitch 0.1795 mm 0.1795 mm ; Power consumption (maximum) 4.40 W 5.60 W ; Anti-glare vs glossy finish Anti-glare Anti-glare",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Fingerprint reader specifications",
+      "value": "Description Values ; Sensor technology Capacitive ; Sensor resolution 500 dpi ; Sensor pixel size 108 mm x 88 mm",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "GPU—Integrated",
+      "value": "Controller Memory size Processor ; AMD Radeon 740M Graphics Shared system memory ● AMD Ryzen 3 210 ; ● AMD Ryzen 3 PRO 210 ; Controller Memory size Processor ; ● AMD Ryzen 5 220 ; ● AMD Ryzen 5 PRO 215 ; ● AMD Ryzen 5 PRO 220 ; AMD Radeon 760M Graphics Shared system memory ● AMD Ryzen 5 PRO 230 ; AMD Radeon 780M Graphics Shared system memory ● AMD Ryzen 7 PRO 250 ; AMD Radeon 840M Graphics Shared system memory ● AMD Ryzen AI 5 PRO 340 ; AMD Radeon 860M Graphics Shared system memory ● AMD Ryzen AI 7 350 ; ● AMD Ryzen AI 7 PRO 350",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Multiple display support matrix",
+      "value": "Graphics Card Direct Graphics Controller Supported external Supported external ; Direct Output Mode displays with computer displays with computer ; internal display on internal display off ; AMD Radeon 740M Graphics Integrated 3 4 ; AMD Radeon 760M Graphics Integrated 3 4 ; AMD Radeon 840M Graphics Integrated 3 4 ; AMD Radeon 860M Graphics Integrated 3 4",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Computer environment",
+      "value": "Description Operating Storage ; Temperature range 0°C to 40°C (32 °F to 104°F) -40°C to 65°C (-40°F to 149°F) ; Relative humidity (maximum) 90% (non-condensing) 95% (non-condensing) ; Vibration (maximum) * 0.66 GRMS Not applicable ; Shock (maximum) 140 G† Not applicable ; Altitude range -15.2 m to 3048 m (-49.87 ft to 10,000 -15.2 m to 10,668 m (-49.87 ft to 35,000 ; ft) ft)",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Regulatory Model",
+      "value": "P134F",
+      "unit": "",
+      "condition": "Official manual cover identity for this platform. Regulatory identifier is not an exact configured SKU."
+    },
+    {
+      "label": "Regulatory Type",
+      "value": "P134F003",
+      "unit": "",
+      "condition": "Official manual cover identity for this platform. Regulatory identifier is not an exact configured SKU."
+    }
+  ],
+  "missing_fields": [
+    "Exact Tele2 platform code/retail SKU",
+    "Latvia MPN/GTIN",
+    "Selected processor/RAM/storage/display/battery",
+    "Regional keyboard/adapter/warranty"
+  ],
+  "source_pages": [
+    {
+      "url": "https://dl.dell.com/content/manual33305221-dell-pro-16-pc16255-owner-s-manual.pdf?language=en-us",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP 200 PDF fetch and pdftotext -layout",
+      "http_status": 200,
+      "content_title": "Dell Pro 16 PC16255 Owner's Manual",
+      "notes": "Official PDF specification chapter read, structured table extraction retained. Repair instructions and playback assertions excluded."
+    }
+  ],
+  "research_lane": "computers"
+}

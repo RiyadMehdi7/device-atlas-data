@@ -1,0 +1,333 @@
+{
+  "id": "logitech-signature-slim-keyboard-k950",
+  "brand": "Logitech",
+  "model": "Signature Slim Keyboard K950",
+  "model_family": "Signature Slim Keyboard K950",
+  "category": "Accessories",
+  "scope": "Manufacturer EU/UK/global model reference; regional SKU/package and Latvia availability require matching.",
+  "identifiers": [
+    "920-012463",
+    "920-012453",
+    "920-012465",
+    "920-012451",
+    "920-012449",
+    "920-012459",
+    "920-012457",
+    "920-012455",
+    "920-012464",
+    "920-012454",
+    "920-012466",
+    "920-012452",
+    "920-012450"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Logitech Signature Slim Keyboard K950 technical specifications",
+  "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "System Requirements / Logi Bolt USB Receiver / Required: Available USB-A Port",
+      "value": "Listed requirement",
+      "unit": "",
+      "condition": "Manufacturer UK model reference; options not instantiated into SKU combinations.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Logi Bolt USB Receiver / Windows",
+      "value": "['10', ' 11'] or later [Customize device by installing the Logi Options+ App available for recent versions of Windows and macOS at logi.com/optionsplus]",
+      "unit": "",
+      "condition": "Manufacturer UK model reference; options not instantiated into SKU combinations.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Logi Bolt USB Receiver / macOS",
+      "value": "11 or later [Customize device by installing the Logi Options+ App available for recent versions of Windows and macOS at logi.com/optionsplus]",
+      "unit": "",
+      "condition": "Manufacturer UK model reference; options not instantiated into SKU combinations.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Logi Bolt USB Receiver / ChromeOS",
+      "value": "Listed requirement [Logi Options+ App is currently not supported for Chrome OS, Linux , ipadOS, iOS and Android. The device’s basic functions will work without it.\nMouse not supported by iOS.]",
+      "unit": "",
+      "condition": "Manufacturer UK model reference; options not instantiated into SKU combinations.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Logi Bolt USB Receiver / Linux",
+      "value": "Listed requirement [Logi Options+ App is currently not supported for Chrome OS, Linux , ipadOS, iOS and Android. The device’s basic functions will work without it.\nMouse not supported by iOS.]",
+      "unit": "",
+      "condition": "Manufacturer UK model reference; options not instantiated into SKU combinations.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Bluetooth Low Energy / Required: Bluetooth Low Energy wireless technology",
+      "value": "Listed requirement",
+      "unit": "",
+      "condition": "Manufacturer UK model reference; options not instantiated into SKU combinations.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Bluetooth Low Energy / Windows",
+      "value": "['10', ' 11'] or later [Customize device by installing the Logi Options+ App available for recent versions of Windows and macOS at logi.com/optionsplus]",
+      "unit": "",
+      "condition": "Manufacturer UK model reference; options not instantiated into SKU combinations.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Bluetooth Low Energy / macOS",
+      "value": "11 or later [Customize device by installing the Logi Options+ App available for recent versions of Windows and macOS at logi.com/optionsplus]",
+      "unit": "",
+      "condition": "Manufacturer UK model reference; options not instantiated into SKU combinations.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Bluetooth Low Energy / ChromeOS",
+      "value": "Listed requirement [Logi Options+ App is currently not supported for Chrome OS, Linux , ipadOS, iOS and Android. The device’s basic functions will work without it.\nMouse not supported by iOS.]",
+      "unit": "",
+      "condition": "Manufacturer UK model reference; options not instantiated into SKU combinations.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Bluetooth Low Energy / Linux",
+      "value": "Listed requirement [Logi Options+ App is currently not supported for Chrome OS, Linux , ipadOS, iOS and Android. The device’s basic functions will work without it.\nMouse not supported by iOS.]",
+      "unit": "",
+      "condition": "Manufacturer UK model reference; options not instantiated into SKU combinations.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Bluetooth Low Energy / iPadOS",
+      "value": "14 or later [Logi Options+ App is currently not supported for Chrome OS, Linux , ipadOS, iOS and Android. The device’s basic functions will work without it.\nMouse not supported by iOS.]",
+      "unit": "",
+      "condition": "Manufacturer UK model reference; options not instantiated into SKU combinations.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Bluetooth Low Energy / iOS",
+      "value": "14 or later [Logi Options+ App is currently not supported for Chrome OS, Linux , ipadOS, iOS and Android. The device’s basic functions will work without it.\nMouse not supported by iOS.]",
+      "unit": "",
+      "condition": "Manufacturer UK model reference; options not instantiated into SKU combinations.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System Requirements / Bluetooth Low Energy / Android",
+      "value": "9.0 or later [Logi Options+ App is currently not supported for Chrome OS, Linux , ipadOS, iOS and Android. The device’s basic functions will work without it.\nMouse not supported by iOS.]",
+      "unit": "",
+      "condition": "Manufacturer UK model reference; options not instantiated into SKU combinations.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Technical Specifications / Battery Keyboard / Battery type",
+      "value": "Non-rechargeable, Alkaline",
+      "unit": "",
+      "condition": "Manufacturer UK model reference; options not instantiated into SKU combinations.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Technical Specifications / Battery Keyboard / Number of Batteries",
+      "value": "2xAAA (included)",
+      "unit": "",
+      "condition": "Manufacturer UK model reference; options not instantiated into SKU combinations.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Technical Specifications / Battery Keyboard / Battery life",
+      "value": "36 months [Battery life may vary based on user and computing conditions.]",
+      "unit": "",
+      "condition": "Manufacturer UK model reference; options not instantiated into SKU combinations.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Technical Specifications / Keyboard (additional specs) / Additional specs / listed feature: Full-size layout with number pad",
+      "value": "Full-size layout with number pad",
+      "unit": "",
+      "condition": "Manufacturer UK model reference; options not instantiated into SKU combinations.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Technical Specifications / Keyboard (additional specs) / Additional specs / listed feature: Tilt legs (for 8 degree typing angle)",
+      "value": "Tilt legs (for 8 degree typing angle)",
+      "unit": "",
+      "condition": "Manufacturer UK model reference; options not instantiated into SKU combinations.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Technical Specifications / Keyboard (additional specs) / Additional specs / listed feature: On/Off power switch",
+      "value": "On/Off power switch",
+      "unit": "",
+      "condition": "Manufacturer UK model reference; options not instantiated into SKU combinations.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Technical Specifications / Keyboard (additional specs) / Additional specs / listed feature: Caps Lock, Battery and Easy-Switch keys indicator lights",
+      "value": "Caps Lock, Battery and Easy-Switch keys indicator lights",
+      "unit": "",
+      "condition": "Manufacturer UK model reference; options not instantiated into SKU combinations.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Technical Specifications / Keyboard (additional specs) / Additional specs / listed feature: Multi OS printed layout (Windows/Mac/Chrome)",
+      "value": "Multi OS printed layout (Windows/Mac/Chrome)",
+      "unit": "",
+      "condition": "Manufacturer UK model reference; options not instantiated into SKU combinations.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Technical Specifications / Keyboard (additional specs) / Additional specs / listed feature: Easy-Switch Keys (connect up to 3 multi-OS devices)",
+      "value": "Easy-Switch Keys (connect up to 3 multi-OS devices)",
+      "unit": "",
+      "condition": "Manufacturer UK model reference; options not instantiated into SKU combinations.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Technical Specifications / Keyboard (additional specs) / Additional specs / listed feature: Compatible with Logitech Flow technology enabled mouse",
+      "value": "Compatible with Logitech Flow technology enabled mouse [Logi Options+ needs to be installed and all your computers connected to the same network.\nCustomize device by installing the Logi Options+ App available for recent versions of Windows and macOS at logi.com/optionsplus\nLogi Options+ App is currently not supported for Chrome OS, Linux , ipadOS, iOS and Android. The device’s basic functions will work without it.\nMouse not supported by iOS]",
+      "unit": "",
+      "condition": "Manufacturer UK model reference; options not instantiated into SKU combinations.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Technical Specifications / Connection type support / listed feature: Logi Bolt USB receiver (included)",
+      "value": "Logi Bolt USB receiver (included)",
+      "unit": "",
+      "condition": "Manufacturer UK model reference; options not instantiated into SKU combinations.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Technical Specifications / Connection type support / listed feature: Bluetooth Low Energy Technology (Bluetooth 5.1)",
+      "value": "Bluetooth Low Energy Technology (Bluetooth 5.1)",
+      "unit": "",
+      "condition": "Manufacturer UK model reference; options not instantiated into SKU combinations.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Technical Specifications / Wireless range / listed feature: Wireless range: 10 m",
+      "value": "Wireless range: 10 m [Wireless range may vary based on user, environmental, and computing conditions.]",
+      "unit": "",
+      "condition": "Manufacturer UK model reference; options not instantiated into SKU combinations.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Technical Specifications / Requirements / listed feature: Internet connection required to download optional customization app Logi Options+",
+      "value": "Internet connection required to download optional customization app Logi Options+ [Customize device by installing the Logi Options+ App available for recent versions of Windows and macOS at logi.com/optionsplus\nLogi Options+ App is currently not supported for Chrome OS, Linux , ipadOS, iOS and Android. The device’s basic functions will work without it.]",
+      "unit": "",
+      "condition": "Manufacturer UK model reference; options not instantiated into SKU combinations.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Technical Specifications / Requirements / listed feature: Bluetooth Low Energy enabled device with keyboard and mouse support",
+      "value": "Bluetooth Low Energy enabled device with keyboard and mouse support",
+      "unit": "",
+      "condition": "Manufacturer UK model reference; options not instantiated into SKU combinations.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Technical Specifications / Customization app / listed feature: Supported by Logi Options+ on Windows and macOS",
+      "value": "Supported by Logi Options+ on Windows and macOS [Customize device by installing the Logi Options+ App available for recent versions of Windows and macOS at logi.com/optionsplus\nLogi Options+ App is currently not supported for Chrome OS, Linux , ipadOS, iOS and Android. The device’s basic functions will work without it.]",
+      "unit": "",
+      "condition": "Manufacturer UK model reference; options not instantiated into SKU combinations.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Keyboard (with battery) / Height",
+      "value": "134.8 mm",
+      "unit": "",
+      "condition": "Manufacturer UK model reference; options not instantiated into SKU combinations.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Keyboard (with battery) / Width",
+      "value": "433.8 mm",
+      "unit": "",
+      "condition": "Manufacturer UK model reference; options not instantiated into SKU combinations.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Keyboard (with battery) / Depth",
+      "value": "23.1 mm",
+      "unit": "",
+      "condition": "Manufacturer UK model reference; options not instantiated into SKU combinations.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Keyboard (with battery) / Weight",
+      "value": "685 g",
+      "unit": "",
+      "condition": "Manufacturer UK model reference; options not instantiated into SKU combinations.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / Keyboard (without battery- without receiver) / Weight",
+      "value": "662.6 g",
+      "unit": "",
+      "condition": "Manufacturer UK model reference; options not instantiated into SKU combinations.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Manufacturer warranty",
+      "value": "2-Year Limited Hardware Warranty",
+      "unit": "",
+      "condition": "Manufacturer UK model reference; options not instantiated into SKU combinations.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "UK package contents",
+      "value": "1x USB Bolt receiver (outside the device - in the kbd tray); 1 x keyboard with 2 x AAA batteries (pre-installed); 1 x IID (4’’x4’’); 1 QSG printed on the keyboard tray",
+      "unit": "",
+      "condition": "Manufacturer UK model reference; options not instantiated into SKU combinations.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia MPN/GTIN",
+    "Latvia retail package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.logitech.com/en-gb/shop/p/signature-slim-k950-keyboard",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Official source technical content read; factual extraction retained"
+    }
+  ],
+  "research_lane": "accessories"
+}

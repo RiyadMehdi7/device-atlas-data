@@ -1,0 +1,428 @@
+{
+  "id": "philips-27m2c5501-00",
+  "brand": "Philips",
+  "model": "27M2C5501/00",
+  "category": "Monitors",
+  "scope": "Exact European Philips Evnia 27M2C5501/00 manufacturer reference; Tele2 physical EAN and suffix need reconciliation.",
+  "identifiers": [
+    "27M2C5501/00"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "27M2C5501/00",
+  "source_url": "https://www.evnia.philips/ie/monitors/27m2c5501_00",
+  "tele2_url": "https://www.tele2.lv/monitori/philips-27m2c550100-27inch-qhd/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Colour",
+      "value": "White",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Finish",
+      "value": "Textured",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Regulatory Approvals",
+      "value": "CB; CE Mark; TUV/ISO9241-307; TUV-BAUART; EAC; EAEU RoHS; UKCA; EMF; FCC; ICES-003",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Sync input",
+      "value": "Separate Sync",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Audio (In/Out)",
+      "value": "Earphone out",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "HDCP",
+      "value": "HDCP 1.4 (HDMI/DisplayPort), HDCP 2.2 (HDMI/DisplayPort)",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Signal input",
+      "value": "HDMI 2.0 x 2, DisplayPort 1.4 x 1",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "User convenience",
+      "value": "Power On/Off; Menu/OK; Input/Up; Game Settings/Down; SmartImage game/Back",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "OSD languages",
+      "value": "Brazil Portuguese; Czech; Dutch; English; Finnish; French; German; Greek; Hungarian; Italian; Japanese; Korean; Polish; Portuguese; Russian; Spanish; Simplified Chinese; Swedish; Turkish; Traditional Chinese; Ukrainian",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Other convenience",
+      "value": "Kensington lock; VESA mount (100 x 100 mm); LowBlue Mode",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Plug and Play Compatibility",
+      "value": "DDC/CI; Mac OS; sRGB; Windows 11/10",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Product with stand (max height)",
+      "value": "611 x 528 x 247 mm",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Product without stand (mm)",
+      "value": "611 x 369 x 90 mm",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Packaging in mm ( W x H x D)",
+      "value": "785 x 480 x 188 mm",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Temperature range (operation)",
+      "value": "0°C to 40 °C",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Temperature range (storage)",
+      "value": "-20°C to 60 °C",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Relative humidity",
+      "value": "20%-80 %",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Altitude",
+      "value": "Operation: +12,000 ft (3658 m), Non-operation: +40,000 ft (12,192 m)",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "MTBF",
+      "value": "50,000 (Excluded backlight)",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "LCD Panel type",
+      "value": "Fast VA",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Backlight type",
+      "value": "W-LED system",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Panel Size",
+      "value": "27 inch/68.5 cm",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Effective viewing area",
+      "value": "596.736 (H) x 335.664 (V) mm at a 1500 R curvature*",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Display Screen coating",
+      "value": "Anti-glare, 25%, 3H",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Aspect Ratio",
+      "value": "16:9",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Response time (typical)",
+      "value": "1 ms (Grey to Grey)*",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Brightness",
+      "value": "300 cd/m²",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Contrast ratio (typical)",
+      "value": "5000:1",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Pixel Pitch",
+      "value": "0.2331 x 0.2331 mm",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Viewing Angle",
+      "value": "178º (H)/178º (V); @ C/R > 10",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Display colours",
+      "value": "16.7 M",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Scanning Frequency",
+      "value": "HDMI: 30–230 kHz (H)/48–144 Hz (V), DP: 30–270 kHz (H)/48–180 Hz (V)",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "sRGB",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Picture enhancement",
+      "value": "SmartImage game",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Pixel Density",
+      "value": "108.79 PPI",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Flicker-free",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "LowBlue Mode",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "EasyRead",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "SmartUniformity",
+      "value": "93 ~ 105%",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "AMD FreeSync™ technology",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Delta E",
+      "value": "< 2 (sRGB)",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Maximum Resolution",
+      "value": "HDMI: 2560 x 1440 @ 144 Hz, DP: 2560 x 1440 @ 180 Hz",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Low Input Lag",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Smart MBR",
+      "value": "0.5 ms*",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Shadow Boost",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Smart Crosshair",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "SmartContrast",
+      "value": "Mega Infinity DCR",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Colour Gamut (typical)",
+      "value": "Adobe RGB 89%; DCI-P3:93%, sRGB: 124%,NTSC 110%.*",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "HDR",
+      "value": "HDR 10 supported",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "On mode",
+      "value": "24.7 W (typ.)",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Standy mode",
+      "value": "0.5 W (typ.)",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Off mode",
+      "value": "0.3 W (typ.)",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Power LED indicator",
+      "value": "Operation - White; Standby mode - White (flashing)",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Power supply",
+      "value": "Internal; 100–240 VAC, 50–60 Hz",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Energy label class",
+      "value": "F",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Environmental and energy",
+      "value": "RoHS",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Recyclable packaging material",
+      "value": "100 %",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Height adjustment",
+      "value": "130 mm",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Tilt",
+      "value": "-5/20 degree",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Swivel",
+      "value": "-/+ 30 degree",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Product with stand (kg)",
+      "value": "6.06 kg",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Product without stand (kg)",
+      "value": "4.22 kg",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Product with packaging (kg)",
+      "value": "9.16 kg",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Monitor with stand",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "Cables",
+      "value": "HDMI cable, DisplayPort cable, Power cable",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    },
+    {
+      "label": "User documentation",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact Philips Evnia /00 model manufacturer Irish reference; source input, typical/max, stand and test conditions retained"
+    }
+  ],
+  "missing_fields": [
+    "Latvia EAN / suffix reconciliation",
+    "Official user manual timing limits"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.evnia.philips/ie/monitors/27m2c5501_00",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "HTTP 200; exact-model technical specification block read"
+    }
+  ],
+  "research_lane": "monitors"
+}

@@ -1,0 +1,126 @@
+{
+  "id": "xiaomi-smart-band-9",
+  "brand": "Xiaomi",
+  "model": "Smart Band 9",
+  "category": "Smartwatches",
+  "scope": "Global manufacturer model-family reference. Strap/colour alternatives do not form separate products. Any NFC, LTE, ceramic or regional subvariants described remain conditional; exact Latvia SKU unresolved.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Xiaomi Smart Band 9 specifications",
+  "source_url": "https://www.mi.com/global/product/xiaomi-smart-band-9/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "46.53 x 21.63 x 10.95 mm",
+      "value": "15.8g (without strap)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Band Strap",
+      "value": "135–210 mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Band Strap",
+      "value": "TPU",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Band Strap",
+      "value": "Midnight Black | Glacier Silver | Mystic Rose | Arctic Blue | Titan Gray",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Display",
+      "value": "1.62-inch AMOLED Touch Display",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Display",
+      "value": "192 x 490 pixels",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Display",
+      "value": "Up to 1200 nits, adjustable",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Battery",
+      "value": "Magnetic charging",
+      "unit": "",
+      "condition": "Manufacturer specification; battery values are laboratory claims, actual use varies"
+    },
+    {
+      "label": "Battery",
+      "value": "Approx. 1 hour",
+      "unit": "",
+      "condition": "Manufacturer specification; battery values are laboratory claims, actual use varies"
+    },
+    {
+      "label": "Battery",
+      "value": "Up to 21 days",
+      "unit": "",
+      "condition": "Manufacturer specification; battery values are laboratory claims, actual use varies"
+    },
+    {
+      "label": "Battery",
+      "value": "233mAh",
+      "unit": "",
+      "condition": "Manufacturer specification; battery values are laboratory claims, actual use varies"
+    },
+    {
+      "label": "Sensors",
+      "value": "Accelerometer sensor / Gyroscope sensor / Optical heart rate sensor / Ambient light sensor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Specifications",
+      "value": "5ATM water resistant",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "App",
+      "value": "Mi Fitness",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Motor",
+      "value": "Linear motor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Compatibility",
+      "value": "Supports smartphones with Android 8.0 or iOS 12.0 and above",
+      "unit": "",
+      "condition": ""
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU / GTIN matching",
+    "Regional app and payment availability"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/xiaomi-smart-band-9/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Manufacturer technical specification content parsed; extracted factual fields only"
+    }
+  ],
+  "research_lane": "wearables"
+}

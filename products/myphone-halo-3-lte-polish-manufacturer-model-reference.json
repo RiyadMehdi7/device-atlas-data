@@ -1,0 +1,458 @@
+{
+  "id": "myphone-halo-3-lte-polish-manufacturer-model-reference",
+  "brand": "MyPhone",
+  "model": "Halo 3 LTE",
+  "category": "Phones",
+  "scope": "Polish manufacturer model reference; Tele2 exact product SKU needs matching",
+  "identifiers": [
+    "TEL000851"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "TELEFON myPhone Halo 3 LTE",
+  "source_url": "https://myphone.pl/en/shop/tel000851-phone-myphone-halo-3-lte-32358",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Chipset :",
+      "value": "T107",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Screen size [\"] :",
+      "value": "2,31",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "RAM :",
+      "value": "48 MB",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Internal memory :",
+      "value": "128 MB",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Battery capacity [mAh] :",
+      "value": "1400",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Main camera [Mpx] :",
+      "value": "0,3",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "CPU manufacturer",
+      "value": "Unisoc",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Chipset",
+      "value": "T107",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "3.5 mm headphone jack",
+      "value": "yes",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Bluetooth",
+      "value": "2,1",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "USB",
+      "value": "Type-C",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Operating system version",
+      "value": "Other",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Supported languages",
+      "value": "PL, EN, CZ, SK, HU",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Screen size [\"]",
+      "value": "2,31",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Display technology",
+      "value": "IPS",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Number of colors",
+      "value": "256K colors",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Display resolution [px]",
+      "value": "320 x 240",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Notification LED",
+      "value": "no",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "SAR value for limbs [W/kg]",
+      "value": "3,735",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "SAR value for body [W/kg]",
+      "value": "1,692",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "SAR value for head [W/kg]",
+      "value": "0,431",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Colour",
+      "value": "Black",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Product weight with accessories [g]",
+      "value": "92",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Dimensions [mm]",
+      "value": "123 x 57,5 x 13,3",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Battery weight [g]",
+      "value": "30,80",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Device weight with packaging [g]",
+      "value": "264",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Package dimensions [mm]",
+      "value": "136 x 93 x 60",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "RAM",
+      "value": "48 MB",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Internal memory",
+      "value": "128 MB",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Type of memory card",
+      "value": "microSD",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Max SD card [GB]",
+      "value": "64",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Phone book memory",
+      "value": "300",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Battery capacity [mAh]",
+      "value": "1400",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Removable battery",
+      "value": "yes",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Battery type",
+      "value": "Li-Ion",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Max standby time [h]",
+      "value": "336",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Max talk time [h]",
+      "value": "6",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Charging power range",
+      "value": "1,5 - 5",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Main camera [Mpx]",
+      "value": "0,3",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Rear camera video resolution [px]",
+      "value": "320 x 240",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Flash",
+      "value": "no",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Network type",
+      "value": "2G, 3G, 4G",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "VoLTE",
+      "value": "yes",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "2G [MHz]",
+      "value": "850/900/1800/1900",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "3G [MHz]",
+      "value": "900/2100",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "4G LTE [MHz]",
+      "value": "800/900/1800/2100/2600",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "VoWiFi",
+      "value": "no",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "GPS module",
+      "value": "No",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Separate MicroSD slot",
+      "value": "yes",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "DualSIM",
+      "value": "yes",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "DualSIM mode",
+      "value": "Standby",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "SIM 1 size",
+      "value": "Nano",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "SIM 2 size",
+      "value": "Nano",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "MMS",
+      "value": "yes",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "HotSpot",
+      "value": "no",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Lanyard holder",
+      "value": "yes",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Docking station",
+      "value": "yes",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Large keys",
+      "value": "yes",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "SOS button",
+      "value": "yes",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Torch",
+      "value": "yes",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Vibration",
+      "value": "yes",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Speakerphone mode",
+      "value": "yes",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Clock",
+      "value": "yes",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Alarm clock",
+      "value": "yes",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Calculator",
+      "value": "yes",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Calendar",
+      "value": "yes",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "FM radio",
+      "value": "yes",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Backlit keys",
+      "value": "yes",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Voice recorder",
+      "value": "yes",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Additional features",
+      "value": "Powerful LED flashlight",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    },
+    {
+      "label": "Package contents",
+      "value": "Phone , user manual , USB C cable , battery , cradle",
+      "unit": "",
+      "condition": "Polish manufacturer product reference; standby/talk maxima depend on network/use."
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU / model code and GTIN matching",
+    "Colour-specific packaging and regional accessories"
+  ],
+  "source_pages": [
+    {
+      "url": "https://myphone.pl/en/shop/tel000851-phone-myphone-halo-3-lte-32358",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible manufacturer specification content parsed; model-reference scope, not an exact retailer SKU."
+    }
+  ],
+  "research_lane": "phones"
+}

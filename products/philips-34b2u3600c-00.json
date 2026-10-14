@@ -1,0 +1,351 @@
+{
+  "id": "philips-34b2u3600c-00",
+  "brand": "Philips",
+  "model": "34B2U3600C/00",
+  "category": "Monitors",
+  "scope": "Exact /00 European model in manufacturer specification leaflet; leaflet issue date 2026. Specification is a dated manufacturer reference; Tele2 EAN reconciliation remains unresolved.",
+  "identifiers": [
+    "34B2U3600C/00",
+    "87 21038 00240 9"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Philips 34B2U3600C/00 official product specification leaflet",
+  "source_url": "https://www.documents.philips.com/assets/20250117/10cc0c46438f437f937eb26801136783.pdf",
+  "tele2_url": "https://www.tele2.lv/monitori/philips-34b2u3600c00/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Picture/Display — Panel Size",
+      "value": "34 inch/86.36 cm",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Picture/Display — Aspect ratio",
+      "value": "21:9",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Picture/Display — LCD panel type",
+      "value": "VA LCD",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Picture/Display — Backlight type",
+      "value": "W-LED system",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Picture/Display — Pixel pitch",
+      "value": "0.23175 x 0.23175 mm",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Picture/Display — Optimum resolution",
+      "value": "3440 x 1440 @ 60 Hz",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Picture/Display — Brightness",
+      "value": "300 cd/m²",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Picture/Display — Display colours",
+      "value": "1.07B (10 bits)",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Picture/Display — Colour gamut (typical)",
+      "value": "NTSC area:104%, sRGB area:120%*",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Picture/Display — Contrast ratio (typical)",
+      "value": "3500:1",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Picture/Display — SmartContrast",
+      "value": "50,000,000:1",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Picture/Display — Response time (typical)",
+      "value": "4 ms (Grey to Grey)*",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Picture/Display — Viewing angle",
+      "value": "178º (H)/178º (V), @ C/R > 10",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Picture/Display — Picture enhancement",
+      "value": "SmartImage",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Picture/Display — Maximum resolution",
+      "value": "3440 x 1440 @ 100 Hz (HDMI), 3440 x 1440 @ 120 Hz (DP/USBC)",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Picture/Display — Effective viewing area",
+      "value": "797.22 (H) x 333.72 (V) - at a 1500 R curvature*",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Picture/Display — Scanning Frequency",
+      "value": "HDMI:30K-160 KHz (H) /48 - 100 Hz (V), DP/USB-C:30-190 KHz (H )/ 48 - 120 Hz (V)",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Picture/Display — sRGB",
+      "value": "Listed by manufacturer",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Picture/Display — SoftBlue",
+      "value": "Listed by manufacturer",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Picture/Display — Flicker-free",
+      "value": "Listed by manufacturer",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Picture/Display — Pixel Density",
+      "value": "110 PPI",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Picture/Display — Display Screen Coating",
+      "value": "Anti-Glare, 3H, Haze 25%",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Picture/Display — EasyRead",
+      "value": "Listed by manufacturer",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Connectivity — Signal Input",
+      "value": "HDMI 2.0 x 1, DisplayPort 1.4 x 1, USB-C x 1 (upstream, DP Alt mode, data, PD)",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Connectivity — Sync Input",
+      "value": "Separate Sync, Sync on Green",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Connectivity — Audio (In/Out)",
+      "value": "Audio out x 1",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Connectivity — RJ45",
+      "value": "Ethernet LAN (USB 2.0:10M/100M;USB 3.0:1000M), PXE/MAPT/WOL*",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Connectivity — HDCP",
+      "value": "HDCP 1.4 (HDMI/DisplayPort/USB-C); HDCP 2.2 (HDMI/DisplayPort/USB-C) HBR3",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Connectivity — USB Hub",
+      "value": "USB3.2, Gen1, 5G, upstream:USB-",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Connectivity — C1(Full)/USB-B;downstream",
+      "value": "USB-A x 4 (with x 1 fast charge B.C 1.2)",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Power Delivery — Max power delivery",
+      "value": "Up to 90 W ,5 V/3 A, 7 V/3 A, 9 V/3 A, 10 V/3 A, 12 V/3 A, 15 V/3 A, 20 V/4.5 qA",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Power Delivery — Version",
+      "value": "USB PD version 3.0",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Convenience — Built-in Speakers",
+      "value": "5 W x 2",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Convenience — Plug and Play Compatibility",
+      "value": "DDC/CI, Mac OS, sRGB, Windows 11/10",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Convenience — User convenience",
+      "value": "SmartImage, Input, User, Menu, Power On/Off",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Convenience — OSD Languages",
+      "value": "Brazil Portuguese, Czech, Dutch, English, French, Finnish, German, Greek, Hungarian, Italian, Japanese, Korean, Portuguese, Polish, Russian, Simplified Chinese, Spanish, Swedish, Traditional Chinese, Turkish, Ukrainian",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Convenience — Other convenience",
+      "value": "Kensington lock, Earphone hook, VESA mount (100 x 100 mm)",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Convenience — Control software",
+      "value": "SmartControl",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Convenience — MultiView",
+      "value": "2 x devices, PIP/PBP mode",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Convenience — SmartKVM",
+      "value": "Yes (USB-C/USB-B)*",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Stand — Height adjustment",
+      "value": "180 mm",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Stand — Swivel",
+      "value": "-/+ 180 degree",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Stand — Tilt",
+      "value": "-5/30 degree",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Power — ECO mode",
+      "value": "20.2 W (typ.)",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Power — Power supply",
+      "value": "Built-in, 100–240 VAC, 50–60 Hz",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Power — Off mode",
+      "value": "Zero watts with AC switch",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Power — On mode",
+      "value": "28.19 W (typ.) (Energy Star test method)",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Power — Standby mode",
+      "value": "0.3 W (typ.)",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Power — Power LED indicator",
+      "value": "Operation - White, Standby mode - White (flashing)",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Power — Energy Label Class",
+      "value": "D",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Dimensions — Packaging in mm (W x H x D)",
+      "value": "930 x 525 x 188 mm",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Dimensions — Product without stand (mm)",
+      "value": "807 x 369 x 107 mm",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    },
+    {
+      "label": "Dimensions — Product with stand (max height)",
+      "value": "807 x 602 x 287 mm",
+      "unit": "",
+      "condition": "Exact /00 model datasheet; original typical/maximum, input, stand and test conditions retained. Star denotes manufacturer footnote."
+    }
+  ],
+  "missing_fields": [
+    "Latvia stocked unit EAN reconciliation",
+    "Manual input timing table where not in leaflet"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.documents.philips.com/assets/20250117/10cc0c46438f437f937eb26801136783.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch and pdftotext -raw",
+      "notes": "HTTP 200; PDF fetched; exact model 34B2U3600C/00 present"
+    }
+  ],
+  "research_lane": "monitors"
+}

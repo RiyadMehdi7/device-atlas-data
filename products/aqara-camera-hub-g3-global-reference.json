@@ -1,0 +1,133 @@
+{
+  "id": "aqara-camera-hub-g3-global-reference",
+  "brand": "Aqara",
+  "model": "Camera Hub G3",
+  "category": "Cameras",
+  "scope": "Official Aqara EU English manufacturer reference; exact Latvian SKU and hardware revision require matching. Specifications are EU store claims. Conflicting or suspect manufacturer-store fields withheld and listed below.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Aqara Camera Hub G3 official specifications",
+  "source_url": "https://eu.aqara.com/en-eu/products/aqara-2k-security-indoor-camera-hub-g3",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/aqara-smart-home-hub-g3/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Color",
+      "value": "White",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Input Power",
+      "value": "5V-2A",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Control Method",
+      "value": "Remote",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Wireless Protocols",
+      "value": "Zigbee 3.0 IEEE 802.15.4, Wi-Fi IEEE 802.11 b/g/n/a/ac 2.4/5 GHz, supports WPA3",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Compatible Platforms",
+      "value": "Aqara Apple Home Alexa Google Home IFTTT",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Video Capture Resolution",
+      "value": "1080p, 2K 2304×1296p",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Video Capture Format",
+      "value": "MPEG-4",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Local Storage",
+      "value": "MicroSD card (not included). CLASS 4 or above is supported, up to 128 GB storage.",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Field Of View",
+      "value": "360 Degrees",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Viewing Angle",
+      "value": "110°",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Pan/Tilt Angle",
+      "value": "\"Horizontal 340°, vertical 45° (upward 30°, downward 15°)\"",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Ports",
+      "value": "USB-C",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Item Net Weight",
+      "value": "‎0.55 pounds/250 g",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Operating Temperature",
+      "value": "-10°C —+40°C (14°F—104°F)",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Operating Humidity",
+      "value": "0~95% RH, no condensation",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "Product Dimensions",
+      "value": "4.86×3.35×2.67 in. （123.4×85.1×67.8 mm）",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    },
+    {
+      "label": "What's in the box",
+      "value": "Camera Hub G3 × 1, User Manual × 1, Power Adapter × 1, Power Cable × 1",
+      "unit": "",
+      "condition": "Manufacturer specification; applicability depends on stated model and hardware revision"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU/GTIN",
+    "Hardware revision and region-specific differences",
+    "Withheld source claims requiring manual reconciliation: Power Source=Corded Electric, Focus Type=Auto Focus, Low light technology=Night Color, International Protection Rating=IP65"
+  ],
+  "source_pages": [
+    {
+      "url": "https://eu.aqara.com/en-eu/products/aqara-2k-security-indoor-camera-hub-g3",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP fetch; HTML specification rows parsed",
+      "notes": "21 factual specification rows read; marketing paragraphs excluded"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

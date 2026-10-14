@@ -1,0 +1,129 @@
+{
+  "id": "sandberg-streamer-usb-webcam-pro-elite-manufacturer-reference",
+  "brand": "Sandberg",
+  "model": "Streamer USB Webcam Pro Elite",
+  "category": "Cameras",
+  "scope": "Exact manufacturer model/part reference as identified. UK/EMEA where labelled; global Sandberg/LogiLink/Lenovo references; Dell Japan technical guide. Exact Tele2 SKU, OEM package and revision require matching. Dimensions keep manufacturer orientation/clip scope.",
+  "identifiers": [
+    "134-39",
+    "5705730134395"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Sandberg Streamer USB Webcam Pro Elite official specifications",
+  "source_url": "https://files.sandberg.world/products/pdf/en/134-39en.pdf",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/sandberg-streamer-usb-webcam-pro-elite/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "USB interface",
+      "value": "USB 2.0",
+      "unit": ""
+    },
+    {
+      "label": "UVC",
+      "value": "Supported",
+      "unit": ""
+    },
+    {
+      "label": "Cable",
+      "value": "Fixed 2m USB-A male",
+      "unit": ""
+    },
+    {
+      "label": "Video resolutions",
+      "value": "2560×1440,1920×1080,1280×720,640×480",
+      "unit": ""
+    },
+    {
+      "label": "QHD frame rate",
+      "value": "2560×1440 at 30fps",
+      "unit": ""
+    },
+    {
+      "label": "Full HD frame rate",
+      "value": "1920×1080 at 60fps",
+      "unit": ""
+    },
+    {
+      "label": "Video formats",
+      "value": "H.264, H.265, JPEG, YUY2",
+      "unit": ""
+    },
+    {
+      "label": "Electronic PTZ",
+      "value": "Digital pan/tilt;5× zoom",
+      "unit": ""
+    },
+    {
+      "label": "Field of view",
+      "value": "76°",
+      "unit": ""
+    },
+    {
+      "label": "Privacy shutter",
+      "value": "Built-in",
+      "unit": ""
+    },
+    {
+      "label": "Autofocus",
+      "value": "On/off selectable",
+      "unit": ""
+    },
+    {
+      "label": "Ring light",
+      "value": "Built-in adjustable",
+      "unit": ""
+    },
+    {
+      "label": "Microphones",
+      "value": "Omnidirectional stereo;noise cancelling",
+      "unit": ""
+    },
+    {
+      "label": "Remote control",
+      "value": "Pan, tilt, zoom, mute, focus, light, flip, mirror",
+      "unit": ""
+    },
+    {
+      "label": "USB adapter",
+      "value": "USB-A female to USB-C male included",
+      "unit": ""
+    },
+    {
+      "label": "Product dimensions",
+      "value": "7.35 × 5.31 × 6.28cm, H×W×D",
+      "unit": ""
+    },
+    {
+      "label": "Product weight",
+      "value": "153g",
+      "unit": ""
+    },
+    {
+      "label": "Package dimensions",
+      "value": "11.5 × 12 × 5.5cm, H×W×D",
+      "unit": ""
+    },
+    {
+      "label": "Package weight",
+      "value": "262g",
+      "unit": ""
+    }
+  ],
+  "missing_fields": [
+    "Mic sensitivity/SNR malformed in manufacturer sheet; withheld",
+    "Exact Latvia hardware revision; product sheet v2.29",
+    "Exact Latvia GTIN/MPN and hardware revision"
+  ],
+  "source_pages": [
+    {
+      "url": "https://files.sandberg.world/products/pdf/en/134-39en.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "web open; official PDF read",
+      "notes": "Short technical facts only; no marketing prose or source images retained"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

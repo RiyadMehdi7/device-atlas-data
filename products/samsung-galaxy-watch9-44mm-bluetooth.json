@@ -1,0 +1,188 @@
+{
+  "id": "samsung-galaxy-watch9-44mm-bluetooth",
+  "brand": "Samsung",
+  "model": "Galaxy Watch9 44mm Bluetooth",
+  "category": "Smartwatches",
+  "scope": "Exact UK manufacturer connectivity/size SKU specification; colour used solely as source anchor. Latvia GTIN and regional services need matching.",
+  "identifiers": [
+    "L350NZKAEUB"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Samsung Galaxy Watch9 44mm Bluetooth specifications",
+  "source_url": "https://www.samsung.com/uk/watches/galaxy-watch/galaxy-watch9-44mm-graphite-bluetooth-sm-l350nzkaeub/",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/galaxy-watch-9-44mm-bt/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Size (Main Display)",
+      "value": "1.5\" (37.3mm)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Body Weight (g)",
+      "value": "34",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Bluetooth Version",
+      "value": "Bluetooth v6.0",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Accelerometer, Barometer, Bioelectrical Impedance Analysis Sensor, Electrical Heart Sensor, Gyro Sensor, Geomagnetic Sensor, Light Sensor, Optical Heart Rate Sensor, Temperature Sensor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Storage (GB)",
+      "value": "32",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "CPU Speed",
+      "value": "2.1GHz, 1.95GHz",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "NFC",
+      "value": "NFC",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Body Dimension (HxWxD, mm)",
+      "value": "46.0 x 43.7 x 8.6",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Infra",
+      "value": "Wi-Fi Only, Bluetooth Only",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Audio Playing Format",
+      "value": "MP3, M4A, 3GA, AAC, OGG, OGA, WAV, AMR, AWB",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Location Technology",
+      "value": "GPS, Glonass, Beidou, Galileo, QZSS",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Wi-Fi",
+      "value": "802.11a/b/g/n 2.4GHz+5GHz",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "NFC",
+      "value": "Yes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Bluetooth Profiles",
+      "value": "A2DP, AVRCP, HFP, HSP",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Technology (Main Display)",
+      "value": "Super AMOLED",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Resolution (Main Display)",
+      "value": "480 x 480",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Colour Depth (Main Display)",
+      "value": "16M",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "CPU Type",
+      "value": "Penta-Core",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Memory (GB)",
+      "value": "2",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Available Storage (GB)",
+      "value": "20.1",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Durability",
+      "value": "5 ATM",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Battery Capacity (mAh, Typical)",
+      "value": "445",
+      "unit": "",
+      "condition": "Manufacturer specification; battery values are laboratory claims, actual use varies"
+    },
+    {
+      "label": "Removable",
+      "value": "No",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Usage Time (Hours, AOD Off)",
+      "value": "Up to 40",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Usage Time (Hours, AOD On)",
+      "value": "Up to 30",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Security Update Period (Valid until)",
+      "value": "31 July 2031",
+      "unit": "",
+      "condition": ""
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU / GTIN matching",
+    "Regional app and payment availability"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.samsung.com/uk/watches/galaxy-watch/galaxy-watch9-44mm-graphite-bluetooth-sm-l350nzkaeub/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Manufacturer technical specification content parsed; extracted factual fields only"
+    }
+  ],
+  "research_lane": "wearables"
+}

@@ -1,0 +1,167 @@
+{
+  "id": "apple-magic-keyboard-with-touch-id-and-numeric-keypad-usb-c",
+  "brand": "Apple",
+  "model": "Magic Keyboard with Touch ID and Numeric Keypad (USB-C)",
+  "model_family": "Magic Keyboard with Touch ID and Numeric Keypad (USB-C)",
+  "category": "Accessories",
+  "scope": "Official UK manufacturer reference. Dimensions/features are for the namedgeneration. UKplug/part may differfromLatvia; exactretailerbarcode/MPNrequiresmatching.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Apple Magic Keyboard with Touch ID and Numeric Keypad (USB-C) technical specifications",
+  "source_url": "https://support.apple.com/en-gb/121953",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Height",
+      "value": "0.41–1.09 cm (0.16–0.43 inches)",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/121953",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Width",
+      "value": "41.87 cm (16.48 inches)",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/121953",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Depth",
+      "value": "11.49 cm (4.52 inches)",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/121953",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Weight",
+      "value": "0.369 kg (0.81 pounds)*",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/121953",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Biometrics",
+      "value": "Touch ID; Apple silicon Mac requirement",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/121953",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Charging connector",
+      "value": "USB-C",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/121953",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wireless transport",
+      "value": "Bluetooth",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/121953",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rechargeable battery",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/121953",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery life claim",
+      "value": "About one month ormore; pre-production lab automatedpairediMac test; settings/usagevary",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/121953",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Automatic Mac pairing",
+      "value": "Supported viaUSBC",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/121953",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Multimedia keys",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/121953",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "System requirement",
+      "value": "Apple siliconMac;macOS 15.1 orlater",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/121953",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "UK package contents",
+      "value": "Keyboard;USB-C Charging Cable",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/121953",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Numeric keypad",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/121953",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Arrow keys",
+      "value": "Full-size",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/121953",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Document navigation controls",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/121953",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Layout",
+      "value": "Extended",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/121953",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia MPN/GTIN",
+    "Latvia retail package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://support.apple.com/en-gb/121953",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Official source technical content read; factual extraction retained"
+    }
+  ],
+  "research_lane": "accessories"
+}

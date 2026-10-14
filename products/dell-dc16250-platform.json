@@ -1,0 +1,168 @@
+{
+  "id": "dell-dc16250-platform",
+  "brand": "Dell",
+  "model": "Dell 16 DC16250",
+  "category": "Laptops",
+  "scope": "Manufacturer global platform reference from official owner manual. No exact Tele2 model-code/SKU match established; CPU/memory/display/battery alternatives kept as table groups. European relevance candidate only, availability unverified.",
+  "identifiers": [
+    "DC16250"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Dell 16 DC16250 Owner's Manual",
+  "source_url": "https://dl.dell.com/content/manual20878058-dell-16-dc16250-owner-s-manual.pdf?language=en-us",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Dimensions and weight",
+      "value": "Description Values ; Front height 16.74 mm (0.65 in.) ; Rear height 18.23 mm (0.72 in.) ; Width 357.30 mm (14.06 in.) ; Depth 250.60 mm (9.86 in.) ; Weight ● Minimum: 1.88 kg (4.15 lb)",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Processor",
+      "value": "Description Option one Option two ; Processor type Intel Core 7 150U Intel Core 5 120U ; Processor wattage 15 W 15 W ; Processor total core count 10 10 ; Performance-cores 2 2 ; Efficient-cores 8 8 ; Processor total thread count 12 12 ; Processor speed 1.8 GHz to 5.4 GHz 1.4 GHz to 5 GHz ; Processor base frequency 1.8 GHz 1.4 GHz ; Maximum turbo frequency 5.4 GHz 5 GHz ; Description Option one Option two ; Processor base frequency 1.8 GHz 1.4 GHz ; Maximum turbo frequency 3.8 GHz 3.6 GHz ; Cool 10 W 10 W ; Optimized 15 W 15 W ; Quiet 10 W 10 W ; Ultra Performance 17 W 17 W ; Processor cache 12 MB 12 MB ; Integrated graphics Intel Graphics Intel Graphics",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Chipset",
+      "value": "Description Values ; Chipset Integrated ; Processor Intel Core 5/7 processors ; DRAM bus width Two channels, 64-bit ; Flash EPROM 32 MB ; PCIe bus Up to Gen4 ; ● Windows 11 Pro ; ● Windows 11 Pro National Education ; ● Windows 11 Home ; ● Windows 11 Home (S Mode) ; ● Ubuntu Linux 24.04 LTS, 64-bit",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Memory specifications",
+      "value": "Description Values ; Memory slots Two SODIMM slots ; Memory type DDR5 ; Memory speed 5200 MT/s ; Maximum memory configuration 32 GB ; Minimum memory configuration 8 GB ; Memory size per slot 8 GB or 16 GB ; Memory configurations supported ● 8 GB: 1 x 8 GB, DDR5, 5200 MT/s, single-channel ; ● 16 GB: 2 x 8 GB, DDR5, 5200 MT/s, dual-channel ; ● 24 GB: 1 x 16 GB + 1 x 8 GB, DDR5, 5200 MT/s, dual- ; channel ; ● 32 GB: 2 x 16 GB, DDR5, 5200 MT/s, dual-channel",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "External ports and slots",
+      "value": "Description Values ; USB ports ● Two USB 3.2 Gen 1 (5 Gbps) ports ; ● One USB 3.2 Gen 2 (10 Gbps) Type-C port with ; DisplayPort 1.4 and Power Delivery ; Audio port One Universal Audio port ; Video port(s) One HDMI 1.4 port ; port is 1920 x 1080 at 60 Hz. No 4K/2K output. ; Media-card reader Not supported ; Power-adapter port One 65 W DC-in adapter, 4.50 mm barrel, E4 ; Security-cable slot One wedge-shaped lock slot",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Internal slots",
+      "value": "Description Values ; M.2 ● One M.2 2230 slot for Wi-Fi and Bluetooth combo card ; ● One M.2 2230 slot for solid state drive ; types of M.2 cards, search Dell Support Site.",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Wireless module specifications",
+      "value": "Description Values ; Model number Realtek RTL8852BE ; Transfer rate Up to 1201 Mbps ; Frequency bands supported 2.4 GHz/5 GHz ; Wireless standards ● Wi-Fi 802.11a/b/g ; ● Wi-Fi 4 (Wi-Fi 802.11n) ; ● Wi-Fi 5 (Wi-Fi 802.11ac) ; ● Wi-Fi 6 (Wi-Fi 802.11ax) ; Encryption ● 64-bit/128-bit WEP ; ● AES-CCMP ; ● TKIP ; Bluetooth wireless card Bluetooth 5.3 wireless card",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Audio specifications",
+      "value": "Description Option one Option two ; Audio controller Realtek ALC3254 Realtek ALC3204 ; Stereo conversion Supported Supported ; Internal audio interface High definition audio interface High definition audio interface ; External audio interface One Universal Audio port One Universal Audio port ; Number of speakers Two Two ; Description Option one Option two ; Internal-speaker amplifier Supported Supported ; External volume controls Keyboard shortcut controls Keyboard shortcut controls ; Average 2Wx2=4W 2Wx2=4W ; Peak 2.5 W x 2 = 5 W 2.5 W x 2 = 5 W ; Microphone Dual-array microphones Dual-array microphones",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Storage specifications",
+      "value": "Storage type Interface type Capacity ; M.2 2230 solid state drive Gen4 PCIe NVMe Up to 2 TB",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Keyboard specifications",
+      "value": "Description Values ; Keyboard type ● Standard backlit Copilot key keyboard ; ● Standard nonbacklit Copilot key keyboard ; Keyboard layout QWERTY ; Number of keys ● English International; English US; Arabic; Canada (Bilingual) ; (MUI); Chinese (Traditional); Greek; Hebrew; Korean; and ; Ukrainian: 99 keys ; ● Belgian; Bulgarian; Czech/Slovak (MUI); French ; (European); German; Hungarian; Italian; Nordic (MUI); ; Slovenian; Spanish (Castilian); Spanish (Latin American); ; Swiss/European (MUI); Turkish: 100 keys ; ● Japanese: 103 keys ; Key pitch X = 18.70 mm ; Y = 18.05 mm ; Keyboard shortcuts Some keys on your keyboard have two symbols on them. ; These keys can be used to type alternate characters or to ; perform secondary functions. To type the alternate character, ; Description Values ; press Shift and the desired key. To perform secondary ; functions, press Fn and the desired key.",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Camera specifications",
+      "value": "Description Values ; Number of cameras One ; Camera type HD RGB camera ; Camera location Front camera ; Camera sensor type CMOS sensor technology ; Still image 0.92 megapixel ; Video 1280 x 720 (HD) at 30 fps ; Diagonal viewing angle 74.90 degrees",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Touchpad specifications",
+      "value": "Description Values ; Horizontal 305 dpi ; Vertical 305 dpi ; Horizontal 115 mm (4.52 in.) ; Vertical 80 mm (3.15 in.) ; Touchpad gestures For more information about the touchpad gestures available ; on Windows, search Microsoft Support Site.",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Power-adapter specifications",
+      "value": "Description Values ; Type 65 W DC-in adapter, 4.50 mm barrel, E4 ; Height 108 mm (4.25 in.) ; Width 47 mm (1.85 in.) ; Depth 28 mm (1.10 in.) ; Input voltage 100 VAC–240 VAC ; Input frequency 50 Hz–60 Hz ; Input current (maximum) 1.70 A ; Output current (continuous) 3.34 A ; Rated output voltage 19.50 VDC ; Operating 0°C to 40°C (32°F to 104°F) ; Storage -40°C to 70°C (-40°F to 158°F)",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Battery specifications",
+      "value": "Description Option one Option two ; Battery type 3-cell, 41 Wh, Lithium Ion Polymer, 4-cell, 54 Wh, Lithium Ion Polymer, ExpressCharge ; ExpressCharge Boost Capable ; Battery voltage 11.25 VDC 15 VDC ; Battery weight 0.18 kg (0.40 lb) 0.24 kg (0.53 lb) ; Height 5.75 mm (0.23 in.) 5.75 mm (0.23 in.) ; Width 206.40 mm (8.13 in.) 271.90 mm (10.66 in.) ; Depth 82 mm (3.22 in.) 82 mm (3.22 in.) ; Operating ● Charge: 0°C to 45°C (32°F to 113°F) ● Charge: 0°C to 45°C (32°F to 113°F) ; ● Discharge: 0°C to 70°C (32°F to 158°F) ● Discharge: 0°C to 70°C (32°F to 158°F) ; Storage -20°C to 60°C (-4°F to 140°F) -20°C to 60°C (-4°F to 140°F) ; Description Option one Option two ; Battery operating Varies depending on operating conditions and Varies depending on operating conditions and can ; time can significantly reduce under certain power- significantly reduce under certain power-intensive ; intensive conditions. conditions. ; Battery charging ● 3 hr (Standard charge) ● 3 hr (Standard charge) ; time (approximate) ● 2 hr (Express charge) ● 2 hr (Express charge) ; Coin-cell battery N/A N/A",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Display specifications",
+      "value": "Description Option one Option two ; Display type 16\" Full High Definiton Plus (FHD+) with 16\" Full High Definiton Plus (FHD+) with ; ComfortView ComfortView ; Touch options No Yes ; Display-panel technology Wide Viewing Angle (WVA) Wide Viewing Angle (WVA) ; Height 344.68 mm (13.57 in.) 344.68 mm (13.57 in.) ; Width 215.42 mm (8.48 in.) 215.42 mm (8.48 in.) ; Diagonal 406.46 mm (16 in.) 406.46 mm (16 in.) ; Display-panel native resolution 1920 x 1200 1920 x 1200 ; Luminance (typical) 300 nits 300 nits ; Megapixels 2.30 2.30 ; Color gamut 45% NTSC (typical) 45% NTSC (typical) ; Pixels Per Inch (PPI) 141 141 ; Contrast ratio ● 800:1 (minimum) ● 800:1 (minimum) ; ● 1000:1 (typical) ● 1000:1 (typical) ; Response time (maximum) 35 ms 35 ms ; Description Option one Option two ; Refresh rate 60 Hz 60 Hz ; Horizontal view angle ● +/- 80 degrees (minimum) ● +/- 85 degrees (typical) ; ● +/- 85 degrees (typical) ● +/- 80 degrees (minimum) ; Vertical view angle ● +/- 80 degrees (minimum) ● +/- 85 degrees (typical) ; ● +/- 85 degrees (typical) ● +/- 80 degrees (minimum) ; Pixel pitch 0.18 mm 0.18 mm ; Power consumption 4.45 W 5.60 W ; Anti-glare vs glossy finish Anti-Glare Anti-Glare",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Fingerprint reader specifications",
+      "value": "Description Values ; Sensor technology Capacitive ; Sensor resolution 500 dpi ; Sensor pixel size 108 mm x 88 mm",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "GPU—Integrated",
+      "value": "Controller Memory size Processor ; Intel Graphics Shared system memory Intel Core 5 and 7 processors",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "External display support",
+      "value": "Graphics card Supported external displays with Supported external displays with ; laptop display enabled laptop display disabled ; Intel Graphics 2 2 ; Graphics card Supported external displays with Supported external displays with ; laptop display enabled laptop display disabled ; NVIDIA GeForce MX570A 2 2",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "GPU—Discrete",
+      "value": "Controller Memory size Memory type ; NVIDIA GeForce MX570A 2 GB GDDR6",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Computer environment",
+      "value": "Description Operating Storage ; Temperature range 0°C–35°C (32°F–95°F) -40°C to 70°C (-40°F to 158°F) ; Description Operating Storage ; Relative humidity (maximum) 10% to 90% (non-condensing) 5% to 95% (non-condensing) ; Vibration (maximum) * 0.66 GRMS 1.30 GRMS ; Shock (maximum) 110 G† 160 G† ; Altitude range -15.20 m to 3048 m (-49.87 ft to 10,000 -15.20 m to 10,668 m (-49.87 ft to ; ft) 35,000 ft) ; ● Position the display at a comfortable viewing distance between 20 and 28 inches (50 cm and 70 cm) from your eyes. ; ● Blink frequently to moisten your eyes, wet your eyes with water, or apply suitable eye drops. ; ● Take an extended break for 20 minutes every two hours. ; ● Look away from your display, and gaze at a distant object at 20 ft (609.60 cm) away for at least 20 seconds during each ; ● Extend the battery life of your computer with Intelligent Battery Extender and Dynamic Charge. ; ● Tune the performance, power consumption, cooling, and fan noise with selectable thermal modes. ; ● Access and secure your computer depending on your physical presence. ; ● Download and redeem the apps that are purchased with your computer.",
+      "unit": "",
+      "condition": "Official owner manual platform table; columns/Option labels are alternatives, not an actual selected configuration. Optional hardware remains optional."
+    },
+    {
+      "label": "Regulatory Model",
+      "value": "P131F",
+      "unit": "",
+      "condition": "Official manual cover identity for this platform. Regulatory identifier is not an exact configured SKU."
+    },
+    {
+      "label": "Regulatory Type",
+      "value": "P131F001",
+      "unit": "",
+      "condition": "Official manual cover identity for this platform. Regulatory identifier is not an exact configured SKU."
+    }
+  ],
+  "missing_fields": [
+    "Exact Tele2 platform code/retail SKU",
+    "Latvia MPN/GTIN",
+    "Selected processor/RAM/storage/display/battery",
+    "Regional keyboard/adapter/warranty"
+  ],
+  "source_pages": [
+    {
+      "url": "https://dl.dell.com/content/manual20878058-dell-16-dc16250-owner-s-manual.pdf?language=en-us",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP 200 PDF fetch and pdftotext -layout",
+      "http_status": 200,
+      "content_title": "Dell 16 DC16250 Owner's Manual",
+      "notes": "Official PDF specification chapter read, structured table extraction retained. Repair instructions and playback assertions excluded."
+    }
+  ],
+  "research_lane": "computers"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "soundcore-space-one-pro-manufacturer-model",
+  "brand": "Soundcore",
+  "model": "Space One Pro",
+  "category": "Headphones",
+  "scope": "EU manufacturer model reference; Latvia SKU matching required",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "soundcore Space One Pro | Most Portable ANC Headphones for Commuters",
+  "source_url": "https://www.soundcore.com/eu/products/a3062-noise-cancelling-headphones",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Sound",
+      "value": "Triple-Composite Drivers",
+      "unit": "",
+      "condition": "Official manufacturer EU specification"
+    },
+    {
+      "label": "Active Noise Cancellation",
+      "value": "Adaptive ANC 3.0",
+      "unit": "",
+      "condition": "Official manufacturer EU specification"
+    },
+    {
+      "label": "Fast Charging",
+      "value": "5 Mins = 8H",
+      "unit": "",
+      "condition": "Official manufacturer EU specification"
+    },
+    {
+      "label": "Calls",
+      "value": "4 mics with AI algorithm",
+      "unit": "",
+      "condition": "Official manufacturer EU specification"
+    },
+    {
+      "label": "Multipoint Connection",
+      "value": "YesYes",
+      "unit": "",
+      "condition": "Official manufacturer EU specification"
+    },
+    {
+      "label": "Customized EQ",
+      "value": "Hear ID 2.0",
+      "unit": "",
+      "condition": "Official manufacturer EU specification"
+    },
+    {
+      "label": "Weight",
+      "value": "286.2g（10.10 oz）",
+      "unit": "",
+      "condition": "Official manufacturer EU specification"
+    },
+    {
+      "label": "Special Features",
+      "value": "Super Foldable Design",
+      "unit": "",
+      "condition": "Official manufacturer EU specification"
+    },
+    {
+      "label": "Music ANC off",
+      "value": "60 hours",
+      "unit": "",
+      "condition": "ANC off; volume/test settings not specified"
+    },
+    {
+      "label": "Music ANC on",
+      "value": "40 hours",
+      "unit": "",
+      "condition": "ANC on; volume/test settings not specified"
+    }
+  ],
+  "missing_fields": [
+    "Battery capacity",
+    "Full playback test conditions",
+    "Latvia SKU matching"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.soundcore.com/eu/products/a3062-noise-cancelling-headphones",
+      "fetched_at": "2026-10-14",
+      "method": "web find",
+      "notes": "Actual model Specs table read; comparison columns not transferred"
+    }
+  ],
+  "research_lane": "audio"
+}

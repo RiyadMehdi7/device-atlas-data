@@ -1,0 +1,291 @@
+{
+  "id": "philips-40pfs6050-12",
+  "brand": "Philips",
+  "model": "40PFS6050/12",
+  "category": "Televisions",
+  "scope": "Exact /12 European model, official 2026 product leaflet. Explicit source anomalies excluded rather than repaired by guesswork.",
+  "identifiers": [
+    "40PFS6050/12",
+    "8718863051559"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Exact variant source checked",
+  "source_name": "40PFS6050/12 Philips 2K LED TV product leaflet",
+  "source_url": "https://www.documents.philips.com/assets/20260213/293d4e443db44794a72ab3f0009de820.pdf",
+  "tele2_url": "https://www.tele2.lv/televizori/philips-40pfs605012-fhd-40/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Native refresh rate",
+      "value": "60 Hz",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "Picture processor",
+      "value": "Pixel Plus HD",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "Digital TV tuners",
+      "value": "DVB-T/T2/T2-HD/C/S/S2",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "Teletext",
+      "value": "1000 pages",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "HEVC support",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "Operating system",
+      "value": "TITAN OS",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "Flash memory",
+      "value": "8 GB",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "Interactive TV",
+      "value": "HbbTV",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "Compatible voice assistants",
+      "value": "Works with Alexa / Works with Google Assistant",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "Smart-home compatibility",
+      "value": "Control4 / Matter",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "TTS support",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "Video playback formats",
+      "value": "AVI / MKV / HEVC / H.264 MPEG-4 AVC / MPEG1 / MPEG2 / MPEG4 / VP9 / H.265 / AV1",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "Audio playback formats",
+      "value": "MP3 / WAV / AAC / FLAC",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "Subtitle formats",
+      "value": "SRT / SMI / SSA / SUB / ASS / TXT",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "Image formats",
+      "value": "JPEG / GIF / PNG / BMP / HEIF",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "Speaker channel configuration",
+      "value": "2.0",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "Speaker output RMS",
+      "value": "12 W",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "Speaker drivers",
+      "value": "2 × 6 W full-range",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "HDMI ports",
+      "value": "3",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "USB ports",
+      "value": "2",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "Wireless LAN",
+      "value": "Wi-Fi 802.11n / 2×2 / single band",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "HDCP 2.3",
+      "value": "All HDMI",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "ARC port",
+      "value": "HDMI 1",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "HDR input support",
+      "value": "HLG / HDR10",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "SDR energy class",
+      "value": "E",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "HDR energy class",
+      "value": "G",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "Networked standby power",
+      "value": "2.0 W",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "Panel technology (energy listing)",
+      "value": "LED LCD",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "Mains supply",
+      "value": "AC 100–240 V 50/60 Hz",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "Standby power",
+      "value": "Less than 0.5 W",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "Included accessories",
+      "value": "Power cable / 2×AAA batteries / legal and safety brochure / table stand / remote control",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "Screen diagonal",
+      "value": "40 inches / 100 cm",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "Panel resolution",
+      "value": "1920 × 1080",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "Supported input modes",
+      "value": "576p 50 Hz / 640×480 60 Hz / 720p 50–60 Hz / 1366×768 60 Hz / 1920×1080p 24–25–30–50–60 Hz",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "EPREL registration",
+      "value": "2302514",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "SDR energy consumption",
+      "value": "33 kWh/1000 h",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "HDR energy consumption",
+      "value": "46 kWh/1000 h",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "Weight without stand",
+      "value": "4.85 kg",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "Weight with stand",
+      "value": "4.94 kg",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "Package weight",
+      "value": "6.73 kg",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "VESA pattern",
+      "value": "200 × 200 mm",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "Dimensions with stand",
+      "value": "893 × 535 × 202 mm",
+      "unit": "",
+      "condition": "Exact /12 European manufacturer leaflet. Services and voice assistants vary by country/language; flash is nominal."
+    },
+    {
+      "label": "EAN",
+      "value": "8718863051559",
+      "unit": "",
+      "condition": "Exact official /12 leaflet"
+    }
+  ],
+  "missing_fields": [
+    "Manufacturer leaflet shows implausible 795 mm depth without stand and placeholder package size; excluded",
+    "Stand-spacing discrepancy across fetched PDF versus cached web excerpt; excluded"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.documents.philips.com/assets/20260213/293d4e443db44794a72ab3f0009de820.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP PDF fetch and pdftotext -raw",
+      "notes": "HTTP 200; exact model and EAN read; source issue date 2026-05-10. Short factual extraction saved."
+    }
+  ],
+  "research_lane": "televisions"
+}

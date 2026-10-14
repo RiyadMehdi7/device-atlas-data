@@ -1,0 +1,149 @@
+{
+  "id": "huawei-freeclip-model",
+  "brand": "Huawei",
+  "model": "FreeClip",
+  "category": "Earbuds",
+  "scope": "Global manufacturer model reference; Latvia SKU matching required; no colour copies",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "FreeClip Official specifications",
+  "source_url": "https://consumer.huawei.com/en/headphones/freeclip/specs/",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/freeclip/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Earbud dimensions",
+      "value": "Approx. 26.70 x 22.00 x 25.30 mm (LxWxH)",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Case dimensions",
+      "value": "Approx. 59.70 x 51.95 x 27.35 mm (LxWxH)",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Earbud weight",
+      "value": "5.6 g +/- 0.3 g",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Case weight",
+      "value": "44.5 g +/- 2 g",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Earbud capacity",
+      "value": "55 mAh",
+      "unit": "",
+      "condition": "Minimum each"
+    },
+    {
+      "label": "Case capacity",
+      "value": "510 mAh",
+      "unit": "",
+      "condition": "Minimum"
+    },
+    {
+      "label": "Wired charging",
+      "value": "USB-C",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Wireless charging",
+      "value": "Approx. 2 W",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Earbud charging",
+      "value": "About 40 min",
+      "unit": "",
+      "condition": "In case; 25 C lab"
+    },
+    {
+      "label": "Case wired charging",
+      "value": "About 60 min",
+      "unit": "",
+      "condition": "Without earbuds; 25 C lab"
+    },
+    {
+      "label": "Case wireless charging",
+      "value": "About 150 min",
+      "unit": "",
+      "condition": "Without earbuds; 25 C lab"
+    },
+    {
+      "label": "Earbud music playback",
+      "value": "8 hours",
+      "unit": "",
+      "condition": "AAC; 50% volume; ANC disabled; default other features"
+    },
+    {
+      "label": "Music including case",
+      "value": "36 hours",
+      "unit": "",
+      "condition": "AAC; 50% volume; ANC disabled; default other features"
+    },
+    {
+      "label": "Standby entry",
+      "value": "After 30 seconds",
+      "unit": "",
+      "condition": "Outside case; no services"
+    },
+    {
+      "label": "Sensors",
+      "value": "VPU; IMU; Hall; CAP",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Earbud protection",
+      "value": "IP54",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Case waterproof",
+      "value": "No",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Codecs",
+      "value": "SBC; AAC; L2HC",
+      "unit": "",
+      "condition": "L2HC requires EMUI 13.0+"
+    },
+    {
+      "label": "Double tap",
+      "value": "Play/pause; answer/end call",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Triple tap",
+      "value": "Next track",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU/GTIN matching"
+  ],
+  "source_pages": [
+    {
+      "url": "https://consumer.huawei.com/en/headphones/freeclip/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Official specification page actually read; separate case/earbud values"
+    }
+  ],
+  "research_lane": "audio"
+}

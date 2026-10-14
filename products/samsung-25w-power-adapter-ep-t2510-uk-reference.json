@@ -1,0 +1,153 @@
+{
+  "id": "samsung-25w-power-adapter-ep-t2510-uk-reference",
+  "brand": "Samsung",
+  "model": "25W Power Adapter EP-T2510 (UK reference)",
+  "model_family": "25W Power Adapter EP-T2510 (UK reference)",
+  "category": "Accessories",
+  "scope": "UK manufacturer electrical and physical reference ONLY. Tele2 25 W listing could be EP-TA800 or EP-T2510; generation, EU plug dimensions and GTIN unresolved. Not a confirmed current Tele2 match.",
+  "identifiers": [
+    "EP-T2510NBEGGB"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Samsung 25W Power Adapter EP-T2510 (UK reference) technical specifications",
+  "source_url": "https://www.samsung.com/uk/mobile-accessories/25w-power-adapter-black-ep-t2510nbeggb/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Interface",
+      "value": "USB-C",
+      "unit": "",
+      "condition": "",
+      "source_url": "https://www.samsung.com/uk/mobile-accessories/25w-power-adapter-black-ep-t2510nbeggb/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Power maximum",
+      "value": "25 W, PD 3.0 PPS; compatible host and cable required",
+      "unit": "",
+      "condition": "",
+      "source_url": "https://www.samsung.com/uk/mobile-accessories/25w-power-adapter-black-ep-t2510nbeggb/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Input",
+      "value": "100–240 V",
+      "unit": "",
+      "condition": "",
+      "source_url": "https://www.samsung.com/uk/mobile-accessories/25w-power-adapter-black-ep-t2510nbeggb/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Normal output",
+      "value": "5 V, 3 A",
+      "unit": "",
+      "condition": "",
+      "source_url": "https://www.samsung.com/uk/mobile-accessories/25w-power-adapter-black-ep-t2510nbeggb/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "PDO output",
+      "value": "9 V, 2.77 A",
+      "unit": "",
+      "condition": "",
+      "source_url": "https://www.samsung.com/uk/mobile-accessories/25w-power-adapter-black-ep-t2510nbeggb/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "PPS output",
+      "value": "3.3–5.9 V, 3 A; 3.3–11 V, 2.25 A",
+      "unit": "",
+      "condition": "",
+      "source_url": "https://www.samsung.com/uk/mobile-accessories/25w-power-adapter-black-ep-t2510nbeggb/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions",
+      "value": "49.0 × 27.1 × 68.74 mm, UK SKU only",
+      "unit": "",
+      "condition": "",
+      "source_url": "https://www.samsung.com/uk/mobile-accessories/25w-power-adapter-black-ep-t2510nbeggb/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Mass",
+      "value": "87.7 g, UK SKU only",
+      "unit": "",
+      "condition": "",
+      "source_url": "https://www.samsung.com/uk/mobile-accessories/25w-power-adapter-black-ep-t2510nbeggb/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Standby consumption",
+      "value": "Less than 5 mW",
+      "unit": "",
+      "condition": "",
+      "source_url": "https://www.samsung.com/uk/mobile-accessories/25w-power-adapter-black-ep-t2510nbeggb/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Box",
+      "value": "Wall charger, leaflet; cable absent in this UK SKU",
+      "unit": "",
+      "condition": "",
+      "source_url": "https://www.samsung.com/uk/mobile-accessories/25w-power-adapter-black-ep-t2510nbeggb/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Compatible example devices",
+      "value": "S10 5G, A80, A70 and other compatible PD/SFC hosts",
+      "unit": "",
+      "condition": "",
+      "source_url": "https://www.samsung.com/uk/mobile-accessories/25w-power-adapter-black-ep-t2510nbeggb/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "GaN scope",
+      "value": "Technology availability varies by country/region",
+      "unit": "",
+      "condition": "",
+      "source_url": "https://www.samsung.com/uk/mobile-accessories/25w-power-adapter-black-ep-t2510nbeggb/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Recycled plastic",
+      "value": "At least 20% recycled content in plastic part",
+      "unit": "",
+      "condition": "",
+      "source_url": "https://www.samsung.com/uk/mobile-accessories/25w-power-adapter-black-ep-t2510nbeggb/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Safety features",
+      "value": "Overcurrent, short-circuit, high-temperature protection; low leakage",
+      "unit": "",
+      "condition": "",
+      "source_url": "https://www.samsung.com/uk/mobile-accessories/25w-power-adapter-black-ep-t2510nbeggb/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Availability scope",
+      "value": "UK page says no longer available; observed Tele2 generic 25 W listing not exact EP-T2510 identity evidence",
+      "unit": "",
+      "condition": "",
+      "source_url": "https://www.samsung.com/uk/mobile-accessories/25w-power-adapter-black-ep-t2510nbeggb/",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia MPN/GTIN",
+    "Latvia retail package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.samsung.com/uk/mobile-accessories/25w-power-adapter-black-ep-t2510nbeggb/",
+      "fetched_at": "2026-10-14",
+      "method": "web open official rendered Specs section 2026-10-14; HTTP status unavailable",
+      "notes": "Official source technical content read; factual extraction retained"
+    }
+  ],
+  "research_lane": "accessories"
+}

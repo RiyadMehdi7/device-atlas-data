@@ -1,0 +1,126 @@
+{
+  "id": "huawei-watch-gt-runner-2",
+  "brand": "Huawei",
+  "model": "WATCH GT Runner 2",
+  "category": "Smartwatches",
+  "scope": "Global manufacturer WATCH GT Runner 2 reference. Only values assigned to this size column or common model sections included. Battery is manufacturer lab claim; regional services and exact Latvia SKU unresolved.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Huawei WATCH GT Runner 2 specifications",
+  "source_url": "https://consumer.huawei.com/en/wearables/watch-gt-runner-2/specs/",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/watch-gt-runner-2/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Dimensions",
+      "value": "43.5 mm × 43.5 mm × 10.7 mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Wrist Size",
+      "value": "120-190 mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Weight",
+      "value": "Approximately 34.5 g (strap excluded)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Display",
+      "value": "1.32 inches AMOLED color screen | 466 × 466 pixels, PPI 352",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Watch Case",
+      "value": "Front case: Titanium alloy Rear case: High-performance fiber-reinforced composites",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Accelerometer sensor Gyroscope sensor Magnetometer sensor Optical heart rate sensor Barometer sensor Temperature sensor Ambient light sensor ECG sensor Depth sensor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Button",
+      "value": "Home Button (Rotating Crown) and Side Button",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Charging Port",
+      "value": "Wireless charging",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "System Requirements",
+      "value": "Android 9.0 or later iOS 13.0 or later",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Waterproof Level",
+      "value": "5 ATM | IP69 | Dive (Depth up to 40 metres)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Connectivity",
+      "value": "Supported | 2.4 GHz, supports BT6.0 and BR + BLE | GPS (L1 + L5 Dual-band)/GLONASS/BeiDou (B1I + B1C + B2a Tri-band)/GALILEO (E1 + E5a Dual-band)/QZSS (L1 + L5 Dual-band)/NavIC",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Speaker",
+      "value": "Supported",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Microphone",
+      "value": "Supported",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Environment",
+      "value": "-20℃~+45℃",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Charging",
+      "value": "5V-10V DC/2A MAX",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Battery Life",
+      "value": "The battery can last for up to 14 days given light usage, 7 days given typical usage, or 32 hours in outdoor workout mode.",
+      "unit": "",
+      "condition": "Manufacturer specification; battery values are laboratory claims, actual use varies"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU / GTIN matching",
+    "Regional app and payment availability"
+  ],
+  "source_pages": [
+    {
+      "url": "https://consumer.huawei.com/en/wearables/watch-gt-runner-2/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Manufacturer technical specification content parsed; extracted factual fields only"
+    }
+  ],
+  "research_lane": "wearables"
+}

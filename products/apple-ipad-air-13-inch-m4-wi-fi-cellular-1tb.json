@@ -1,0 +1,511 @@
+{
+  "id": "apple-ipad-air-13-inch-m4-wi-fi-cellular-1tb",
+  "brand": "Apple",
+  "model": "iPad Air 13-inch (M4) Wi-Fi + Cellular 1TB",
+  "category": "Tablets",
+  "scope": "UK manufacturer reference. Size, capacity and connectivity explicitly enumerated on manufacturer specs page. Colour not used to multiply records. Exact Latvia part number unresolved.",
+  "identifiers": [
+    "A3462"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "iPad Air - Technical Specifications - Apple (UK)",
+  "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Storage",
+      "value": "1TB",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connectivity variant",
+      "value": "Wi-Fi + Cellular",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display marketed diagonal",
+      "value": "13 inches",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display technology",
+      "value": "LED-backlit IPS",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display name",
+      "value": "Liquid Retina",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Resolution",
+      "value": "2732 x 2048",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Pixel density",
+      "value": "264ppi",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Chip",
+      "value": "Apple M4",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "CPU cores",
+      "value": "8",
+      "unit": "",
+      "condition": "Independent size-specific Apple Support audit. Manufacturer explicitly scopes this fact to this size/connectivity configuration or all models.",
+      "source_url": "https://support.apple.com/en-gb/126472",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "GPU cores",
+      "value": "9",
+      "unit": "",
+      "condition": "Independent size-specific Apple Support audit. Manufacturer explicitly scopes this fact to this size/connectivity configuration or all models.",
+      "source_url": "https://support.apple.com/en-gb/126472",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Neural Engine cores",
+      "value": "16",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "True Tone",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Oleophobic coating",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear camera",
+      "value": "12MP Wide",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear camera aperture",
+      "value": "f/1.8",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear digital zoom",
+      "value": "Up to 5x",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear camera autofocus",
+      "value": "Focus Pixels",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear camera video",
+      "value": "4K at 24/25/30/60fps",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Slow motion",
+      "value": "1080p at 120/240fps",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front camera",
+      "value": "12MP Center Stage",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front aperture",
+      "value": "f/2.0",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front video",
+      "value": "1080p at 25/30/60fps",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "HDR photography",
+      "value": "Smart HDR 4",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Image formats",
+      "value": "HEIF, JPEG",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Video formats",
+      "value": "HEVC, H.264",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Speaker system",
+      "value": "Landscape stereo",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Microphones",
+      "value": "Dual",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi",
+      "value": "Wi-Fi 7 (802.11be), 2x2 MIMO",
+      "unit": "",
+      "condition": "Independent size-specific Apple Support audit. Manufacturer explicitly scopes this fact to this size/connectivity configuration or all models.",
+      "source_url": "https://support.apple.com/en-gb/126472",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "6",
+      "unit": "",
+      "condition": "Independent size-specific Apple Support audit. Manufacturer explicitly scopes this fact to this size/connectivity configuration or all models.",
+      "source_url": "https://support.apple.com/en-gb/126472",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Biometrics",
+      "value": "Touch ID",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Sensors",
+      "value": "Gyroscope; accelerometer; barometer; ambient light sensor",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Digital compass",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "iBeacon micro-location",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "USB connector",
+      "value": "USB-C",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "USB transfer",
+      "value": "USB 3 up to 10Gb/s",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "External display",
+      "value": "One up to 6K at 60Hz",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery chemistry",
+      "value": "Rechargeable lithium-polymer",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery energy",
+      "value": "36.59Wh",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi web/video battery claim",
+      "value": "Up to 10 hours; surfing web on Wi-Fi or watching video",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Stylus support",
+      "value": "Apple Pencil Pro; Apple Pencil USB-C",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Height",
+      "value": "280.6mm",
+      "unit": "",
+      "condition": "Independent size-specific Apple Support audit. Manufacturer explicitly scopes this fact to this size/connectivity configuration or all models.",
+      "source_url": "https://support.apple.com/en-gb/126472",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Width",
+      "value": "214.9mm",
+      "unit": "",
+      "condition": "Independent size-specific Apple Support audit. Manufacturer explicitly scopes this fact to this size/connectivity configuration or all models.",
+      "source_url": "https://support.apple.com/en-gb/126472",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Thickness",
+      "value": "6.1mm",
+      "unit": "",
+      "condition": "Independent size-specific Apple Support audit. Manufacturer explicitly scopes this fact to this size/connectivity configuration or all models.",
+      "source_url": "https://support.apple.com/en-gb/126472",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Weight",
+      "value": "617g",
+      "unit": "",
+      "condition": "Independent size-specific Apple Support audit. Manufacturer explicitly scopes this fact to this size/connectivity configuration or all models.",
+      "source_url": "https://support.apple.com/en-gb/126472",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Brightness",
+      "value": "600 nits",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Measured rectangular diagonal",
+      "value": "12.9 inches; visible area smaller",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "RAM",
+      "value": "12GB",
+      "unit": "",
+      "condition": "Independent size-specific Apple Support audit. Manufacturer explicitly scopes this fact to this size/connectivity configuration or all models.",
+      "source_url": "https://support.apple.com/en-gb/126472",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Memory bandwidth",
+      "value": "120GB/s",
+      "unit": "",
+      "condition": "Independent size-specific Apple Support audit. Manufacturer explicitly scopes this fact to this size/connectivity configuration or all models.",
+      "source_url": "https://support.apple.com/en-gb/126472",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Thread networking",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Independent size-specific Apple Support audit. Manufacturer explicitly scopes this fact to this size/connectivity configuration or all models.",
+      "source_url": "https://support.apple.com/en-gb/126472",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wireless chip",
+      "value": "Apple N1",
+      "unit": "",
+      "condition": "Independent size-specific Apple Support audit. Manufacturer explicitly scopes this fact to this size/connectivity configuration or all models.",
+      "source_url": "https://support.apple.com/en-gb/126472",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Cellular",
+      "value": "5G sub-6GHz; Gigabit LTE; 4x4 MIMO",
+      "unit": "",
+      "condition": "Independent size-specific Apple Support audit. Cellular configuration only.",
+      "source_url": "https://support.apple.com/en-gb/126472",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "SIM",
+      "value": "eSIM; physical SIM incompatible",
+      "unit": "",
+      "condition": "Independent size-specific Apple Support audit. Cellular configuration only.",
+      "source_url": "https://support.apple.com/en-gb/126472",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "GPS/GNSS",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Independent size-specific Apple Support audit. Cellular configuration only.",
+      "source_url": "https://support.apple.com/en-gb/126472",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Mobile web battery claim",
+      "value": "Up to 9 hours; browsing web using mobile data",
+      "unit": "",
+      "condition": "Manufacturer reference; regional availability and accessories may vary",
+      "source_url": "https://www.apple.com/uk/ipad-air/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Apple hardware model code",
+      "value": "A3462",
+      "unit": "",
+      "condition": "Hardware model code identifies size/connectivity family, not storage/colour retail MPN. China-only codes excluded.",
+      "source_url": "https://support.apple.com/en-gb/108043",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Introduction year",
+      "value": "2026",
+      "unit": "",
+      "condition": "Hardware model code identifies size/connectivity family, not storage/colour retail MPN. China-only codes excluded.",
+      "source_url": "https://support.apple.com/en-gb/108043",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia-specific MPN/GTIN",
+    "Latvia retail package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.apple.com/uk/ipad-air/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Technical specifications read; only structured facts retained"
+    },
+    {
+      "url": "https://support.apple.com/en-gb/108043",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch + web open",
+      "notes": "Apple Identify your iPad: hardware model codes matched to size/connectivity; regional China-only codes excluded"
+    },
+    {
+      "url": "https://support.apple.com/en-gb/126472",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Independent size-specific technical page: Wi-Fi/cellular columns, RAM/storage-tier, CPU/GPU and radio/location sections audited"
+    }
+  ],
+  "model_family": "iPad Air (M4)",
+  "independent_audit": {
+    "checked_at": "2026-10-14",
+    "result": "passed",
+    "hardware_code": "A3462",
+    "size_specific_url": "https://support.apple.com/en-gb/126472",
+    "fields": [
+      "Weight",
+      "Height",
+      "Width",
+      "Thickness",
+      "CPU cores",
+      "GPU cores",
+      "RAM when published",
+      "Wi-Fi",
+      "Bluetooth",
+      "cellular GPS/GNSS and SIM scope"
+    ]
+  },
+  "research_lane": "tablets"
+}

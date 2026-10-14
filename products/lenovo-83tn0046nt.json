@@ -1,0 +1,369 @@
+{
+  "id": "lenovo-83tn0046nt",
+  "brand": "Lenovo",
+  "model": "LOQ 15AHP11 (83TN0046NT)",
+  "category": "Laptops",
+  "scope": "Exact manufacturer configuration. Lenovo PSREF rendered model table explicitly lists MPN 83TN0046NT and EAN/UPC/JAN 199275514906; Tele2 retailer identifier matches after explicit left-zero padding to 13 digits where required. Regional country/keyboard and warranty values are kept as manufacturer claims, not inferred Latvia service terms. Max memory/storage are capacity support, not installed amounts.",
+  "identifiers": [
+    "83TN0046NT",
+    "199275514906"
+  ],
+  "aliases": [
+    "LOQ 15AHP11"
+  ],
+  "checked_at": "2026-10-14",
+  "status": "Exact variant source checked",
+  "source_name": "Lenovo PSREF LOQ 15AHP11 83TN0046NT",
+  "source_url": "https://psref.lenovo.com/Detail/LOQ_15AHP11?M=83TN0046NT",
+  "tele2_url": "https://www.tele2.lv/datori/lenovo-loq-15ahp11-r7-250-15i-16gb-1tb/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Processor",
+      "value": "AMD Ryzen 7 250 (8C / 16T, 3.3 / 5.1GHz, 8MB L2 / 16MB L3)",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "AI PC Category",
+      "value": "AI PC, AI-Powered Gaming PC",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "NPU",
+      "value": "Integrated AMD Ryzen AI, up to 16 TOPS",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Graphics",
+      "value": "NVIDIA GeForce RTX 5070 8GB GDDR7, Boost Clock 2347MHz, TGP 115W, 798 AI TOPS",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Chipset",
+      "value": "AMD SoC Platform",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Memory",
+      "value": "1x 16GB SODIMM DDR5-5600",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Memory Slots",
+      "value": "Two DDR5 SODIMM slots, dual-channel capable",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Max Memory",
+      "value": "Up to 32GB DDR5-5600 offering",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Storage",
+      "value": "1TB SSD M.2 2242 PCIe 4.0x4 NVMe",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Storage Slot",
+      "value": "Two M.2 slots; One M.2 2280 PCIe 4.0 x4 slot; One M.2 2280 PCIe 4.0 x2 slot",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Max Storage Support",
+      "value": "Up to two drives, 2x M.2 SSD; M.2 2242 SSD up to 2TB each",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Card Reader",
+      "value": "No Card Reader",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Audio Chip",
+      "value": "High Definition (HD) Audio, Realtek ALC3287 codec",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Speakers",
+      "value": "Stereo speakers, 2W x2, optimized with Nahimic Audio",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Microphone",
+      "value": "2x, Array",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Camera",
+      "value": "5.0MP with E-shutter",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Battery",
+      "value": "60Wh",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Power Adapter",
+      "value": "245W Slim Tip (3-pin)",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Display",
+      "value": "15.3 inch WUXGA (1920x1200) IPS 300nits Anti-glare, 100% sRGB, 165Hz, FreeSync, G-SYNC, Low Blue Light",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Touchscreen",
+      "value": "None",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Screen-to-Body Ratio",
+      "value": "92% AAR (active area ratio)",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Pen",
+      "value": "Pen Not Supported",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Keyboard",
+      "value": "1-Zone RGB Backlit, English (EU)",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Dimensions (WxDxH)",
+      "value": "344.9 x 254.83 x 20.9-23.25 mm (13.58 x 10.03 x 0.82-0.92 inches)",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Weight",
+      "value": "Starting at 2.1 kg (4.6 lbs)",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Case Color",
+      "value": "Luna Grey",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Case Material",
+      "value": "PC-ABS (Top), PC-ABS (Bottom)",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Operating System",
+      "value": "Windows 11 Home, English",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "WLAN + Bluetooth",
+      "value": "Wi-Fi 6, 802.11ax 2x2 + BT5.3",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "WWAN",
+      "value": "WWAN Not Supported",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Ethernet",
+      "value": "100/1000M (RJ-45)",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Standard Ports",
+      "value": "2x USB-A (USB 5Gbps), with 4.5W output; 1x USB-A (USB 10Gbps), with 4.5W output; 1x USB-C (USB4 40Gbps), with USB PD 65-100W input / 15W output and DisplayPort 1.4; 1x HDMI 2.1, up to 8K/60Hz; 1x Headphone / microphone combo jack (3.5mm); 1x Ethernet (RJ-45); 1x Slim tip (rectangle) power connector",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Security Chip",
+      "value": "Firmware TPM 2.0 Enabled",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Fingerprint Reader",
+      "value": "No Fingerprint Reader",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Other Security",
+      "value": "E-shutter",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Base Warranty",
+      "value": "2-year, Courier or Carry-in with 1-year Battery",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Included Upgrade",
+      "value": "None",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Bundled Accessories",
+      "value": "None",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Green Certifications",
+      "value": "ENERGY STAR 9.0; EPEAT 1.0 Silver Registered; ErP Lot 6/26; RoHS compliant",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Other Certifications",
+      "value": "TÜV Rheinland Low Blue Light (Hardware Solution)",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Model",
+      "value": "83TN0046NT",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Machine Type",
+      "value": "83TN",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Region",
+      "value": "WE",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Country/Region",
+      "value": "Nordics",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "EAN / UPC / JAN",
+      "value": "199275514906",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Announce Date",
+      "value": "2026-05-16",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "End of Support",
+      "value": "2032-01-15",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Optical",
+      "value": "None",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Special Features",
+      "value": "AI Chip: LA1",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Color Calibration",
+      "value": "Factory Color Calibration",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Touchpad",
+      "value": "Buttonless Mylar surface multi-touch touchpad, supports Precision TouchPad (PTP), 75 x 120 mm (2.95 x 4.72 inches)",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Surface Treatment",
+      "value": "Painting",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Mil-Spec Test",
+      "value": "MIL-STD-810H military test passed",
+      "unit": "",
+      "condition": "Exact MPN 83TN0046NT PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    }
+  ],
+  "missing_fields": [
+    "Current stock and Latvia seller warranty terms",
+    "UPC/EAN textual representation retained; comparison uses left-zero padding to GTIN-13 only where required"
+  ],
+  "source_pages": [
+    {
+      "url": "https://psref.lenovo.com/Detail/LOQ_15AHP11?M=83TN0046NT",
+      "fetched_at": "2026-10-14",
+      "method": "Chrome browser rendered official PSREF table, DOM read",
+      "content_title": "Specifications - Lenovo PSREF",
+      "notes": "Visible model-specific manufacturer table read including EAN/UPC/JAN. No HTTP status inferred. Structured factual extraction saved."
+    },
+    {
+      "url": "https://www.tele2.lv/datori/lenovo-loq-15ahp11-r7-250-15i-16gb-1tb/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "http_status": 200,
+      "content_title": "LOQ 15AHP11 Tele2 listing",
+      "notes": "Retailer identifier directly read and joined to independently observed manufacturer identifier."
+    },
+    {
+      "url": "https://support.lenovo.com/se/en/documentation/loq_15_11",
+      "fetched_at": "2026-10-14",
+      "method": "Chrome browser rendered official user-guide page",
+      "content_title": "User Guide - Lenovo LOQ 15IPH11, Lenovo LOQ 15IPH11E, Lenovo LOQ 15AHP11, and Lenovo LOQ 15IRH11E",
+      "notes": "Rendered guide landing content read; hardware maintenance manual button visible. Download did not complete, so the maintenance file is not claimed checked."
+    }
+  ],
+  "research_lane": "computers"
+}

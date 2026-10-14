@@ -1,0 +1,246 @@
+{
+  "id": "logitech-mx-master-4",
+  "brand": "Logitech",
+  "model": "MX Master 4",
+  "model_family": "MX Master 4",
+  "category": "Accessories",
+  "scope": "UK manufacturer model reference. Explicit MPN options identify their labelled colour/layout variants; not a Latvia SKU. No colour/layout records generated.",
+  "identifiers": [
+    "910-007562",
+    "910-007563"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Logitech MX Master 4 technical specifications",
+  "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-4",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Dimensions / MX Master 4 Mouse / Height",
+      "value": "128.15 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-4",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / MX Master 4 Mouse / Width",
+      "value": "88.35 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-4",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / MX Master 4 Mouse / Depth",
+      "value": "50.8 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-4",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions / MX Master 4 Mouse / Weight",
+      "value": "150 g",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-4",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Sensor Technology",
+      "value": "Darkfield high precision",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-4",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Nominal value",
+      "value": "1000",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-4",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "DPI (Minimal and maximal value)",
+      "value": "200-8000 (can be set in increments of 50 DPI)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-4",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Number of Buttons",
+      "value": "8",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-4",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Gesture button",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-4",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Scroll Wheel",
+      "value": "Yes, MagSpeed wheel with smart shift",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-4",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Horizontal scroll",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-4",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Thumb wheel",
+      "value": "Yes, same as horizontal scroll",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-4",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Customization app",
+      "value": "Supported by Logi Options+ App for recent versions of Windows and macOS, basic feature support for Googlebook laptops. Basic support in Logi Tune. (Basic customization support is available with Options+ App on Googlebook laptops. Advanced features such as the Haptics feedback, Actions Ring, Marketplace, Smart Actions, Flow are working only on recent versions of Windows and macOS.)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-4",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Haptic feedback is supported for key Options+ features like Actions Ring, Smart Actions, Gestures and for the following plugins",
+      "value": "Adobe Photoshop, Adobe Lightroom Desktop, Zoom. Coming in October: Adobe Premiere Pro.",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-4",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery type",
+      "value": "Rechargeable 650 mAh",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-4",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery life",
+      "value": "70 days",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-4",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connection Type",
+      "value": "Wireless",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-4",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wireless technology",
+      "value": "Bluetooth Low Energy",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-4",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wireless range",
+      "value": "10 m",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-4",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth Low Energy (BLE)",
+      "value": "5.1",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-4",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "Required: Bluetooth Low Energy, Windows 11 or later*, macOS 13 or later*, Linux**, ChromeOS and Googlebook**, iPadOS 15 or later**, Android 12 or later**. (*Customize device by installing the Logi Options+ App available for recent versions of Windows and macOS at app.logi.com, **Device basic functions will be supported without software for other systems than Windows and macOS)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-4",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Logi Bolt USB receiver",
+      "value": "Required: USB-C Port, USB-A Port, Windows 10, 11 or later*, macOS 13 or later*, Linux**,  ChromeOS and Googlebook**. (*Customize device by installing the Logi Options+ App available for recent versions of Windows and macOS at app.logi.com, **Device basic functions will be supported without software for other systems than Windows and macOS)",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-4",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Compatibility",
+      "value": "Compatible with both USB-C and USB-A receivers.",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-4",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Manufacturer warranty",
+      "value": "2-Year Limited Hardware Warranty",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-4",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "UK package contents",
+      "value": "Mouse; USB-C Bolt receiver; User documentation",
+      "unit": "",
+      "condition": "Manufacturer model reference; configuration/OS/software and battery conditions retained in values. UK MPN options not claimed Latvia SKU.",
+      "source_url": "https://www.logitech.com/en-gb/shop/p/mx-master-4",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia MPN/GTIN",
+    "Latvia retail package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.logitech.com/en-gb/shop/p/mx-master-4",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Official source technical content read; factual extraction retained"
+    }
+  ],
+  "identifier_options": [
+    {
+      "mpn": "910-007562",
+      "name": "MX Master 4 - Graphite",
+      "colour": "Graphite"
+    },
+    {
+      "mpn": "910-007563",
+      "name": "MX Master 4 - Pale Gray",
+      "colour": "Pale Gray"
+    }
+  ],
+  "research_lane": "accessories"
+}

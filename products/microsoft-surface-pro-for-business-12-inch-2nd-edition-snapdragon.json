@@ -1,0 +1,359 @@
+{
+  "id": "microsoft-surface-pro-for-business-12-inch-2nd-edition-snapdragon",
+  "brand": "Microsoft",
+  "model": "Surface Pro for Business 12-inch (2nd Edition, Snapdragon)",
+  "model_family": "Surface Pro for Business 12-inch (2nd Edition, Snapdragon)",
+  "category": "Tablets",
+  "scope": "UK business model reference. Wi-Fi/cellular and capacity alternatives explicitly retained; exact Latvia SKU not claimed.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer model source checked; Latvia SKU needs matching",
+  "source_name": "Microsoft Surface Pro for Business 12-inch (2nd Edition, Snapdragon) technical specifications",
+  "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Processor",
+      "value": "Snapdragon X2 Plus, 6 cores",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "NPU",
+      "value": "Qualcomm Hexagon 80 TOPS",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Graphics",
+      "value": "Qualcomm Adreno",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Memory options",
+      "value": "16GB / 24GB LPDDR5x",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Storage options",
+      "value": "256GB / 512GB / 1TB UFS",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display",
+      "value": "12-inch PixelSense LCD",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Resolution",
+      "value": "2196 x 1464",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Pixel density",
+      "value": "220ppi",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Aspect ratio",
+      "value": "3:2",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Contrast",
+      "value": "1400:1",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Refresh",
+      "value": "Up to 90Hz; default 60Hz",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Colour modes",
+      "value": "sRGB, Enhanced",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Adaptive colour",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Adaptive contrast",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Touch",
+      "value": "10-point",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Brightness",
+      "value": "500 nits maximum typical",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Anti-reflective",
+      "value": "ISO 9241-307 certified",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Length",
+      "value": "274mm",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Width",
+      "value": "190mm",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Thickness",
+      "value": "7.8mm",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Weight",
+      "value": "Wi-Fi 686g / Wi-Fi+5G 707g; keyboard excluded",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery local video",
+      "value": "Wi-Fi up to 15.5h / cellular up to 13h",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery active web",
+      "value": "Wi-Fi up to 13h / cellular up to 10h",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "OS",
+      "value": "Windows 11 Pro",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Security",
+      "value": "Pluton TPM2.0; Windows 11 Secured-core; BitLocker",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Biometrics",
+      "value": "Windows Hello facial recognition with Enhanced Sign-in Security",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "NFC authentication",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front camera",
+      "value": "1080p Full HD Surface Studio Camera",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear camera",
+      "value": "10MP Ultra HD",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Microphones",
+      "value": "Dual Studio Mics, voice focus",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Speakers",
+      "value": "2W stereo; Dolby Atmos",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth LE Audio",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "USB",
+      "value": "2 x USB-C / USB3.2",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "DisplayPort",
+      "value": "1.4a; up to two 4K monitors at 60Hz",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Fast charging requirement",
+      "value": "Minimum 60W USB-C charger",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Optional cellular",
+      "value": "5G; nanoSIM and eSIM; carrier availability varies",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi",
+      "value": "Wi-Fi7",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "Core5.4",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Optional cellular positioning",
+      "value": "GNSS L1, GPS, Galileo, BeiDou, QZSS, NAVIC",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Stylus",
+      "value": "Surface Slim Pen 2nd Edition; haptics; MPP; back storage and wireless charging",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Keyboard",
+      "value": "Surface Pro 12-inch Keyboard; separate",
+      "unit": "",
+      "condition": "Preproduction August2026 battery test: local 1080p24 MOV video or 12 websites,150nits, auto-brightness off; conditions vary.",
+      "source_url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia-specific MPN/GTIN",
+    "Latvia retail configuration and package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.microsoft.com/en-gb/d/surface-pro-for-business-12-inch-2nd-edition-snapdragon/8wg5vqp0x4bg",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Accessible official technical content read; structured facts retained"
+    }
+  ],
+  "research_lane": "tablets"
+}

@@ -1,0 +1,779 @@
+{
+  "id": "samsung-qe55qn80fauxxu",
+  "brand": "Samsung",
+  "model": "QE55QN80FAUXXU",
+  "category": "Televisions",
+  "scope": "Exact UK screen-size SKU; XXU suffix. Latvia XXH SKU must be independently matched; do not transfer regional tuner/service or energy claims.",
+  "identifiers": [
+    "QE55QN80FAUXXU"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Exact variant source checked",
+  "source_name": "2025 QN80F 55 inch 4K Neo QLED Mini LED Vision AI TV | Samsung Business UK",
+  "source_url": "https://www.samsung.com/uk/business/tvs/qled-tv/qn80f-55-inch-neo-qled-4k-mini-led-smart-tv-qe55qn80fauxxu/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Screen Size",
+      "value": "55\"",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Refresh Rate",
+      "value": "100Hz (Up to 144Hz)",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Resolution",
+      "value": "4K (3,840 x 2,160)",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Processor",
+      "value": "NQ4 AI Gen2 Processor",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "HDR (High Dynamic Range)",
+      "value": "Neo Quantum HDR",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "HDR 10+",
+      "value": "Yes (ADAPTIVE/ GAMING)",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Upscaling",
+      "value": "4K AI Upscaling",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Contrast",
+      "value": "Quantum Matrix Technology Core",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Viewing Angle",
+      "value": "Wide Viewing Angle",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Micro Dimming",
+      "value": "Supreme UHD Dimming",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Contrast Enhancer",
+      "value": "Real Depth Enhancer",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Motion Technology",
+      "value": "Motion Xcelerator 144Hz",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Smart Calibration",
+      "value": "Basic",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Filmmaker Mode (FMM)",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "HDR Brightness Optimizer",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Color Booster",
+      "value": "Color Booster Pro",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "AI HDR Remastering",
+      "value": "Auto HDR Remastering",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Dolby Atmos",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Object Tracking Sound",
+      "value": "OTS Lite",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Samsung Q-Symphony",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Audio Pre-selection Descriptor",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Sound Output (RMS)",
+      "value": "30W",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Speaker Type",
+      "value": "4CH",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Active Voice Amplifier",
+      "value": "Yes (Active Voice Amplifier Pro)",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Adaptive Sound",
+      "value": "Yes (Adaptive Sound Pro)",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "360 Audio",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Operating System (OS)",
+      "value": "Tizen™ Smart TV",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Bixby",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Far-Field Voice Interaction",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Built-in Voice Assistant",
+      "value": "Alexa (GB, DE, FR, IT, ES, AT, IE)",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Samsung TV Plus",
+      "value": "Yes (GB, FR, DE, IT, ES, CH, AT, NL, SE, NO, DK, FI, PT, IE, BE, LU)",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Web Browser",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Works with AI Speaker",
+      "value": "Alexa (GB, DE, FR, IT, ES, AT, IE), Google Assistant (GB, FR, DE, IT, ES, CH, AT, NL, SE, NO, DK, FI, PT, IE, BE, LU)",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "SmartThings Hub / Matter Hub / IoT-Sensor Functionality / Quick Remote",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Samsung Health",
+      "value": "Yes (GB,IE only)",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Universal Browse & Play",
+      "value": "Yes (GB, FR, DE, IT, ES)",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Multi Device Experience",
+      "value": "TV to Mobile, Mobile to TV, TV initiate mirroring, Sound Mirroring, Wireless TV On, Tap View",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Multi-View",
+      "value": "upto 2 videos",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Apple AirPlay",
+      "value": "Yes (w/o Aland Islands, Faroe islands, Netherlands Antilles, San Marino)",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Auto Game Mode (ALLM)",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Game Motion Plus",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Dynamic Black EQ",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "VRR",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Surround Sound",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Super Ultra Wide Game View",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Mini Map Zoom",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "FreeSync",
+      "value": "FreeSync Premium Pro",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Light-sync",
+      "value": "Yes (AT, BE, DK, FI, FR, DE, IT, NL, NO, PT, ES, SE, CH, GB)",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "HGiG",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Gaming Hub",
+      "value": "Yes (KR, US, CA, BR, GB, FR, DE, IT, ES, MX, AU)",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Digital Broadcasting",
+      "value": "DVB-T2CS2",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Analog Tuner",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "CI (Common Interface)",
+      "value": "CI+(1.4) / CI+(1.4 ECP)_IT only",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Data Broadcasting",
+      "value": "HbbTV 2.0.3 (IT,GB,DE,CZ,SK,ES,PL,AT,FR,FI,EE,GR,SI,HR,BE,NL,LU,LT,HU,CH,PT,DK,ME)",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "HDMI",
+      "value": "4",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "USB",
+      "value": "2 x USB-A",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "HDMI (High Frame Rate)",
+      "value": "4K 144Hz (for HDMI 1/2/3/4)",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Ethernet (LAN)",
+      "value": "1",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Digital Audio Out (Optical)",
+      "value": "1",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "RF In (Terrestrial / Cable input)",
+      "value": "1/1(Common Use for Terrestrial)/1",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "CI Slot",
+      "value": "1",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Wi-Fi",
+      "value": "Yes (Wi-Fi 5)",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Bluetooth",
+      "value": "Yes(5.3)",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Anynet+ (HDMI-CEC)",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "HDMI Audio Return Channel",
+      "value": "eARC",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Design",
+      "value": "Simple Chamfer",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Bezel Type",
+      "value": "3 Bezel-less",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Front Colour",
+      "value": "CARBON SILVER",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Stand Type",
+      "value": "AERO CENTER",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Stand Colour",
+      "value": "TITAN GRAY",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "EPG",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Extended PVR",
+      "value": "Yes (Belgium, Netherlands, Luxemburg, UK, Ireland, Spain, Portugal, Andorro, Sweden, Denmark, Norway, Finland, Iceland, France, Germany, Austria, Swiss)",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "IP Control",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "OSD Language",
+      "value": "27 European Languages + Russian(only when connecting to Network in EE,LV,LT)",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Eco Sensor",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Power Supply",
+      "value": "AC220-240V~ 50/60Hz",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Power Consumption (Max)",
+      "value": "230 W",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Energy Efficiency Class",
+      "value": "F",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Power Consumption (Stand-by)",
+      "value": "0.50 W",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Power Consumption (Typical)",
+      "value": "76.0 W",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Yearly Power Consumption (EU standard)",
+      "value": "105 kWh",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Auto Power Off",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Auto Power Saving",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Package Size (WxHxD)",
+      "value": "1352 x 813 x 148 mm",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Set Size with Stand (WxHxD)",
+      "value": "1227.6 x 764.0 x 247.4 mm",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Set Size without Stand (WxHxD)",
+      "value": "1227.6 x 706.2 x 47.2 mm",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Stand (Basic) (WxD)",
+      "value": "263.9 x 247.4 mm",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "VESA Spec",
+      "value": "200 x 200 mm",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Package Weight",
+      "value": "22.0 kg",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Set Weight with Stand",
+      "value": "17.2 kg",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Set Weight without Stand",
+      "value": "16.4 kg",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Remote Controller Model",
+      "value": "TM2360E (UK Add TM1240A)",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "User Manual",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Full Motion Slim Wall Mount Support (Y22)",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Webcam Support",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Zigbee / Thread Module",
+      "value": "Built-In",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Power Cable",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK variant manufacturer specification; regional service conditions remain as stated."
+    },
+    {
+      "label": "Energy sheet: Energy efficiency class (HDR)",
+      "value": "G",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2019/2013; exact linked model sheet. Preserve separately from marketing refresh or feature terminology.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-qe55qn80fauxxu-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Energy sheet: Standby mode power demand",
+      "value": "0.5",
+      "unit": "W",
+      "condition": "Commission Delegated Regulation (EU) 2019/2013; exact linked model sheet. Preserve separately from marketing refresh or feature terminology.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-qe55qn80fauxxu-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Energy sheet: Electronic display category",
+      "value": "TELEVISION",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2019/2013; exact linked model sheet. Preserve separately from marketing refresh or feature terminology.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-qe55qn80fauxxu-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Energy sheet: Size ratio",
+      "value": "16 : 9",
+      "unit": "integer",
+      "condition": "Commission Delegated Regulation (EU) 2019/2013; exact linked model sheet. Preserve separately from marketing refresh or feature terminology.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-qe55qn80fauxxu-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Energy sheet: Screen resolution",
+      "value": "3840 x 2160",
+      "unit": "pixels",
+      "condition": "Commission Delegated Regulation (EU) 2019/2013; exact linked model sheet. Preserve separately from marketing refresh or feature terminology.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-qe55qn80fauxxu-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Energy sheet: Measured screen diagonal",
+      "value": "138.0",
+      "unit": "cm",
+      "condition": "Commission Delegated Regulation (EU) 2019/2013; exact linked model sheet. Preserve separately from marketing refresh or feature terminology.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-qe55qn80fauxxu-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Energy sheet: Marketed screen diagonal",
+      "value": "55",
+      "unit": "inches",
+      "condition": "Commission Delegated Regulation (EU) 2019/2013; exact linked model sheet. Preserve separately from marketing refresh or feature terminology.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-qe55qn80fauxxu-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Energy sheet: Visible screen area",
+      "value": "82.3",
+      "unit": "dm2",
+      "condition": "Commission Delegated Regulation (EU) 2019/2013; exact linked model sheet. Preserve separately from marketing refresh or feature terminology.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-qe55qn80fauxxu-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Energy sheet: Panel technology used",
+      "value": "QLED LCD",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2019/2013; exact linked model sheet. Preserve separately from marketing refresh or feature terminology.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-qe55qn80fauxxu-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Energy sheet: Automatic Brightness Control available",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2019/2013; exact linked model sheet. Preserve separately from marketing refresh or feature terminology.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-qe55qn80fauxxu-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Energy sheet: Voice recognition sensor available",
+      "value": "No",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2019/2013; exact linked model sheet. Preserve separately from marketing refresh or feature terminology.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-qe55qn80fauxxu-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Energy sheet: Room presence sensor available",
+      "value": "No",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2019/2013; exact linked model sheet. Preserve separately from marketing refresh or feature terminology.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-qe55qn80fauxxu-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Energy sheet: Image refresh frequency rate (default)",
+      "value": "144",
+      "unit": "Hz",
+      "condition": "Commission Delegated Regulation (EU) 2019/2013; exact linked model sheet. Preserve separately from marketing refresh or feature terminology.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-qe55qn80fauxxu-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Energy sheet: Minimum guaranteed product support",
+      "value": "7",
+      "unit": "Years",
+      "condition": "Commission Delegated Regulation (EU) 2019/2013; exact linked model sheet. Preserve separately from marketing refresh or feature terminology.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-qe55qn80fauxxu-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Energy sheet: Power supply type",
+      "value": "Internal",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2019/2013; exact linked model sheet. Preserve separately from marketing refresh or feature terminology.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-qe55qn80fauxxu-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Energy sheet: On-mode SDR power demand",
+      "value": "76.0",
+      "unit": "W",
+      "condition": "Commission Delegated Regulation (EU) 2019/2013; linked model identifier checked.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-qe55qn80fauxxu-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Energy sheet: On-mode HDR power demand",
+      "value": "217.0",
+      "unit": "W",
+      "condition": "Commission Delegated Regulation (EU) 2019/2013; linked model identifier checked.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-qe55qn80fauxxu-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Energy sheet: Networked standby power demand",
+      "value": "2.0",
+      "unit": "W",
+      "condition": "Commission Delegated Regulation (EU) 2019/2013; linked model identifier checked.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-qe55qn80fauxxu-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Energy sheet: Minimum software/firmware update availability after end of placement on market",
+      "value": "8",
+      "unit": "years",
+      "condition": "Commission Delegated Regulation (EU) 2019/2013; linked model identifier checked.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-qe55qn80fauxxu-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Energy sheet: Minimum spare-parts availability after end of placement on market",
+      "value": "7",
+      "unit": "years",
+      "condition": "Commission Delegated Regulation (EU) 2019/2013; linked model identifier checked.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-qe55qn80fauxxu-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia XXH SKU match"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.samsung.com/uk/business/tvs/qled-tv/qn80f-55-inch-neo-qled-4k-mini-led-smart-tv-qe55qn80fauxxu/",
+      "fetched_at": "2026-10-14",
+      "method": "web find",
+      "notes": "Official business Specifications section read; factual rows saved locally. Direct HTTP returned 403."
+    },
+    {
+      "url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-qe55qn80fauxxu-productfiche.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP PDF fetch and pdftotext -layout",
+      "notes": "HTTP 200; PDF model identifier checked; factual energy-sheet rows extracted."
+    }
+  ],
+  "research_lane": "televisions"
+}

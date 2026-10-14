@@ -1,0 +1,135 @@
+{
+  "id": "apple-pencil-2nd-generation",
+  "brand": "Apple",
+  "model": "Pencil (2nd generation)",
+  "model_family": "Pencil (2nd generation)",
+  "category": "Accessories",
+  "scope": "Official UK manufacturer reference. Dimensions/features are for the namedgeneration. UKplug/part may differfromLatvia; exactretailerbarcode/MPNrequiresmatching.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Apple Pencil (2nd generation) technical specifications",
+  "source_url": "https://support.apple.com/en-gb/111889",
+  "tele2_url": "https://www.tele2.lv/aksesuari/pencil-2nd-generation-atverts/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Year introduced",
+      "value": "2018",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/111889",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Length",
+      "value": "166 mm (6.53 inches)",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/111889",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Diameter",
+      "value": "8.9 mm (0.35 inches)",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/111889",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Weight",
+      "value": "18.2 grams (0.64 ounces)",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/111889",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connection",
+      "value": "Bluetooth",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/111889",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Magnetic attachment",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/111889",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "UK package contents",
+      "value": "Apple Pencil (2nd generation)",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/111889",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Manufacturer compatible iPads",
+      "value": "iPad Models; iPad Pro 12.9-inch (6th generation); iPad Pro 12.9-inch (5th generation); iPad Pro 12.9-inch (4th generation); iPad Pro 12.9-inch (3rd generation); iPad Pro 11-inch (4th generation); iPad Pro 11-inch (3rd generation); iPad Pro 11-inch (2nd generation); iPad Pro 11-inch (1st generation); iPad Air (5th generation); iPad Air (4th generation); iPad mini (6th generation)",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/111889",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Pairing",
+      "value": "Magnetic",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/111889",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Charging",
+      "value": "Magnetic",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/111889",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Double tap",
+      "value": "Switch tools",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/111889",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Latency claim",
+      "value": "Low latency; no quantifiedvalue",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/111889",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Hover condition",
+      "value": "iPad Pro12.9-inch6thgen or11-inch4thgen",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://support.apple.com/en-gb/111889",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia MPN/GTIN",
+    "Latvia retail package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://support.apple.com/en-gb/111889",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Official source technical content read; factual extraction retained"
+    }
+  ],
+  "research_lane": "accessories"
+}

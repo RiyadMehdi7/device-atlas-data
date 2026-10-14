@@ -1,0 +1,732 @@
+{
+  "id": "samsung-galaxy-z-fold7-uk-manufacturer-variant-sm-f966bdbneub",
+  "brand": "Samsung",
+  "model": "Galaxy Z Fold7",
+  "category": "Phones",
+  "scope": "UK manufacturer variant SM-F966BDBNEUB; exact UK storage/colour scope, Latvia SKU needs matching",
+  "identifiers": [
+    "SM-F966BDBNEUB"
+  ],
+  "aliases": [
+    "Galaxy Fold7 5G 1TB"
+  ],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Galaxy Z Fold7 | View Specs | Samsung Business UK",
+  "source_url": "https://www.samsung.com/uk/business/smartphones/galaxy-z/galaxy-z-fold7-blue-shadow-1tb-sm-f966bdbneub/",
+  "tele2_url": "https://www.tele2.lv/telefoni/samsung-galaxy-fold7-5g-1tb/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Processor",
+      "value": "4.47GHz, 3.5GHz",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Weight (g)",
+      "value": "215",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "CPU Speed",
+      "value": "4.47GHz, 3.5GHz",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "CPU Type",
+      "value": "Octa-Core",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Size (Main_Display)",
+      "value": "203.1mm (8.0\" full rectangle) / 202.4mm (8.0\" rounded corners)",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Resolution (Main Display)",
+      "value": "2184 x 1968 (QXGA+)",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Technology (Main Display)",
+      "value": "Dynamic AMOLED 2X",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Colour Depth (Main Display)",
+      "value": "16M",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Max Refresh Rate (Main Display)",
+      "value": "120 Hz",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Size (Sub_Display)",
+      "value": "164.8mm (6.5\" full rectangle) / 164.2mm (6.5\" rounded corners)",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Resolution (Sub Display)",
+      "value": "2520 x 1080 (FHD+)",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Technology (Sub Display)",
+      "value": "Dynamic AMOLED 2X",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Colour Depth (Sub Display)",
+      "value": "16M",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Rear Camera - Resolution (Multiple)",
+      "value": "200.0 MP + 12.0 MP + 10.0 MP",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Rear Camera - F Number (Multiple)",
+      "value": "F1.7 , F2.2 , F2.4",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Rear Camera - Auto Focus",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Rear Camera - OIS",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Rear Camera - Zoom",
+      "value": "Optical Zoom 3x, Optical quality Zoom 2x (Enabled by Adaptive Pixel sensor) , Digital Zoom up to 30x",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Front Camera - Resolution",
+      "value": "10.0 MP",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Front Camera - F Number",
+      "value": "F2.2",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Front Camera - Auto Focus",
+      "value": "No",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Front Camera - OIS",
+      "value": "No",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Rear Camera - Flash",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Cover Camera - Resolution",
+      "value": "10.0 MP",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Cover Camera - F Number",
+      "value": "F2.2",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Cover Camera - Auto Focus",
+      "value": "No",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Video Recording Resolution",
+      "value": "UHD 8K (7680 x 4320)@30fps",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Slow Motion",
+      "value": "240fps @FHD, 120fps @FHD, 120fps @UHD",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Memory_(GB)",
+      "value": "16",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Storage (TB)",
+      "value": "1",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Available Storage (GB)",
+      "value": "989.1",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Number of SIM",
+      "value": "Dual-SIM",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "SIM size",
+      "value": "Nano-SIM (4FF), Embedded-SIM",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "SIM Slot Type",
+      "value": "SIM 1 + SIM 2 / SIM 1 + eSIM / Dual eSIM",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Infra",
+      "value": "2G GSM, 3G WCDMA, 4G LTE FDD, 4G LTE TDD, 5G Sub6 FDD, 5G Sub6 TDD, 5G Sub6 SDL",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "2G GSM",
+      "value": "GSM850, GSM900, DCS1800, PCS1900",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "3G UMTS",
+      "value": "B1(2100), B2(1900), B4(AWS), B5(850), B8(900)",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "4G FDD LTE",
+      "value": "B1(2100), B2(1900), B3(1800), B4(AWS), B5(850), B7(2600), B8(900), B12(700), B13(700), B17(700), B18(800), B19(800), B20(800), B25(1900), B26(850), B28(700), B32(1500), B66(AWS-3)",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "4G TDD LTE",
+      "value": "B38(2600), B39(1900), B40(2300), B41(2500)",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "5G FDD Sub6",
+      "value": "N1(2100), N2(1900), N3(1800), N5(850), N7(2600), N8(900), N12(700), N20(800), N25(1900), N26(850), N28(700), N66(AWS-3)",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "5G TDD Sub6",
+      "value": "N38(2600), N40(2300), N41(2500), N77(3700), N78(3500)",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "5G SDL Sub6",
+      "value": "N75(1500+)",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "USB Interface",
+      "value": "USB Type-C",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "USB Version",
+      "value": "USB 3.2 Gen 1",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Location Technology",
+      "value": "GPS, Glonass, Beidou, Galileo, QZSS",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Earjack",
+      "value": "USB Type-C",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "MHL",
+      "value": "No",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Wi-Fi",
+      "value": "802.11a/b/g/n/ac/ax/be 2.4GHz+5GHz+6GHz, EHT320, MIMO, 4096-QAM",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Wi-Fi Direct",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Bluetooth Version",
+      "value": "Bluetooth v5.4",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "NFC",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "UWB (Ultra-Wideband)",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "PC Sync.",
+      "value": "Smart Switch (PC version)",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Form Factor",
+      "value": "Folder",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Dimension (HxWxD, mm)",
+      "value": "158.4 x 143.2 x 4.2",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Dimension when folded (HxWxD, mm)",
+      "value": "158.4 x 72.8 x 8.9",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Video Playback Time (Hours, Wireless)",
+      "value": "Up to 24",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Battery Capacity (mAh, Typical)",
+      "value": "4400.0",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Removable",
+      "value": "No",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Energy Efficiency Class",
+      "value": "B",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Minimum Battery Endurance in Cycles",
+      "value": "2000",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Stereo Support",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Video Playing Format",
+      "value": "MP4, M4V, 3GP, 3G2, AVI, FLV, MKV, WEBM",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Video Playing Resolution",
+      "value": "UHD 8K (7680 x 4320)@60fps",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Audio Playing Format",
+      "value": "MP3, M4A, 3GA, AAC, OGG, OGA, WAV, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA, DFF, DSF, APE",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Recycled Content (%)",
+      "value": "13.7",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Weight of Critical Raw Material - Cobalt (g)",
+      "value": "10 ≤",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Weight of Critical Raw Material - Tantalum (g)",
+      "value": "0.1 ≤",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Weight of Critical Raw Material - Neodymium (g)",
+      "value": "0.2 ≤",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Weight of Critical Raw Material - Gold (g)",
+      "value": "< 0.02",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Recyclability (%)",
+      "value": "11.6",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Gear Support",
+      "value": "Galaxy Ring, Galaxy Buds Core, Galaxy Buds3 Pro, Galaxy Buds2 Pro, Galaxy Buds Pro, Galaxy Buds Live, Galaxy Buds+, Galaxy Buds3, Galaxy Buds2, Galaxy Buds, Galaxy Buds FE, Galaxy Fit3, Galaxy Fit2, Galaxy Fit e, Galaxy Fit, Galaxy Watch FE, Galaxy Watch Ultra, Galaxy Watch8, Galaxy Watch7, Galaxy Watch6, Galaxy Watch5, Galaxy Watch4, Galaxy Watch3, Galaxy Watch, Galaxy Watch Active2, Galaxy Watch Active",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Samsung DeX Support",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Bluetooth® Hearing Aid Support",
+      "value": "Android Audio Streaming for Hearing Aid(ASHA)",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "SmartThings Support",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Mobile TV",
+      "value": "No",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "Security Update Period (Valid until)",
+      "value": "31 July 2032",
+      "unit": "",
+      "condition": "UK exact manufacturer variant; see source URL for colour/storage"
+    },
+    {
+      "label": "EU product sheet — Device type",
+      "value": "Smartphone",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-f966bdbneub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Operating system",
+      "value": "Android",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-f966bdbneub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Energy efficiency class",
+      "value": "B",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-f966bdbneub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Battery user-replaceable",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-f966bdbneub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Battery endurance per cycle (ENDdevice [h])",
+      "value": "40",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-f966bdbneub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Battery endurance in cycles – default settings [cycles]",
+      "value": "2000",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-f966bdbneub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Rated battery capacity (Crated [mAh])",
+      "value": "4272",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-f966bdbneub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Shipped with protective cover",
+      "value": "No",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-f966bdbneub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Repeated free fall reliability test – falls without defect [n]",
+      "value": "210",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-f966bdbneub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — ",
+      "value": "45",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-f966bdbneub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Repeated free fall reliability class",
+      "value": "A",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-f966bdbneub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Ingress protection rating",
+      "value": "IP48",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-f966bdbneub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Specified immersion depth in water, in case of IPx8 [m]",
+      "value": "1.5",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-f966bdbneub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Screen scratch resistance on Mohs hardness scale",
+      "value": "1",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-f966bdbneub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — ",
+      "value": "5",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-f966bdbneub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Repairability Class (based on the index below)",
+      "value": "C",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-f966bdbneub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Repairability Index",
+      "value": "2.97",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-f966bdbneub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Disassembly Depth (SDD) score",
+      "value": "1.67",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-f966bdbneub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Fasteners (type) score (SF)",
+      "value": "3.00",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-f966bdbneub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Tools (type) score (ST)",
+      "value": "3.04",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-f966bdbneub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Spare Part score (SSP)",
+      "value": "5.00",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-f966bdbneub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Software Updates (duration) score (SSU)",
+      "value": "1.00",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-f966bdbneub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Repair Information score (SRI)",
+      "value": "5.00",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-f966bdbneub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Minimum duration of the guarantee offered by the supplier [months]",
+      "value": "24",
+      "unit": "",
+      "condition": "Commission Delegated Regulation (EU) 2023/1669 product information sheet; regulatory test metrics and rated values, not video playback or typical battery capacity.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-f966bdbneub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Charger required output power",
+      "value": "10",
+      "unit": "W",
+      "condition": "EU product information sheet charger requirement.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-f966bdbneub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EU product sheet — Charger receptacle type",
+      "value": "USB",
+      "unit": "",
+      "condition": "EU product information sheet.",
+      "source_url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-f966bdbneub-productfiche.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Manual — Recommended operating temperature",
+      "value": "0 °C to 35 °C",
+      "unit": "",
+      "condition": "Manufacturer EU user guide linked by the exact source SKU; recommended operating range, not storage temperature.",
+      "source_url": "https://org.downloadcenter.samsung.com/downloadfile/ContentsFile.aspx?CDSite=UNI_UK&OriginYN=N&ModelType=N&ModelName=SM-F966B%2FDS&CttFileID=11734113&CDCttType=UM&VPath=UM%2F202609%2F20260918142151506%2FSM-F966B_UG_EU_16_Eng_Rev.2.1_260918.pdf",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Manual — Water-resistance laboratory test",
+      "value": "IP48; 15-35 °C, 86-106 kPa, 1.5 m fresh water for 30 minutes; without moving",
+      "unit": "",
+      "condition": "IEC 60529 laboratory test from manufacturer EU guide linked by this exact SKU. Water resistance can diminish with wear/damage; does not permit pool or sea use.",
+      "source_url": "https://org.downloadcenter.samsung.com/downloadfile/ContentsFile.aspx?CDSite=UNI_UK&OriginYN=N&ModelType=N&ModelName=SM-F966B%2FDS&CttFileID=11734113&CDCttType=UM&VPath=UM%2F202609%2F20260918142151506%2FSM-F966B_UG_EU_16_Eng_Rev.2.1_260918.pdf",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU / model code and GTIN matching",
+    "Colour-specific packaging and regional accessories"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.samsung.com/uk/business/smartphones/galaxy-z/galaxy-z-fold7-blue-shadow-1tb-sm-f966bdbneub/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible manufacturer specification content parsed; model-reference scope, not an exact retailer SKU."
+    },
+    {
+      "url": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-sm-f966bdbneub-productfiche.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch + pdftotext",
+      "notes": "Official EU sheet explicitly linked by the aligned manufacturer storage variant."
+    },
+    {
+      "url": "https://org.downloadcenter.samsung.com/downloadfile/ContentsFile.aspx?CDSite=UNI_UK&OriginYN=N&ModelType=N&ModelName=SM-F966B%2FDS&CttFileID=11734113&CDCttType=UM&VPath=UM%2F202609%2F20260918142151506%2FSM-F966B_UG_EU_16_Eng_Rev.2.1_260918.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch + pdftotext",
+      "notes": "Official guide read through the current aligned manufacturer storage variant."
+    }
+  ],
+  "research_lane": "phones"
+}

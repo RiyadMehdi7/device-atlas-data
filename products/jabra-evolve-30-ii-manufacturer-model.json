@@ -1,0 +1,125 @@
+{
+  "id": "jabra-evolve-30-ii-manufacturer-model",
+  "brand": "Jabra",
+  "model": "Evolve 30 II",
+  "category": "Headphones",
+  "scope": "Official manufacturer technical revision; MS/UC, mono/stereo and USB adapter bundles require exact SKU matching; listed technical sheet revision can differ from Tele2 bundle",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Jabra Evolve 30 II official technical specifications",
+  "source_url": "https://www.jabra.com/_/media/Jabra_VXi_Product-Documentation/Jabra-Evolve-30-II/Tech-specs/RevE/EN-Jabra-Evolve-30-II-tech-specs-APAC-EMEA-SKUs-140125.pdf",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/evolve-30-ii-usb-ca-stereo-ms/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Main unit dimensions (WxHxD) - Stereo",
+      "value": "170.4mm x 151.2mm x 59.5mm | 6.7in x 5.9in x 2.3in",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Main unit dimensions (WxHxD)",
+      "value": "- Mono 170.1mm x 149.6mm x 59.5mm | 6.7in x 5.88in x 2.3in",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Materials used",
+      "value": "Leatherette, PC & PC/ABS plastic, Stainless Steel",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Headset Weight (stereo variant)",
+      "value": "93.2g | 3.28oz",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "USB cable length",
+      "value": "2.15m | 84.64ft",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Speaker size",
+      "value": "28mm",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Speaker max input power",
+      "value": "10 mW",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Speaker frequency range",
+      "value": "150Hz - 7000Hz",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Speaker bandwidth (music mode)",
+      "value": "20Hz - 20000Hz",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Speaker bandwidth (speak mode)",
+      "value": "150Hz - 7000Hz",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Microphone type",
+      "value": "Electret Condenser (ECM) Uni-Directional Microphone",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Microphone sensitivity",
+      "value": "F=1kHz; Pin=1Pa; 0dB=1V/Pa; Min=-48dB; Max=-44dB",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "User hearing protection",
+      "value": "PeakStop™, EU Noise at Work, G616, Jabra SafeTone™",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Connectivity",
+      "value": "3.5 mm jack plug, USB C or USB A",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Operating temperature",
+      "value": "-10°C to 50°C | 14°F to 122°F",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    },
+    {
+      "label": "Storage temperature",
+      "value": "-30°C to 80°C | -22°F to 176°F",
+      "unit": "",
+      "condition": "Official technical revision; model family, variant matching required"
+    }
+  ],
+  "missing_fields": [
+    "Exact Tele2 MS/UC, mono/stereo, adapter and charging bundle reconciliation"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.jabra.com/_/media/Jabra_VXi_Product-Documentation/Jabra-Evolve-30-II/Tech-specs/RevE/EN-Jabra-Evolve-30-II-tech-specs-APAC-EMEA-SKUs-140125.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "web open official PDF",
+      "notes": "Model technical table actually read; bundle-specific accessory claims excluded"
+    }
+  ],
+  "research_lane": "audio"
+}

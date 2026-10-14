@@ -1,0 +1,224 @@
+{
+  "id": "apple-airpods-pro-3-model",
+  "brand": "Apple",
+  "model": "AirPods Pro 3",
+  "category": "Earbuds",
+  "scope": "UK manufacturer model reference; Latvia SKU matching required; no colour copies",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "AirPods Pro 3 Official specifications",
+  "source_url": "https://www.apple.com/uk/airpods-pro/specs/",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/airpodspro3/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "ANC",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Adaptive audio",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Transparency",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Conversation awareness",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Voice isolation",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Personalised volume",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Loud sound reduction",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Spatial audio",
+      "value": "Personalised; dynamic head tracking",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Adaptive EQ",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Audio recording",
+      "value": "Studio quality",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Vent system",
+      "value": "Pressure equalisation",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Headphone chip",
+      "value": "H2",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Case chip",
+      "value": "Second-generation Ultra Wideband",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Heart rate sensor",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Workouts; device/software requirements"
+    },
+    {
+      "label": "Earbud protection",
+      "value": "IP57",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Case protection",
+      "value": "IP57",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Earbud height",
+      "value": "30.9 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Earbud width",
+      "value": "19.2 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Earbud depth",
+      "value": "27.0 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Earbud weight",
+      "value": "5.55 g",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Case height",
+      "value": "47.2 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Case width",
+      "value": "62.2 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Case depth",
+      "value": "21.8 mm",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Case weight",
+      "value": "43.99 g",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Case charging",
+      "value": "MagSafe; Apple Watch; Qi; USB-C",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Case speaker",
+      "value": "Find My",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    },
+    {
+      "label": "Earbud listening",
+      "value": "Up to 8 hours",
+      "unit": "",
+      "condition": "Single charge; ANC enabled"
+    },
+    {
+      "label": "Spatial listening",
+      "value": "Up to 7.5 hours",
+      "unit": "",
+      "condition": "ANC; spatial audio; head tracking"
+    },
+    {
+      "label": "Workout listening",
+      "value": "Up to 6.5 hours",
+      "unit": "",
+      "condition": "Heart rate sensing"
+    },
+    {
+      "label": "Hearing aid listening",
+      "value": "Up to 10 hours",
+      "unit": "",
+      "condition": "Transparency; Hearing Aid"
+    },
+    {
+      "label": "Listening including case",
+      "value": "Up to 24 hours",
+      "unit": "",
+      "condition": "ANC enabled"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "5.3",
+      "unit": "",
+      "condition": "Manufacturer model reference"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU/GTIN matching",
+    "Earbud capacity",
+    "Case capacity",
+    "Full playback lab footnotes"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.apple.com/uk/airpods-pro/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Official specification page actually read; separate case/earbud values"
+    }
+  ],
+  "research_lane": "audio"
+}

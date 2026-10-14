@@ -1,0 +1,126 @@
+{
+  "id": "huawei-watch-fit-4-pro",
+  "brand": "Huawei",
+  "model": "WATCH FIT 4 Pro",
+  "category": "Smartwatches",
+  "scope": "Global manufacturer WATCH FIT 4 Pro reference. Only values assigned to this size column or common model sections included. Battery is manufacturer lab claim; regional services and exact Latvia SKU unresolved.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Huawei WATCH FIT 4 Pro specifications",
+  "source_url": "https://consumer.huawei.com/en/wearables/watch-fit4-pro/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Dimensions",
+      "value": "44.5 × 40.0 × 9.3 mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Wrist Size",
+      "value": "130-210 mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Weight",
+      "value": "Approximately 30.4 g (without the strap)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Display",
+      "value": "1.82 inch AMOLED | 480 × 408 pixels, PPI 347 | 3000-nit | Sapphire glass",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Watch Case",
+      "value": "Mid-frame: Aluminum alloy | Bezel: Titanium alloy",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Accelerometer sensor | Gyroscope sensor | Magnetometer sensor | Optical heart rate sensor | Barometer sensor | Temperature sensor | Ambient light sensor | ECG sensor | Depth sensor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Button",
+      "value": "Home Button (Rotating Crown) and Side Button",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Charging Port",
+      "value": "Wireless charging",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "System Requirements",
+      "value": "Android 8.0 or later | iOS 13.0 or later",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Waterproof Level",
+      "value": "5 ATM | IP6X | Dive (Depth up to 40 metres) |",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Connectivity",
+      "value": "Supported | 2.4 GHz, supports BT5.2 and BR + BLE | L1: GPS + GLONASS + GALILEO + BDS + QZSS | L5: GPS + GALILEO + BDS +QZSS",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Speaker",
+      "value": "Supported",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Microphone",
+      "value": "Supported",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Environment",
+      "value": "–20°C to +45°C",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Charging",
+      "value": "5V-9V DC/2A",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Battery Life",
+      "value": "factory default settings, Bluetooth call 30 minutes/week, music playback 30 minutes/week, heart rate always on, science sleep at night, average weekly exercise 90 minutes, and message notification enabled (50 messages, 6 calls, 3 alarms per day) 2. Turn on the screen 200 times a day.",
+      "unit": "",
+      "condition": "Manufacturer specification; battery values are laboratory claims, actual use varies"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU / GTIN matching",
+    "Regional app and payment availability"
+  ],
+  "source_pages": [
+    {
+      "url": "https://consumer.huawei.com/en/wearables/watch-fit4-pro/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Manufacturer technical specification content parsed; extracted factual fields only"
+    }
+  ],
+  "research_lane": "wearables"
+}

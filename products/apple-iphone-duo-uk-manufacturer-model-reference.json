@@ -1,0 +1,216 @@
+{
+  "id": "apple-iphone-duo-uk-manufacturer-model-reference",
+  "brand": "Apple",
+  "model": "iPhone Duo",
+  "category": "Phones",
+  "scope": "UK manufacturer model reference; capacity options grouped; foldable screen/size states retained; Latvia exact SKU unresolved",
+  "identifiers": [
+    "A3720"
+  ],
+  "aliases": [
+    "iPhone Duo 256GB",
+    "iPhone Duo 2TB",
+    "iPhone Duo 512GB",
+    "iPhone Duo 1TB"
+  ],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "iPhone Duo – Technical Specifications – Apple (UK)",
+  "source_url": "https://www.apple.com/uk/iphone-duo/specs/",
+  "tele2_url": "https://www.tele2.lv/telefoni/iphone-duo-256gb/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Finish",
+      "value": "Night Sky, Star White Titanium foldable design Ceramic Shield 2 front Ceramic Shield back",
+      "unit": "",
+      "condition": "UK manufacturer model reference; folded/unfolded and screen-specific qualifiers are preserved. Battery maxima depend on manufacturer testing, settings and network."
+    },
+    {
+      "label": "Capacity",
+      "value": "256GB 512GB 1TB 2TB",
+      "unit": "",
+      "condition": "UK manufacturer model reference; folded/unfolded and screen-specific qualifiers are preserved. Battery maxima depend on manufacturer testing, settings and network."
+    },
+    {
+      "label": "Size and Weight",
+      "value": "Width: 164.6 mm (6.48 inches) Height: 117.8 mm (4.64 inches) Depth: 5.2 mm (0.21 inches) Open Weight: 254 grams (8.96 ounces) Width: 84.1 mm (3.31 inches) Height: 117.8 mm (4.64 inches) Depth: 11.3 mm (0.44 inches) Closed Weight: 254 grams (8.96 ounces)",
+      "unit": "",
+      "condition": "UK manufacturer model reference; folded/unfolded and screen-specific qualifiers are preserved. Battery maxima depend on manufacturer testing, settings and network."
+    },
+    {
+      "label": "Displays",
+      "value": "Inner display Super Retina XDR display 7.6‑inch (diagonal) all‑screen OLED folding display 1878x2670-pixel resolution at 430 ppi Nano‑texture finish Wide‑angle OLEDs Outer display Super Retina XDR display 5.4‑inch (diagonal) all‑screen OLED display 1398x2034-pixel resolution at 460 ppi Both displays Dynamic Island Always-On display ProMotion technology with adaptive refresh rates up to 120Hz HDR display True Tone Wide colour (P3) Haptic Touch 2,000,000:1 contrast ratio (typical) 1,000 nits max brightness (typical); 1,600 nits peak brightness (HDR); 3,000 nits peak brightness (outdoor); 1 nit minimum brightness Fingerprint‑resistant oleophobic coating Anti‑reflective coating Support for display of multiple languages and characters simultaneously Supports Apple Pencil (USB-C) 3 The iPhone Duo displays have rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screens are 7.58 and 5.36 inches diagonally (actual viewable area is less).",
+      "unit": "",
+      "condition": "UK manufacturer model reference; folded/unfolded and screen-specific qualifiers are preserved. Battery maxima depend on manufacturer testing, settings and network."
+    },
+    {
+      "label": "Splash, Water and Dust Resistant",
+      "value": "Rated IP68 (maximum depth of 6 metres up to 30 minutes) under IEC standard 60529",
+      "unit": "",
+      "condition": "UK manufacturer model reference; folded/unfolded and screen-specific qualifiers are preserved. Battery maxima depend on manufacturer testing, settings and network."
+    },
+    {
+      "label": "Chip",
+      "value": "A20 Pro chip 6‑core CPU with 2 super cores and 4 efficiency cores 7‑core GPU with Neural Accelerators Dual 16‑core Neural Engine Hardware‑accelerated ray tracing",
+      "unit": "",
+      "condition": "UK manufacturer model reference; folded/unfolded and screen-specific qualifiers are preserved. Battery maxima depend on manufacturer testing, settings and network."
+    },
+    {
+      "label": "Camera",
+      "value": "48MP Dual Fusion camera system 48MP Fusion Main: 26mm, ƒ/1.6 aperture, sensor‑shift optical image stabilisation, Hybrid Focus Pixels, super‑high‑resolution photos (24MP and 48MP) Also enables 12MP optical-quality 2x Telephoto: 52mm, ƒ/1.6 aperture, sensor‑shift optical image stabilisation, Hybrid Focus Pixels 48MP Fusion Ultra Wide: 13mm, ƒ/2.2 aperture and 120° field of view, Hybrid Focus Pixels, super‑high‑resolution photos (24MP and 48MP) 2x optical‑quality zoom in, 2x optical zoom out; 4x optical‑quality zoom range Digital zoom up to 10x Smart Take Duo Preview Photo­graphic Styles 3 Smart focus tracking Customisable default lens (Fusion Main) Sapphire crystal lens cover True Tone flash Photonic Engine Deep Fusion Smart HDR 5 Next-generation portraits with Focus and Depth Control Portrait Lighting with six effects Night mode Panorama (up to 63MP) 48MP macro photography Wide colour capture for photos and Live Photos Lens correction (Fusion Ultra Wide) Advanced red‑eye correction Auto image stabilisation Burst mode Photo geotagging Image formats captured: HEIF and JPEG",
+      "unit": "",
+      "condition": "UK manufacturer model reference; folded/unfolded and screen-specific qualifiers are preserved. Battery maxima depend on manufacturer testing, settings and network."
+    },
+    {
+      "label": "Video Recording",
+      "value": "4K Dolby Vision video recording at 24 fps, 25 fps, 30 fps, 60 fps, 100 fps (Fusion Main) or 120 fps (Fusion Main) 1080p Dolby Vision video recording at 25 fps, 30 fps, 60 fps or 120 fps (Fusion Main) 720p Dolby Vision video recording at 30 fps Cinematic mode up to 4K Dolby Vision at 60 fps Cinematic mode effects from video Duo Preview Smart focus tracking Improved low‑light video at 1080p Action mode up to 2.8K Dolby Vision at 60 fps Macro video recording, including slo‑mo and time‑lapse Slo‑mo video support for 1080p up to 240 fps and 4K Dolby Vision up to 120 fps (Fusion Main) Dual Capture up to 4K Dolby Vision at 30 fps Time‑lapse video with stabilisation up to 4K Dolby Vision Night mode Time‑lapse QuickTake video up to 4K Dolby Vision at 60 fps Sensor‑shift optical image stabilisation for video (Fusion Main) Digital zoom up to 6x Audio zoom True Tone flash Cinematic video stabilisation (4K, 1080p and 720p) Continuous autofocus video Take 8MP still photos while recording 4K video Playback zoom Video formats recorded: HEVC and H.264 Spatial Audio and stereo recording Wind noise reduction Audio Mix",
+      "unit": "",
+      "condition": "UK manufacturer model reference; folded/unfolded and screen-specific qualifiers are preserved. Battery maxima depend on manufacturer testing, settings and network."
+    },
+    {
+      "label": "Front Camera",
+      "value": "Outer 12MP Center Stage camera ƒ/2.2 aperture Retina Flash Smart Take Kid Cue Photo­graphic Styles 3 Improved low‑light video at 1080p Tap to zoom and rotate Centre Stage for photos Ultra‑stabilised video Dual Capture Centre Stage for video calls Photonic Engine Deep Fusion Smart HDR 5 Next‑generation portraits with Focus and Depth Control Portrait Lighting with six effects Animoji and Memoji Night mode Wide colour capture for photos and Live Photos Lens correction Auto image stabilisation Burst mode 4K Dolby Vision video recording at 24 fps, 25 fps, 30 fps or 60 fps 1080p Dolby Vision video recording at 25 fps, 30 fps or 60 fps Cinematic mode up to 4K Dolby Vision at 30 fps Cinematic mode effects from video Slo‑mo video support for 1080p at 120 fps Time‑lapse video with stabilisation up to 4K Dolby Vision Night mode Time‑lapse QuickTake video up to 4K at 60 fps in Dolby Vision Cinematic video stabilisation (4K, 1080p and 720p) Spatial Audio and stereo recording Wind noise reduction Audio Mix Inner Under-display FaceTime camera Centre Stage for video calls ƒ/1.8 aperture Tap to zoom and rotate Ultra‑stabilised video 1080p video recording at 30 or 60 fps Animoji and Memoji in FaceTime Wide colour capture for photos and Live Photos Lens correction Auto image stabilisation QuickTake video at 1080p at 30 fps and 60 fps Spatial Audio and stereo recording Wind noise reduction Audio Mix",
+      "unit": "",
+      "condition": "UK manufacturer model reference; folded/unfolded and screen-specific qualifiers are preserved. Battery maxima depend on manufacturer testing, settings and network."
+    },
+    {
+      "label": "Power and Battery",
+      "value": "Typical use Up to 24 hours Video playback Up to 44 hours when using the outer display 7 Up to 31 hours when using the inner display 7 Video playback (streamed) Up to 37 hours when using the outer display 7 Up to 26 hours when using the inner display 7 Dual built‑in rechargeable lithium‑ion batteries Fast-charge capable: Up to 50% charge in around 20 minutes 8 with 60W-capable adapter or higher (available separately) paired with USB‑C charging cable Up to 50% charge in around 30 minutes 8 with 35W adapter or higher paired with MagSafe Charger (both available separately)",
+      "unit": "",
+      "condition": "UK manufacturer model reference; folded/unfolded and screen-specific qualifiers are preserved. Battery maxima depend on manufacturer testing, settings and network."
+    },
+    {
+      "label": "Touch ID",
+      "value": "Fingerprint sensor built into the side button",
+      "unit": "",
+      "condition": "UK manufacturer model reference; folded/unfolded and screen-specific qualifiers are preserved. Battery maxima depend on manufacturer testing, settings and network."
+    },
+    {
+      "label": "Peace of Mind",
+      "value": "Emergency SOS via satellite 9 Crash Detection 10 Roadside Assistance via satellite 9 Find My via satellite 9",
+      "unit": "",
+      "condition": "UK manufacturer model reference; folded/unfolded and screen-specific qualifiers are preserved. Battery maxima depend on manufacturer testing, settings and network."
+    },
+    {
+      "label": "Mobile and Wireless",
+      "value": "Model A3720 — FDD-5G NR (Bands n1, n2, n3, n5, n7, n8, n12, n20, n25, n26, n28, n30, n66, n70, n75) TDD-5G NR (Bands n38, n40, n41, n48, n53, n77, n78, n79) FDD-LTE (Bands 1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 66, 106) TDD-LTE (Bands 34, 38, 39, 40, 41, 42, 48, 53) UMTS/HSPA+ (850, 900, 1700/2100, 1900, 2100 MHz) GSM/EDGE (850, 900, 1800, 1900 MHz) Apple C2 cellular modem 5G (sub-6GHz) with 4x4 MIMO 11 Gigabit LTE with 4x4 MIMO 11 Apple N1 wireless networking chip Wi‑Fi 7 (802.11be) with 2x2 MIMO 12 Bluetooth 6 Thread networking technology Apple second-generation Ultra Wideband chip 13 NFC with reader mode Express Cards with power reserve",
+      "unit": "",
+      "condition": "UK manufacturer radio profile selected only for A3720. Exact model/size mapping is independently verified by Apple identifier hub, or the dedicated single-model Duo UK table. Shared-profile headings explicitly applied to this code; Latvia retail GTIN/SKU matching remains unresolved."
+    },
+    {
+      "label": "Location",
+      "value": "Precision dual-frequency GPS (GPS, GLONASS, Galileo, QZSS, BeiDou and NavIC) Digital compass Wi‑Fi Mobile data iBeacon micro-location",
+      "unit": "",
+      "condition": "UK manufacturer model reference; folded/unfolded and screen-specific qualifiers are preserved. Battery maxima depend on manufacturer testing, settings and network."
+    },
+    {
+      "label": "External Buttons and Connectors",
+      "value": "Volume up/down Volume up/down Camera Control Built‑in stereo speaker Built‑in microphone Built‑in stereo speaker Built‑in stereo speaker Built‑in microphones USB‑C connector Side button Camera controls Exposure, Depth, Zoom, Cameras, Styles, Tone",
+      "unit": "",
+      "condition": "UK manufacturer model reference; folded/unfolded and screen-specific qualifiers are preserved. Battery maxima depend on manufacturer testing, settings and network."
+    },
+    {
+      "label": "Char­ging and Expan­sion",
+      "value": "USB‑C connector with support for: Char­ging DisplayPort USB 3 (up to 10Gb/s) 14",
+      "unit": "",
+      "condition": "UK manufacturer model reference; folded/unfolded and screen-specific qualifiers are preserved. Battery maxima depend on manufacturer testing, settings and network."
+    },
+    {
+      "label": "MagSafe and Wireless Charging",
+      "value": "MagSafe wireless charging up to 25W 8 Qi2 wireless charging up to 25W 8 Magnet array Alignment magnet Accessory Identification NFC Magnetometer",
+      "unit": "",
+      "condition": "UK manufacturer model reference; folded/unfolded and screen-specific qualifiers are preserved. Battery maxima depend on manufacturer testing, settings and network."
+    },
+    {
+      "label": "Sensors",
+      "value": "Touch ID fingerprint sensor Barometer High dynamic range gyro High-g accelerometer Proximity sensor Four ambient light sensors",
+      "unit": "",
+      "condition": "UK manufacturer model reference; folded/unfolded and screen-specific qualifiers are preserved. Battery maxima depend on manufacturer testing, settings and network."
+    },
+    {
+      "label": "SIM Card",
+      "value": "Dual eSIM (two active eSIMs; stores eight or more eSIMs) 15 iPhone Duo uses advanced eSIM technology for more convenience and security (not compatible with physical SIM cards). Learn more about eSIM Learn more about travelling with eSIM",
+      "unit": "",
+      "condition": "UK manufacturer model reference; folded/unfolded and screen-specific qualifiers are preserved. Battery maxima depend on manufacturer testing, settings and network."
+    },
+    {
+      "label": "Audio Playback",
+      "value": "Supported formats include AAC, APAC, MP3, Apple Lossless, FLAC, Dolby Digital, Dolby Digital Plus and Dolby Atmos Spatial Audio playback User‑configurable maximum volume limit",
+      "unit": "",
+      "condition": "UK manufacturer model reference; folded/unfolded and screen-specific qualifiers are preserved. Battery maxima depend on manufacturer testing, settings and network."
+    },
+    {
+      "label": "Video Playback",
+      "value": "Supported formats include HEVC, H.264 and AV1 HDR with Dolby Vision, HDR10+/HDR10 and HLG Up to 4K HDR AirPlay for mirroring, photos and video out to Apple TV (2nd generation or later) or AirPlay‑enabled smart TV Video mirroring and video out support: up to 4K HDR through native DisplayPort output over USB‑C or USB‑C Digital AV Adapter (model A2119; adapter sold separately) 18",
+      "unit": "",
+      "condition": "UK manufacturer model reference; folded/unfolded and screen-specific qualifiers are preserved. Battery maxima depend on manufacturer testing, settings and network."
+    },
+    {
+      "label": "Operating System",
+      "value": "iOS 27",
+      "unit": "",
+      "condition": "UK manufacturer model reference; folded/unfolded and screen-specific qualifiers are preserved. Battery maxima depend on manufacturer testing, settings and network."
+    },
+    {
+      "label": "Rating for Hearing Aids",
+      "value": "Hearing Aid Compatible",
+      "unit": "",
+      "condition": "UK manufacturer model reference; folded/unfolded and screen-specific qualifiers are preserved. Battery maxima depend on manufacturer testing, settings and network."
+    },
+    {
+      "label": "System Requirements",
+      "value": "Apple Account (required for some features) Internet access 20 Syncing to a Mac or PC requires: macOS Catalina 10.15 or later using the Finder macOS High Sierra 10.13 to macOS Mojave 10.14.6 using iTunes 12.8 or later Windows 10 or later using iTunes 12.12.10 or later (free download from apple.com/uk/itunes/download )",
+      "unit": "",
+      "condition": "UK manufacturer model reference; folded/unfolded and screen-specific qualifiers are preserved. Battery maxima depend on manufacturer testing, settings and network."
+    },
+    {
+      "label": "En­viron­men­tal Requirements",
+      "value": "Operating ambient temperature: 0° to 35° C (32° to 95° F) Non-operating temperature: −20° to 45° C (−4° to 113° F) Relative humidity: 5% to 95% non-condensing Operating altitude: tested up to 3,000 metres (10,000 feet)",
+      "unit": "",
+      "condition": "UK manufacturer model reference; folded/unfolded and screen-specific qualifiers are preserved. Battery maxima depend on manufacturer testing, settings and network."
+    },
+    {
+      "label": "In the Box",
+      "value": "iPhone with iOS 27 USB‑C Charge Cable (1m)",
+      "unit": "",
+      "condition": "UK manufacturer model reference; folded/unfolded and screen-specific qualifiers are preserved. Battery maxima depend on manufacturer testing, settings and network."
+    },
+    {
+      "label": "UK manufacturer availability date",
+      "value": "23 October 2026",
+      "unit": "",
+      "condition": "Apple UK product page names selected network providers/retailers; does not confirm Latvian release availability.",
+      "source_url": "https://www.apple.com/uk/iphone-duo/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "UK technical-sheet model identifier",
+      "value": "A3720",
+      "unit": "",
+      "condition": "Single model code explicitly stated in the dedicated iPhone Duo UK radio specification table; no family/size transfer. Latvia retail SKU and country-group mapping remain unresolved.",
+      "source_url": "https://www.apple.com/uk/iphone-duo/specs/",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU / model code and GTIN matching",
+    "Colour-specific packaging and regional accessories",
+    "Latvian commercial SKU/GTIN and country grouping for UK-documented A3720 remain unresolved"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.apple.com/uk/iphone-duo/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible manufacturer specification content parsed; model-reference scope, not an exact retailer SKU."
+    },
+    {
+      "url": "https://www.apple.com/uk/iphone-duo/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Manufacturer UK release availability statement read independently."
+    }
+  ],
+  "research_lane": "phones"
+}

@@ -1,0 +1,332 @@
+{
+  "id": "benq-gw2790c",
+  "brand": "BenQ",
+  "model": "GW2790C",
+  "category": "Monitors",
+  "scope": "Exact GW2790C manufacturer US technical specification reference; Latvia EAN, regional code and supplied accessories unresolved.",
+  "identifiers": [
+    "GW2790C"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "GW2790C Specifications | BenQ US",
+  "source_url": "https://www.benq.com/en-us/monitor/home/gw2790c/spec.html",
+  "tele2_url": "https://www.tele2.lv/monitori/benq-gw2790c-27-1920x1080169hdmi--dp--us/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "{{item.name}} Price: {{currency}}{{item.price| numberThousandsCommas | numberDecimalPoint}} Qty: {{item.amount}} Cart Subtotal: {{currency}}{{cartTotal.price| numberThousandsCommas | numberDecimalPoint}} Check out Account Sign in Track order Track order Sign Out {{userName}} Projectors Explore All Projector Series By Series Home Projectors Cinema Projectors Portable Projectors Gaming Projectors TV Projectors Golf Simulator Projectors By Feature Best 4K Projectors Best Gaming Projectors Best Projectors for Sports GV Series Portable Ceiling Projectors House Mapping Projectors By Trending Word 4K UHD (3840×2160) Short Throw 2D, Vertical／Horizontal Keystone LED Laser With Android TV With Low Input Lag Explore Commercial Projector Professional Installation Simulation Projection Small Business Corporation K12 & Higher Education Compare All Projectors Golf Projector Hub+ Find Your Perfect Projector Software Projector Lamps and Accessory Refurbished Projectors Monitors Explore All Monitor Series By Series For Gaming For Entertainment For Color-Critical Work For Programming For MacBook By Feature Photographer Monitors Designer Monitors Best 4K Monitors BenQ Monitors for Mac Best Monitors for Programming By Trending Word 4K(3840x2160) 21：9 Ultrawide 3：2 Aspect Ratio USB-C Daisy Chain (via Thunderbolt) Daisy Chain (via DisplayPort MST) Built-in KVM Switch Compatible Accessories Monitor Arm Monitor Light Bar Compare All Monitors Accessories Software Refurbished Monitors Creative Pro Ambassador Program Lighting Explore All Lighting Series By Series Monitor Light Bar Dual Monitor Desk Lamp e-Reading Desk Lamp Piano Lights Parenting Reading Lamp Lighting Tips & Guide Find Your Perfect Monitor Light Bar Monitor Lighting for Programmers Best Lighting for Dark Rooms Best Dual Monitor Desk Setup Best Home Office Lighting By Trending Word With Backlight Curved Monitor Flat Monitor Ultra-Wide Monitor Back-bulging Monitor Dual Monitors Compare All Lightings Accessories Refurbished Lighting Office Lighting Solution GV31 Recall GV31 Recall Accessories Explore Docks and Hubs GR10 Steam Deck Dock USB-C Hybrid Dock Explore Webcam ideacam S1 Pro ideacam S1 Plus Enspire Explore treVolo Speaker Carry Case & Stand Refurbished USB-C Hybrid Dock Refurbished GR10 Steam Deck Dock Refurbished ideaCam S1 Pro Refurbished ideacam S1 Plus Interactive Displays | Signage Explore All Interactive Display | Signage Products BenQ Board Digital Signage Education Software Accessories By Solutions ClassroomCare® Active Learning Hybrid Learning Explore Education Resources Edtech Blog Success Stories Newsroom Virtual Tour BenQ Academy Interactive Displays Pantone Validated Smart Signage Series 4K Smart Signage Series BenQ Board Accessories Smart Display Accessories Wireless Presentation Store BenQ Store Shop by Product Buy Monitor Buy Projector Buy Lighting Refurbished Refurbished Monitors Refurbished Projectors Refurbished Lighting Events All Events New Ceiling Projector Special Offers BenQ Deals BenQ Membership BenQ Student Bean Program clear 0 || searchResult.length > 0)\"> 0 && !searchInputPC\"> Search history Clear 0 && !searchInputPC\"> {{ history }} {{ result[0] }} {{ list[0] }} 0\" class=\"cart-mount g6-text-sm\">{{cartTotal.length}} 0 && showCart\" class=\"cart-detail-container\" :class=\"{ 'cart-detail-show': cartTotal.length > 0 && showCart }\" @focusout=\"handleCartFocusOut($event)\"> {{item.name}} Price: {{currency + item.price}} Qty: {{item.amount}} Cart Subtotal: {{currency}}{{cartTotal.price | numberThousandsCommas | numberDecimalPoint}} Check out 0\" @click=\"clearSearchInputMobile\" aria-label=\"Clear search input\"> 0 || searchResult.length > 0)\" @click=\"cancelSearch\"> Cancel 0 || searchResult.length > 0)\"> 0\"> Search Clear 0\" v-for=\"history in historyResult\"> {{ history }} {{ result[0] }} {{ list[0] }} Projectors Explore All Projector Series By Series Home Projectors Cinema Projectors Portable Projectors Gaming Projectors TV Projectors Golf Simulator Projectors By Feature Best 4K Projectors Best Gaming Projectors Best Projectors for Sports GV Series Portable Ceiling Projectors House Mapping Projectors By Trending Word 4K UHD (3840×2160) Short Throw 2D, Vertical／Horizontal Keystone LED Laser With Android TV With Low Input Lag Explore Commercial Projector Professional Installation Simulation Projection Small Business Corporation K12 & Higher Education Compare All Projectors Golf Projector Hub+ Find Your Perfect Projector Software Projector Lamps and Accessory Refurbished Projectors Monitors Explore All Monitor Series By Series For Gaming For Entertainment For Color-Critical Work For Programming For MacBook By Feature Photographer Monitors Designer Monitors Best 4K Monitors BenQ Monitors for Mac Best Monitors for Programming By Trending Word 4K(3840x2160) 21：9 Ultrawide 3：2 Aspect Ratio USB-C Daisy Chain (via Thunderbolt) Daisy Chain (via DisplayPort MST) Built-in KVM Switch Compatible Accessories Monitor Arm Monitor Light Bar Compare All Monitors Accessories Software Refurbished Monitors Creative Pro Ambassador Program Lighting Explore All Lighting Series By Series Monitor Light Bar Dual Monitor Desk Lamp e-Reading Desk Lamp Piano Lights Parenting Reading Lamp Lighting Tips & Guide Find Your Perfect Monitor Light Bar Monitor Lighting for Programmers Best Lighting for Dark Rooms Best Dual Monitor Desk Setup Best Home Office Lighting By Trending Word With Backlight Curved Monitor Flat Monitor Ultra-Wide Monitor Back-bulging Monitor Dual Monitors Compare All Lightings Accessories Refurbished Lighting Office Lighting Solution GV31 Recall GV31 Recall Accessories Explore Docks and Hubs GR10 Steam Deck Dock USB-C Hybrid Dock Explore Webcam ideacam S1 Pro ideacam S1 Plus Enspire Explore treVolo Speaker Carry Case & Stand Refurbished USB-C Hybrid Dock Refurbished GR10 Steam Deck Dock Refurbished ideaCam S1 Pro Refurbished ideacam S1 Plus Interactive Displays | Signage Explore All Interactive Display | Signage Products BenQ Board Digital Signage Education Software Accessories By Solutions ClassroomCare® Active Learning Hybrid Learning Explore Education Resources Edtech Blog Success Stories Newsroom Virtual Tour BenQ Academy Interactive Displays Pantone Validated Smart Signage Series 4K Smart Signage Series BenQ Board Accessories Smart Display Accessories Wireless Presentation Store BenQ Store Shop by Product Buy Monitor Buy Projector Buy Lighting Refurbished Refurbished Monitors Refurbished Projectors Refurbished Lighting Events All Events New Ceiling Projector Special Offers BenQ Deals BenQ Membership BenQ Student Bean Program Support Knowledge Account Sign in Track order Track order Sign Out {{userName}} Education Business Workplace INFTYLAB Zowie .body-new { transform: translateY(110vh);} @keyframes modal-slide-up { 0% {transform: translateY(110vh);} 100% {transform: translateY(0vh);} } Cookie Setting BenQ respect your data privacy. We use cookies and similar technologies to ensure you get the best experience when visiting our website. You can either accept these cookies by clicking “Accept Cookies”, or click “Only Required Cookies” to refuse all non-essential technologies. You can customise your cookie settings here at any time. For further information, please visit our Cookie Policy and our Privacy Policy . Accept Cookies Only Required Cookies Cookie Setting Cookie Setting Only Required Cookies Accept Cookies How can I change my BenQ cookie settings? Page updated: May 2020 Some essential features on BenQ sites just won’t work without cookies. And having other cookies switched off can seriously affect the way you’ll be able to enjoy our services. Please check your cookie settings below and turn on any cookies you’re happy with. “Strictly necessary” cookies can’t be turned off. But Functional and Performance cookies can be turned on or off below. You can learn more about cookies and what they do on our other pages. If you've chosen to block third-party cookies on your browser, your cookie preferences won't carry over from benq.eu to benq.xx and vice versa. Please make sure to set your cookie preferences in both places. On Strictly necessary cookies These cookies are essential so that you can move around the website and use its features. Without these cookies services you have asked for cannot be provided. See list of strictly necessary cookies On Off Functional cookies These cookies allow the website to remember choices you make to give you better functionality and personal features. See list of functional cookies On Off Performance cookies and advertising cookies Performance cookies These cookies help to improve the performance of BenQ. If you want to opt-out of advertising cookies, you have to turn-off performance cookies. We also use Google Analytics, SessionCam and Hotjar to track activity and performance on the BenQ website. You can control the information provided to Google, SessionCam and Hotjar. To opt out of certain ads provided by Google you can use any of the methods set forth here or using the Google Analytics opt out browser add-on here. To opt-out of SessionCam collecting data, you can disable tracking completely by following link： https://sessioncam.com/choose-not-to-be-recorded/ . To opt-out of Hotjar collecting data, you can disable tracking completely by following link： https://www.hotjar.com/privacy/do-not-track/ . See list of performance and advertising cookies Advertising cookies These cookies are used to track your activity on the BenQ website and other websites across the Internet, help measure the effectiveness of our advertising campaign and deliver advertisements that are more relevant to you and your interests. We use various advertising partners, including Amazon, Facebook, and Google. These cookies and other technologies capture data like your IP address, when you viewed the page or email, what device you were using and where you were. You can find out how to avoid them below. See list of performance and advertising cookies Back Save and Close Get FREE shipping in the US for orders over $35 + FREE returns within 30 days Get FREE shipping in the US for orders over $35 + FREE returns within 30 days You need advice? our online chat connects you with real experts instead of bots! Chat with us today You need advice? our online chat connects you with real experts instead of bots! Chat with us today GV31 Recall Learn More GV31 Recall Learn More localNavigation.type = g6-product-spec-page GW2790C Buy Overview Spec FAQ Buy Specifications All Specifications Display Screen Size",
+      "value": "27 inch",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Panel Type",
+      "value": "IPS",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Backlight Technology",
+      "value": "LED backlight",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Resolution (max.)",
+      "value": "1920x1080",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Brightness (typ.)",
+      "value": "300 nits",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Viewing Angle (L/R) (CR>=10)",
+      "value": "178°/178°",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Response Times (GtG)",
+      "value": "5 ms",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Refresh Rate (Hz)",
+      "value": "144",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Native Contrast",
+      "value": "1500:1",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Color Gamut",
+      "value": "99% sRGB",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Color Mode",
+      "value": "Standard, Game, ePaper, Care mode, Cinema",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Aspect Ratio",
+      "value": "16:9",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Display Colors",
+      "value": "16.7 million color",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Display Screen Coating",
+      "value": "Matte",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "PPI",
+      "value": "82",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "HDCP",
+      "value": "1.4",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "OSD Language",
+      "value": "Bulgarian, Greek, Ukrainian, Arabic, Chinese (simplified), Chinese (traditional), Czech, Deutsch, English, French, Hungarian, Italian, Japanese, Korean, Netherlands, Polish, Portuguese, Romanian, Russian, Spanish, Swedish",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Built-in Speaker",
+      "value": "2Wx2",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Headphone Jack",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Voltage Rating",
+      "value": "100 - 240V",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Power Supply",
+      "value": "Built-in",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Power Consumption (normal)",
+      "value": "22 W",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Power Consumption (max)",
+      "value": "36 W",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Power Consumption (sleep mode)",
+      "value": "<0.5 W",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Tilt (down/up)",
+      "value": "-5˚ - 20˚",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Dimensions (HxWxD) (mm)",
+      "value": "450 x 612 x 207",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Dimensions (HxWxD) (inch)",
+      "value": "17.7 x 24.1 x 8.2",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Dimensions (HxWxD) (w/o Base) (mm)",
+      "value": "368 x 612 x 65",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Dimensions (HxWxD) (w/o Base) (inch)",
+      "value": "14.5 x 24.1 x 2.5",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Net Weight (kg)",
+      "value": "4.4",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Net Weight (lb)",
+      "value": "9.79",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Net Weight (w/o Base) (kg)",
+      "value": "3.96",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Net Weight (w/o Base) (lb)",
+      "value": "8.73",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "VESA Wall Mount",
+      "value": "100x100 mm",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Other Accessories",
+      "value": "QSG, Warranty Card, Safety Instruction",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Signal Cable (may vary by region)",
+      "value": "HDMI (v1.4)",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "HDMI (v1.4)",
+      "value": "1",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "DisplayPort (v1.2)",
+      "value": "1",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "USB C ( DisplayPort Alt Mode, Data )",
+      "value": "1",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "USB C ( DisplayPort Alt Mode, Data, not support PowerDelivery)",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Flicker-free Technology",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Low Blue Light Plus",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Color Weakness",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "ePaper",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Visual Optimizer",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Energy Star",
+      "value": "8.0",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "EPEAT",
+      "value": "Bronze",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "TUV Certificate",
+      "value": "Eye Comfort 3.0, EyeSafe 2.0, Low Blue Light",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "FreeSync",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    },
+    {
+      "label": "Eye-CareU",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact BenQ/ZOWIE manufacturer model reference; source typical/max, port/stand conditions retained; US bundle/regional SKU may differ"
+    }
+  ],
+  "missing_fields": [
+    "Latvia EAN / regional product code matching",
+    "Input timing limits from official user manual"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.benq.com/en-us/monitor/home/gw2790c/spec.html",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "HTTP 200; exact model heading and technical specification rows read"
+    }
+  ],
+  "research_lane": "monitors"
+}

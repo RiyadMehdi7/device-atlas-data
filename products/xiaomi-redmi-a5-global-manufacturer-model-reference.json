@@ -1,0 +1,120 @@
+{
+  "id": "xiaomi-redmi-a5-global-manufacturer-model-reference",
+  "brand": "Xiaomi",
+  "model": "REDMI A5",
+  "category": "Phones",
+  "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "REDMI A5 Specs - Xiaomi Global",
+  "source_url": "https://www.mi.com/global/product/redmi-a5/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Processor",
+      "value": "UNISOC T7250 processor | 12nm process, octa-core | CPU: Up to 1.8GHz",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Storage & RAM",
+      "value": "3GB+64GB | 4GB+128GB | LPDDR4X + eMMC 5.1 | Supports memory extension: 3GB up to 6GB, 4GB up to 8GB",
+      "unit": "",
+      "condition": "*Configurations available may differ between different regions. Available RAM and storage are less than the total memory due to storage of the operating system and software pre-installed on the device. *6GB RAM with Memory extension is based on 3GB RAM version, 8GB RAM with Memory extension is based on 4GB RAM version. Additional RAM will occupy a corresponding amount of ROM storage. Memory extension is only available when there is enough storage space on your device. Actual extension of RAM storage capacity varies across different models."
+    },
+    {
+      "label": "Dimensions",
+      "value": "Height: 171.7mm | Width: 77.8mm | Thickness: 8.26mm | Weight: 193g",
+      "unit": "",
+      "condition": "*Data obtained from Xiaomi Internal Labs. Industry measurement methods may vary, and therefore actual results may differ."
+    },
+    {
+      "label": "Display",
+      "value": "6.88\" large screen display | 1640*720, 260 ppi | Contrast ratio: 1500:1 | Color depth: 8-bit | Color gamut: 70% NTSC | Brightness: 450 nits (typ) | Refresh rate: Up to 120Hz* | DC dimming | TÜV Rheinland Low Blue Light (Software Solution) | TÜV Rheinland Flicker Free | TÜV Rheinland Circadian Friendly* | Touch sampling rate: Up to 240Hz | Screen-to-body ratio 90% (AA/CG)",
+      "unit": "",
+      "condition": "*Refresh rate can be adjusted to up to 120Hz for supported apps. *Feature may be available via OTA update. *Data obtained from Xiaomi Internal Labs. Actual results may vary."
+    },
+    {
+      "label": "Rear Camera",
+      "value": "filmCamera | HDR mode | Ultra HD | Night mode | 32MP main camera | 4P lens | f/2.0 | Auxiliary lens | Rear camera video recording | 1080p 1920x1080 30fps | 720p 1280x720 30fps",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Front Camera",
+      "value": "HDR mode | Fill-light Portrait mode | Time-lapse | Night mode | 8MP front camera | 4P lens | f/2.0 | Front video recording | 1080p 1920x1080 30fps | 720p 1280x720 30fps",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Battery & Charging",
+      "value": "5200mAh battery (typ) | Supports 15W fast charging | USB Type-C",
+      "unit": "",
+      "condition": "*Power adapter is sold separately in certain regions."
+    },
+    {
+      "label": "Security",
+      "value": "Side fingerprint sensor | AI face unlock",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Network & Connectivity",
+      "value": "Dual SIM + microSD | Network bands: | Supports 4G/3G/2G | 4G: LTE TDD: B38/40/41 | 4G: LTE FDD: B1/3/5/7/8/20/28 | 3G: WCDMA: B1/5/8 | 2G: GSM:2/3/5/8 | Wireless Networks | 2.4GHz/5GHz Wi-Fi | Bluetooth 5.2 | Supports FM radio (with headphone jack) | Supports AAC / SBC",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Navigation & Positioning",
+      "value": "GPS | Glonass | Galileo | BDS (only B1C）",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Audio",
+      "value": "3.5mm headphone jack",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Audio playback",
+      "value": "aac、mp4、amr、midi、mp3、ogg、flac、mkv(opus)、rtx、m4a、ota、mid、3gp、ts、smf、oga、awb",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Video playback",
+      "value": "ts、mp4、3gp、mkv、webm、mpeg2、mpeg4、H.263、H.264、H.265、VP8、VP9、AV1",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Virtual proximity sensor | Virtual ambient light sensor | Accelerometer | Electronic compass",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Operating system",
+      "value": "Android 15 (Go Edition)",
+      "unit": "",
+      "condition": ""
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU / model code and GTIN matching",
+    "Colour-specific packaging and regional accessories"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/redmi-a5/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible manufacturer specification content parsed; model-reference scope, not an exact retailer SKU."
+    }
+  ],
+  "research_lane": "phones"
+}

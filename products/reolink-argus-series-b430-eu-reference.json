@@ -1,0 +1,178 @@
+{
+  "id": "reolink-argus-series-b430-eu-reference",
+  "brand": "Reolink",
+  "model": "Argus Series B430",
+  "category": "Cameras",
+  "scope": "Official Switzerland regional manufacturer model reference; exact Latvia SKU/hardware and plug/kit require matching. Conflicting Wi-Fi/Alexa rows withheld.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Reolink Argus Series B430 official specifications",
+  "source_url": "https://reolink.com/ch/product/argus-series-b430/",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/reolink-argus-series-b430/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Sensor",
+      "value": "1/2.7-inch CMOS",
+      "unit": ""
+    },
+    {
+      "label": "Resolution",
+      "value": "2880 × 1616, 5MP at 15fps",
+      "unit": ""
+    },
+    {
+      "label": "Codec",
+      "value": "H.265",
+      "unit": ""
+    },
+    {
+      "label": "Field of view",
+      "value": "Horizontal 90°, vertical 47°, diagonal 110°",
+      "unit": ""
+    },
+    {
+      "label": "IR night vision",
+      "value": "Up to 10m; two 850nm LEDs, 1.2W",
+      "unit": ""
+    },
+    {
+      "label": "Spotlights",
+      "value": "Two, 2.4W, 6500K",
+      "unit": ""
+    },
+    {
+      "label": "Frame rates",
+      "value": "Main/sub 10–15fps; default 15fps",
+      "unit": ""
+    },
+    {
+      "label": "Audio",
+      "value": "Two-way",
+      "unit": ""
+    },
+    {
+      "label": "Battery energy",
+      "value": "21.6Wh",
+      "unit": ""
+    },
+    {
+      "label": "Solar compatibility",
+      "value": "Reolink Solar Panel 3W",
+      "unit": ""
+    },
+    {
+      "label": "Charging connector",
+      "value": "USB-C",
+      "unit": ""
+    },
+    {
+      "label": "microSD maximum",
+      "value": "128GB",
+      "unit": ""
+    },
+    {
+      "label": "Reset button",
+      "value": "Supported",
+      "unit": ""
+    },
+    {
+      "label": "Pan/tilt",
+      "value": "355°/140°",
+      "unit": ""
+    },
+    {
+      "label": "Preset positions",
+      "value": "64",
+      "unit": ""
+    },
+    {
+      "label": "Wi-Fi standard",
+      "value": "IEEE802.11a/b/g/n",
+      "unit": ""
+    },
+    {
+      "label": "Wi-Fi security",
+      "value": "WPA/WPA2",
+      "unit": ""
+    },
+    {
+      "label": "Operating systems",
+      "value": "Windows, macOS, iOS, Android",
+      "unit": ""
+    },
+    {
+      "label": "Streams maximum",
+      "value": "12; two main and ten substreams",
+      "unit": ""
+    },
+    {
+      "label": "Detection",
+      "value": "PIR, person, vehicle, pet",
+      "unit": ""
+    },
+    {
+      "label": "PIR distance",
+      "value": "Adjustable up to 10m",
+      "unit": ""
+    },
+    {
+      "label": "PIR angle",
+      "value": "120° horizontal",
+      "unit": ""
+    },
+    {
+      "label": "Recording",
+      "value": "Triggered",
+      "unit": ""
+    },
+    {
+      "label": "Time lapse",
+      "value": "Supported",
+      "unit": ""
+    },
+    {
+      "label": "Google Assistant",
+      "value": "Supported",
+      "unit": ""
+    },
+    {
+      "label": "Operating temperature",
+      "value": "-10°C to +55°C",
+      "unit": ""
+    },
+    {
+      "label": "Operating humidity",
+      "value": "20–85%",
+      "unit": ""
+    },
+    {
+      "label": "Dimensions",
+      "value": "Φ98 × 122mm",
+      "unit": ""
+    },
+    {
+      "label": "Weight",
+      "value": "477g",
+      "unit": ""
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU/GTIN and hardware revision",
+    "Switzerland manufacturer reference; Latvia plug/kit differs potentially",
+    "Wi-Fi bands conflict: overview dual band, specification table only 2.4GHz",
+    "Alexa table versus coming-soon overview conflict",
+    "Battery life varies with settings, usage, temperature"
+  ],
+  "source_pages": [
+    {
+      "url": "https://reolink.com/ch/product/argus-series-b430/",
+      "fetched_at": "2026-10-14",
+      "method": "web open; public manufacturer page content read",
+      "notes": "Direct HTTP403; ordinary web open succeeded; no bypass or credentials. Technical rows read, source contradictions withheld"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

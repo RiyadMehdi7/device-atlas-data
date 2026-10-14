@@ -1,0 +1,199 @@
+{
+  "id": "doro-leva-e10-european-manufacturer-manual-model-reference",
+  "brand": "Doro",
+  "model": "Leva E10",
+  "category": "Phones",
+  "scope": "European manufacturer manual model reference; retailer exact SKU needs matching",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Leva E10 manufacturer technical specifications",
+  "source_url": "https://www.doro.com/globalassets/inriver/resources/manual_doro_leva_e10_en_v30_r23735_ua.pdf",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "2G GSM",
+      "value": "900, 1800 MHz",
+      "unit": "",
+      "condition": "Official manual printed page 64; rounded dimensions/weight as stated."
+    },
+    {
+      "label": "3G UMTS",
+      "value": "Band 1 (2100 MHz), Band 8 (900 MHz)",
+      "unit": "",
+      "condition": "Official manual printed page 64; rounded dimensions/weight as stated."
+    },
+    {
+      "label": "4G LTE FDD",
+      "value": "Bands 1 (2100), 3 (1800), 7 (2600), 8 (900), 20 (800), 28 (700) MHz",
+      "unit": "",
+      "condition": "Official manual printed page 64; rounded dimensions/weight as stated."
+    },
+    {
+      "label": "4G LTE TDD",
+      "value": "Bands 38 (2600), 40 (2300) MHz",
+      "unit": "",
+      "condition": "Official manual printed page 64; rounded dimensions/weight as stated."
+    },
+    {
+      "label": "Bluetooth",
+      "value": "5.0; 2402–2480 MHz",
+      "unit": "",
+      "condition": "Official manual printed page 64; rounded dimensions/weight as stated."
+    },
+    {
+      "label": "SIM card",
+      "value": "nano-SIM (4FF)",
+      "unit": "",
+      "condition": "Official manual printed page 64; rounded dimensions/weight as stated."
+    },
+    {
+      "label": "Memory card capacity/type",
+      "value": "128 GB; microSD, microSDHC, microSDXC",
+      "unit": "",
+      "condition": "Official manual printed page 64; rounded dimensions/weight as stated."
+    },
+    {
+      "label": "Dimensions",
+      "value": "128 × 68 × 13 mm",
+      "unit": "",
+      "condition": "Official manual printed page 64; rounded dimensions/weight as stated."
+    },
+    {
+      "label": "Weight",
+      "value": "119 g including battery",
+      "unit": "",
+      "condition": "Official manual printed page 64; rounded dimensions/weight as stated."
+    },
+    {
+      "label": "Battery",
+      "value": "3.7 V / 1150 mAh Li-ion",
+      "unit": "",
+      "condition": "Official manual printed page 64; rounded dimensions/weight as stated."
+    },
+    {
+      "label": "Charging connector/voltage",
+      "value": "USB-C, 5 V",
+      "unit": "",
+      "condition": "Official manual printed page 64; rounded dimensions/weight as stated."
+    },
+    {
+      "label": "Dust/water protection",
+      "value": "IP54",
+      "unit": "",
+      "condition": "Official manual printed page 64; rounded dimensions/weight as stated."
+    },
+    {
+      "label": "Operating ambient temperature",
+      "value": "0–40 °C (32–104 °F)",
+      "unit": "",
+      "condition": "Official manual printed page 64; rounded dimensions/weight as stated."
+    },
+    {
+      "label": "Charging ambient temperature",
+      "value": "0–40 °C (32–104 °F)",
+      "unit": "",
+      "condition": "Official manual printed page 64; rounded dimensions/weight as stated."
+    },
+    {
+      "label": "Storage temperature",
+      "value": "−20–60 °C (−4–140 °F)",
+      "unit": "",
+      "condition": "Official manual printed page 64; rounded dimensions/weight as stated."
+    },
+    {
+      "label": "UK manufacturer — Display diagonal",
+      "value": "2.4",
+      "unit": "in",
+      "condition": "UK Doro manufacturer product reference; exact Latvian package/SKU not matched. Hearing-aid compatibility should be checked with the particular aid; Secure Button needs contact setup.",
+      "source_url": "https://uk.doro.com/en-gb/products/doro-leva-e10?variant=54542039220553",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "UK manufacturer — Display orientation",
+      "value": "Landscape",
+      "unit": "",
+      "condition": "UK Doro manufacturer product reference; exact Latvian package/SKU not matched. Hearing-aid compatibility should be checked with the particular aid; Secure Button needs contact setup.",
+      "source_url": "https://uk.doro.com/en-gb/products/doro-leva-e10?variant=54542039220553",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "UK manufacturer — High-contrast physical keypad",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK Doro manufacturer product reference; exact Latvian package/SKU not matched. Hearing-aid compatibility should be checked with the particular aid; Secure Button needs contact setup.",
+      "source_url": "https://uk.doro.com/en-gb/products/doro-leva-e10?variant=54542039220553",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "UK manufacturer — Screen magnification",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK Doro manufacturer product reference; exact Latvian package/SKU not matched. Hearing-aid compatibility should be checked with the particular aid; Secure Button needs contact setup.",
+      "source_url": "https://uk.doro.com/en-gb/products/doro-leva-e10?variant=54542039220553",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "UK manufacturer — Adjustable font size",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK Doro manufacturer product reference; exact Latvian package/SKU not matched. Hearing-aid compatibility should be checked with the particular aid; Secure Button needs contact setup.",
+      "source_url": "https://uk.doro.com/en-gb/products/doro-leva-e10?variant=54542039220553",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "UK manufacturer — HD Voice",
+      "value": "Supported",
+      "unit": "",
+      "condition": "UK Doro manufacturer product reference; exact Latvian package/SKU not matched. Hearing-aid compatibility should be checked with the particular aid; Secure Button needs contact setup.",
+      "source_url": "https://uk.doro.com/en-gb/products/doro-leva-e10?variant=54542039220553",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "UK manufacturer — Hearing-aid compatibility",
+      "value": "Manufacturer reports compatibility",
+      "unit": "",
+      "condition": "UK Doro manufacturer product reference; exact Latvian package/SKU not matched. Hearing-aid compatibility should be checked with the particular aid; Secure Button needs contact setup.",
+      "source_url": "https://uk.doro.com/en-gb/products/doro-leva-e10?variant=54542039220553",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "UK manufacturer — Secure assistance button",
+      "value": "Calls selected contacts and sends a pre-written text message",
+      "unit": "",
+      "condition": "UK Doro manufacturer product reference; exact Latvian package/SKU not matched. Hearing-aid compatibility should be checked with the particular aid; Secure Button needs contact setup.",
+      "source_url": "https://uk.doro.com/en-gb/products/doro-leva-e10?variant=54542039220553",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "UK manufacturer — Mains charging adaptor in box",
+      "value": "Not included",
+      "unit": "",
+      "condition": "UK Doro manufacturer product reference; exact Latvian package/SKU not matched. Hearing-aid compatibility should be checked with the particular aid; Secure Button needs contact setup.",
+      "source_url": "https://uk.doro.com/en-gb/products/doro-leva-e10?variant=54542039220553",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU / model code and GTIN matching",
+    "Colour-specific packaging and regional accessories",
+    "GPS/location hardware not confirmed; manufacturer UK page has conflicting general GPS prose and an explicit no-location-sharing note"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.doro.com/globalassets/inriver/resources/manual_doro_leva_e10_en_v30_r23735_ua.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch + pdftotext",
+      "notes": "Specifications page 64 extracted; factual excerpt saved locally."
+    },
+    {
+      "url": "https://uk.doro.com/en-gb/products/doro-leva-e10?variant=54542039220553",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Model feature listings read independently; display/accessibility/assistance and explicitly UK package statements recorded, without inferring GPS from conflicting marketing prose."
+    }
+  ],
+  "research_lane": "phones"
+}

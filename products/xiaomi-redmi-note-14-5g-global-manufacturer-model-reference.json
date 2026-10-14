@@ -1,0 +1,120 @@
+{
+  "id": "xiaomi-redmi-note-14-5g-global-manufacturer-model-reference",
+  "brand": "Xiaomi",
+  "model": "REDMI Note 14 5G",
+  "category": "Phones",
+  "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "REDMI Note 14 5G Specs",
+  "source_url": "https://www.mi.com/global/product/redmi-note-14-5g/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Processor",
+      "value": "Dimensity 7025-Ultra | 6nm manufacturing process technology | CPU: Octa-core processor, up to 2.5GHz | GPU: IMG BXM-8-256",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Storage & RAM",
+      "value": "6GB+128GB | 8GB+256GB | 12GB+512GB* | Expandable storage up to 1TB | LPDDR4X + UFS2.2",
+      "unit": "",
+      "condition": "*Available storage and RAM are less than the total memory due to storage of the operating system and software pre-installed on the device. **Actual support and compatibility of memory cards may vary between manufacturers."
+    },
+    {
+      "label": "Dimensions",
+      "value": "Height:162.4mm | Width: 75.7mm | Thickness: 7.99mm | Weight: 190g",
+      "unit": "",
+      "condition": "*Data provided by internal laboratories. Industry measurment methods may vary, and therefore actual results may differ."
+    },
+    {
+      "label": "Display",
+      "value": "6.67\" AMOLED display | Resolution: 2400 × 1080 | Refresh rate: Up to 120Hz | Touch sampling rate: 240 | Brightness: 2100nits peak brightness | Brightness: HBM 1200 nits | Color depth: 8 bit | Contrast ratio: 5,000,000:1 | DCI- P3 wide color gamut | PPI 394 | Corning® Gorilla® Glass 5 | Sunlight display | Reading mode | 960Hz PWM dimming｜TÜV Rheinland Low Blue Light Certification (Hardware solution) | TÜV Rheinland Circadian Friendly Certification | TÜV Rheinland Flicker Free Certification | SGS Eye Care Display",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Rear Camera",
+      "value": "108MP+8MP+2MP triple camera | 108MP main camera | Optical Image Stabilization (OIS) | 0.64μm, 9in1 1.92μm | f/1.7 | 6P lens | 1/1.67” sensor size | 8MP ultra-wide camera | f/2.2 | 2MP macro camera | f/2.4 | Rear camera video recording | 1080p at 30fps | 720p at 30fps",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Front Camera",
+      "value": "20MP front camera | 1/4.0\" sensor size | f/2.2 | 4P lens | Front camera video recording | 1080p at 30fps | 720p at 30fps",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Battery & Charging",
+      "value": "5110mAh(typ) battery | 45W turbo charging",
+      "unit": "",
+      "condition": "*No power adapter included in the box. Recommend to use 45W power adapters that supports PD charging or Xiaomi official power adapter of 45W."
+    },
+    {
+      "label": "Security",
+      "value": "In-screen fingerprint sensor | AI Face Unlock",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "NFC",
+      "value": "Yes*",
+      "unit": "",
+      "condition": "*NFC function may vary between markets"
+    },
+    {
+      "label": "Network & Connectivity",
+      "value": "SIM 1 + Hybrid (SIM or microSD) Dual standby | Supports 5G / 4G / 3G / 2G | 2G: GSM: 850 900 1800 1900MHz | 3G: WCDMA::B1/2/4/5/6/8/19 | 4G: LTE FDD: B1/2/3/4/5/7/8/12/13/17/18/19/20/26/28/32/66 | 4G: LTE TDD: B38/40/41/42/48 | 5G: n1/2/3/5/7/8/12/20/26/28/38/40/41/48/66/77/78 | Wireless Networks | Bluetooth 5.3 | Wi-Fi Protocol: 802.11a/b/g/n/ac Supports 2.4GHz Wi-Fi | 5GHz Wi-Fi Wi-Fi Direct",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Navigation & Positioning",
+      "value": "GPS: L1 | GLONASS: G1 | BDS: B1I | Galileo E1",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Audio",
+      "value": "Dual speakers | Dolby Atmos® | 3.5mm headphone jack",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Splash, Water and Dust Resistant",
+      "value": "IP64",
+      "unit": "",
+      "condition": "*The device is certified to be splash and dust resistant exclusively under specific laboratory conditions not corresponding to normal use conditions. The warranty does not cover liquid damage caused by conditions other than test conditions. Ingress protection might deteriorate due to wear and tear, physical damage and/or disassembly needed for repair. For more information, please see Xiaomi official website."
+    },
+    {
+      "label": "Sensors",
+      "value": "Virtual proximity sensor | Ambient light sensor | Accelerometer | Electronic compass | IR blaster | Gyroscope",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Operating System",
+      "value": "Xiaomi HyperOS",
+      "unit": "",
+      "condition": ""
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU / model code and GTIN matching",
+    "Colour-specific packaging and regional accessories"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/redmi-note-14-5g/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible manufacturer specification content parsed; model-reference scope, not an exact retailer SKU."
+    }
+  ],
+  "research_lane": "phones"
+}

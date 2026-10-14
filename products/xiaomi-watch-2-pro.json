@@ -1,0 +1,222 @@
+{
+  "id": "xiaomi-watch-2-pro",
+  "brand": "Xiaomi",
+  "model": "Watch 2 Pro",
+  "category": "Smartwatches",
+  "scope": "Global manufacturer model-family reference. Strap/colour alternatives do not form separate products. Any NFC, LTE, ceramic or regional subvariants described remain conditional; exact Latvia SKU unresolved.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Xiaomi Watch 2 Pro specifications",
+  "source_url": "https://www.mi.com/global/product/xiaomi-watch-2-pro/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Display",
+      "value": "1.43 inch AMOLED",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Resolution:",
+      "value": "466x 466 pixels，326 PPI",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Brightness:",
+      "value": "up to 600 nits",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Dimensions",
+      "value": "47.6mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Weight:",
+      "value": "54.5g (without strap)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Size:",
+      "value": "135 mm-205 mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Material:",
+      "value": "Fluororubber/Leather",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Out-of-box strap color:",
+      "value": "Orange｜Green｜Black Orange｜Brown",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Charging type:",
+      "value": "Magnetic charging",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Charging time:",
+      "value": "Approximately 45 minutes",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "LTE",
+      "value": "up to 55h, BT: up to 65h",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Nominal Capacity:",
+      "value": "495mAh",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Processor",
+      "value": "Qualcomm Snapdragon® W5+ Gen 1 Platform",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Processor",
+      "value": "4nm manufacturing process",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Storage & RAM",
+      "value": "2GB+32GB",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Network bands:",
+      "value": "Supports 4G / 3G",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "4G",
+      "value": "FDD-LTE Band B1/B3/B5/B7/B8/B20/B28",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "4G",
+      "value": "TDD-LTE Band B38/B40/B41",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "3G",
+      "value": "WCDMA Band 1,5,8",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Wireless Networks",
+      "value": "2.4GHz/5GHz Wi-Fi",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Wireless Networks",
+      "value": "Bluetooth® 5.2",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Specifications",
+      "value": "5ATM water resistant",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "App",
+      "value": "Mi Fitness (app version 3.20.0i and above)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Compatibility",
+      "value": "only supports smartphones with Android 8.0 and above, which should also have a GMS version of 21.30.12 and above. Android (Go edition) is not supported",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Optical heart rate sensor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Accelerometer sensor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Gyroscope sensor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Ambient light sensor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Electronic compass sensor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Barometer sensor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Bioelectrical impedance analysis sensor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Dual band",
+      "value": "L1+L5 GPS | Galileo | Glonass | Beidou | QZSS",
+      "unit": "",
+      "condition": ""
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU / GTIN matching",
+    "Regional app and payment availability"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/xiaomi-watch-2-pro/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Manufacturer technical specification content parsed; extracted factual fields only"
+    }
+  ],
+  "research_lane": "wearables"
+}

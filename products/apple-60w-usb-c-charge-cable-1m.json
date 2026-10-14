@@ -1,0 +1,103 @@
+{
+  "id": "apple-60w-usb-c-charge-cable-1m",
+  "brand": "Apple",
+  "model": "60W USB-C Charge Cable (1m)",
+  "model_family": "60W USB-C Charge Cable (1m)",
+  "category": "Accessories",
+  "scope": "Official UK manufacturer reference. Dimensions/features are for the namedgeneration. UKplug/part may differfromLatvia; exactretailerbarcode/MPNrequiresmatching.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Apple 60W USB-C Charge Cable (1m) technical specifications",
+  "source_url": "https://www.apple.com/uk/shop/product/mw493zm/a/60w-usb-c-charge-cable-1m",
+  "tele2_url": "https://www.tele2.lv/aksesuari/60w-usb-c-charge-cable-1m/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Length",
+      "value": "1m",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://www.apple.com/uk/shop/product/mw493zm/a/60w-usb-c-charge-cable-1m",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Maximum charging support",
+      "value": "Up to60W",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://www.apple.com/uk/shop/product/mw493zm/a/60w-usb-c-charge-cable-1m",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connector end1",
+      "value": "USB-C",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://www.apple.com/uk/shop/product/mw493zm/a/60w-usb-c-charge-cable-1m",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Connector end2",
+      "value": "USB-C",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://www.apple.com/uk/shop/product/mw493zm/a/60w-usb-c-charge-cable-1m",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Data rates",
+      "value": "USB2 rates; notThunderbolt data",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://www.apple.com/uk/shop/product/mw493zm/a/60w-usb-c-charge-cable-1m",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Outer construction",
+      "value": "Woven",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://www.apple.com/uk/shop/product/mw493zm/a/60w-usb-c-charge-cable-1m",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Power adapter",
+      "value": "Separate;compatibleUSB-Cadapterrequired",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://www.apple.com/uk/shop/product/mw493zm/a/60w-usb-c-charge-cable-1m",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Functions",
+      "value": "Charging,sync,data transfer",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://www.apple.com/uk/shop/product/mw493zm/a/60w-usb-c-charge-cable-1m",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Package contents",
+      "value": "60W USB-C Charge Cable (1m)",
+      "unit": "",
+      "condition": "Manufacturer compatibility/testconditions apply. Battery/charging claims are lab claims and varywithusage; no unpublished electricalprofile inferred.",
+      "source_url": "https://www.apple.com/uk/shop/product/mw493zm/a/60w-usb-c-charge-cable-1m",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia MPN/GTIN",
+    "Latvia retail package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.apple.com/uk/shop/product/mw493zm/a/60w-usb-c-charge-cable-1m",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Official source technical content read; factual extraction retained"
+    }
+  ],
+  "research_lane": "accessories"
+}

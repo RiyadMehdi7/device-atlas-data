@@ -1,0 +1,143 @@
+{
+  "id": "jbl-bandbox-trio-uk-model",
+  "brand": "JBL",
+  "model": "BandBox Trio",
+  "category": "Speakers",
+  "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "JBL BandBox Trio | Portable AI-powered practice amp and speaker",
+  "source_url": "https://uk.jbl.com/BANDBOX-TRIO.html",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Power input",
+      "value": "AC 100 - 240 V ~ 50 / 60 Hz or USB PD 3.1 20 V 3 A",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Cable type",
+      "value": "Straight AC power cable (type varies by regions)",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Cable length",
+      "value": "2.0 m / 6.6 ft",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "USB charge out",
+      "value": "5 V / (max) 3 A (speaker off mode)",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "USB format",
+      "value": "FAT16, FAT32, exFAT",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "UAC",
+      "value": "UAC audio format supporting PCM, 48 K, 24 bit with 2 channels",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Transducers",
+      "value": "1 x 6.5 inch woofer + 2 x 25 mm silk dome tweeter",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Output power",
+      "value": "135 W RMS (IEC60268)",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Frequency response",
+      "value": "50 Hz - 20 kHz (-6 dB)",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Signal-to-noise ratio",
+      "value": "> 80 dB",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Product dimensions (W x H x D)",
+      "value": "344 x 265 x 228 mm / 13.54\" x 10.43\" x 8.98\"",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Net weight",
+      "value": "6.65 kg / 14.66 lbs",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Packaging dimensions (W x H x D)",
+      "value": "421 x 328 x 276 mm / 16.57\" x 12.91\" x 10.87\"",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Gross weight",
+      "value": "8.74 kg / 19.27 lbs",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth® version",
+      "value": "5.4",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth® profile",
+      "value": "A2DP V1.4, AVRCP V1.6",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth® transmitter frequency range",
+      "value": "2.4 GHz - 2.4835 GHz",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth® transmitter power",
+      "value": "≤ 15 dBm (EIRP)",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    },
+    {
+      "label": "Bluetooth® transmitter modulation",
+      "value": "GFSK, π/4 DQPSK, 8DPSK",
+      "unit": "",
+      "condition": "Manufacturer specification; UK model reference"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU/GTIN matching"
+  ],
+  "source_pages": [
+    {
+      "url": "https://uk.jbl.com/BANDBOX-TRIO.html",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Specification table read; conflicting or ambiguous playback totals omitted"
+    }
+  ],
+  "research_lane": "audio"
+}

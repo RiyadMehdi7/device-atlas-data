@@ -1,0 +1,103 @@
+{
+  "id": "xiaomi-xiaomi-90w-hypercharge-power-adapter-3-port",
+  "brand": "Xiaomi",
+  "model": "Xiaomi 90W HyperCharge Power Adapter (3-Port)",
+  "model_family": "Xiaomi 90W HyperCharge Power Adapter (3-Port)",
+  "category": "Accessories",
+  "scope": "Official Global specification model (model code not published). Regional plug/package variants remain unresolved; model-name Tele2 matching does not prove exact EU SKU.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Xiaomi Xiaomi 90W HyperCharge Power Adapter (3-Port) technical specifications",
+  "source_url": "https://www.mi.com/global/product/xiaomi-90w-hypercharge-power-adapter-3-port/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Product name",
+      "value": "Xiaomi 90W HyperCharge Power Adapter (3-Port)",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-90w-hypercharge-power-adapter-3-port/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Product dimensions",
+      "value": "55.5 x 74.8 x 30mm (excluding prongs)",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-90w-hypercharge-power-adapter-3-port/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Product weight",
+      "value": "130g",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-90w-hypercharge-power-adapter-3-port/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Product colour",
+      "value": "White",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-90w-hypercharge-power-adapter-3-port/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Input parameters",
+      "value": "100–240V~, 50 / 60Hz, 2.0A",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-90w-hypercharge-power-adapter-3-port/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Port type",
+      "value": "2 USB-C ports, 1 USB-A port",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-90w-hypercharge-power-adapter-3-port/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Output parameters",
+      "value": "Single port output: USB C1 / C2: 5.0V⎓ 3.0A 15.0W / 9.0V⎓ 3.0A 27.0W / 15.0V⎓ 3.0A 45.0W / 11.0V⎓ 6.1A 67.0W Max / 20.0V⎓ 4.5A 90.0W Max; USB A: 5.0V⎓ 3.0A 15.0W / 9.0V⎓ 3.0A 27.0W / 12.0V⎓ 2.25A 27.0W; Dual port output: USB C1 + C2: 67.0W Max + 18.0W, USB C1 / C2 + A: 67.0W Max + 18.0W; Triple port output: USB C1 + (C2+A): 67.0W Max + 15.0W",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-90w-hypercharge-power-adapter-3-port/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Operating temperature",
+      "value": "-10°C to +40°C",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-90w-hypercharge-power-adapter-3-port/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Package contents",
+      "value": "Xiaomi 90W HyperCharge Power Adapter (3-Port) x1; User manual x1",
+      "unit": "",
+      "condition": "Original electrical units/profiles retained. Single-port versus simultaneous outputs and battery rated-output capacity versus cell capacity remain distinct. Advertised maximum needs compatible device/protocol/cable.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-90w-hypercharge-power-adapter-3-port/specs/",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia MPN/GTIN",
+    "Latvia retail package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/xiaomi-90w-hypercharge-power-adapter-3-port/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Official source technical content read; factual extraction retained"
+    }
+  ],
+  "research_lane": "accessories"
+}

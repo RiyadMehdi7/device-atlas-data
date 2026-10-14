@@ -1,0 +1,57 @@
+{
+  "id": "xiaomi-smart-air-purifier-elite-global-reference",
+  "brand": "Xiaomi",
+  "model": "Xiaomi Smart Air Purifier Elite",
+  "category": "Smart home",
+  "scope": "Official global English model reference; current Tele2 listing observed separately. EU mains adaptor, exact SKU and GTIN require matching. Robot and dock measurements kept separate.",
+  "identifiers": [
+    "Y-600"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Xiaomi Smart Air Purifier Elite official specifications",
+  "source_url": "https://www.mi.com/global/product/xiaomi-smart-air-purifier-elite/specs/",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/xiaomi-smart-air-purifier-elite/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Product model",
+      "value": "Y-600",
+      "unit": "",
+      "condition": "Official global specifications; Latvia EU retail SKU needs matching"
+    },
+    {
+      "label": "Product dimensions",
+      "value": "Φ310 × 730mm",
+      "unit": "",
+      "condition": "Official global specifications; Latvia EU retail SKU needs matching"
+    },
+    {
+      "label": "Product net weight",
+      "value": "Approx. 6.5kg",
+      "unit": "",
+      "condition": "Official global specifications; Latvia EU retail SKU needs matching"
+    },
+    {
+      "label": "Particle CADR",
+      "value": "600m³/h",
+      "unit": "",
+      "condition": "Official global specifications; Latvia EU retail SKU needs matching"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvia/EU SKU/GTIN",
+    "Regional mains adaptor",
+    "Operating modes and performance conditions not in fetched specification page"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/xiaomi-smart-air-purifier-elite/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP fetch; visible specifications read",
+      "notes": "Sparse technical specification page; 4 fields supported"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

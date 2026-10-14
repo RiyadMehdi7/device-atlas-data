@@ -1,0 +1,132 @@
+{
+  "id": "poco-poco-c85-global-manufacturer-model-reference",
+  "brand": "POCO",
+  "model": "POCO C85",
+  "category": "Phones",
+  "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "POCO C85 Specs - Xiaomi Global",
+  "source_url": "https://www.mi.com/global/product/poco-c85/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Processor",
+      "value": "MediaTek Helio G81-Ultra processor | Octa-core | CPU | Cortex-A75+Cortex-A55 | Max CPU frequency: 2.0GHz | GPU | Mali-G52 MC2",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "RAM & Storage",
+      "value": "LPDDR4X + eMMC 5.1 | 6GB + 128GB, 8GB + 256GB | Up to 16GB RAM with Memory extension | Supports expandable storage: up to 1TB",
+      "unit": "",
+      "condition": "*Configurations available may differ between different regions. Available RAM and storage are less than the total memory due to storage of the operating system and software pre-installed on the device. *16GB RAM with Memory extension is based on 8GB RAM version. Additional RAM will occupy a corresponding amount of ROM storage. Memory extension is only available when there is enough storage space on your device. Actual extension of RAM storage capacity varies across different models. *microSD card for expandable storage sold separately, please refer to the actual use."
+    },
+    {
+      "label": "Dimensions",
+      "value": "Height: 171.56mm | Width: 79.47mm | Thickness: 7.99mm | Weight: 205g",
+      "unit": "",
+      "condition": "*Data obtained from POCO Internal Labs. Industry measurement methods may vary, and therefore actual results may differ. *Product may vary by region, please refer to the actual product."
+    },
+    {
+      "label": "Display",
+      "value": "6.9\" Dot Drop display | Resolution: 1600*720 | Refresh rate: Up to 120Hz | Brightness: 660 nits (typ), 810 nits HBM | Reading mode | TÜV Rheinland Low Blue Light (Software Solution) Certified TÜV Rheinland Circadian Friendly Certified TÜV Rheinland Flicker Free Certified | DC dimming | Touch sampling rate: Up to 240Hz | Contrast ratio: 1200:1 | Color depth: 8-bit, 16.7 million colors | Color gamut: 83% NTSC",
+      "unit": "",
+      "condition": "*Refresh rate can be adjusted to up to 120Hz for supported apps."
+    },
+    {
+      "label": "Rear Camera",
+      "value": "50MP main camera | 5P lens | f/1.8 | Auxiliary lens | Film Camera | HDR mode | Night mode Portrait mode | Time-lapse | Rear video recording | 1080p (1920x1080) HD video recording at 30 fps | 720p (1280x720) HD video recording at 30 fps",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Front camera",
+      "value": "8MP front camera | f/2.0 | Film Camera | HDR mode | Soft-light ring Portrait mode | Time-lapse | Night mode | Front video recording | 1080p (1920x1080) HD video recording at 30 fps | 720p (1280x720) HD video recording at 30 fps",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Battery & Charging",
+      "value": "6000mAh (typ) | Supports 33W fast charging | USB Type-C",
+      "unit": "",
+      "condition": "*No power adapter included in box. Recommended to use Xiaomi 33W power adapter."
+    },
+    {
+      "label": "Security",
+      "value": "Side fingerprint sensor | AI face unlock",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "NFC",
+      "value": "Yes",
+      "unit": "",
+      "condition": "*NFC availability may vary between markets."
+    },
+    {
+      "label": "Network & Connectivity",
+      "value": "Dual SIM + microSD | Network bands: | 2G：GSM: 2/3/5/8 3G：WCDMA:1/2/4/5/8/6/19 4G：LTE FDD: B1/2/3/4/5/7/8/18/19/20/26/28/66*(UL: 1710-1780MHz; DL: 2110-2180MHz) 4G：LTE TDD: B38/40/41 | Wireless Networks | Wi-Fi: 2.4GHz | 5GHz | Supports FM radio (with headphone jack) | Bluetooth 5.4 | Supports AAC / SBC / LDAC",
+      "unit": "",
+      "condition": "*Connectivity and network bands may vary based on region availability and local operator support."
+    },
+    {
+      "label": "Splash, Water and Dust Resistant",
+      "value": "IP64",
+      "unit": "",
+      "condition": "*The device has been tested in a controlled environment and certified to be resistant to splash and dust in specific laboratory conditions with the classification IP64 under IEC 60529: 1989+A1:1999+A2:2013. *Splash-proof, waterproof and dustproof features may be degraded due to daily use loss. Do not charge your smartphone in a humid condition. The life scene is different from the experimental environment. Do not immerse your smartphone in water completely or expose it to solutions such as seawater and chlorinated water or liquids such as drinks during daily use. Your warranty does not cover the damage caused by man-made immersion of your device in liquid."
+    },
+    {
+      "label": "Navigation & Positioning",
+      "value": "GPS | Glonass | Galileo | Beidou",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Audio",
+      "value": "3.5mm headphone jack",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Audio playback",
+      "value": "aac, m4a, mp4, 3gp, ts, amr, awb, mid, midi, smf, rttf, xmf, rtx, ota, imy, mp3, ogg, oga, wav, flac, mkv(opus)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Video playback",
+      "value": "ts, mp4, 3gp, mkv, webm, MPEG2, H.263, MPEG4, H.264, H.265, VP8, VP9, VC1",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensor",
+      "value": "Virtual proximity sensor | Ambient light sensor | Accelerometer | Electronic compass",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Operating system",
+      "value": "Xiaomi HyperOS 2",
+      "unit": "",
+      "condition": "*Availability of Xiaomi HyperOS 2 features, apps and services may vary depending on software version and phone model."
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU / model code and GTIN matching",
+    "Colour-specific packaging and regional accessories"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/poco-c85/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible manufacturer specification content parsed; model-reference scope, not an exact retailer SKU."
+    }
+  ],
+  "research_lane": "phones"
+}

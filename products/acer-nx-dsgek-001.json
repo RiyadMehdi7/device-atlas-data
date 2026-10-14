@@ -1,0 +1,192 @@
+{
+  "id": "acer-nx-dsgek-001",
+  "brand": "Acer",
+  "model": "Aspire Lite AL15-46P-R2YK",
+  "category": "Laptops",
+  "scope": "Exact Acer manufacturer part NX.DSGEK.001 on United Kingdom technical specification page. Different part/panel/storage from Tele2 R4AQ; no family-to-SKU transfer. Availability/keyboard/GTIN unresolved.",
+  "identifiers": [
+    "NX.DSGEK.001",
+    "AL15-46P-R2YK"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Exact variant source checked",
+  "source_name": "Acer United Kingdom Aspire Lite AL15-46P-R2YK technical specifications",
+  "source_url": "https://www.acer.com/gb-en/laptops/aspire/aspire-lite/pdp/NX.DSGEK.001",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Operating system",
+      "value": "Windows 11 Home in S mode",
+      "unit": "",
+      "condition": "United Kingdom part-specific manufacturer specification; translations retain original numerical units."
+    },
+    {
+      "label": "Processor",
+      "value": "AMD Ryzen 3 5400U",
+      "unit": "",
+      "condition": "United Kingdom part-specific manufacturer specification; translations retain original numerical units."
+    },
+    {
+      "label": "CPU speed",
+      "value": "2.60 GHz",
+      "unit": "",
+      "condition": "United Kingdom part-specific manufacturer specification; translations retain original numerical units."
+    },
+    {
+      "label": "CPU cores",
+      "value": "4",
+      "unit": "",
+      "condition": "United Kingdom part-specific manufacturer specification; translations retain original numerical units."
+    },
+    {
+      "label": "CPU threads",
+      "value": "8",
+      "unit": "",
+      "condition": "United Kingdom part-specific manufacturer specification; translations retain original numerical units."
+    },
+    {
+      "label": "Graphics",
+      "value": "AMD Radeon Graphics; shared",
+      "unit": "",
+      "condition": "United Kingdom part-specific manufacturer specification; translations retain original numerical units."
+    },
+    {
+      "label": "Screen size",
+      "value": "39.6 cm (15.6 inches)",
+      "unit": "",
+      "condition": "United Kingdom part-specific manufacturer specification; translations retain original numerical units."
+    },
+    {
+      "label": "Panel",
+      "value": "IPS",
+      "unit": "",
+      "condition": "United Kingdom part-specific manufacturer specification; translations retain original numerical units."
+    },
+    {
+      "label": "Resolution",
+      "value": "1920 x 1080",
+      "unit": "",
+      "condition": "United Kingdom part-specific manufacturer specification; translations retain original numerical units."
+    },
+    {
+      "label": "Refresh rate",
+      "value": "60 Hz",
+      "unit": "",
+      "condition": "United Kingdom part-specific manufacturer specification; translations retain original numerical units."
+    },
+    {
+      "label": "Touchscreen",
+      "value": "No",
+      "unit": "",
+      "condition": "United Kingdom part-specific manufacturer specification; translations retain original numerical units."
+    },
+    {
+      "label": "Aspect ratio",
+      "value": "16:9",
+      "unit": "",
+      "condition": "United Kingdom part-specific manufacturer specification; translations retain original numerical units."
+    },
+    {
+      "label": "Memory",
+      "value": "8 GB DDR4 SDRAM",
+      "unit": "",
+      "condition": "United Kingdom part-specific manufacturer specification; translations retain original numerical units."
+    },
+    {
+      "label": "Maximum memory",
+      "value": "8 GB",
+      "unit": "",
+      "condition": "United Kingdom part-specific manufacturer specification; translations retain original numerical units."
+    },
+    {
+      "label": "SSD",
+      "value": "128 GB PCI Express M.2",
+      "unit": "",
+      "condition": "United Kingdom part-specific manufacturer specification; translations retain original numerical units."
+    },
+    {
+      "label": "Wireless LAN",
+      "value": "IEEE 802.11ax",
+      "unit": "",
+      "condition": "United Kingdom part-specific manufacturer specification; translations retain original numerical units."
+    },
+    {
+      "label": "Bluetooth",
+      "value": "5.2 or above",
+      "unit": "",
+      "condition": "United Kingdom part-specific manufacturer specification; translations retain original numerical units."
+    },
+    {
+      "label": "Ethernet",
+      "value": "Gigabit Ethernet",
+      "unit": "",
+      "condition": "United Kingdom part-specific manufacturer specification; translations retain original numerical units."
+    },
+    {
+      "label": "Speakers",
+      "value": "2",
+      "unit": "",
+      "condition": "United Kingdom part-specific manufacturer specification; translations retain original numerical units."
+    },
+    {
+      "label": "Fingerprint reader",
+      "value": "No",
+      "unit": "",
+      "condition": "United Kingdom part-specific manufacturer specification; translations retain original numerical units."
+    },
+    {
+      "label": "Keyboard backlight",
+      "value": "No",
+      "unit": "",
+      "condition": "United Kingdom part-specific manufacturer specification; translations retain original numerical units."
+    },
+    {
+      "label": "Power adapter",
+      "value": "65 W maximum",
+      "unit": "",
+      "condition": "United Kingdom part-specific manufacturer specification; translations retain original numerical units."
+    },
+    {
+      "label": "Height",
+      "value": "16.95 mm",
+      "unit": "",
+      "condition": "United Kingdom part-specific manufacturer specification; translations retain original numerical units."
+    },
+    {
+      "label": "Width",
+      "value": "360.7 mm",
+      "unit": "",
+      "condition": "United Kingdom part-specific manufacturer specification; translations retain original numerical units."
+    },
+    {
+      "label": "Depth",
+      "value": "234.8 mm",
+      "unit": "",
+      "condition": "United Kingdom part-specific manufacturer specification; translations retain original numerical units."
+    },
+    {
+      "label": "Weight",
+      "value": "Approximately 1.45 kg",
+      "unit": "",
+      "condition": "United Kingdom part-specific manufacturer specification; translations retain original numerical units."
+    }
+  ],
+  "missing_fields": [
+    "Latvia availability",
+    "Keyboard locale",
+    "GTIN",
+    "Exact Tele2 AL15-46P-R4AQ independent manufacturer page"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.acer.com/gb-en/laptops/aspire/aspire-lite/pdp/NX.DSGEK.001",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "content_title": "Aspire Lite AL15-46P-R2YK technical specifications",
+      "notes": "Accessible official technical table read through web open. Direct ordinary HTTP request timed out; no inferred HTTP status. Battery playback omitted."
+    }
+  ],
+  "research_lane": "computers"
+}

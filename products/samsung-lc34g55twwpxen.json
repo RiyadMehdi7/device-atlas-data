@@ -1,0 +1,399 @@
+{
+  "id": "samsung-lc34g55twwpxen",
+  "brand": "Samsung",
+  "model": "LC34G55TWWPXEN",
+  "category": "Monitors",
+  "scope": "Exact LC34G55TWWPXEN manufacturer reference on be_fr Samsung site. Complete manufacturer suffix matches observed Tele2 name; physical stock EAN and regional smart-service availability remain unresolved.",
+  "identifiers": [
+    "LC34G55TWWPXEN"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Exact variant source checked",
+  "source_name": "34\" Odyssey G5 UWQHD Curved Gaming Monitor LC34G55TWWPXEN | Samsung Belgique",
+  "source_url": "https://www.samsung.com/be_fr/monitors/gaming/odyssey-g5-34-inch-165hz-curved-ultra-wqhd-lc34g55twwpxen/",
+  "tele2_url": "https://www.tele2.lv/monitori/lcd-monitorsamsungodyssey-g534gamingcurv/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Définition",
+      "value": "UWQHD (3,440 x 1,440)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Aspect Ratio",
+      "value": "21:9",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Screen Curvature",
+      "value": "1000R",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Luminosité (normal)",
+      "value": "250cd/㎡",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Contrast Ratio Static",
+      "value": "2,500:1(Typ.)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Temps de réponse",
+      "value": "1 (MPRT)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Refresh Rate",
+      "value": "Max 165Hz",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Angle de vue (horizontaux/verticaux, degrés)",
+      "value": "178°(H)/178°(V)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Screen Size (Class)",
+      "value": "34",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Flat / Curved",
+      "value": "Curved",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Active Display Size (HxV) (mm)",
+      "value": "797.22 (H) * 333.72 (V)",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Type de dalle",
+      "value": "VA",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Luminosité (normal)",
+      "value": "250 cd/㎡",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Brightness (Min)",
+      "value": "200 cd/㎡",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Contrast Ratio (Dynamic)",
+      "value": "Mega ∞ DCR",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "HDR(High Dynamic Range)",
+      "value": "HDR10",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Color Support",
+      "value": "Max 16.7M",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Color Gamut (NTSC 1976)",
+      "value": "72%",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Eye Saver Mode",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Flicker Free",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Picture-By-Picture",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Windows Certification",
+      "value": "Windows 10",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "FreeSync Premium",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Off Timer Plus",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Screen Size Optimizer",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Black Equalizer",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Low Input Lag Mode",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Refresh Rate Optimizor",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Super Arena Gaming UX",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Display Port",
+      "value": "1 st.",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Display Port Version",
+      "value": "1.4",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "HDMI",
+      "value": "1 st.",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "HDMI Version",
+      "value": "2",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Headphone",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "USB Sound Bar (Ready)",
+      "value": "No",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Température",
+      "value": "10~40 ℃",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Humidité",
+      "value": "10~80,non-condensing",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Color Mode",
+      "value": "Custom/FPS/RTS/RPG/AOS/Cinema/Dynamic Contrast",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Couleur",
+      "value": "BLACK",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Type de socle",
+      "value": "SIMPLE",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Tilt",
+      "value": "-2 ~ 18",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Wall Mount",
+      "value": "75 x 75",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Classe d’efficacité énergétique",
+      "value": "G",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Alimentation",
+      "value": "AC 100~240V",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Puissance absorbée (maximale)",
+      "value": "55 W",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Power Consumption (Typ)",
+      "value": "32.4 W",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Power Consumption (DPMS)",
+      "value": "0.50 W",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Consommation électrique (hors tension)",
+      "value": "0.30 W",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Power Consumption (Yearly)",
+      "value": "47 kWh/year",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Type",
+      "value": "External Adaptor",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Set Dimension with Stand (WxHxD)",
+      "value": "806.6 x 475.3 x 272.6 mm",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Set Dimension without Stand (WxHxD)",
+      "value": "806.6 x 380.9 x 152.7 mm",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Dimensions du produit emballé (L x H x P)",
+      "value": "901.0 x 216.0 x 441.0 mm",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Set Weight with Stand",
+      "value": "5.6 kg",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Set Weight without Stand",
+      "value": "5.2 kg",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Poids du produit emballé",
+      "value": "7.9 kg",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Power Cable Length",
+      "value": "1.5 m",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "DP Cable",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Mini-Display Gender",
+      "value": "No",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Install CD",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    },
+    {
+      "label": "Disclaimer",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact full Samsung model code LC34G55TWWPXEN; original manufacturer typical/max, stand and regional-service conditions retained"
+    }
+  ],
+  "missing_fields": [
+    "Tele2 physical stock EAN reconciliation",
+    "Manual HDMI/DP timing limits",
+    "Latvian availability of region-limited smart services if applicable"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.samsung.com/be_fr/monitors/gaming/odyssey-g5-34-inch-165hz-curved-ultra-wqhd-lc34g55twwpxen/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "HTTP 200; full model code present; explicit manufacturer technical label/value block read"
+    }
+  ],
+  "research_lane": "monitors"
+}

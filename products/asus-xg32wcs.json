@@ -1,0 +1,308 @@
+{
+  "id": "asus-xg32wcs",
+  "brand": "Asus",
+  "model": "XG32WCS",
+  "category": "Monitors",
+  "scope": "Exact ROG global model specification. Dimensions and weights are estimated and may vary by region; Latvian EAN matching remains unresolved.",
+  "identifiers": [
+    "XG32WCS"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "ROG Strix XG32WCS | 27 to 31.5 Inches | Gaming Monitors｜ROG - Republic of Gamers｜ROG Global",
+  "source_url": "https://rog.asus.com/monitors/27-to-31-5-inches/rog-strix-xg32wcs/spec/",
+  "tele2_url": "https://www.tele2.lv/monitori/asus-rog-strix-xg32wcs-315inch-fast-va/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Panel Size (inch)",
+      "value": "31.5",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Display; regional stock suffix unresolved."
+    },
+    {
+      "label": "Curvature",
+      "value": "1500R",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Display; regional stock suffix unresolved."
+    },
+    {
+      "label": "Aspect Ratio",
+      "value": "16:9",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Display; regional stock suffix unresolved."
+    },
+    {
+      "label": "Color Space (DCI-P3)",
+      "value": "90%",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Display; regional stock suffix unresolved."
+    },
+    {
+      "label": "Panel Type",
+      "value": "Fast VA",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Display; regional stock suffix unresolved."
+    },
+    {
+      "label": "Resolution",
+      "value": "2560x1440",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Display; regional stock suffix unresolved."
+    },
+    {
+      "label": "Display Viewing Area (HxV)",
+      "value": "697.344 (L) x 392.256 (W)",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Display; regional stock suffix unresolved."
+    },
+    {
+      "label": "Display Surface",
+      "value": "Anti-Glare",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Display; regional stock suffix unresolved."
+    },
+    {
+      "label": "Pixel Pitch",
+      "value": "0.272mm",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Display; regional stock suffix unresolved."
+    },
+    {
+      "label": "Brightness (Typ.)",
+      "value": "350cd/㎡",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Display; regional stock suffix unresolved."
+    },
+    {
+      "label": "Brightness (HDR, Peak) *",
+      "value": "400 cd/㎡",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Display; regional stock suffix unresolved."
+    },
+    {
+      "label": "Contrast Ratio (Typ.)",
+      "value": "3500:1",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Display; regional stock suffix unresolved."
+    },
+    {
+      "label": "Viewing Angle (CR≧10)",
+      "value": "178°/ 178°",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Display; regional stock suffix unresolved."
+    },
+    {
+      "label": "Response Time",
+      "value": "1ms(GTG)",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Display; regional stock suffix unresolved."
+    },
+    {
+      "label": "Display Colors",
+      "value": "1073.7M (10 bit)",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Display; regional stock suffix unresolved."
+    },
+    {
+      "label": "Flicker free",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Display; regional stock suffix unresolved."
+    },
+    {
+      "label": "HDR (High Dynamic Range) Support",
+      "value": "HDR10",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Display; regional stock suffix unresolved."
+    },
+    {
+      "label": "Refresh Rate (max)",
+      "value": "180Hz",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Display; regional stock suffix unresolved."
+    },
+    {
+      "label": "GamePlus",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Features; regional stock suffix unresolved."
+    },
+    {
+      "label": "Game Visual",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Features; regional stock suffix unresolved."
+    },
+    {
+      "label": "VRR Technology",
+      "value": "Yes (Adaptive-Sync)",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Features; regional stock suffix unresolved."
+    },
+    {
+      "label": "Extreme Low Motion Blur",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Features; regional stock suffix unresolved."
+    },
+    {
+      "label": "DisplayWidget",
+      "value": "Yes, DisplayWidget Center",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Features; regional stock suffix unresolved."
+    },
+    {
+      "label": "Shadow Boost",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Features; regional stock suffix unresolved."
+    },
+    {
+      "label": "ELMB Sync",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Features; regional stock suffix unresolved."
+    },
+    {
+      "label": "Aspect Control",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Features; regional stock suffix unresolved."
+    },
+    {
+      "label": "A.I. Assistant Technology",
+      "value": "AI Visual",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Features; regional stock suffix unresolved."
+    },
+    {
+      "label": "A.I. Assistant Technology",
+      "value": "Dynamic Crosshair",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Features; regional stock suffix unresolved."
+    },
+    {
+      "label": "A.I. Assistant Technology",
+      "value": "Dynamic Shadow Boost",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Features; regional stock suffix unresolved."
+    },
+    {
+      "label": "Color Calibration E-report",
+      "value": "Yes, via DisplayWidget Center",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Features; regional stock suffix unresolved."
+    },
+    {
+      "label": "I/O Ports",
+      "value": "DisplayPort 1.4 x 1 (HBR3) HDMI (v2.0) x 1 USB-C x 1 (DP Alt Mode) Earphone jack : Yes USB-C Power Delivery : 7.5W",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; I/O Ports; regional stock suffix unresolved."
+    },
+    {
+      "label": "Speaker",
+      "value": "No",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Audio; regional stock suffix unresolved."
+    },
+    {
+      "label": "Digital Signal Frequency",
+      "value": "HDMI : 30-223KHz (H) / 48-144Hz (V) USB-C, DisplayPort : 415-415KHz (H) / 48-180Hz (V)",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Signal Frequency; regional stock suffix unresolved."
+    },
+    {
+      "label": "Power Consumption",
+      "value": "<50 W Power Saving Mode : <0.5 W Power Off Mode : <0.3W Voltage : 100-240V, 50/60Hz",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Power Consumption; regional stock suffix unresolved."
+    },
+    {
+      "label": "1/4\" Tripod Socket",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Mechanical Design; regional stock suffix unresolved."
+    },
+    {
+      "label": "Tilt",
+      "value": "Yes (+20° ~ -5°)",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Mechanical Design; regional stock suffix unresolved."
+    },
+    {
+      "label": "Swivel",
+      "value": "Yes (+25° ~ -25°)",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Mechanical Design; regional stock suffix unresolved."
+    },
+    {
+      "label": "Height Adjustment",
+      "value": "0~110mm",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Mechanical Design; regional stock suffix unresolved."
+    },
+    {
+      "label": "VESA Wall Mounting",
+      "value": "100x100mm",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Mechanical Design; regional stock suffix unresolved."
+    },
+    {
+      "label": "Kensington Lock",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Mechanical Design; regional stock suffix unresolved."
+    },
+    {
+      "label": "Phys. Dimension with stand (W x H x D)",
+      "value": "70.8 x 57.3 x 24.6 cm (27.87\" x 22.56\" x 9.69\")",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Dimensions (Esti.)(vary by regions); regional stock suffix unresolved."
+    },
+    {
+      "label": "Phys. Dimension without Stand (W x H x D)",
+      "value": "70.8 x 42.5 x 10.8 cm (27.87\" x 16.73\" x 4.25\")",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Dimensions (Esti.)(vary by regions); regional stock suffix unresolved."
+    },
+    {
+      "label": "Box Dimension (W x H x D)",
+      "value": "92.0 x 56.2 x 23.5 cm (36.22\" x 22.13\" x 9.25\")",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Dimensions (Esti.)(vary by regions); regional stock suffix unresolved."
+    },
+    {
+      "label": "Net Weight with Stand",
+      "value": "9.4 kg (20.72 lbs) Net Weight without Stand : 6.1 kg (13.45 lbs) Gross Weight : 12.2 kg (26.90 lbs)",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Weight (Esti.)(vary by regions); regional stock suffix unresolved."
+    },
+    {
+      "label": "Accessories (vary by regions)",
+      "value": "DisplayPort cable Power cord Quick start guide ROG pouch ROG sticker Warranty Card",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Accessories (vary by regions); regional stock suffix unresolved."
+    },
+    {
+      "label": "Certificate",
+      "value": "TÜV Flicker-free TÜV Low Blue Light VESA AdaptiveSync Display 180Hz VESA DisplayHDR 400 AMD FreeSync FSC MIX",
+      "unit": "",
+      "condition": "Manufacturer global exact-model reference; Certificate; regional stock suffix unresolved."
+    }
+  ],
+  "missing_fields": [
+    "Latvia EAN reconciliation",
+    "Input timing table from user manual"
+  ],
+  "source_pages": [
+    {
+      "url": "https://rog.asus.com/monitors/27-to-31-5-inches/rog-strix-xg32wcs/spec/",
+      "fetched_at": "2026-10-14",
+      "method": "Exa web_fetch_exa full page",
+      "notes": "Exact model heading and full technical sections read"
+    }
+  ],
+  "research_lane": "monitors"
+}

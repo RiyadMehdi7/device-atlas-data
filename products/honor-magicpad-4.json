@@ -1,0 +1,231 @@
+{
+  "id": "honor-magicpad-4",
+  "brand": "HONOR",
+  "model": "MagicPad 4",
+  "model_family": "MagicPad 4",
+  "category": "Tablets",
+  "scope": "European manufacturer model reference. Regional configurations vary; not a Latvia SKU or availability claim.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer model source checked; Latvia SKU needs matching",
+  "source_name": "HONOR MagicPad 4 technical specifications",
+  "source_url": "https://www.honor.com/uk/tablets/honor-magicpad-4/spec/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Width",
+      "value": "273.4mm",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-magicpad-4/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Height",
+      "value": "178.8mm",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-magicpad-4/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Thickness",
+      "value": "4.8mm",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-magicpad-4/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Weight",
+      "value": "Approx. 450 g (including battery)",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-magicpad-4/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Size",
+      "value": "12.3 Inches",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-magicpad-4/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Screen-to-body Ratio",
+      "value": "93%",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-magicpad-4/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "PPI",
+      "value": "290PPI",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-magicpad-4/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Brightness",
+      "value": "HDR Peak Brightness: 2400 nits",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-magicpad-4/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Contrast Ratio",
+      "value": "1000000:1 (typical)",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-magicpad-4/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Type",
+      "value": "OLED",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-magicpad-4/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Resolution",
+      "value": "3000 x 1920",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-magicpad-4/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Refresh Rate",
+      "value": "The  screen refresh rate is the highest 165Hz (Support 5 gears, 165Hz/144Hz/120Hz/90Hz/60Hz)",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-magicpad-4/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Screen Color",
+      "value": "1.07 billion colors, DCI-P3 wide color gamut",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-magicpad-4/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "CPU model",
+      "value": "Snapdragon® 8 Gen 5 Mobile Platform",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-magicpad-4/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Number of CPU Cores",
+      "value": "Octa-core",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-magicpad-4/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Operating System",
+      "value": "MagicOS 10 (Android 16)",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-magicpad-4/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Internal Storage (ROM)",
+      "value": "16GB+512GB 12GB+256GB",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-magicpad-4/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rear Camera",
+      "value": "13MP Main camera (Fno2.0 AF)",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-magicpad-4/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Front Camera",
+      "value": "9MP camera (Fno2.2 FF)",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-magicpad-4/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery Capacity",
+      "value": "10100 mAh (typical)",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-magicpad-4/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery Type",
+      "value": "Lithium-ion polymer battery",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-magicpad-4/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-magicpad-4/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi Protocol",
+      "value": "Support Wi-Fi 7 (802.11be), Wi-Fi 6 (802.11ax), and 802.11 a/b/g/n/ac Support 2x2 MIMO, MLO, 4096 QAM, 160MHz, MU-MIMO",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-magicpad-4/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi Frequency",
+      "value": "2.4GHz and 5GHz WLAN",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-magicpad-4/spec/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "Bluetooth 6.0,  Supports Low Energy Bluetooth (BLE), LE Audio, Auracast Supports SBC, AAC, LDAC, aptX, aptX HD, aptX Adaptive, aptX Lossless, LC3, LHDC5.0 Supports ASHA, LE Audio hearing aid protocol",
+      "unit": "",
+      "condition": "Manufacturer reference. Dimensions/weights approximate; rounded screen visible area smaller; refresh depends on app; colour depth may include software extension.",
+      "source_url": "https://www.honor.com/uk/tablets/honor-magicpad-4/spec/",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia-specific MPN/GTIN",
+    "Latvia retail configuration and package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.honor.com/uk/tablets/honor-magicpad-4/spec/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible official technical content read; structured facts retained"
+    }
+  ],
+  "research_lane": "tablets"
+}

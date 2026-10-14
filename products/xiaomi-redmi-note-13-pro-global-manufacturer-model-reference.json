@@ -1,0 +1,120 @@
+{
+  "id": "xiaomi-redmi-note-13-pro-global-manufacturer-model-reference",
+  "brand": "Xiaomi",
+  "model": "Redmi Note 13 Pro",
+  "category": "Phones",
+  "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Redmi Note 13 Pro Specs",
+  "source_url": "https://www.mi.com/global/product/redmi-note-13-pro/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Processor",
+      "value": "MediaTek Helio G99-Ultra | 6nm pocess technology | CPU: Octa-core processor, up to 2.2GHz | GPU: Mali-G57 MC2",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Storage & RAM",
+      "value": "8+256GB | 12+512GB | LPDDR4X + UFS2.2 | Supports expandable storage: up to 1TB",
+      "unit": "",
+      "condition": "*Configurations available may differ between different regions. Available storage and RAM are less than the total memory due to storage of the operating system and software pre-installed on the device."
+    },
+    {
+      "label": "Dimensions",
+      "value": "Height: 161.1mm | Width: 74.95mm | Thickness: 7.98mm | Weight: 188g",
+      "unit": "",
+      "condition": "*Data provided by internal laboratories. Industry measurment methods may vary, and therefore actual results may differ."
+    },
+    {
+      "label": "Display",
+      "value": "6.67\" AMOLED display | Refresh rate: Up to 120Hz | Brightness: 500nits(typ),1000nits(HBM brightness),1300nits(peak brightness) | Color depth: 10-bit | Contrast ratio: 5,000,000:1 | Color gamut: DCI-P3 100% | Resolution: 2400x1080 | Corning® Gorilla® Glass 5 | Supports sunlight mode | Supports reading mode | 1920Hz PWM dimming | TÜV Rheinland Low Blue Light (Hardware Solution) Certified | TÜV Rheinland Circadian Friendly Certified | TÜV Rheinland Flicker Free Certified",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Rear Camera",
+      "value": "200MP+8MP+2MP triple camera | 200MP main camera | OIS | f/1.65 | 2.24µm 16-in-1 Super Pixels | 7P lens | 8MP ultra-wide camera | f/2.2 | 2MP macro camera | f/2.4 | Rear camera video recording | 1080p 1920x1080 at 30/60fps | 720p 1280x720 at 30fps",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Front Camera",
+      "value": "16MP camera | f/2.4 | Front camera video recording | 1080p 1920x1080 at 30/60fps | 720p 1280x720 at 30fps",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Battery & Charging",
+      "value": "5000mAh battery(typ) | Supports 67W turbo charging | 67W in-box charger | USB-C",
+      "unit": "",
+      "condition": "*Power adapter is sold separately in certain regions."
+    },
+    {
+      "label": "Security",
+      "value": "In-screen fingerprint sensor | AI Face Unlock",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "NFC",
+      "value": "Yes*",
+      "unit": "",
+      "condition": "*NFC function may vary between markets."
+    },
+    {
+      "label": "Network & Connectivity",
+      "value": "SIM 1 + Hybrid (SIM or microSD) | Network bands | 2G: GSM: 850 900 1800 1900MHz | 3G: WCDMA:1/2/4/5/6/8/19 | 4G: LTE FDD:1/2/3/4/5/7/8/12/13/17/18/19/20/26/28/66 | 4G: LTE TDD:38/40/41 | Wireless Networks | Wi-Fi: 802.11a/b/g/n/ac | Bluetooth 5.2",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Navigation & Positioning",
+      "value": "GPS: L1 | GLONASS: G1 | BDS: B1 | Galileo E1",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Audio",
+      "value": "Dual speakers | Dolby Atmos® | 3.5mm headphone jack",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Splash,Water and Dust Resistant",
+      "value": "IP54",
+      "unit": "",
+      "condition": "*The device has been tested in a controlled environment and certified to be resistant to splash and dust in specific laboratory conditions with the classification IP54 under IEC 60529: 1989+A1:1999+A2:2013. Resistance is not permanent and may deteriorate naturally over time. If your device is wet, do not attempt to charge it. The life scene is different from the experimental environment. Do not immerse your smartphone in water completely or expose it to solutions such as seawater and chlorinated water or liquids such as drinks during daily use. Your warranty does not cover the damage caused by man-made immersion of your device in liquid. The test is conducted by TÜV SÜD Certification and Testing (China) Co., Ltd. Jiangsu Branch."
+    },
+    {
+      "label": "Sensors",
+      "value": "Proximity sensor | Ambient light sensor | Accelerometer | Electronic compass | IR blaster | Gyroscope",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Operating System",
+      "value": "MIUI 14",
+      "unit": "",
+      "condition": ""
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU / model code and GTIN matching",
+    "Colour-specific packaging and regional accessories"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/redmi-note-13-pro/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible manufacturer specification content parsed; model-reference scope, not an exact retailer SKU."
+    }
+  ],
+  "research_lane": "phones"
+}

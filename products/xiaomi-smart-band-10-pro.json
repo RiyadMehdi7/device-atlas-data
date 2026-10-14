@@ -1,0 +1,198 @@
+{
+  "id": "xiaomi-smart-band-10-pro",
+  "brand": "Xiaomi",
+  "model": "Smart Band 10 Pro",
+  "category": "Smartwatches",
+  "scope": "Global manufacturer model-family reference. Strap/colour alternatives do not form separate products. Any NFC, LTE, ceramic or regional subvariants described remain conditional; exact Latvia SKU unresolved.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Xiaomi Smart Band 10 Pro specifications",
+  "source_url": "https://www.mi.com/global/product/xiaomi-smart-band-10-pro/specs/",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/xiaomi-smart-band-10-pro0/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Standard",
+      "value": "42.83 x 32.16 x 9.7mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Ceramic",
+      "value": "43.96 × 33.36 × 9.7mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Wrist sizes",
+      "value": "135 - 205mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Weight",
+      "value": "(excluding strap)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Ceramic",
+      "value": "28.7g",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Design",
+      "value": "1.74\" AMOLED display",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Resolution",
+      "value": "480 x 336 pixels",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Screen Brightness",
+      "value": "Up to 2000 nits peak brightness and 1500 nits HBM",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Refresh Rate",
+      "value": "60Hz",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Frame",
+      "value": "High-strength aluminum",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Standard",
+      "value": "TPU",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Ceramic",
+      "value": "Fluororubber",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Cover Material",
+      "value": "2.5D curved glass",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Design",
+      "value": "200+ watch faces",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Design",
+      "value": "5ATM water resistance",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Charging Type",
+      "value": "Magnetic charging",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Light mode use",
+      "value": "Up to 21 days",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Capacity",
+      "value": "350mAh",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Heart rate sensor (with blood oxygen sensor)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Accelerometer",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Gyroscope",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Electronic compass",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Ambient light sensor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Connectivity & Compatibility",
+      "value": "Mi Fitness app",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Connectivity & Compatibility",
+      "value": "Bluetooth® 5.4",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Connectivity & Compatibility",
+      "value": "Android 8.0 and above",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Connectivity & Compatibility",
+      "value": "iOS 14 and above",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Package Includes",
+      "value": "Band body x 1, Band strap x 1, Dedicated charging cable x 1, User manual x 1",
+      "unit": "",
+      "condition": ""
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU / GTIN matching",
+    "Regional app and payment availability"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/xiaomi-smart-band-10-pro/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Manufacturer technical specification content parsed; extracted factual fields only"
+    }
+  ],
+  "research_lane": "wearables"
+}

@@ -1,0 +1,120 @@
+{
+  "id": "xiaomi-redmi-13-global-manufacturer-model-reference",
+  "brand": "Xiaomi",
+  "model": "Redmi 13",
+  "category": "Phones",
+  "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Redmi 13 Specs",
+  "source_url": "https://www.mi.com/global/product/redmi-13/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Processor",
+      "value": "MediaTek Helio G91-Ultra processor | 12nm process, octa-core | CPU: Cortex-A55+Cortex-A75 Max CPU frequency: 2.0GHz | GPU: Mali-G52 MC2",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Storage & RAM",
+      "value": "LPDDR4X + eMMC 5.1 | RAM and ROM: 6GB + 128GB, 8GB + 128GB, 8GB + 256GB | Supports expandable storage: up to 1TB",
+      "unit": "",
+      "condition": "*Configurations available may differ between different regions. Available storage and RAM are less than the total memory due to storage of the operating system and software pre-installed on the device."
+    },
+    {
+      "label": "Dimensions",
+      "value": "Height: 168.6mm | Width: 76.28mm | Thickness: 8.3mm | Weight: 205g",
+      "unit": "",
+      "condition": "*Data obtained from Xiaomi Internal Labs. Industry measurement methods may vary, and therefore actual results may differ."
+    },
+    {
+      "label": "Display",
+      "value": "6.79\" FHD+ DotDisplay | Resolution & Pixel density: 2460x1080, 396 ppi | Refresh rate: Up to 90Hz | Brightness: 450 nits (typ) 550 nits HBM | Reading mode | TÜV Rheinland Low Blue Light (Hardware Solution) TÜV Rheinland Circadian Friendly TÜV Rheinland Flicker Free | DC dimming",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Rear camera",
+      "value": "108MP super-clear main camera 6P lens, f/1.75 | 2MP macro camera f/2.4 | filmCamera | Custom Frame | 108MP mode | HDR mode | Night mode Portrait mode | Time-lapse | Rear video recording | 1080p (1920x1080) HD video recording at 30 fps | 720p (1280x720) HD video recording at 30 fps",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Front camera",
+      "value": "13MP front camera | f/2.45 | filmCamera | HDR mode | Soft-light ring Portrait mode | Time-lapse | Front video recording | 1080p (1920x1080) HD video recording at 30 fps | 720p (1280x720) HD video recording at 30 fps",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Battery & Charging",
+      "value": "5030mAh (typ) | Supports 33W fast charging | USB Type-C",
+      "unit": "",
+      "condition": "*No power adapter included in box. Power Adapter and data cable sold separately. Using Xiaomi 33W Charging Combo (Type-A) is recommended."
+    },
+    {
+      "label": "Security",
+      "value": "Side fingerprint sensor | AI face unlock",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "NFC",
+      "value": "Yes",
+      "unit": "",
+      "condition": "*NFC availability may vary between markets"
+    },
+    {
+      "label": "Network & Connectivity",
+      "value": "SIM1 + Hybrid (SIM or microSD) | Network bands: | 2G: GSM:2/3/5/8 3G: WCDMA:1/5/8 4G: LTE FDD: 1/3/5/7/8/20/28 4G: LTE TDD: 38/40/41 | Wireless Networks | Wi-Fi: 2.4GHz | 5GHz | Supports FM radio(with headphone jack) | Bluetooth 5.4",
+      "unit": "",
+      "condition": "*Hybrid slot can be used either for a second SIM or a microSD card(up to 1TB expandable storage）"
+    },
+    {
+      "label": "Navigation & Positioning",
+      "value": "GPS | Glonass | Galileo | Beidou",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Audio",
+      "value": "3.5mm headphone jack | Audio playback | aac, m4a, mp4, amr, awb, mid, midi, smf, xmf, rtx, ota, imy, mp3, ogg, oga, wav, flac, m4a",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Video playback",
+      "value": "ts,mp4, 3gp, mkv, webm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Virtual proximity sensor | Ambient light sensor | Accelerometer | Electronic compass",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Operating System",
+      "value": "Xiaomi HyperOS",
+      "unit": "",
+      "condition": "*Availability of Xiaomi HyperOS features, apps and services may vary depending on software version and phone model."
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU / model code and GTIN matching",
+    "Colour-specific packaging and regional accessories"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/redmi-13/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible manufacturer specification content parsed; model-reference scope, not an exact retailer SKU."
+    }
+  ],
+  "research_lane": "phones"
+}

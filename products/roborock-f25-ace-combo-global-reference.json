@@ -1,0 +1,163 @@
+{
+  "id": "roborock-f25-ace-combo-global-reference",
+  "brand": "Roborock",
+  "model": "F25 ACE Combo",
+  "category": "Smart home",
+  "scope": "Global manufacturer model reference, extracted only from named model comparison column or explicitly common model section. Latvia SKU and regional package require matching. F25 devices are wet/dry cleaners, not autonomous robots.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Roborock F25 ACE Combo official model comparison",
+  "source_url": "https://global.roborock.com/pages/roborock-f25-combo-series",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/f25-ace-combo/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Cleaner configuration",
+      "value": "5-in-1 Combo",
+      "unit": "",
+      "condition": "F25 ACE Combo comparison column"
+    },
+    {
+      "label": "Automatic detergent dispenser",
+      "value": "Supported",
+      "unit": "",
+      "condition": "F25 ACE Combo"
+    },
+    {
+      "label": "Self washing and drying",
+      "value": "Supported",
+      "unit": "",
+      "condition": "F25 ACE Combo"
+    },
+    {
+      "label": "Powered wheel assistance",
+      "value": "SlideTech 2.0",
+      "unit": "",
+      "condition": "F25 ACE Combo"
+    },
+    {
+      "label": "Voice alerts",
+      "value": "Supported",
+      "unit": "",
+      "condition": "F25 ACE Combo"
+    },
+    {
+      "label": "App customization",
+      "value": "Supported",
+      "unit": "",
+      "condition": "F25 ACE Combo"
+    },
+    {
+      "label": "Wet/dry cleaner weight",
+      "value": "4.7kg (10.4 lbs)",
+      "unit": "",
+      "condition": "F25 ACE Combo"
+    },
+    {
+      "label": "Dimensions with dock",
+      "value": "352 × 316 × 1157mm",
+      "unit": "",
+      "condition": "F25 ACE Combo"
+    },
+    {
+      "label": "Dirty water tank",
+      "value": "720 ml",
+      "unit": "",
+      "condition": "F25 ACE Combo"
+    },
+    {
+      "label": "Detergent tank",
+      "value": "100 ml",
+      "unit": "",
+      "condition": "F25 ACE Combo"
+    },
+    {
+      "label": "Clean water tank",
+      "value": "740 ml",
+      "unit": "",
+      "condition": "F25 ACE Combo"
+    },
+    {
+      "label": "Cordless stick vacuum weight",
+      "value": "1.7kg (3.7 lbs)",
+      "unit": "",
+      "condition": "F25 ACE Combo"
+    },
+    {
+      "label": "Multi surface brush",
+      "value": "Included",
+      "unit": "",
+      "condition": "F25 ACE Combo"
+    },
+    {
+      "label": "Motorized mini brush",
+      "value": "Included",
+      "unit": "",
+      "condition": "F25 ACE Combo"
+    },
+    {
+      "label": "2-in-1 cleaning brush",
+      "value": "Included",
+      "unit": "",
+      "condition": "F25 ACE Combo"
+    },
+    {
+      "label": "Stick vacuum and brush head storage stand",
+      "value": "Included",
+      "unit": "",
+      "condition": "F25 ACE Combo"
+    },
+    {
+      "label": "Green light illumination",
+      "value": "Supported",
+      "unit": "",
+      "condition": "F25 ACE Combo"
+    },
+    {
+      "label": "Wet/dry cleaner maximum suction",
+      "value": "20,000Pa",
+      "unit": "",
+      "condition": "Manufacturer maximum; actual results depend on use conditions"
+    },
+    {
+      "label": "Stick vacuum maximum suction",
+      "value": "25,000Pa",
+      "unit": "",
+      "condition": "Manufacturer maximum; actual results depend on use conditions"
+    },
+    {
+      "label": "Dust capacity",
+      "value": "560ml",
+      "unit": "",
+      "condition": "F25 ACE Combo"
+    },
+    {
+      "label": "Wet/dry cleaner battery life",
+      "value": "60min",
+      "unit": "",
+      "condition": "Eco Mode"
+    },
+    {
+      "label": "Stick vacuum battery life",
+      "value": "65min",
+      "unit": "",
+      "condition": "Eco Mode with 2-in-1 cleaning head on"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvian SKU/GTIN",
+    "Electrical rating and battery capacity",
+    "Regional package differences"
+  ],
+  "source_pages": [
+    {
+      "url": "https://global.roborock.com/pages/roborock-f25-combo-series",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP fetch; named model comparison column read",
+      "notes": "Family features not transferred across models; performance conditions preserved"
+    }
+  ],
+  "research_lane": "smart-devices"
+}

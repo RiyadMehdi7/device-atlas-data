@@ -1,0 +1,180 @@
+{
+  "id": "sony-wh-1000xm6-us-model",
+  "brand": "Sony",
+  "model": "WH-1000XM6",
+  "category": "Headphones",
+  "scope": "USA manufacturer reference; original units retained; no claim of Tele2 Latvia availability",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "WH-1000XM6 Specifications - Sony USA",
+  "source_url": "https://www.sony.com/electronics/support/wireless-bluetooth-headphones/wh-1000xm6/specifications",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "WEIGHT",
+      "value": "Approx. 8.96 oz",
+      "unit": "",
+      "condition": "US manufacturer specification; original imperial units preserved"
+    },
+    {
+      "label": "HEADPHONE TYPE",
+      "value": "Closed",
+      "unit": "",
+      "condition": "US manufacturer specification; original imperial units preserved"
+    },
+    {
+      "label": "INPUT(S)",
+      "value": "Stereo Mini Jack",
+      "unit": "",
+      "condition": "US manufacturer specification; original imperial units preserved"
+    },
+    {
+      "label": "DIRECTION OF MICROPHONE",
+      "value": "Omni directional",
+      "unit": "",
+      "condition": "US manufacturer specification; original imperial units preserved"
+    },
+    {
+      "label": "DSEE Extreme",
+      "value": "Yes",
+      "unit": "",
+      "condition": "US manufacturer specification; original imperial units preserved"
+    },
+    {
+      "label": "CORD LENGTH",
+      "value": "Approx. 3.94 ft",
+      "unit": "",
+      "condition": "US manufacturer specification; original imperial units preserved"
+    },
+    {
+      "label": "FREQUENCY RESPONSE (BLUETOOTH® COMMUNICATION)",
+      "value": "20–20,000 Hz (44.1 kHz sampling) 20–40,000 Hz (LDAC 96 kHz sampling 990 kbps)",
+      "unit": "",
+      "condition": "US manufacturer specification; original imperial units preserved"
+    },
+    {
+      "label": "AMBIENT SOUND MODE",
+      "value": "Yes",
+      "unit": "",
+      "condition": "US manufacturer specification; original imperial units preserved"
+    },
+    {
+      "label": "MAGNET",
+      "value": "Neodymium",
+      "unit": "",
+      "condition": "US manufacturer specification; original imperial units preserved"
+    },
+    {
+      "label": "MULTIPOINT CONNECTION",
+      "value": "Yes",
+      "unit": "",
+      "condition": "US manufacturer specification; original imperial units preserved"
+    },
+    {
+      "label": "UNIT OF MICROPHONE",
+      "value": "MEMS",
+      "unit": "",
+      "condition": "US manufacturer specification; original imperial units preserved"
+    },
+    {
+      "label": "IMPEDANCE (OHM)",
+      "value": "48 ohm (1 kHz) (when connecting via the headphone cable with the unit turned on), 16 ohm (1 kHz) (when connecting via the headphone cable with the unit turned off)",
+      "unit": "",
+      "condition": "US manufacturer specification; original imperial units preserved"
+    },
+    {
+      "label": "PLUG",
+      "value": "Gold-plated L-shaped stereo mini plug",
+      "unit": "",
+      "condition": "US manufacturer specification; original imperial units preserved"
+    },
+    {
+      "label": "PASSIVE OPERATION",
+      "value": "Yes",
+      "unit": "",
+      "condition": "US manufacturer specification; original imperial units preserved"
+    },
+    {
+      "label": "FREQUENCY RESPONSE",
+      "value": "4–40,000 Hz (JEITA)",
+      "unit": "",
+      "condition": "US manufacturer specification; original imperial units preserved"
+    },
+    {
+      "label": "CORD TYPE",
+      "value": "Single-sided (detachable)",
+      "unit": "",
+      "condition": "US manufacturer specification; original imperial units preserved"
+    },
+    {
+      "label": "DRIVER UNIT",
+      "value": "1.18 in",
+      "unit": "",
+      "condition": "US manufacturer specification; original imperial units preserved"
+    },
+    {
+      "label": "WEARING STYLE",
+      "value": "Over Ear",
+      "unit": "",
+      "condition": "US manufacturer specification; original imperial units preserved"
+    },
+    {
+      "label": "FREQUENCY RESPONSE (ACTIVE OPERATION)",
+      "value": "4–40,000 Hz (JEITA)",
+      "unit": "",
+      "condition": "US manufacturer specification; original imperial units preserved"
+    },
+    {
+      "label": "SENSITIVITIES (DB/MW)",
+      "value": "103 dB/mW (when connecting via the headphone cable with the unit turned on), 102 dB/mW (when connecting via the headphone cable with the unit turned off)",
+      "unit": "",
+      "condition": "US manufacturer specification; original imperial units preserved"
+    },
+    {
+      "label": "BATTERY CHARGE TIME",
+      "value": "Approx. 3.5 hrs",
+      "unit": "",
+      "condition": "US manufacturer specification; original imperial units preserved"
+    },
+    {
+      "label": "BATTERY CHARGE METHOD",
+      "value": "USB",
+      "unit": "",
+      "condition": "US manufacturer specification; original imperial units preserved"
+    },
+    {
+      "label": "BATTERY LIFE (CONTINUOUS MUSIC PLAYBACK TIME)",
+      "value": "Max. 30 hrs (NC ON), Max. 40 hrs (NC OFF)",
+      "unit": "",
+      "condition": "Continuous activity and NC settings stated in label/value; other lab settings unresolved"
+    },
+    {
+      "label": "SUPPORTED AUDIO FORMAT(S)",
+      "value": "SBC, AAC, LDAC, LC3",
+      "unit": "",
+      "condition": "US manufacturer specification; original imperial units preserved"
+    },
+    {
+      "label": "SUPPORTED CONTENT PROTECTION",
+      "value": "SCMS-T",
+      "unit": "",
+      "condition": "US manufacturer specification; original imperial units preserved"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU matching",
+    "Battery capacity"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.sony.com/electronics/support/wireless-bluetooth-headphones/wh-1000xm6/specifications",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Actual Sony support specification page read after UK pages timed out"
+    }
+  ],
+  "research_lane": "audio"
+}

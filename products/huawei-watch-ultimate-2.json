@@ -1,0 +1,126 @@
+{
+  "id": "huawei-watch-ultimate-2",
+  "brand": "Huawei",
+  "model": "WATCH Ultimate 2",
+  "category": "Smartwatches",
+  "scope": "Global manufacturer WATCH Ultimate 2 reference. Only values assigned to this size column or common model sections included. Battery is manufacturer lab claim; regional services and exact Latvia SKU unresolved.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Huawei WATCH Ultimate 2 specifications",
+  "source_url": "https://consumer.huawei.com/en/wearables/watch-ultimate-2/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Dimensions",
+      "value": "48.5 mm × 48.5 mm × 12.9 mm | 47.8 mm × 47.8 mm × 12.9 mm | 47.8 mm × 47.8 mm × 12.9 mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Wrist Size",
+      "value": "140–210 mm",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Weight",
+      "value": "Approx. 80.5 g (excluding the strap)",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Display",
+      "value": "1.5-inch LTPO 2.0 AMOLED color screen | 466 × 466 pixels, PPI 310 | 3500 nits",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Watch Case",
+      "value": "Front case: black zirconium-based liquid metal | Rear case: nanocrystal ceramic | Front case: steel-color zirconium-based liquid metal | Rear case: nanocrystal ceramic | Front case: steel-color zirconium-based liquid metal | Rear case: nanocrystal ceramic",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Sensors",
+      "value": "Accelerometer sensor | Gyroscope sensor | Magnetometer sensor | Optical heart rate sensor | Barometer sensor | Ambient light sensor | Temperature sensor | ECG sensor | Depth sensor | X-TAP sensor",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Button",
+      "value": "Upper left button, upper right button (rotating crown), and bottom right button",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Charging Port",
+      "value": "Wireless charging",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "System Requirements",
+      "value": "Android 9.0 or later/iOS 13.0 or later",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Waterproof Level",
+      "value": "Waterproof: 20 ATM + IP68 + IP69, Diving (maximum depth 150 meters) | Dust-tight: IP6X | Remember to rinse and soak the device in fresh water and wipe it dry after using it in ocean water. For more information about the water resistance of Huawei wearables, please visit: https://consumer.huawei.com/en/support/content/en-us15851428/ . | Water resistance is not permanent, and performance may deteriorate with daily wear and tear. It is recommended that you regularly take your device to an authorized Huawei Customer Service Center for inspection and maintenance.",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Connectivity",
+      "value": "Supported | BT5.2, BR + BLE | L1: GPS + GLONASS + GALILEO + BeiDou + QZSS | L5: GPS + GALILEO + BeiDou + QZSS | Wi-Fi 6: 2.4 GHz + 5 GHz | IEEE 802.11a/b/g/n/ac/ax, 1 × 1 | Supported",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Speaker",
+      "value": "Supported",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Microphone",
+      "value": "Supported",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Environment",
+      "value": "0°C to 35°C | –20°C to 55°C | 0°C to 38°C | 0°C to 35°C | –20°C to 55℃",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Charging",
+      "value": "Charger voltage and current requirements | 5V-10V DC/2A MAX",
+      "unit": "",
+      "condition": ""
+    },
+    {
+      "label": "Battery Life",
+      "value": "(When paired with a Android phone) Standard mode: 4.5 days for typical use | (When paired with a Android phone) Standard mode with AOD enabled: 3 days for typical use | (When paired with an iPhone) Standard mode: 3.5 days for typical use | (When paired with an iPhone) Standard mode with AOD enabled: 2.5 days for typical use | Battery saver mode: 11 days for light use | Battery saver mode: 6 days for typical use | Battery saver mode with AOD enabled: 4 days | Diving: 18 hours when sonar-based underwater communication is disabled/12 hours when sonar-based underwater communication is enabled | Expedition: 40 hours",
+      "unit": "",
+      "condition": "Manufacturer specification; battery values are laboratory claims, actual use varies"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU / GTIN matching",
+    "Regional app and payment availability"
+  ],
+  "source_pages": [
+    {
+      "url": "https://consumer.huawei.com/en/wearables/watch-ultimate-2/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Manufacturer technical specification content parsed; extracted factual fields only"
+    }
+  ],
+  "research_lane": "wearables"
+}

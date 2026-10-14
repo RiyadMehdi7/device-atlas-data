@@ -1,0 +1,370 @@
+{
+  "id": "lenovo-21t00067mh",
+  "brand": "Lenovo",
+  "model": "ThinkPad E14 Gen 7 (AMD) (21T00067MH)",
+  "category": "Laptops",
+  "scope": "Exact manufacturer configuration. Lenovo PSREF rendered model table explicitly lists MPN 21T00067MH and EAN/UPC/JAN 0199274124212; Tele2 retailer identifier matches after explicit left-zero padding to 13 digits where required. Regional country/keyboard and warranty values are kept as manufacturer claims, not inferred Latvia service terms. Max memory/storage are capacity support, not installed amounts.",
+  "identifiers": [
+    "21T00067MH",
+    "0199274124212"
+  ],
+  "aliases": [
+    "ThinkPad E14 Gen 7 (AMD)"
+  ],
+  "checked_at": "2026-10-14",
+  "status": "Exact variant source checked",
+  "source_name": "Lenovo PSREF ThinkPad E14 Gen 7 (AMD) 21T00067MH",
+  "source_url": "https://psref.lenovo.com/Detail/ThinkPad_E14_Gen_7_AMD?M=21T00067MH",
+  "tele2_url": "https://www.tele2.lv/datori/lenovo-tp-e14-g7-r7-250-14i-16gb-512gb/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Processor",
+      "value": "AMD Ryzen 7 250 (8C / 16T, 3.3 / 5.1GHz, 8MB L2 / 16MB L3)",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "AI PC Category",
+      "value": "AI PC",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "NPU",
+      "value": "Integrated AMD Ryzen AI, up to 16 TOPS",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Graphics",
+      "value": "Integrated AMD Radeon 780M Graphics",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Chipset",
+      "value": "AMD SoC Platform",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Memory",
+      "value": "1x 16GB SODIMM DDR5-5600",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Memory Slots",
+      "value": "Two DDR5 SODIMM slots, dual-channel capable",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Max Memory",
+      "value": "Up to 64GB DDR5-5600",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Storage",
+      "value": "512GB SSD M.2 2242 PCIe 4.0x4 NVMe Opal 2.0",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Storage Slot",
+      "value": "Two M.2 slots; One M.2 2242 PCIe 4.0 x4 slot; One M.2 2280 PCIe 4.0 x4 slot",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Max Storage Support",
+      "value": "Up to two drives, 2x M.2 SSD; M.2 2242 SSD up to 1TB; M.2 2280 SSD up to 1TB",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Card Reader",
+      "value": "No card reader",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Audio Chip",
+      "value": "High Definition (HD) Audio, Senary SN6147 codec",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Speakers",
+      "value": "Stereo speakers, 2W x2, Dolby Atmos, audio by HARMAN",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Microphone",
+      "value": "2x, Array",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Camera",
+      "value": "FHD 1080p + IR Hybrid with Privacy Shutter",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Battery",
+      "value": "64Wh",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Power Adapter",
+      "value": "65W USB-C (3-pin)",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Display",
+      "value": "14 inch WUXGA (1920x1200) IPS 300nits Anti-glare, 45% NTSC, 60Hz",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Touchscreen",
+      "value": "None",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Screen-to-Body Ratio",
+      "value": "90%",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Pen",
+      "value": "Pen Not Supported",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Keyboard",
+      "value": "Backlit, English (EU)",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Dimensions (WxDxH)",
+      "value": "313 x 220.3 x 10.1/15.25 (front/rear), 19.7 (maximum) mm; 12.32 x 8.67 x 0.40/0.60 (front/rear), 0.78 (maximum) inches",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Weight",
+      "value": "Starting at 1.41 kg (3.11 lbs)",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Case Color",
+      "value": "Black",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Case Material",
+      "value": "Aluminium (Top), Aluminium (Bottom)",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Operating System",
+      "value": "Windows 11 Pro, WE (EN/FR/DE/NL/IT)",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "WLAN + Bluetooth",
+      "value": "Wi-Fi 6E, 802.11ax 2x2 + BT5.3",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "WWAN",
+      "value": "WWAN Not Supported",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "SIM Card",
+      "value": "No physical SIM card included",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Ethernet",
+      "value": "100/1000M (RJ-45)",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "NFC",
+      "value": "No NFC",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Standard Ports",
+      "value": "1x USB-A (USB 5Gbps / USB 3.2 Gen 1); 1x USB-A (USB 10Gbps / USB 3.2 Gen 2), Always On; 1x USB-C (USB 5Gbps / USB 3.2 Gen 1), with USB PD 15-65W and DisplayPort 1.4; 1x USB-C (USB4 40Gbps), with USB PD 15-65W and DisplayPort 1.4a; 1x HDMI 2.1, up to 4K/60Hz; 1x Headphone / microphone combo jack (3.5mm); 1x Ethernet (RJ-45)",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Security Chip",
+      "value": "Discrete TPM 2.0 Enabled",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Physical Locks",
+      "value": "Kensington Nano Security Slot, 2.5 x 6 mm",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Smart Card Reader",
+      "value": "No Smart Card Reader",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Fingerprint Reader",
+      "value": "Touch Style, Match-on-Chip, Integrated in Power Button",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Other Security",
+      "value": "Camera privacy shutter; IR camera for Windows Hello (facial recognition)",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "System Management",
+      "value": "Non-DASH",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Base Warranty",
+      "value": "1-year, Courier or Carry-in",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Included Upgrade",
+      "value": "3Y Courier/Carry-in upgrade from 1Y Courier/Carry-in, CO2 Offset 0.5 ton (2nd Generation Carbon Offset Projects)",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Bundled Accessories",
+      "value": "None",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Green Certifications",
+      "value": "ENERGY STAR 9.0; EPEAT 1.0 Gold Registered; ErP Lot 6/26; RoHS compliant; TCO Certified, generation 10",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Mil-Spec Test",
+      "value": "MIL-STD-810H military test passed",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Other Certifications",
+      "value": "TÜV Rheinland Low Blue Light (Software Solution)",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Model",
+      "value": "21T00067MH",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Machine Type",
+      "value": "21T0",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Region",
+      "value": "WE",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Country/Region",
+      "value": "Netherlands",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "EAN / UPC / JAN",
+      "value": "0199274124212",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "Announce Date",
+      "value": "2025-12-07",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    },
+    {
+      "label": "End of Support",
+      "value": "2031-12-13",
+      "unit": "",
+      "condition": "Exact MPN 21T00067MH PSREF model table. Manufacturer Country/Region and service bundle scope retained; availability may vary."
+    }
+  ],
+  "missing_fields": [
+    "Current stock and Latvia seller warranty terms",
+    "UPC/EAN textual representation retained; comparison uses left-zero padding to GTIN-13 only where required"
+  ],
+  "source_pages": [
+    {
+      "url": "https://psref.lenovo.com/Detail/ThinkPad_E14_Gen_7_AMD?M=21T00067MH",
+      "fetched_at": "2026-10-14",
+      "method": "Chrome browser rendered official PSREF table, DOM read",
+      "content_title": "Specifications - Lenovo PSREF",
+      "notes": "Visible model-specific manufacturer table read including EAN/UPC/JAN. No HTTP status inferred. Structured factual extraction saved."
+    },
+    {
+      "url": "https://www.tele2.lv/datori/lenovo-tp-e14-g7-r7-250-14i-16gb-512gb/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "http_status": 200,
+      "content_title": "ThinkPad E14 Gen 7 (AMD) Tele2 listing",
+      "notes": "Retailer identifier directly read and joined to independently observed manufacturer identifier."
+    },
+    {
+      "url": "https://download.lenovo.com/pccbbs/mobiles_pdf/e14_g7_e16_g3_amd_sg_en_zh-tw_zh-cn_ko_ja.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP PDF fetch and pdftotext",
+      "http_status": 200,
+      "content_title": "ThinkPad E14 Gen7 /ThinkPad E16 Gen3 AMD Setup Guide",
+      "notes": "Actual setup/overview PDF read. Family manual, optional components not transferred into the exact SKU facts."
+    }
+  ],
+  "research_lane": "computers"
+}

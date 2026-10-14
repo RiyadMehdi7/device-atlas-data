@@ -1,0 +1,284 @@
+{
+  "id": "lenovo-thinkvision-t27-40",
+  "brand": "Lenovo",
+  "model": "ThinkVision T27-40",
+  "category": "Monitors",
+  "scope": "Exact ThinkVision model PSREF specification reference; documented options remain in the same field rather than manufacturing regional SKU variants. Tele2 EU MPN/EAN reconciliation remains unresolved.",
+  "identifiers": [
+    "T27-40"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "ThinkVision T27-40 Product Specifications Reference",
+  "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkVision/ThinkVision_T27_40/ThinkVision_T27_40_Spec.pdf",
+  "tele2_url": "https://www.tele2.lv/monitori/lenovo-thinkvision-t27-40-27-1920x108016/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Panel",
+      "value": "4-side Ultra Thin, In-Plane Switching",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; PERFORMANCE; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Backlight",
+      "value": "WLED",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; PERFORMANCE; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Display Size",
+      "value": "27 inches",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; PERFORMANCE; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Max View Area",
+      "value": "Active Area: 597.9 x 336.3 mm; Screen Dimension: 608.8 x 352.4 mm",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; PERFORMANCE; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Resolution",
+      "value": "1920 x 1080",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; PERFORMANCE; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Aspect Ratio",
+      "value": "16:9",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; PERFORMANCE; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Pixel Pitch",
+      "value": "0.3114 x 0.3114 mm",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; PERFORMANCE; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Dot / Pixel Per Inch",
+      "value": "82 dpi",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; PERFORMANCE; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Brightness",
+      "value": "300 cd/m²",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; PERFORMANCE; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Contrast Ratio",
+      "value": "Contrast Ratio (Typical): 1500:1; Dynamic Contrast Ratio (Typical): 3000000:1",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; PERFORMANCE; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "View Angle (H / V)",
+      "value": "Horizontal: 178°, Vertical: 178°",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; PERFORMANCE; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Response Time",
+      "value": "Extreme Mode: 4ms GtG; Normal Mode: 6ms GtG",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; PERFORMANCE; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Refresh Rate",
+      "value": "48Hz - 120Hz",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; PERFORMANCE; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Color Gamut",
+      "value": "Coverage Ratio: 99% sRGB (CIE 1931); Coverage Ratio: 99% BT.709 (CIE 1931)",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; PERFORMANCE; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Color Support",
+      "value": "16.7 Million",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; PERFORMANCE; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Color Depth",
+      "value": "8-bit (6-bit+FRC)",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; PERFORMANCE; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Screen Surface Treatment",
+      "value": "Anti-glare",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; PERFORMANCE; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Curvature",
+      "value": "Flat Panel",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; PERFORMANCE; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Operating System",
+      "value": "Windows® 11 Support; Windows® 10 Support",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; PERFORMANCE; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Camera",
+      "value": "ThinkVision® VoIP Stack MC60 monitor webcam (For models 64A5ZAR6 and 64A5ZAT6); No bundled webcam (Support ThinkVision® VoIP Stack MC60 Monitor Webcam, sold separately)",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; Multi-Media; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Microphone",
+      "value": "No microphone",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; Multi-Media; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Speakers",
+      "value": "No speakers (Support MS30 Monitor Soundbar, sold separately)",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; Multi-Media; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Power Consumption",
+      "value": "Typical / Max: 15W / 75W; Sleep / Off mode: <0.5W; Switch-off Mode: <0.3W; Energy Star Power On: 12.5W; Energy Star TEC: 39.5kWh; Internal Power Supply",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; Power Supply; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Voltage Required",
+      "value": "AC 100 to 240 V (50-60Hz)",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; Power Supply; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Special Features",
+      "value": "Lenovo® ThinkColour (Lenovo® Accessories and Display Manager) Support; Lenovo® ThinkColour supports Windows® 10 & 11, Mac OS (functions vary across systems).; Lenovo® Accessories and Display Manager is formerly Lenovo® Display Control Center.; LDFM (Lenovo® Display Fleet Manager); Natural Low Blue Light",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; Power Supply; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "ThinkCentre® M Series Support",
+      "value": "To support Tiny devices, an additional ThinkCentre® Tiny Mounting Kit (PN:4XF1R07369) is required (sold separately).",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; Mechanical; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Bezel Width",
+      "value": "Side: 2.0mm; Top: 2.0mm; Bottom: 10.4mm",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; Mechanical; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Cable Management",
+      "value": "Support",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; Mechanical; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Case Color",
+      "value": "Eclipse black",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; Mechanical; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Dimensions (WxDxH)",
+      "value": "Models Dimensions; Lowest Position 611.9 x 195.0 x 382.8 mm (24.09 x 7.68 x 15.07 inches); Highest Position 611.9 x 195.0 x 537.8 mm (24.09 x 7.68 x 21.17 inches); Head Only 611.9 x 46.0 x 355.2 mm (24.09 x 1.81 x 13.98 inches)",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; Mechanical; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Packaging Dimensions (WxDxH)",
+      "value": "693.0 x 150.0 x 420.0 mm (27.28 x 5.91 x 16.54 inches)",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; Mechanical; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Weight",
+      "value": "Models Weight; Monitor With Stand 6.5 kg (14.3 lbs); Monitor Head Only 4.4 kg (9.7 lbs)",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; Mechanical; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Packaging Weight",
+      "value": "Models with ThinkVision® VoIP Stack MC60 Monitor Webcam: 9.3 kg (20.53lbs); Models without ThinkVision® VoIP Stack MC60 Monitor Webcam: 9.1 kg (20.1 lbs)",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; Mechanical; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Mounting",
+      "value": "Supports VESA mount 100 x 100 mm",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; Mechanical; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Stand",
+      "value": "Supports -5° to +23.5° tilt, left & right 45° swivel, 90° pivot, up to 155mm lift",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; Mechanical; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "In the Box",
+      "value": "Monitor with stand; 1x DP 1.2 cable (1.8m); 1x USB-B to USB-A Gen 1 cable (1.8m); 1x Power cable; ThinkVision® VoIP Stack MC60 monitor webcam; Quick setup guide",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; Mechanical; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Rear Ports",
+      "value": "1x USB-C® (USB 5Gbps / USB 3.2 Gen 1) with 15W PD, data transfer only, USB downstream; 3x USB-A (USB 5Gbps / USB 3.2 Gen 1, 1x BC 1.2), USB downstream; 1x USB-B (USB 5Gbps / USB 3.2 Gen 1), USB upstream; 1x HDMI® 1.4, supports 1920x1080@120Hz; 1x DisplayPort™ 1.2; 1x VGA",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; CONNECTIVITY; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Physical Locks",
+      "value": "Kensington® Nano Security Slot™ (2.5 mm x 6 mm)",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; Security; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Base Warranty",
+      "value": "3-year limited warranty",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; Warranty; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Temperature",
+      "value": "Operating: 0°C to 40°C (32°F to 104°F); Storage: -20°C to 60°C (-4°F to 140°F); Transport: -20°C to 60°C (-4°F to 140°F)",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; Operating Environment; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Relative Humidity",
+      "value": "Operating: 8% to 80% non-condensing; Storage: 5% to 95% non-condensing; Transport: 5% to 95% non-condensing",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; Operating Environment; dimensions W x D x H, weights approximate and may vary by configuration"
+    },
+    {
+      "label": "Green Certifications",
+      "value": "ENERGY STAR® Certified; EPEAT™ Gold Registered; EU Energy Label (D-class); RoHS (2011/65/EU); TCO Certified, generation 10; TCO Edge 2.1; Volatile Organic Compound Certification",
+      "unit": "",
+      "condition": "Lenovo exact-model PSREF reference; CERTIFICATIONS; dimensions W x D x H, weights approximate and may vary by configuration"
+    }
+  ],
+  "missing_fields": [
+    "Latvia EU machine type / MPN and EAN reconciliation",
+    "User manual input timing limits"
+  ],
+  "source_pages": [
+    {
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkVision/ThinkVision_T27_40/ThinkVision_T27_40_Spec.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch and pdftotext -raw",
+      "notes": "HTTP 200; exact-model PSREF PDF read"
+    }
+  ],
+  "research_lane": "monitors"
+}

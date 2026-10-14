@@ -1,0 +1,462 @@
+{
+  "id": "acer-pd163qt-regulatory-reference",
+  "brand": "Acer",
+  "model": "PD163QT bmiuux",
+  "category": "Monitors",
+  "scope": "Exact EU-registered Acer PD163QT bmiuux / UM.ZP3EE.011, manufacturer Israel-English page and EU registry reference. Tele2 PD163E title conflicts with its attached PD163QT fiche; this remains an unmatched manufacturer candidate, not a confirmed Tele2 SKU.",
+  "identifiers": [
+    "PD163QT",
+    "PD163QT bmiuux",
+    "UM.ZP3EE.011"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Acer PD163QT EU supplier product information sheet",
+  "source_url": "https://eprel.ec.europa.eu/fiches/electronicdisplays/Fiche_2336615_EN.pdf",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Supplier trademark",
+      "value": "acer",
+      "unit": "",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Regulatory model identifier",
+      "value": "PD163QT",
+      "unit": "",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "SDR energy efficiency class",
+      "value": "E",
+      "unit": "",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "On mode power demand in SDR",
+      "value": "15,9",
+      "unit": "W",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "HDR energy efficiency class",
+      "value": "n.a.",
+      "unit": "",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "On mode power demand in HDR",
+      "value": "n.a.",
+      "unit": "W",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Off mode power demand",
+      "value": "0,3",
+      "unit": "W",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Standby mode power demand",
+      "value": "0,5",
+      "unit": "W",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Networked standby power demand",
+      "value": "n.a.",
+      "unit": "W",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Electronic display category",
+      "value": "Monitor",
+      "unit": "",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Size ratio",
+      "value": "16 : 9",
+      "unit": "",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Screen resolution",
+      "value": "1 920 x 1 080",
+      "unit": "pixels",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Screen diagonal",
+      "value": "39,5",
+      "unit": "cm",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Screen diagonal",
+      "value": "15",
+      "unit": "inches",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Visible screen area",
+      "value": "13,3",
+      "unit": "dm²",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Panel technology used",
+      "value": "LCD",
+      "unit": "",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Automatic Brightness Control (ABC) available",
+      "value": "No",
+      "unit": "",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Voice recognition sensor available",
+      "value": "No",
+      "unit": "",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Room presence sensor available",
+      "value": "No",
+      "unit": "",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Image refresh frequency rate (default)",
+      "value": "60",
+      "unit": "Hz",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Minimum guaranteed software/firmware updates availability",
+      "value": "8",
+      "unit": "Years",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Minimum guaranteed spare parts availability",
+      "value": "7",
+      "unit": "Years",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Minimum guaranteed product support",
+      "value": "7",
+      "unit": "Years",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Minimum general guarantee duration offered by supplier",
+      "value": "2",
+      "unit": "Years",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Power supply type",
+      "value": "External",
+      "unit": "",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "EPREL registration number",
+      "value": "2336615",
+      "unit": "",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "Declared Union market placement start",
+      "value": "28/03/2025",
+      "unit": "",
+      "condition": "Supplier-declared official EU product sheet under 2019/2013. Refresh is default configuration, not maximum. Update/spare-parts terms measured from end of market placement where specified."
+    },
+    {
+      "label": "External supply model",
+      "value": "PD0657GC-0451",
+      "unit": "",
+      "condition": "External non-standardized supply included in box; supplier-declared regulatory sheet"
+    },
+    {
+      "label": "External supply input voltage",
+      "value": "230",
+      "unit": "V",
+      "condition": "External non-standardized supply included in box; supplier-declared regulatory sheet"
+    },
+    {
+      "label": "External supply output voltage",
+      "value": "20,0",
+      "unit": "V",
+      "condition": "External non-standardized supply included in box; supplier-declared regulatory sheet"
+    },
+    {
+      "label": "Viewable Screen Size",
+      "value": "39.6 cm (15.6\")",
+      "unit": "",
+      "condition": "Exact Acer PD163QT bmiuux / UM.ZP3EE.011 official manufacturer reference; original stand dimensions and Energy Star conditions retained",
+      "source_url": "https://www.acer.com/il-en/monitors/entertainment/pd3/pdp/UM.ZP3EE.011",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Screen Size Class",
+      "value": "16\"",
+      "unit": "",
+      "condition": "Exact Acer PD163QT bmiuux / UM.ZP3EE.011 official manufacturer reference; original stand dimensions and Energy Star conditions retained",
+      "source_url": "https://www.acer.com/il-en/monitors/entertainment/pd3/pdp/UM.ZP3EE.011",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Screen Mode",
+      "value": "Double Full HD (DFHD)",
+      "unit": "",
+      "condition": "Exact Acer PD163QT bmiuux / UM.ZP3EE.011 official manufacturer reference; original stand dimensions and Energy Star conditions retained",
+      "source_url": "https://www.acer.com/il-en/monitors/entertainment/pd3/pdp/UM.ZP3EE.011",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Response Time",
+      "value": "8 ms",
+      "unit": "",
+      "condition": "Exact Acer PD163QT bmiuux / UM.ZP3EE.011 official manufacturer reference; original stand dimensions and Energy Star conditions retained",
+      "source_url": "https://www.acer.com/il-en/monitors/entertainment/pd3/pdp/UM.ZP3EE.011",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Pixel Pitch",
+      "value": "0.17900 mm",
+      "unit": "",
+      "condition": "Exact Acer PD163QT bmiuux / UM.ZP3EE.011 official manufacturer reference; original stand dimensions and Energy Star conditions retained",
+      "source_url": "https://www.acer.com/il-en/monitors/entertainment/pd3/pdp/UM.ZP3EE.011",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Horizontal Viewing Angle",
+      "value": "170°",
+      "unit": "",
+      "condition": "Exact Acer PD163QT bmiuux / UM.ZP3EE.011 official manufacturer reference; original stand dimensions and Energy Star conditions retained",
+      "source_url": "https://www.acer.com/il-en/monitors/entertainment/pd3/pdp/UM.ZP3EE.011",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Vertical Viewing Angle",
+      "value": "170°",
+      "unit": "",
+      "condition": "Exact Acer PD163QT bmiuux / UM.ZP3EE.011 official manufacturer reference; original stand dimensions and Energy Star conditions retained",
+      "source_url": "https://www.acer.com/il-en/monitors/entertainment/pd3/pdp/UM.ZP3EE.011",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Features",
+      "value": "On-screen Display (OSD)Navigation Key VisionCare 1.0",
+      "unit": "",
+      "condition": "Exact Acer PD163QT bmiuux / UM.ZP3EE.011 official manufacturer reference; original stand dimensions and Energy Star conditions retained",
+      "source_url": "https://www.acer.com/il-en/monitors/entertainment/pd3/pdp/UM.ZP3EE.011",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Tilt Angle",
+      "value": "0° to 315°",
+      "unit": "",
+      "condition": "Exact Acer PD163QT bmiuux / UM.ZP3EE.011 official manufacturer reference; original stand dimensions and Energy Star conditions retained",
+      "source_url": "https://www.acer.com/il-en/monitors/entertainment/pd3/pdp/UM.ZP3EE.011",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Screen Surface",
+      "value": "Anti-glare",
+      "unit": "",
+      "condition": "Exact Acer PD163QT bmiuux / UM.ZP3EE.011 official manufacturer reference; original stand dimensions and Energy Star conditions retained",
+      "source_url": "https://www.acer.com/il-en/monitors/entertainment/pd3/pdp/UM.ZP3EE.011",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Speakers",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact Acer PD163QT bmiuux / UM.ZP3EE.011 official manufacturer reference; original stand dimensions and Energy Star conditions retained",
+      "source_url": "https://www.acer.com/il-en/monitors/entertainment/pd3/pdp/UM.ZP3EE.011",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Speaker Output Power",
+      "value": "2 W",
+      "unit": "",
+      "condition": "Exact Acer PD163QT bmiuux / UM.ZP3EE.011 official manufacturer reference; original stand dimensions and Energy Star conditions retained",
+      "source_url": "https://www.acer.com/il-en/monitors/entertainment/pd3/pdp/UM.ZP3EE.011",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Height",
+      "value": "216.1 mm",
+      "unit": "",
+      "condition": "Exact Acer PD163QT bmiuux / UM.ZP3EE.011 official manufacturer reference; original stand dimensions and Energy Star conditions retained",
+      "source_url": "https://www.acer.com/il-en/monitors/entertainment/pd3/pdp/UM.ZP3EE.011",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Width",
+      "value": "355.8 mm",
+      "unit": "",
+      "condition": "Exact Acer PD163QT bmiuux / UM.ZP3EE.011 official manufacturer reference; original stand dimensions and Energy Star conditions retained",
+      "source_url": "https://www.acer.com/il-en/monitors/entertainment/pd3/pdp/UM.ZP3EE.011",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Depth",
+      "value": "22.7 mm",
+      "unit": "",
+      "condition": "Exact Acer PD163QT bmiuux / UM.ZP3EE.011 official manufacturer reference; original stand dimensions and Energy Star conditions retained",
+      "source_url": "https://www.acer.com/il-en/monitors/entertainment/pd3/pdp/UM.ZP3EE.011",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Height with Stand",
+      "value": "216.10 mm",
+      "unit": "",
+      "condition": "Exact Acer PD163QT bmiuux / UM.ZP3EE.011 official manufacturer reference; original stand dimensions and Energy Star conditions retained",
+      "source_url": "https://www.acer.com/il-en/monitors/entertainment/pd3/pdp/UM.ZP3EE.011",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Width with Stand",
+      "value": "355.80 mm",
+      "unit": "",
+      "condition": "Exact Acer PD163QT bmiuux / UM.ZP3EE.011 official manufacturer reference; original stand dimensions and Energy Star conditions retained",
+      "source_url": "https://www.acer.com/il-en/monitors/entertainment/pd3/pdp/UM.ZP3EE.011",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Depth with Stand",
+      "value": "22.70 mm",
+      "unit": "",
+      "condition": "Exact Acer PD163QT bmiuux / UM.ZP3EE.011 official manufacturer reference; original stand dimensions and Energy Star conditions retained",
+      "source_url": "https://www.acer.com/il-en/monitors/entertainment/pd3/pdp/UM.ZP3EE.011",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Weight with Stand (Approximate)",
+      "value": "1.55 kg",
+      "unit": "",
+      "condition": "Exact Acer PD163QT bmiuux / UM.ZP3EE.011 official manufacturer reference; original stand dimensions and Energy Star conditions retained",
+      "source_url": "https://www.acer.com/il-en/monitors/entertainment/pd3/pdp/UM.ZP3EE.011",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Brightness",
+      "value": "250 cd/m²",
+      "unit": "",
+      "condition": "Exact Acer PD163QT bmiuux / UM.ZP3EE.011 official manufacturer reference; original stand dimensions and Energy Star conditions retained",
+      "source_url": "https://www.acer.com/il-en/monitors/entertainment/pd3/pdp/UM.ZP3EE.011",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "HDMI",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact Acer PD163QT bmiuux / UM.ZP3EE.011 official manufacturer reference; original stand dimensions and Energy Star conditions retained",
+      "source_url": "https://www.acer.com/il-en/monitors/entertainment/pd3/pdp/UM.ZP3EE.011",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "HDMI Version",
+      "value": "1.4",
+      "unit": "",
+      "condition": "Exact Acer PD163QT bmiuux / UM.ZP3EE.011 official manufacturer reference; original stand dimensions and Energy Star conditions retained",
+      "source_url": "https://www.acer.com/il-en/monitors/entertainment/pd3/pdp/UM.ZP3EE.011",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Total Number of HDMI Ports",
+      "value": "1",
+      "unit": "",
+      "condition": "Exact Acer PD163QT bmiuux / UM.ZP3EE.011 official manufacturer reference; original stand dimensions and Energy Star conditions retained",
+      "source_url": "https://www.acer.com/il-en/monitors/entertainment/pd3/pdp/UM.ZP3EE.011",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Headphone",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact Acer PD163QT bmiuux / UM.ZP3EE.011 official manufacturer reference; original stand dimensions and Energy Star conditions retained",
+      "source_url": "https://www.acer.com/il-en/monitors/entertainment/pd3/pdp/UM.ZP3EE.011",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Audio Line Out",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact Acer PD163QT bmiuux / UM.ZP3EE.011 official manufacturer reference; original stand dimensions and Energy Star conditions retained",
+      "source_url": "https://www.acer.com/il-en/monitors/entertainment/pd3/pdp/UM.ZP3EE.011",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "USB Type-C®",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Exact Acer PD163QT bmiuux / UM.ZP3EE.011 official manufacturer reference; original stand dimensions and Energy Star conditions retained",
+      "source_url": "https://www.acer.com/il-en/monitors/entertainment/pd3/pdp/UM.ZP3EE.011",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Total Number of USB Type-C Ports",
+      "value": "2",
+      "unit": "",
+      "condition": "Exact Acer PD163QT bmiuux / UM.ZP3EE.011 official manufacturer reference; original stand dimensions and Energy Star conditions retained",
+      "source_url": "https://www.acer.com/il-en/monitors/entertainment/pd3/pdp/UM.ZP3EE.011",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Number of USB 3.0 Downstream Ports",
+      "value": "2",
+      "unit": "",
+      "condition": "Exact Acer PD163QT bmiuux / UM.ZP3EE.011 official manufacturer reference; original stand dimensions and Energy Star conditions retained",
+      "source_url": "https://www.acer.com/il-en/monitors/entertainment/pd3/pdp/UM.ZP3EE.011",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Standby Power Consumption (Energy Star)",
+      "value": "300 mW",
+      "unit": "",
+      "condition": "Exact Acer PD163QT bmiuux / UM.ZP3EE.011 official manufacturer reference; original stand dimensions and Energy Star conditions retained",
+      "source_url": "https://www.acer.com/il-en/monitors/entertainment/pd3/pdp/UM.ZP3EE.011",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Maximum Power Consumption (Energy Star)",
+      "value": "45 W",
+      "unit": "",
+      "condition": "Exact Acer PD163QT bmiuux / UM.ZP3EE.011 official manufacturer reference; original stand dimensions and Energy Star conditions retained",
+      "source_url": "https://www.acer.com/il-en/monitors/entertainment/pd3/pdp/UM.ZP3EE.011",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Tele2 title/attached fiche identity conflict and full stocked MPN/EAN",
+    "Panel IPS/VA subtype and touch capability not explicitly established",
+    "Maximum refresh rate; regulatory default does not prove maximum",
+    "Region-specific bundle matching"
+  ],
+  "source_pages": [
+    {
+      "url": "https://eprel.ec.europa.eu/fiches/electronicdisplays/Fiche_2336615_EN.pdf",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch and pdftotext -layout",
+      "notes": "HTTP 200; official EU registry supplier-declared product sheet; exact model identifier read. Facts are declarations, not independent measurements."
+    },
+    {
+      "url": "https://www.acer.com/il-en/monitors/entertainment/pd3/pdp/UM.ZP3EE.011",
+      "fetched_at": "2026-10-14",
+      "method": "web open",
+      "notes": "Explicit manufacturer part and full-suffix technical table read. No facts from PD163Q transferred."
+    }
+  ],
+  "research_lane": "monitors"
+}

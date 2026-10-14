@@ -1,0 +1,360 @@
+{
+  "id": "lenovo-thinkpad-p16s-gen-4-amd-platform",
+  "brand": "Lenovo",
+  "model": "ThinkPad P16s Gen 4 (AMD)",
+  "category": "Laptops",
+  "scope": "Manufacturer global platform/model reference; option lists do not establish an actual RAM/storage/display combination. EU/Latvia exact SKU, keyboard and warranty need matching.",
+  "identifiers": [],
+  "aliases": [
+    "ThinkPad P16s Gen 4 AMD"
+  ],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Lenovo PSREF ThinkPad P16s Gen 4 (AMD)",
+  "source_url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_P16s_Gen_4_AMD/ThinkPad_P16s_Gen_4_AMD_Spec.html",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Processor Family",
+      "value": "AMD Ryzen™ AI 5 / 7 / 9 PRO 300 Series Processor; supports up to 12 cores; up to 5.1GHz; TDP ratings of up to 29W",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Processor",
+      "value": "Processor Name | Cores | Threads | Base Frequency | Max Frequency | Cache | Processor Graphics | NPU | ; AMD Ryzen™ AI 5 PRO 340 | 6 | 12 | 2.0GHz | 4.8GHz | 6MB L2 / 16MB L3 | AMD Radeon™ 840M | AMD Ryzen™ AI | ; AMD Ryzen™ AI 7 PRO 350 | 8 | 16 | 2.0GHz | 5.0GHz | 8MB L2 / 16MB L3 | AMD Radeon™ 860M | AMD Ryzen™ AI | ; AMD Ryzen™ AI 9 HX PRO 370 | 12 | 24 | 2.0GHz | 5.1GHz | 12MB L2 / 24MB L3 | AMD Radeon™ 890M | AMD Ryzen™ AI",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "AI PC Category",
+      "value": "Copilot+ PC ; AI-Ready Workstations",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "NPU",
+      "value": "Integrated AMD Ryzen™ AI, up to 50 TOPS",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Operating System",
+      "value": "Windows® 11 Pro ; Windows® 11 Home ; Fedora Linux ; Ubuntu Linux LTS ; Red Hat Enterprise Linux 9.6 (certified only, for detailed and latest information, please visit Red Hat Certified Hardware ) ; No preload operating system",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Graphics",
+      "value": "Graphics | Type | Memory | TGP | Key Features | ; AMD Radeon™ 840M | Integrated | Shared | Share CPU TDP | DirectX® 12 | ; AMD Radeon™ 860M | Integrated | Shared | Share CPU TDP | DirectX® 12 | ; AMD Radeon™ 890M | Integrated | Shared | Share CPU TDP | DirectX® 12",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Monitor Support",
+      "value": "Supports up to 4 independent displays (native display and 3 external monitors via 2x Thunderbolt™ 4 and 1x HDMI®). Max resolution for multiple external display: • 2x 5120x3200@60Hz / 3840x2160@120Hz (Thunderbolt™ 4) • 1x 3840x2160@60Hz (HDMI®) Max resolution for single external display: • Thunderbolt™ 4 supports up to 7680x4320@60Hz (with DSC) • HDMI® supports up to 3840x2160@60Hz",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Chipset",
+      "value": "AMD SoC (System on Chip) platform",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Max Memory",
+      "value": "Up to 96GB (2x 48GB DDR5 SO-DIMM)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Memory Slots",
+      "value": "Two DDR5 SO-DIMM slots, dual-channel capable",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Memory Type",
+      "value": "DDR5-5600 non-ECC, maximum transfer speeds of up to 5600 MT/s",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Storage Support",
+      "value": "One drive, up to 2TB M.2 2280 SSD",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Storage Slot",
+      "value": "One M.2 2280 PCIe® 4.0 x4 slot",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Storage Type",
+      "value": "Disk Type | Interface | Offering | Security | ; M.2 2280 SSD | PCIe® NVMe®, PCIe® 4.0 x4 | 256GB / 512GB / 1TB | Opal 2.0 | ; M.2 2280 SSD | PCIe® NVMe®, PCIe® 4.0 x4 Performance | 512GB / 1TB / 2TB | Opal 2.0",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Card Reader",
+      "value": "No card reader",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Audio Chip",
+      "value": "High Definition (HD) Audio, Realtek® ALC3287 codec",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Speakers",
+      "value": "Stereo speakers, 2W x2, Dolby Atmos®",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Microphone",
+      "value": "Dual-microphone array, 360° far-field, Dolby Voice® ; No microphone (for special bid model)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Camera",
+      "value": "5.0MP + IR with privacy shutter and Ultrasonic Human Presence Detection, fixed focus, temporal noise reduction ; 5.0MP + IR with privacy shutter, fixed focus, temporal noise reduction ; 5.0MP with privacy shutter, fixed focus, temporal noise reduction",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Battery",
+      "value": "52.5Wh Rechargeable Li-ion Battery, supports Rapid Charge (charge up to 80% in 1hr) with 65W AC adapter ; 86Wh Rechargeable Li-ion Battery, supports Rapid Charge (charge up to 80% in 1hr) with 100W AC adapter",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Power Adapter",
+      "value": "65W USB-C® (2-pin) AC adapter, supports PD 3.0, 100-240V, 50-60Hz ; 65W USB-C® (3-pin) AC adapter, supports PD 3.0, 100-240V, 50-60Hz ; 65W USB-C® nano GaN (2-pin, wall-mount) AC adapter, supports PD 3.0, 100-240V, 50-60Hz ; 65W USB-C® nano GaN (3-pin, wall-mount) AC adapter, supports PD 3.0, 100-240V, 50-60Hz ; 65W USB-C® slim GaN (2-pin) AC adapter, supports PD 3.0, 100-240V, 50-60Hz ; 65W USB-C® slim GaN (3-pin) AC adapter, supports PD 3.0, 100-240V, 50-60Hz ; 100W USB-C® slim (3-pin) AC adapter, supports PD 3.0, 100-240V, 50-60Hz",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Display",
+      "value": "Size | Resolution | Touch | Type | Brightness | Surface | Aspect Ratio | Contrast Ratio | Color Gamut | Viewing Angle (L/R/U/D) | Key Features | ; 16\" | WUXGA (1920x1200) | None | IPS | 400nits | Anti-glare | 16:10 | 1200:1 | 45% NTSC | 85° / 85° / 85° / 85° | 87% screen to body ratio, AICCP color calibration, DC dimming | ; 16\" | WUXGA (1920x1200) | On-cell touch | IPS | 400nits | Anti-glare | 16:10 | 1200:1 | 45% NTSC | 85° / 85° / 85° / 85° | 87% screen to body ratio, Eyesafe® 2.0 Certified, AICCP color calibration, DC dimming | ; 16\" | WUXGA (1920x1200) | None | IPS | 500nits | Anti-glare | 16:10 | 1200:1 | 100% sRGB | 85° / 85° / 85° / 85° | 87% screen to body ratio, AICCP color calibration, Low power, UL Low Blue Light, Eyesafe® 2.0 Certified, DC dimming | ; 16\" | WQUXGA (3840x2400) | Add On Film Touch | OLED | 400nits | Anti-reflection / Anti-smudge | 16:10 | 100,000:1 | 100% DCI-P3 | 85° / 85° / 85° / 85° | 87% screen to body ratio, X-Rite® Factory Color Calibration, UL Low Blue Light, Eyesafe® 2.0 Certified",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Color Calibration",
+      "value": "AICCP color calibration (WUXGA display) ; X-Rite® factory color calibration (OLED display)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Touchscreen",
+      "value": "Add-on Film Touch, supports 10-point touch (OLED models only) ; On-cell multi-touch, supports 10-point touch (selected WUXGA display) ; Non-touch",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Pen",
+      "value": "No support",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Keyboard",
+      "value": "6-row, spill-resistant, multimedia Fn keys, numeric keypad, Copilot key",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Keyboard Backlight",
+      "value": "LED backlight ; Non-backlight",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "UltraNav™",
+      "value": "3-button TrackPoint® pointing device and glass-like Mylar® surface multi-touch TrackPad, 67 x 115 mm (2.64 x 4.53 inches)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Dimensions (WxDxH)",
+      "value": "Models | Dimensions | ; WWAN support models | 359.70 x 251.70 x 11.80/18.14 (front/rear), 23.65 (maximum) mm; 14.16 x 9.91 x 0.47/0.71 (front/rear), 0.93 (maximum) inches | ; Non-WWAN models | 359.70 x 251.70 x 11.80/18.14 (front/rear), 23.5 (maximum) mm; 14.16 x 9.91 x 0.47/0.71 (front/rear), 0.93 (maximum) inches",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Weight",
+      "value": "Starting at 1.71 kg (3.77 lbs)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Case Color",
+      "value": "Black",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Case Material",
+      "value": "PC + 20% CF + 50% GF + 30% PCC (top), PC + 20% CF + 30% PCC (bottom) ; PC + 20% CF + 50% GF + 30% PCC (top), PC + 40% GF + 45% PCC (bottom)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "WLAN + Bluetooth®",
+      "value": "MediaTek Wi-Fi® 7 MT7925, 802.11be 2x2 Wi-Fi® + Bluetooth® 5.4",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "WWAN",
+      "value": "Wireless WAN upgradable to 5G (with antenna ready) ; Quectel RM520N-GL, 5G Sub-6 GHz, M.2 card, with embedded eSIM functionality ; No support",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "SIM Card",
+      "value": "No physical SIM card inbox",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Ethernet",
+      "value": "Gigabit Ethernet, Realtek® RTL8111EPV, 1x RJ-45, supports Wake-on-LAN and AMD PRO Manageability",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "NFC",
+      "value": "Near Field Communication",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Standard Ports",
+      "value": "1x USB-A (USB 5Gbps / USB 3.2 Gen 1) ; 1x USB-A (USB 5Gbps / USB 3.2 Gen 1), Always On ; 2x USB-C® (Thunderbolt™ 4 / USB4® 40Gbps), with PD 3.0 and DisplayPort™ 1.4 ; 1x HDMI® 2.1, up to 4K/60Hz ; 1x Headphone / microphone combo jack (3.5mm) ; 1x Ethernet (RJ-45) ; 1x Security keyhole",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Optional Ports *",
+      "value": "1x Smart card reader ; 1x Nano-SIM card slot (WWAN support models)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Docking",
+      "value": "Various docking solutions supported via Thunderbolt™ or USB-C®.",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Security Chip",
+      "value": "Firmware TPM 2.0 integrated in SoC ; Discrete TPM 2.0 (TCG certified, FIPS 140-2 certified) and Microsoft® Pluton TPM 2.0, one enabled at one time",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Physical Locks",
+      "value": "Kensington® Nano Security Slot™, 2.5 x 6 mm",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Smart Card Reader",
+      "value": "Smart card reader ; No smart card reader",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Fingerprint Reader",
+      "value": "Touch style fingerprint reader integrated in power button, match-on-chip ; No fingerprint reader",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "BIOS Security",
+      "value": "NVMe® password ; Power-on password ; Supervisor password ; Self-healing BIOS",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Other Security",
+      "value": "Bottom cover tamper detection ; Camera privacy shutter (camera models) ; (Optional) Ultrasonic Human Presence Detection for IR camera ; (Optional) IR camera for Windows® Hello (facial recognition)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "System Management",
+      "value": "AMD PRO Manageability",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Base Warranty",
+      "value": "1-year courier or carry-in service ; 1-year courier or carry-in with 2-year system board service (Korea only) ; 1-year limited onsite service ; 3-year (1-yr battery) courier or carry-in service ; 3-year (1-yr battery) limited onsite service ; No base warranty",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Bundled Accessories *",
+      "value": "Lenovo® HDMI® to VGA Monitor Adapter ; Lenovo® USB-C® to DisplayPort™ Adapter ; Lenovo® USB-C® to VGA Adapter",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Temperature",
+      "value": "Operating: 5°C (41°F) to 35°C (95°F) ; Storage and transportation in original shipping packaging: -20°C (-4°F) to 60°C (140°F) ; Storage without package: 5°C (41°F) to 43°C (109°F)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Relative Humidity",
+      "value": "Operating: 8% to 95% at wet-bulb temperature 23°C (73°F) ; Storage and transportation: 5% to 95% at wet-bulb temperature 27°C (81°F)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Altitude",
+      "value": "Maximum altitude (without pressurization): 3048 m (10,000 ft)",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "Mil-Spec Test",
+      "value": "MIL-STD-810H military test passed",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    },
+    {
+      "label": "ISV Certifications",
+      "value": "Please visit ISV certifications for Lenovo® Workstations",
+      "unit": "",
+      "condition": "Manufacturer platform specification. Listed alternatives are options, not one configured SKU; regional offerings vary."
+    }
+  ],
+  "missing_fields": [
+    "Exact EU/Latvia MPN or GTIN",
+    "Actual configured RAM/storage/display",
+    "Regional keyboard",
+    "Regional availability and warranty"
+  ],
+  "source_pages": [
+    {
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_P16s_Gen_4_AMD/ThinkPad_P16s_Gen_4_AMD_Spec.html",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Structured specifications read; options kept together as platform alternatives. Structured field values preserved in per-product JSON evidence.",
+      "http_status": 200,
+      "content_title": "Lenovo PSREF ThinkPad P16s Gen 4 (AMD)"
+    }
+  ],
+  "research_lane": "computers"
+}

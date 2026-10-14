@@ -1,0 +1,263 @@
+{
+  "id": "huawei-matepad-12-x-2025",
+  "brand": "HUAWEI",
+  "model": "MatePad 12 X (2025)",
+  "model_family": "MatePad 12 X (2025)",
+  "category": "Tablets",
+  "scope": "Manufacturer model reference. UK official manufacturer reference. Capacity options remain options; EU/non-EU battery distinctions retained. PaperMatte scope where named. No Latvia availability claim.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer model source checked; Latvia SKU needs matching",
+  "source_name": "HUAWEI MatePad 12 X (2025) technical specifications",
+  "source_url": "https://consumer.huawei.com/uk/tablets/matepad-12-x-2025/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Height",
+      "value": "183 mm",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-12-x-2025/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Width",
+      "value": "270 mm",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-12-x-2025/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Depth",
+      "value": "5.9 mm",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-12-x-2025/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Weight",
+      "value": "Approx.  555 g (including battery)",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-12-x-2025/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Size",
+      "value": "12 inches",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-12-x-2025/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Type",
+      "value": "HUAWEI PaperMatte Display (IPS)",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-12-x-2025/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Resolution",
+      "value": "2800 × 1840, 280 PPI",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-12-x-2025/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Screen-to-body Ratio",
+      "value": "88%",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-12-x-2025/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Screen Colour",
+      "value": "16.7 million colours, P3 wide colour gamut",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-12-x-2025/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Brightness",
+      "value": "1000 nits peak in strong lighting or HDR content, battery greater than 50%",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-12-x-2025/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Processor",
+      "value": "Kirin T92B, Octa-core",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-12-x-2025/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Operating System",
+      "value": "HarmonyOS 4.3",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-12-x-2025/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "RAM",
+      "value": "12 GB",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-12-x-2025/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "ROM",
+      "value": "256 GB",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-12-x-2025/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery",
+      "value": "Typical capacity: 10,100 mAh Rated capacity: 10,000 mAh",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-12-x-2025/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Typical capacity",
+      "value": "10,100 mAh",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-12-x-2025/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Rated capacity",
+      "value": "10,000 mAh",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-12-x-2025/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Charging",
+      "value": "Maximum 66 W (11V/6A), compatible with 10V/2.25A SuperCharge, compatible with 9V/2A FastCharge.",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-12-x-2025/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "WLAN Frequency",
+      "value": "2.4 GHz, 5 GHz",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-12-x-2025/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "Bluetooth 5.2, Support BLE, SBC, AAC, LDAC and L2HC",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-12-x-2025/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "NearLink",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-12-x-2025/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "OTG",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-12-x-2025/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "USB",
+      "value": "Type-C, USB 3.1 Gen 1",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-12-x-2025/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Location",
+      "value": "Only support Wi-Fi network positioning",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-12-x-2025/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Sensors",
+      "value": "Gravity sensor Hall sensor Gyroscope Ambient light sensor",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-12-x-2025/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Microphones",
+      "value": "2 × Microphones",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-12-x-2025/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Speakers",
+      "value": "6 × Speakers",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-12-x-2025/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Audio",
+      "value": "HUAWEI SOUND Audio file format: mp3/mp4/3gp/ogg/amr/aac/flac/wav",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-12-x-2025/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Video",
+      "value": "Video file format: mp4/3gp",
+      "unit": "",
+      "condition": "Manufacturer laboratory specifications; approximate dimensions/weight; rounded-screen effective area smaller. Charging requires compatible Huawei adapter/cable; regional configurations vary.",
+      "source_url": "https://consumer.huawei.com/uk/tablets/matepad-12-x-2025/specs/",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia-specific MPN/GTIN",
+    "Latvia retail configuration and package contents"
+  ],
+  "source_pages": [
+    {
+      "url": "https://consumer.huawei.com/uk/tablets/matepad-12-x-2025/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Accessible official technical content read; structured facts retained"
+    }
+  ],
+  "research_lane": "tablets"
+}

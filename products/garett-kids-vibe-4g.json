@@ -1,0 +1,281 @@
+{
+  "id": "garett-kids-vibe-4g",
+  "brand": "Garett",
+  "model": "Kids Vibe 4G",
+  "category": "Smartwatches",
+  "scope": "Exact Garett Kids Vibe 4G model, manufacturer English 2024 manual (PDF created January2025) reached through official support hub. Kids Vibe AI 4G is a different model and excluded. Firmware/batch-dependent software functions remain conditional; exact Latvia hardware SKU unresolved.",
+  "identifiers": [],
+  "aliases": [],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Garett Kids Vibe 4G English user manual",
+  "source_url": "https://docs.garettelectronics.com/index.php/s/iQ2gdXjQpa3ZBmQ/download",
+  "tele2_url": "https://www.tele2.lv/viedpaligi/garett-kids-vibe-4g/",
+  "relevance": "current_tele2_listing",
+  "specs": [
+    {
+      "label": "Mobile network",
+      "value": "2G / 3G / 4G LTE",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "Processor",
+      "value": "SL8521E",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "Battery capacity",
+      "value": "680 mAh",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "Display technology",
+      "value": "AMOLED",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "Display diagonal",
+      "value": "1.78 inches",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "Face dimensions",
+      "value": "48.5 x 40.5 x 14 mm",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "Weight",
+      "value": "Maximum 55 g",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "Water resistance",
+      "value": "IP67; manual prohibits swimming",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "Interchangeable strap",
+      "value": "Yes",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "Dedicated app",
+      "value": "Garett Tracker",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "Manufacturer warranty claim",
+      "value": "24 months; regional statutory terms need matching",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "SIM form factor",
+      "value": "Physical Nano SIM",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "Charging connector",
+      "value": "Magnetic contacts and included magnetic cable",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "Maximum charging voltage",
+      "value": "5 V",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "Recommended maximum charging current",
+      "value": "1 A",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "First-use charging instruction",
+      "value": "Approx. 2 hours per English manual; support quick-start says about 60 minutes, so charging duration remains unresolved",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "Touchscreen controls",
+      "value": "Touchscreen plus function and SOS buttons",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "Camera",
+      "value": "Photo and video camera",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "Function button",
+      "value": "Switch on/off, wake, fade-out and back",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "SOS button",
+      "value": "SOS, wake and back",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "GSM frequencies",
+      "value": "900 / 1800 MHz",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "UMTS frequencies",
+      "value": "900 / 2100 MHz",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "LTE frequencies",
+      "value": "800 / 900 / 1800 / 2100 / 2600 MHz",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "Wi-Fi frequencies",
+      "value": "2412–2472 MHz",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "Wi-Fi maximum emitted power",
+      "value": "16 dBm EIRP",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "Bluetooth frequencies",
+      "value": "2402–2480 MHz",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "Bluetooth maximum emitted power",
+      "value": "≤20 dBm EIRP",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "Companion app platforms",
+      "value": "Android and iOS",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "Positioning methods",
+      "value": "GPS / LBS / Wi-Fi; GPS reception depends on environment",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "Voice chat message limit",
+      "value": "Maximum 15 seconds",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "Text chat message limit",
+      "value": "Maximum 30 characters",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "Geofence",
+      "value": "Guardian app supports defined safety area and alerts",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "Approved contacts",
+      "value": "Phonebook configured via guardian app",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "SMS",
+      "value": "Send and receive SMS",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "Alarms",
+      "value": "Guardian-app configured alarms",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "Video player",
+      "value": "Stored video playback and Bluetooth sharing",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "Music player",
+      "value": "Music playback; Bluetooth file transfer described",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "Stopwatch",
+      "value": "Listed function",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    },
+    {
+      "label": "Calculator",
+      "value": "Listed function",
+      "unit": "",
+      "condition": "English manufacturer manual; firmware/batch-dependent functions may vary. Specification or logical page stated in source_pages."
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU / GTIN matching",
+    "Regional app and payment availability",
+    "Exact hardware/firmware batch",
+    "Charging duration source conflict (manual approx2h vs support quick-start60min)",
+    "Battery operating runtime",
+    "Screen pixel resolution",
+    "Latvian manual comparison"
+  ],
+  "source_pages": [
+    {
+      "url": "https://support.garettelectronics.com/product/smartwatch-garett-kids-vibe/",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Official model support hub links the exact English and Latvian manuals"
+    },
+    {
+      "url": "https://docs.garettelectronics.com/index.php/s/iQ2gdXjQpa3ZBmQ",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch",
+      "notes": "Public manufacturer document share identifies Garett Kids Vibe4G EN2024.pdf and visible download"
+    },
+    {
+      "url": "https://docs.garettelectronics.com/index.php/s/iQ2gdXjQpa3ZBmQ/download",
+      "fetched_at": "2026-10-14",
+      "method": "HTTP fetch + pdftotext + PDF visual rendering",
+      "notes": "PDF technical table read and visually checked on physical page2/logical25; radio table logical27; charge instructions logical6"
+    }
+  ],
+  "research_lane": "wearables"
+}
