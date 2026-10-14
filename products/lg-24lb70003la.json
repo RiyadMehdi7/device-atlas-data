@@ -1,0 +1,108 @@
+{
+  "id": "lg-24lb70003la",
+  "brand": "LG",
+  "model": "24LB70003LA",
+  "model_family": "24LB70003LA",
+  "category": "Televisions",
+  "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 24 collu LG SMART TV AI LB70 FHDTV 2026 - 24LB70003LA.AEU | LG Latvia",
+  "identifiers": [
+    "24LB70003LA",
+    "8806096798775"
+  ],
+  "aliases": [
+    "LG 24LB70003LA"
+  ],
+  "checked_at": "2026-10-14",
+  "status": "Latvia manufacturer specification page checked",
+  "source_name": "LG Latvia 24LB70003LA technical specifications",
+  "source_url": "https://www.lg.com/lv/televizori/lg-24lb70003la",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "TV izmērs bez statīva (mm)",
+      "value": "539 x 321 x 41",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-24lb70003la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "TV izmērs ar statīvu (mm)",
+      "value": "539 x 366 x 161",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-24lb70003la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Iepakojuma izmērs (mm)",
+      "value": "624 x 392 x 114",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-24lb70003la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Statīva izmērs (mm)",
+      "value": "154 x 161",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-24lb70003la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "TV svars bez statīva (kg)",
+      "value": "2,7",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-24lb70003la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "TV svars ar statīvu (kg)",
+      "value": "3",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-24lb70003la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Iepakojuma svars (kg)",
+      "value": "3,9",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-24lb70003la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "VESA izmērs (mm)",
+      "value": "100 x 100",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-24lb70003la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Svītru kods",
+      "value": "8806096798775",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-24lb70003la",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Tele2 listing and exact retail suffix matching",
+    "Manufacturer Latvia page currently exposes mainly dimensions/weight; remaining technical details unconfirmed"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.lg.com/lv/televizori/lg-24lb70003la",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP fetch; HTML dt/dd specification table",
+      "notes": "Exact manufacturer page parsed; only its own labelled technical values retained"
+    }
+  ],
+  "research_lane": "urgent-lg"
+}

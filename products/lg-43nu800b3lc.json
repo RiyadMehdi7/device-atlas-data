@@ -1,0 +1,514 @@
+{
+  "id": "lg-43nu800b3lc",
+  "brand": "LG",
+  "model": "43NU800B3LC",
+  "model_family": "43NU800B3LC",
+  "category": "Televisions",
+  "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 43 collu LG NANO 4K UHD AI NU80 4K Smart TV 2026-43NU800B3LC.AEUQ | LG Latvia",
+  "identifiers": [
+    "43NU800B3LC"
+  ],
+  "aliases": [
+    "LG 43NU800B3LC"
+  ],
+  "checked_at": "2026-10-14",
+  "status": "Latvia manufacturer specification page checked",
+  "source_name": "LG Latvia 43NU800B3LC technical specifications",
+  "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Ekrāna tips",
+      "value": "4K UHD",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Atsvaidzināšanas ātrums",
+      "value": "60Hz Native",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Aizmugurapgaismojuma tips",
+      "value": "Direct",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Ekrāna izšķirtspēja",
+      "value": "4K Ultra HD (3,840 x 2,160)",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Procesors",
+      "value": "Alpha 7 AI procesors 4K Gen9",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "AI Upscaling",
+      "value": "4K Super Upscaling",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Automātiska kalibrēšana",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Attēla režīms",
+      "value": "9 režīmi",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dynamic Tone Mapping",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "FILMMAKER MODE™",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "HDR (High Dynamic Range)",
+      "value": "HDR10 / HLG",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Operētājsistēma (OS)",
+      "value": "webOS 26",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Darbojas ar Apple Airplay",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Google Cast",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "AI Chatbot",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Home Hub",
+      "value": "Jā (LG ThinQ)",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Inteliģenta balss atpazīšana",
+      "value": "Jā (ar LG ThinQ aplikāciju)",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Viedtālruņa tālvadības lietotne",
+      "value": "Jā (LG ThinQ)",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Tīmekļa pārlūkprogramma",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Saderīgs ar Apple Home",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Skaņas izvade",
+      "value": "20W",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Skaļruņu virziens",
+      "value": "Uz leju vērsti",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "AI Sound",
+      "value": "AI Sound Pro (virtuāls 9.1.2 up‑mix)",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "WOW Orchestra",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Audio Codec",
+      "value": "AC4, AC3(Dolby Digital), EAC3, HE-AAC, AAC, MP2, MP3, PCM, apt-X (Skatiet rokasgrāmatu)",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Vienlaicīga audio izvade",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Clear Voice Pro",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Sound Mode Share",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "LG Sound sinhronizācija",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Kanālu skaits",
+      "value": "2.0 kanāls",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "invertēt krāsas",
+      "value": "3ea (atbalsta eARC, ALLM)",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "RF pieslēgvietas (Antenna/Cable)",
+      "value": "2ea",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "CI Slot",
+      "value": "1ea",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Simplink (HDMI CEC)",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "HDMI Audio Return Channel",
+      "value": "eARC (HDMI 2)",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "USB pieslēgvietas",
+      "value": "1ea (v 2.0)",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi",
+      "value": "Yes (Wi-Fi 5)",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth atbalsts",
+      "value": "Jā (v 5.3)",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Ethernet ieeja",
+      "value": "1ea",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Augsts kontrasts",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Pelēkā skala",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Invertēt krāsas",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "TV izmērs bez statīva (mm)",
+      "value": "957 x 560 x 67,8",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "VESA izmērs (mm)",
+      "value": "200 x 200",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Iepakojuma svars (kg)",
+      "value": "7,5",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "TV svars ar statīvu (kg)",
+      "value": "5,7",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "TV izmērs ar statīvu (mm)",
+      "value": "957 x 626 x 251",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Iepakojuma izmērs (mm)",
+      "value": "1 060 x 636 x 105",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Statīva izmērs (mm)",
+      "value": "826 x 251",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "TV svars bez statīva (kg)",
+      "value": "5,6",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Barošanas avots (spriegums, Hz)",
+      "value": "AC 100~240V 50-60Hz",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Enerģijas patēriņš gaidstāves režīmā",
+      "value": "Zem 0.5W",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Tālvadības pults",
+      "value": "Standarta tālvadības pults",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Strāvas kabelis",
+      "value": "Jā (noņemams)",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "HGIG režīms",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Spēļu optimizētājs",
+      "value": "Jā (Game Dashboard)",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "ALLM (Auto Low Latency Mode)",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "VRR (Variable Refresh Rate)",
+      "value": "Jā (Līdz 60Hz)",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Digitālās TV uztveršana",
+      "value": "DVB-T2 (virszemes), DVB-C (kabeļtelevīzija), DVB-S2 (satelīts)",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Analogās televīzijas uztveršana",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Tele2 listing and exact retail suffix matching"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.lg.com/lv/televizori/lg-43nu800b3lc",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP fetch; HTML dt/dd specification table",
+      "notes": "Exact manufacturer page parsed; only its own labelled technical values retained"
+    }
+  ],
+  "research_lane": "urgent-lg"
+}

@@ -1,15 +1,5 @@
 [
   {
-    "id": "honor-honor-200-uk-manufacturer-model-reference",
-    "brand": "Honor",
-    "model": "HONOR 200",
-    "category": "Phones",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/honor-honor-200-uk-manufacturer-model-reference.json"
-  },
-  {
     "id": "honor-honor-200-lite-uk-manufacturer-model-reference",
     "brand": "Honor",
     "model": "HONOR 200 Lite",
@@ -40,14 +30,14 @@
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/honor-honor-200-smart-uk-manufacturer-model-reference.json"
   },
   {
-    "id": "honor-honor-400-uk-manufacturer-model-reference",
+    "id": "honor-honor-200-uk-manufacturer-model-reference",
     "brand": "Honor",
-    "model": "HONOR 400",
+    "model": "HONOR 200",
     "category": "Phones",
     "identifiers": [],
     "aliases": [],
     "scope": "UK manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/honor-honor-400-uk-manufacturer-model-reference.json"
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/honor-honor-200-uk-manufacturer-model-reference.json"
   },
   {
     "id": "honor-honor-400-lite-uk-manufacturer-model-reference",
@@ -70,16 +60,6 @@
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/honor-honor-400-pro-uk-manufacturer-model-reference.json"
   },
   {
-    "id": "honor-honor-400-smart-uk-manufacturer-model-reference",
-    "brand": "Honor",
-    "model": "HONOR 400 Smart",
-    "category": "Phones",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/honor-honor-400-smart-uk-manufacturer-model-reference.json"
-  },
-  {
     "id": "honor-honor-400-smart-5g-uk-manufacturer-model-reference",
     "brand": "Honor",
     "model": "HONOR 400 Smart 5G",
@@ -90,14 +70,24 @@
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/honor-honor-400-smart-5g-uk-manufacturer-model-reference.json"
   },
   {
-    "id": "honor-honor-600-uk-manufacturer-model-reference",
+    "id": "honor-honor-400-smart-uk-manufacturer-model-reference",
     "brand": "Honor",
-    "model": "HONOR 600",
+    "model": "HONOR 400 Smart",
     "category": "Phones",
     "identifiers": [],
     "aliases": [],
     "scope": "UK manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/honor-honor-600-uk-manufacturer-model-reference.json"
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/honor-honor-400-smart-uk-manufacturer-model-reference.json"
+  },
+  {
+    "id": "honor-honor-400-uk-manufacturer-model-reference",
+    "brand": "Honor",
+    "model": "HONOR 400",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/honor-honor-400-uk-manufacturer-model-reference.json"
   },
   {
     "id": "honor-honor-600-lite-uk-manufacturer-model-reference",
@@ -128,6 +118,16 @@
     "aliases": [],
     "scope": "UK manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/honor-honor-600-smart-5g-uk-manufacturer-model-reference.json"
+  },
+  {
+    "id": "honor-honor-600-uk-manufacturer-model-reference",
+    "brand": "Honor",
+    "model": "HONOR 600",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/honor-honor-600-uk-manufacturer-model-reference.json"
   },
   {
     "id": "honor-honor-70-uk-manufacturer-model-reference",
@@ -254,36 +254,6 @@
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/honor-honor-x6c-uk-manufacturer-model-reference.json"
   },
   {
-    "id": "honor-porsche-design-honor-magic-v2-rsr-uk-manufacturer-model-reference",
-    "brand": "Honor",
-    "model": "PORSCHE DESIGN | HONOR Magic V2 RSR",
-    "category": "Phones",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/honor-porsche-design-honor-magic-v2-rsr-uk-manufacturer-model-reference.json"
-  },
-  {
-    "id": "honor-porsche-design-honor-magic6-rsr-uk-manufacturer-model-reference",
-    "brand": "Honor",
-    "model": "PORSCHE DESIGN | HONOR Magic6 RSR",
-    "category": "Phones",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/honor-porsche-design-honor-magic6-rsr-uk-manufacturer-model-reference.json"
-  },
-  {
-    "id": "honor-porsche-design-honor-magic7-rsr-uk-manufacturer-model-reference",
-    "brand": "Honor",
-    "model": "PORSCHE DESIGN | HONOR Magic7 RSR",
-    "category": "Phones",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/honor-porsche-design-honor-magic7-rsr-uk-manufacturer-model-reference.json"
-  },
-  {
     "id": "honor-magicpad-2",
     "brand": "HONOR",
     "model": "MagicPad 2",
@@ -324,16 +294,6 @@
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/honor-pad-10.json"
   },
   {
-    "id": "honor-pad-20",
-    "brand": "HONOR",
-    "model": "Pad 20",
-    "category": "Tablets",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "European manufacturer model reference. Regional configurations vary; not a Latvia SKU or availability claim.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/honor-pad-20.json"
-  },
-  {
     "id": "honor-pad-20-pro",
     "brand": "HONOR",
     "model": "Pad 20 Pro",
@@ -342,6 +302,16 @@
     "aliases": [],
     "scope": "European manufacturer model reference. Regional configurations vary; not a Latvia SKU or availability claim.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/honor-pad-20-pro.json"
+  },
+  {
+    "id": "honor-pad-20",
+    "brand": "HONOR",
+    "model": "Pad 20",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "European manufacturer model reference. Regional configurations vary; not a Latvia SKU or availability claim.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/honor-pad-20.json"
   },
   {
     "id": "honor-pad-9",
@@ -406,5 +376,35 @@
     ],
     "scope": "European manufacturer model reference. Regional configurations vary; not a Latvia SKU or availability claim.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/honor-pad-x9a.json"
+  },
+  {
+    "id": "honor-porsche-design-honor-magic-v2-rsr-uk-manufacturer-model-reference",
+    "brand": "Honor",
+    "model": "PORSCHE DESIGN | HONOR Magic V2 RSR",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/honor-porsche-design-honor-magic-v2-rsr-uk-manufacturer-model-reference.json"
+  },
+  {
+    "id": "honor-porsche-design-honor-magic6-rsr-uk-manufacturer-model-reference",
+    "brand": "Honor",
+    "model": "PORSCHE DESIGN | HONOR Magic6 RSR",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/honor-porsche-design-honor-magic6-rsr-uk-manufacturer-model-reference.json"
+  },
+  {
+    "id": "honor-porsche-design-honor-magic7-rsr-uk-manufacturer-model-reference",
+    "brand": "Honor",
+    "model": "PORSCHE DESIGN | HONOR Magic7 RSR",
+    "category": "Phones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/honor-porsche-design-honor-magic7-rsr-uk-manufacturer-model-reference.json"
   }
 ]

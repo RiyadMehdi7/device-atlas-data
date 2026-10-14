@@ -1,5 +1,41 @@
 [
   {
+    "id": "logitech-c270-hd-webcam-manufacturer-reference",
+    "brand": "Logitech",
+    "model": "C270 HD Webcam",
+    "category": "Cameras",
+    "identifiers": [
+      "960-001063"
+    ],
+    "aliases": [],
+    "scope": "Exact manufacturer model/part reference as identified. UK/EMEA where labelled; global Sandberg/LogiLink/Lenovo references; Dell Japan technical guide. Exact Tele2 SKU, OEM package and revision require matching. Dimensions keep manufacturer orientation/clip scope.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-c270-hd-webcam-manufacturer-reference.json"
+  },
+  {
+    "id": "logitech-c920e-manufacturer-reference",
+    "brand": "Logitech",
+    "model": "C920e",
+    "category": "Cameras",
+    "identifiers": [
+      "960-001360"
+    ],
+    "aliases": [],
+    "scope": "Exact manufacturer model/part reference as identified. UK/EMEA where labelled; global Sandberg/LogiLink/Lenovo references; Dell Japan technical guide. Exact Tele2 SKU, OEM package and revision require matching. Dimensions keep manufacturer orientation/clip scope.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-c920e-manufacturer-reference.json"
+  },
+  {
+    "id": "logitech-c930e-manufacturer-reference",
+    "brand": "Logitech",
+    "model": "C930e",
+    "category": "Cameras",
+    "identifiers": [
+      "960-000972"
+    ],
+    "aliases": [],
+    "scope": "Exact manufacturer model/part reference as identified. UK/EMEA where labelled; global Sandberg/LogiLink/Lenovo references; Dell Japan technical guide. Exact Tele2 SKU, OEM package and revision require matching. Dimensions keep manufacturer orientation/clip scope.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-c930e-manufacturer-reference.json"
+  },
+  {
     "id": "logitech-ergo-k860",
     "brand": "Logitech",
     "model": "ERGO K860",
@@ -58,6 +94,18 @@
     "aliases": [],
     "scope": "UK manufacturer model reference. Explicit MPN options identify their labelled colour/layout variants; not a Latvia SKU. No colour/layout records generated.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-m720-triathlon.json"
+  },
+  {
+    "id": "logitech-meetup-2-manufacturer-reference",
+    "brand": "Logitech",
+    "model": "MeetUp 2",
+    "category": "Cameras",
+    "identifiers": [
+      "960-001681"
+    ],
+    "aliases": [],
+    "scope": "Exact manufacturer model/part reference as identified. UK/EMEA where labelled; global Sandberg/LogiLink/Lenovo references; Dell Japan technical guide. Exact Tele2 SKU, OEM package and revision require matching. Dimensions keep manufacturer orientation/clip scope.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-meetup-2-manufacturer-reference.json"
   },
   {
     "id": "logitech-mx-anywhere-3s",
@@ -212,29 +260,6 @@
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-mx-master-4.json"
   },
   {
-    "id": "logitech-mx-mechanical",
-    "brand": "Logitech",
-    "model": "MX Mechanical",
-    "category": "Accessories",
-    "identifiers": [
-      "920-010748",
-      "920-010750",
-      "920-010749",
-      "920-010751",
-      "920-010757",
-      "920-010759",
-      "920-010758",
-      "920-010753",
-      "920-010755",
-      "920-010754",
-      "920-010752",
-      "920-010756"
-    ],
-    "aliases": [],
-    "scope": "UK manufacturer model reference. Explicit MPN options identify their labelled colour/layout variants; not a Latvia SKU. No colour/layout records generated.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-mx-mechanical.json"
-  },
-  {
     "id": "logitech-mx-mechanical-mini",
     "brand": "Logitech",
     "model": "MX Mechanical Mini",
@@ -256,6 +281,29 @@
     "aliases": [],
     "scope": "UK manufacturer model reference. Explicit MPN options identify their labelled colour/layout variants; not a Latvia SKU. No colour/layout records generated.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-mx-mechanical-mini.json"
+  },
+  {
+    "id": "logitech-mx-mechanical",
+    "brand": "Logitech",
+    "model": "MX Mechanical",
+    "category": "Accessories",
+    "identifiers": [
+      "920-010748",
+      "920-010750",
+      "920-010749",
+      "920-010751",
+      "920-010757",
+      "920-010759",
+      "920-010758",
+      "920-010753",
+      "920-010755",
+      "920-010754",
+      "920-010752",
+      "920-010756"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer model reference. Explicit MPN options identify their labelled colour/layout variants; not a Latvia SKU. No colour/layout records generated.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-mx-mechanical.json"
   },
   {
     "id": "logitech-mx-vertical",
@@ -435,53 +483,5 @@
     "aliases": [],
     "scope": "UK manufacturer model reference. Explicit MPN options identify their labelled colour/layout variants; not a Latvia SKU. No colour/layout records generated.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-wave-keys.json"
-  },
-  {
-    "id": "logitech-c270-hd-webcam-manufacturer-reference",
-    "brand": "Logitech",
-    "model": "C270 HD Webcam",
-    "category": "Cameras",
-    "identifiers": [
-      "960-001063"
-    ],
-    "aliases": [],
-    "scope": "Exact manufacturer model/part reference as identified. UK/EMEA where labelled; global Sandberg/LogiLink/Lenovo references; Dell Japan technical guide. Exact Tele2 SKU, OEM package and revision require matching. Dimensions keep manufacturer orientation/clip scope.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-c270-hd-webcam-manufacturer-reference.json"
-  },
-  {
-    "id": "logitech-c920e-manufacturer-reference",
-    "brand": "Logitech",
-    "model": "C920e",
-    "category": "Cameras",
-    "identifiers": [
-      "960-001360"
-    ],
-    "aliases": [],
-    "scope": "Exact manufacturer model/part reference as identified. UK/EMEA where labelled; global Sandberg/LogiLink/Lenovo references; Dell Japan technical guide. Exact Tele2 SKU, OEM package and revision require matching. Dimensions keep manufacturer orientation/clip scope.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-c920e-manufacturer-reference.json"
-  },
-  {
-    "id": "logitech-c930e-manufacturer-reference",
-    "brand": "Logitech",
-    "model": "C930e",
-    "category": "Cameras",
-    "identifiers": [
-      "960-000972"
-    ],
-    "aliases": [],
-    "scope": "Exact manufacturer model/part reference as identified. UK/EMEA where labelled; global Sandberg/LogiLink/Lenovo references; Dell Japan technical guide. Exact Tele2 SKU, OEM package and revision require matching. Dimensions keep manufacturer orientation/clip scope.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-c930e-manufacturer-reference.json"
-  },
-  {
-    "id": "logitech-meetup-2-manufacturer-reference",
-    "brand": "Logitech",
-    "model": "MeetUp 2",
-    "category": "Cameras",
-    "identifiers": [
-      "960-001681"
-    ],
-    "aliases": [],
-    "scope": "Exact manufacturer model/part reference as identified. UK/EMEA where labelled; global Sandberg/LogiLink/Lenovo references; Dell Japan technical guide. Exact Tele2 SKU, OEM package and revision require matching. Dimensions keep manufacturer orientation/clip scope.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/logitech-meetup-2-manufacturer-reference.json"
   }
 ]

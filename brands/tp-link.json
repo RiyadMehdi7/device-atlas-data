@@ -1,13 +1,13 @@
 [
   {
-    "id": "tp-link-tc71-global-reference",
+    "id": "tp-link-deco-x50-global-reference",
     "brand": "TP-Link",
-    "model": "TC71",
-    "category": "Cameras",
+    "model": "Deco X50",
+    "category": "Routers",
     "identifiers": [],
     "aliases": [],
     "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tc71-global-reference.json"
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-deco-x50-global-reference.json"
   },
   {
     "id": "tp-link-tapo-c100-global-reference",
@@ -270,26 +270,6 @@
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-c560ws-global-reference.json"
   },
   {
-    "id": "tp-link-vigi-c240-global-reference",
-    "brand": "TP-Link",
-    "model": "VIGI C240",
-    "category": "Cameras",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-vigi-c240-global-reference.json"
-  },
-  {
-    "id": "tp-link-deco-x50-global-reference",
-    "brand": "TP-Link",
-    "model": "Deco X50",
-    "category": "Routers",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-deco-x50-global-reference.json"
-  },
-  {
     "id": "tp-link-tapo-h100-global-reference",
     "brand": "TP-Link",
     "model": "Tapo H100",
@@ -508,5 +488,25 @@
     "aliases": [],
     "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tapo-t315-global-reference.json"
+  },
+  {
+    "id": "tp-link-tc71-global-reference",
+    "brand": "TP-Link",
+    "model": "TC71",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-tc71-global-reference.json"
+  },
+  {
+    "id": "tp-link-vigi-c240-global-reference",
+    "brand": "TP-Link",
+    "model": "VIGI C240",
+    "category": "Cameras",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-vigi-c240-global-reference.json"
   }
 ]

@@ -1,149 +1,5 @@
 [
   {
-    "id": "garmin-forerunner-570-47mm",
-    "brand": "Garmin",
-    "model": "Forerunner® 570 - 47mm",
-    "category": "Smartwatches",
-    "identifiers": [
-      "010-02971-00"
-    ],
-    "aliases": [],
-    "scope": "Exact UK manufacturer selected model/size SKU 010-02971-00. Colour used only as source anchor; any material alternatives in technical table remain explicit. Latvia SKU requires matching.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/garmin-forerunner-570-47mm.json"
-  },
-  {
-    "id": "garmin-forerunner-970",
-    "brand": "Garmin",
-    "model": "Forerunner® 970",
-    "category": "Smartwatches",
-    "identifiers": [
-      "010-02969-10"
-    ],
-    "aliases": [],
-    "scope": "Exact UK manufacturer selected model/size SKU 010-02969-10. Colour used only as source anchor; any material alternatives in technical table remain explicit. Latvia SKU requires matching.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/garmin-forerunner-970.json"
-  },
-  {
-    "id": "garmin-instinct-3-50-mm-solar",
-    "brand": "Garmin",
-    "model": "Instinct® 3 – 50 mm, Solar",
-    "category": "Smartwatches",
-    "identifiers": [
-      "010-02935-03"
-    ],
-    "aliases": [],
-    "scope": "Exact UK manufacturer selected model/size SKU 010-02935-03. Colour used only as source anchor; any material alternatives in technical table remain explicit. Latvia SKU requires matching.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/garmin-instinct-3-50-mm-solar.json"
-  },
-  {
-    "id": "garmin-instinct-e-40-mm",
-    "brand": "Garmin",
-    "model": "Instinct® E – 40 mm",
-    "category": "Smartwatches",
-    "identifiers": [
-      "010-02932-01"
-    ],
-    "aliases": [],
-    "scope": "Exact UK manufacturer selected model/size SKU 010-02932-01. Colour used only as source anchor; any material alternatives in technical table remain explicit. Latvia SKU requires matching.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/garmin-instinct-e-40-mm.json"
-  },
-  {
-    "id": "garmin-instinct-e-45-mm",
-    "brand": "Garmin",
-    "model": "Instinct® E – 45 mm",
-    "category": "Smartwatches",
-    "identifiers": [
-      "010-02933-01"
-    ],
-    "aliases": [],
-    "scope": "Exact UK manufacturer selected model/size SKU 010-02933-01. Colour used only as source anchor; any material alternatives in technical table remain explicit. Latvia SKU requires matching.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/garmin-instinct-e-45-mm.json"
-  },
-  {
-    "id": "garmin-venu-3",
-    "brand": "Garmin",
-    "model": "Venu® 3",
-    "category": "Smartwatches",
-    "identifiers": [
-      "010-02784-01"
-    ],
-    "aliases": [],
-    "scope": "Exact UK manufacturer selected model/size SKU 010-02784-01. Colour used only as source anchor; any material alternatives in technical table remain explicit. Latvia SKU requires matching.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/garmin-venu-3.json"
-  },
-  {
-    "id": "garmin-venu-3s",
-    "brand": "Garmin",
-    "model": "Venu® 3S",
-    "category": "Smartwatches",
-    "identifiers": [
-      "010-02785-04"
-    ],
-    "aliases": [],
-    "scope": "Exact UK manufacturer selected model/size SKU 010-02785-04. Colour used only as source anchor; any material alternatives in technical table remain explicit. Latvia SKU requires matching.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/garmin-venu-3s.json"
-  },
-  {
-    "id": "garmin-venu-4-41-mm",
-    "brand": "Garmin",
-    "model": "Venu® 4 - 41 mm",
-    "category": "Smartwatches",
-    "identifiers": [
-      "010-03013-01"
-    ],
-    "aliases": [],
-    "scope": "Exact UK manufacturer selected model/size SKU 010-03013-01. Colour used only as source anchor; any material alternatives in technical table remain explicit. Latvia SKU requires matching.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/garmin-venu-4-41-mm.json"
-  },
-  {
-    "id": "garmin-venu-4-45-mm",
-    "brand": "Garmin",
-    "model": "Venu® 4 - 45 mm",
-    "category": "Smartwatches",
-    "identifiers": [
-      "010-03014-01"
-    ],
-    "aliases": [],
-    "scope": "Exact UK manufacturer selected model/size SKU 010-03014-01. Colour used only as source anchor; any material alternatives in technical table remain explicit. Latvia SKU requires matching.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/garmin-venu-4-45-mm.json"
-  },
-  {
-    "id": "garmin-f-nix-8-pro-47-mm-amoled",
-    "brand": "Garmin",
-    "model": "fēnix® 8 Pro – 47 mm, AMOLED",
-    "category": "Smartwatches",
-    "identifiers": [
-      "010-03198-01"
-    ],
-    "aliases": [],
-    "scope": "Exact UK manufacturer selected model/size SKU 010-03198-01. Colour used only as source anchor; any material alternatives in technical table remain explicit. Latvia SKU requires matching.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/garmin-f-nix-8-pro-47-mm-amoled.json"
-  },
-  {
-    "id": "garmin-f-nix-8-pro-51-mm-amoled",
-    "brand": "Garmin",
-    "model": "fēnix® 8 Pro – 51 mm, AMOLED",
-    "category": "Smartwatches",
-    "identifiers": [
-      "010-03199-01"
-    ],
-    "aliases": [],
-    "scope": "Exact UK manufacturer selected model/size SKU 010-03199-01. Colour used only as source anchor; any material alternatives in technical table remain explicit. Latvia SKU requires matching.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/garmin-f-nix-8-pro-51-mm-amoled.json"
-  },
-  {
-    "id": "garmin-f-nix-8-pro-51-mm-microled",
-    "brand": "Garmin",
-    "model": "fēnix® 8 Pro – 51 mm, MicroLED",
-    "category": "Smartwatches",
-    "identifiers": [
-      "010-03380-01"
-    ],
-    "aliases": [],
-    "scope": "Exact UK manufacturer selected model/size SKU 010-03380-01. Colour used only as source anchor; any material alternatives in technical table remain explicit. Latvia SKU requires matching.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/garmin-f-nix-8-pro-51-mm-microled.json"
-  },
-  {
     "id": "garmin-f-nix-8-43-mm-amoled",
     "brand": "Garmin",
     "model": "fēnix® 8 – 43 mm, AMOLED",
@@ -204,6 +60,42 @@
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/garmin-f-nix-8-51-mm-solar-sapphire.json"
   },
   {
+    "id": "garmin-f-nix-8-pro-47-mm-amoled",
+    "brand": "Garmin",
+    "model": "fēnix® 8 Pro – 47 mm, AMOLED",
+    "category": "Smartwatches",
+    "identifiers": [
+      "010-03198-01"
+    ],
+    "aliases": [],
+    "scope": "Exact UK manufacturer selected model/size SKU 010-03198-01. Colour used only as source anchor; any material alternatives in technical table remain explicit. Latvia SKU requires matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/garmin-f-nix-8-pro-47-mm-amoled.json"
+  },
+  {
+    "id": "garmin-f-nix-8-pro-51-mm-amoled",
+    "brand": "Garmin",
+    "model": "fēnix® 8 Pro – 51 mm, AMOLED",
+    "category": "Smartwatches",
+    "identifiers": [
+      "010-03199-01"
+    ],
+    "aliases": [],
+    "scope": "Exact UK manufacturer selected model/size SKU 010-03199-01. Colour used only as source anchor; any material alternatives in technical table remain explicit. Latvia SKU requires matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/garmin-f-nix-8-pro-51-mm-amoled.json"
+  },
+  {
+    "id": "garmin-f-nix-8-pro-51-mm-microled",
+    "brand": "Garmin",
+    "model": "fēnix® 8 Pro – 51 mm, MicroLED",
+    "category": "Smartwatches",
+    "identifiers": [
+      "010-03380-01"
+    ],
+    "aliases": [],
+    "scope": "Exact UK manufacturer selected model/size SKU 010-03380-01. Colour used only as source anchor; any material alternatives in technical table remain explicit. Latvia SKU requires matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/garmin-f-nix-8-pro-51-mm-microled.json"
+  },
+  {
     "id": "garmin-f-nix-e-47-mm-amoled",
     "brand": "Garmin",
     "model": "fēnix® E – 47 mm, AMOLED",
@@ -216,6 +108,66 @@
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/garmin-f-nix-e-47-mm-amoled.json"
   },
   {
+    "id": "garmin-forerunner-570-47mm",
+    "brand": "Garmin",
+    "model": "Forerunner® 570 - 47mm",
+    "category": "Smartwatches",
+    "identifiers": [
+      "010-02971-00"
+    ],
+    "aliases": [],
+    "scope": "Exact UK manufacturer selected model/size SKU 010-02971-00. Colour used only as source anchor; any material alternatives in technical table remain explicit. Latvia SKU requires matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/garmin-forerunner-570-47mm.json"
+  },
+  {
+    "id": "garmin-forerunner-970",
+    "brand": "Garmin",
+    "model": "Forerunner® 970",
+    "category": "Smartwatches",
+    "identifiers": [
+      "010-02969-10"
+    ],
+    "aliases": [],
+    "scope": "Exact UK manufacturer selected model/size SKU 010-02969-10. Colour used only as source anchor; any material alternatives in technical table remain explicit. Latvia SKU requires matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/garmin-forerunner-970.json"
+  },
+  {
+    "id": "garmin-instinct-3-50-mm-solar",
+    "brand": "Garmin",
+    "model": "Instinct® 3 – 50 mm, Solar",
+    "category": "Smartwatches",
+    "identifiers": [
+      "010-02935-03"
+    ],
+    "aliases": [],
+    "scope": "Exact UK manufacturer selected model/size SKU 010-02935-03. Colour used only as source anchor; any material alternatives in technical table remain explicit. Latvia SKU requires matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/garmin-instinct-3-50-mm-solar.json"
+  },
+  {
+    "id": "garmin-instinct-e-40-mm",
+    "brand": "Garmin",
+    "model": "Instinct® E – 40 mm",
+    "category": "Smartwatches",
+    "identifiers": [
+      "010-02932-01"
+    ],
+    "aliases": [],
+    "scope": "Exact UK manufacturer selected model/size SKU 010-02932-01. Colour used only as source anchor; any material alternatives in technical table remain explicit. Latvia SKU requires matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/garmin-instinct-e-40-mm.json"
+  },
+  {
+    "id": "garmin-instinct-e-45-mm",
+    "brand": "Garmin",
+    "model": "Instinct® E – 45 mm",
+    "category": "Smartwatches",
+    "identifiers": [
+      "010-02933-01"
+    ],
+    "aliases": [],
+    "scope": "Exact UK manufacturer selected model/size SKU 010-02933-01. Colour used only as source anchor; any material alternatives in technical table remain explicit. Latvia SKU requires matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/garmin-instinct-e-45-mm.json"
+  },
+  {
     "id": "garmin-v-voactive-6",
     "brand": "Garmin",
     "model": "vívoactive® 6",
@@ -226,5 +178,53 @@
     "aliases": [],
     "scope": "Exact UK manufacturer selected model/size SKU 010-02985-01. Colour used only as source anchor; any material alternatives in technical table remain explicit. Latvia SKU requires matching.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/garmin-v-voactive-6.json"
+  },
+  {
+    "id": "garmin-venu-3",
+    "brand": "Garmin",
+    "model": "Venu® 3",
+    "category": "Smartwatches",
+    "identifiers": [
+      "010-02784-01"
+    ],
+    "aliases": [],
+    "scope": "Exact UK manufacturer selected model/size SKU 010-02784-01. Colour used only as source anchor; any material alternatives in technical table remain explicit. Latvia SKU requires matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/garmin-venu-3.json"
+  },
+  {
+    "id": "garmin-venu-3s",
+    "brand": "Garmin",
+    "model": "Venu® 3S",
+    "category": "Smartwatches",
+    "identifiers": [
+      "010-02785-04"
+    ],
+    "aliases": [],
+    "scope": "Exact UK manufacturer selected model/size SKU 010-02785-04. Colour used only as source anchor; any material alternatives in technical table remain explicit. Latvia SKU requires matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/garmin-venu-3s.json"
+  },
+  {
+    "id": "garmin-venu-4-41-mm",
+    "brand": "Garmin",
+    "model": "Venu® 4 - 41 mm",
+    "category": "Smartwatches",
+    "identifiers": [
+      "010-03013-01"
+    ],
+    "aliases": [],
+    "scope": "Exact UK manufacturer selected model/size SKU 010-03013-01. Colour used only as source anchor; any material alternatives in technical table remain explicit. Latvia SKU requires matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/garmin-venu-4-41-mm.json"
+  },
+  {
+    "id": "garmin-venu-4-45-mm",
+    "brand": "Garmin",
+    "model": "Venu® 4 - 45 mm",
+    "category": "Smartwatches",
+    "identifiers": [
+      "010-03014-01"
+    ],
+    "aliases": [],
+    "scope": "Exact UK manufacturer selected model/size SKU 010-03014-01. Colour used only as source anchor; any material alternatives in technical table remain explicit. Latvia SKU requires matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/garmin-venu-4-45-mm.json"
   }
 ]

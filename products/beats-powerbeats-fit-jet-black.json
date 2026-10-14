@@ -1,0 +1,226 @@
+{
+  "id": "beats-powerbeats-fit-jet-black",
+  "brand": "Beats",
+  "model": "Powerbeats Fit - Jet Black",
+  "model_family": "Powerbeats Fit",
+  "category": "Earbuds",
+  "scope": "Official manufacturer colour/model reference; Latvia MPN/GTIN and retail package not matched.",
+  "identifiers": [],
+  "aliases": [
+    "Powerbeats Fit - Jet Black",
+    "Beats Powerbeats Fit - Jet Black"
+  ],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Beats official technical specifications",
+  "source_url": "https://www.beatsbydre.com/us/earbuds/powerbeats-fit",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Colour",
+      "value": "Jet Black",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/powerbeats-fit",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Design",
+      "value": "In-ear with flexible wingtips",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/powerbeats-fit",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Ingress rating",
+      "value": "IPX4 earbuds and case; not waterproof; resistance can diminish",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/powerbeats-fit",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "ANC",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/powerbeats-fit",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Transparency mode",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/powerbeats-fit",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Adaptive EQ",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/powerbeats-fit",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Spatial Audio",
+      "value": "Personalized; dynamic head tracking on compatible devices",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/powerbeats-fit",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Chip",
+      "value": "Apple H1",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/powerbeats-fit",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth class",
+      "value": "Class 1",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/powerbeats-fit",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Automatic playback",
+      "value": "Auto-play/pause",
+      "unit": "",
+      "condition": "Manufacturer maximum or typical laboratory claim, not guaranteed runtime; settings and usage affect results.",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/powerbeats-fit",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery chemistry",
+      "value": "Rechargeable lithium-ion",
+      "unit": "",
+      "condition": "Manufacturer maximum or typical laboratory claim, not guaranteed runtime; settings and usage affect results.",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/powerbeats-fit",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Charging port",
+      "value": "USB-C",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/powerbeats-fit",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery life with case",
+      "value": "Up to 30 hours",
+      "unit": "",
+      "condition": "Manufacturer maximum or typical laboratory claim, not guaranteed runtime; settings and usage affect results.",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/powerbeats-fit",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Earbud battery life",
+      "value": "Up to 7 hours",
+      "unit": "",
+      "condition": "Manufacturer maximum or typical laboratory claim, not guaranteed runtime; settings and usage affect results.",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/powerbeats-fit",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Fast charge playback",
+      "value": "5 minutes charging: up to 1 hour",
+      "unit": "",
+      "condition": "Manufacturer maximum or typical laboratory claim, not guaranteed runtime; settings and usage affect results.",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/powerbeats-fit",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Earbud dimensions",
+      "value": "27.4 x 21.5 x 20.4 mm",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/powerbeats-fit",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Case dimensions",
+      "value": "62.5 x 55.4 x 27.5 mm",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/powerbeats-fit",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Earbud mass",
+      "value": "5.78 g",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/powerbeats-fit",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Case mass",
+      "value": "49.75 g",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/powerbeats-fit",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Total mass",
+      "value": "61.3 g",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/powerbeats-fit",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Ear tips",
+      "value": "XS, S, M, L",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/powerbeats-fit",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Charger and cable",
+      "value": "Sold separately",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/powerbeats-fit",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Android support",
+      "value": "Beats app",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/powerbeats-fit",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Controls",
+      "value": "One multifunction button per earbud",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/us/earbuds/powerbeats-fit",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia MPN/GTIN",
+    "Latvia availability and warranty"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.beatsbydre.com/us/earbuds/powerbeats-fit",
+      "fetched_at": "2026-10-14",
+      "method": "OpenAI web tool",
+      "notes": "Official specification values read directly"
+    }
+  ],
+  "research_lane": "urgent-audio"
+}

@@ -1,5 +1,15 @@
 [
   {
+    "id": "beats-pill-manufacturer-model",
+    "brand": "Beats",
+    "model": "Pill",
+    "category": "Speakers",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official manufacturer selected red page; single model reference, colour duplicates excluded",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/beats-pill-manufacturer-model.json"
+  },
+  {
     "id": "beats-powerbeats-pro-2-manufacturer-model",
     "brand": "Beats",
     "model": "Powerbeats Pro 2",
@@ -8,16 +18,6 @@
     "aliases": [],
     "scope": "Official manufacturer reference; USA/global page, Latvia SKU matching required",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/beats-powerbeats-pro-2-manufacturer-model.json"
-  },
-  {
-    "id": "beats-studio-buds-manufacturer-model",
-    "brand": "Beats",
-    "model": "Studio Buds +",
-    "category": "Earbuds",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "Official manufacturer reference; USA/global page, Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/beats-studio-buds-manufacturer-model.json"
   },
   {
     "id": "beats-solo-4-manufacturer-model",
@@ -30,13 +30,65 @@
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/beats-solo-4-manufacturer-model.json"
   },
   {
-    "id": "beats-pill-manufacturer-model",
+    "id": "beats-studio-buds-manufacturer-model",
     "brand": "Beats",
-    "model": "Pill",
-    "category": "Speakers",
+    "model": "Studio Buds +",
+    "category": "Earbuds",
     "identifiers": [],
     "aliases": [],
-    "scope": "Official manufacturer selected red page; single model reference, colour duplicates excluded",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/beats-pill-manufacturer-model.json"
+    "scope": "Official manufacturer reference; USA/global page, Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/beats-studio-buds-manufacturer-model.json"
+  },
+  {
+    "id": "beats-flex-beats-black",
+    "brand": "Beats",
+    "model": "Flex - Beats Black",
+    "category": "Earbuds",
+    "identifiers": [],
+    "aliases": [
+      "Flex - Beats Black",
+      "Beats Flex - Beats Black"
+    ],
+    "scope": "Official manufacturer colour/model reference; Latvia MPN/GTIN and retail package not matched.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/beats-flex-beats-black.json"
+  },
+  {
+    "id": "beats-powerbeats-fit-jet-black",
+    "brand": "Beats",
+    "model": "Powerbeats Fit - Jet Black",
+    "category": "Earbuds",
+    "identifiers": [],
+    "aliases": [
+      "Powerbeats Fit - Jet Black",
+      "Beats Powerbeats Fit - Jet Black"
+    ],
+    "scope": "Official manufacturer colour/model reference; Latvia MPN/GTIN and retail package not matched.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/beats-powerbeats-fit-jet-black.json"
+  },
+  {
+    "id": "beats-solo-buds-matte-black",
+    "brand": "Beats",
+    "model": "Solo Buds - Matte Black",
+    "category": "Earbuds",
+    "identifiers": [],
+    "aliases": [
+      "Solo Buds - Matte Black",
+      "Beats Solo Buds - Matte Black"
+    ],
+    "scope": "Official manufacturer colour/model reference; Latvia MPN/GTIN and retail package not matched.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/beats-solo-buds-matte-black.json"
+  },
+  {
+    "id": "beats-studio-pro-black",
+    "brand": "Beats",
+    "model": "Studio Pro - Black",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [
+      "Studio Pro - Black",
+      "Beats Studio Pro - Black"
+    ],
+    "scope": "Official manufacturer colour/model reference; Latvia MPN/GTIN and retail package not matched.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/beats-studio-pro-black.json"
   }
 ]

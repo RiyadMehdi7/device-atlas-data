@@ -1,15 +1,163 @@
 [
   {
-    "id": "lenovo-thinkvision-mc60-monitor-webcam-manufacturer-reference",
+    "id": "lenovo-21sg007wmh",
     "brand": "Lenovo",
-    "model": "ThinkVision MC60 Monitor Webcam",
-    "category": "Cameras",
+    "model": "ThinkBook 14 G8 IRL (21SG007WMH)",
+    "category": "Laptops",
     "identifiers": [
-      "4XC1J05150"
+      "21SG007WMH",
+      "198156207265"
     ],
+    "aliases": [
+      "ThinkBook 14 G8 IRL"
+    ],
+    "scope": "Exact manufacturer configuration. Lenovo PSREF rendered model table explicitly lists MPN 21SG007WMH and EAN/UPC/JAN 198156207265; Tele2 retailer identifier matches after explicit left-zero padding to 13 digits where required. Regional country/keyboard and warranty values are kept as manufacturer claims, not inferred Latvia service terms. Max memory/storage are capacity support, not installed amounts.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-21sg007wmh.json"
+  },
+  {
+    "id": "lenovo-21t00067mh",
+    "brand": "Lenovo",
+    "model": "ThinkPad E14 Gen 7 (AMD) (21T00067MH)",
+    "category": "Laptops",
+    "identifiers": [
+      "21T00067MH",
+      "0199274124212"
+    ],
+    "aliases": [
+      "ThinkPad E14 Gen 7 (AMD)"
+    ],
+    "scope": "Exact manufacturer configuration. Lenovo PSREF rendered model table explicitly lists MPN 21T00067MH and EAN/UPC/JAN 0199274124212; Tele2 retailer identifier matches after explicit left-zero padding to 13 digits where required. Regional country/keyboard and warranty values are kept as manufacturer claims, not inferred Latvia service terms. Max memory/storage are capacity support, not installed amounts.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-21t00067mh.json"
+  },
+  {
+    "id": "lenovo-21v0000gmh",
+    "brand": "Lenovo",
+    "model": "ThinkBook 14 G9 AHP (21V0000GMH)",
+    "category": "Laptops",
+    "identifiers": [
+      "21V0000GMH",
+      "199272526438"
+    ],
+    "aliases": [
+      "ThinkBook 14 G9 AHP"
+    ],
+    "scope": "Exact manufacturer configuration. Lenovo PSREF rendered model table explicitly lists MPN 21V0000GMH and EAN/UPC/JAN 199272526438; Tele2 retailer identifier matches after explicit left-zero padding to 13 digits where required. Regional country/keyboard and warranty values are kept as manufacturer claims, not inferred Latvia service terms. Max memory/storage are capacity support, not installed amounts.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-21v0000gmh.json"
+  },
+  {
+    "id": "lenovo-82xm016tlt",
+    "brand": "Lenovo",
+    "model": "IdeaPad Slim 3 15ABR8 (82XM016TLT)",
+    "category": "Laptops",
+    "identifiers": [
+      "82XM016TLT",
+      "199275533631"
+    ],
+    "aliases": [
+      "IdeaPad Slim 3 15ABR8"
+    ],
+    "scope": "Exact manufacturer configuration. Lenovo PSREF rendered model table explicitly lists MPN 82XM016TLT and EAN/UPC/JAN 199275533631; Tele2 retailer identifier matches after explicit left-zero padding to 13 digits where required. Regional country/keyboard and warranty values are kept as manufacturer claims, not inferred Latvia service terms. Max memory/storage are capacity support, not installed amounts.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-82xm016tlt.json"
+  },
+  {
+    "id": "lenovo-82yy0064mh",
+    "brand": "Lenovo",
+    "model": "Lenovo V15 G4 ABP (82YY0064MH)",
+    "category": "Laptops",
+    "identifiers": [
+      "82YY0064MH",
+      "199275397936"
+    ],
+    "aliases": [
+      "Lenovo V15 G4 ABP"
+    ],
+    "scope": "Exact manufacturer configuration. Lenovo PSREF rendered model table explicitly lists MPN 82YY0064MH and EAN/UPC/JAN 199275397936; same identifier read from Tele2 listing. Regional country/keyboard and warranty values are kept as manufacturer claims, not inferred Latvia service terms. Max memory/storage are capacity support, not installed amounts.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-82yy0064mh.json"
+  },
+  {
+    "id": "lenovo-83gw007xmh",
+    "brand": "Lenovo",
+    "model": "Lenovo V15 G5 IRL (83GW007XMH)",
+    "category": "Laptops",
+    "identifiers": [
+      "83GW007XMH",
+      "199271998427"
+    ],
+    "aliases": [
+      "Lenovo V15 G5 IRL"
+    ],
+    "scope": "Exact manufacturer configuration. Lenovo PSREF rendered model table explicitly lists MPN 83GW007XMH and EAN/UPC/JAN 199271998427; same identifier read from Tele2 listing. Regional country/keyboard and warranty values are kept as manufacturer claims, not inferred Latvia service terms. Max memory/storage are capacity support, not installed amounts.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-83gw007xmh.json"
+  },
+  {
+    "id": "lenovo-83jg001qnt",
+    "brand": "Lenovo",
+    "model": "LOQ 15AHP10 (83JG001QNT)",
+    "category": "Laptops",
+    "identifiers": [
+      "83JG001QNT",
+      "199271171875"
+    ],
+    "aliases": [
+      "LOQ 15AHP10"
+    ],
+    "scope": "Exact manufacturer configuration. Lenovo PSREF rendered model table explicitly lists MPN 83JG001QNT and EAN/UPC/JAN 199271171875; Tele2 retailer identifier matches after explicit left-zero padding to 13 digits where required. Regional country/keyboard and warranty values are kept as manufacturer claims, not inferred Latvia service terms. Max memory/storage are capacity support, not installed amounts.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-83jg001qnt.json"
+  },
+  {
+    "id": "lenovo-83tn0046nt",
+    "brand": "Lenovo",
+    "model": "LOQ 15AHP11 (83TN0046NT)",
+    "category": "Laptops",
+    "identifiers": [
+      "83TN0046NT",
+      "199275514906"
+    ],
+    "aliases": [
+      "LOQ 15AHP11"
+    ],
+    "scope": "Exact manufacturer configuration. Lenovo PSREF rendered model table explicitly lists MPN 83TN0046NT and EAN/UPC/JAN 199275514906; Tele2 retailer identifier matches after explicit left-zero padding to 13 digits where required. Regional country/keyboard and warranty values are kept as manufacturer claims, not inferred Latvia service terms. Max memory/storage are capacity support, not installed amounts.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-83tn0046nt.json"
+  },
+  {
+    "id": "lenovo-idea-tab-plus",
+    "brand": "Lenovo",
+    "model": "Idea Tab Plus",
+    "category": "Tablets",
+    "identifiers": [],
     "aliases": [],
-    "scope": "Exact manufacturer model/part reference as identified. UK/EMEA where labelled; global Sandberg/LogiLink/Lenovo references; Dell Japan technical guide. Exact Tele2 SKU, OEM package and revision require matching. Dimensions keep manufacturer orientation/clip scope.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-thinkvision-mc60-monitor-webcam-manufacturer-reference.json"
+    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-idea-tab-plus.json"
+  },
+  {
+    "id": "lenovo-idea-tab-pro-gen-2",
+    "brand": "Lenovo",
+    "model": "Idea Tab Pro Gen 2",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-idea-tab-pro-gen-2.json"
+  },
+  {
+    "id": "lenovo-idea-tab-pro",
+    "brand": "Lenovo",
+    "model": "Idea Tab Pro",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-idea-tab-pro.json"
+  },
+  {
+    "id": "lenovo-idea-tab",
+    "brand": "Lenovo",
+    "model": "Idea Tab",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-idea-tab.json"
   },
   {
     "id": "lenovo-ideapad-5-2-in-1-14akp10-platform",
@@ -70,21 +218,6 @@
     ],
     "scope": "Manufacturer global platform/model reference; option lists do not establish an actual RAM/storage/display combination. EU/Latvia exact SKU, keyboard and warranty need matching.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-ideapad-slim-3-14arp10-platform.json"
-  },
-  {
-    "id": "lenovo-82xm016tlt",
-    "brand": "Lenovo",
-    "model": "IdeaPad Slim 3 15ABR8 (82XM016TLT)",
-    "category": "Laptops",
-    "identifiers": [
-      "82XM016TLT",
-      "199275533631"
-    ],
-    "aliases": [
-      "IdeaPad Slim 3 15ABR8"
-    ],
-    "scope": "Exact manufacturer configuration. Lenovo PSREF rendered model table explicitly lists MPN 82XM016TLT and EAN/UPC/JAN 199275533631; Tele2 retailer identifier matches after explicit left-zero padding to 13 digits where required. Regional country/keyboard and warranty values are kept as manufacturer claims, not inferred Latvia service terms. Max memory/storage are capacity support, not installed amounts.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-82xm016tlt.json"
   },
   {
     "id": "lenovo-ideapad-slim-3-15arp10-platform",
@@ -195,60 +328,6 @@
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-ideapad-slim-5-16iph11-platform.json"
   },
   {
-    "id": "lenovo-83jg001qnt",
-    "brand": "Lenovo",
-    "model": "LOQ 15AHP10 (83JG001QNT)",
-    "category": "Laptops",
-    "identifiers": [
-      "83JG001QNT",
-      "199271171875"
-    ],
-    "aliases": [
-      "LOQ 15AHP10"
-    ],
-    "scope": "Exact manufacturer configuration. Lenovo PSREF rendered model table explicitly lists MPN 83JG001QNT and EAN/UPC/JAN 199271171875; Tele2 retailer identifier matches after explicit left-zero padding to 13 digits where required. Regional country/keyboard and warranty values are kept as manufacturer claims, not inferred Latvia service terms. Max memory/storage are capacity support, not installed amounts.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-83jg001qnt.json"
-  },
-  {
-    "id": "lenovo-83tn0046nt",
-    "brand": "Lenovo",
-    "model": "LOQ 15AHP11 (83TN0046NT)",
-    "category": "Laptops",
-    "identifiers": [
-      "83TN0046NT",
-      "199275514906"
-    ],
-    "aliases": [
-      "LOQ 15AHP11"
-    ],
-    "scope": "Exact manufacturer configuration. Lenovo PSREF rendered model table explicitly lists MPN 83TN0046NT and EAN/UPC/JAN 199275514906; Tele2 retailer identifier matches after explicit left-zero padding to 13 digits where required. Regional country/keyboard and warranty values are kept as manufacturer claims, not inferred Latvia service terms. Max memory/storage are capacity support, not installed amounts.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-83tn0046nt.json"
-  },
-  {
-    "id": "lenovo-loq-15irh8-platform",
-    "brand": "Lenovo",
-    "model": "LOQ 15IRH8",
-    "category": "Laptops",
-    "identifiers": [],
-    "aliases": [
-      "LOQ 15IRH8"
-    ],
-    "scope": "Manufacturer global platform/model reference; option lists do not establish an actual RAM/storage/display combination. EU/Latvia exact SKU, keyboard and warranty need matching.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-loq-15irh8-platform.json"
-  },
-  {
-    "id": "lenovo-loq-15irx10-platform",
-    "brand": "Lenovo",
-    "model": "LOQ 15IRX10",
-    "category": "Laptops",
-    "identifiers": [],
-    "aliases": [
-      "LOQ 15IRX10"
-    ],
-    "scope": "Manufacturer global platform/model reference; option lists do not establish an actual RAM/storage/display combination. EU/Latvia exact SKU, keyboard and warranty need matching.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-loq-15irx10-platform.json"
-  },
-  {
     "id": "lenovo-legion-5-15irx10-platform",
     "brand": "Lenovo",
     "model": "Legion 5 15IRX10",
@@ -285,34 +364,176 @@
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-legion-pro-5-16iax10-platform.json"
   },
   {
-    "id": "lenovo-82yy0064mh",
+    "id": "lenovo-legion-tab-8-8-3",
     "brand": "Lenovo",
-    "model": "Lenovo V15 G4 ABP (82YY0064MH)",
-    "category": "Laptops",
-    "identifiers": [
-      "82YY0064MH",
-      "199275397936"
-    ],
+    "model": "Legion Tab (8.8-inch, 3)",
+    "category": "Tablets",
+    "identifiers": [],
     "aliases": [
-      "Lenovo V15 G4 ABP"
+      "Legion Tab 8 8 3"
     ],
-    "scope": "Exact manufacturer configuration. Lenovo PSREF rendered model table explicitly lists MPN 82YY0064MH and EAN/UPC/JAN 199275397936; same identifier read from Tele2 listing. Regional country/keyboard and warranty values are kept as manufacturer claims, not inferred Latvia service terms. Max memory/storage are capacity support, not installed amounts.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-82yy0064mh.json"
+    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-legion-tab-8-8-3.json"
   },
   {
-    "id": "lenovo-83gw007xmh",
+    "id": "lenovo-legion-tab-8-8-5",
     "brand": "Lenovo",
-    "model": "Lenovo V15 G5 IRL (83GW007XMH)",
-    "category": "Laptops",
-    "identifiers": [
-      "83GW007XMH",
-      "199271998427"
-    ],
+    "model": "Legion Tab (8.8-inch, 5)",
+    "category": "Tablets",
+    "identifiers": [],
     "aliases": [
-      "Lenovo V15 G5 IRL"
+      "Legion Tab 8 8 5"
     ],
-    "scope": "Exact manufacturer configuration. Lenovo PSREF rendered model table explicitly lists MPN 83GW007XMH and EAN/UPC/JAN 199271998427; same identifier read from Tele2 listing. Regional country/keyboard and warranty values are kept as manufacturer claims, not inferred Latvia service terms. Max memory/storage are capacity support, not installed amounts.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-83gw007xmh.json"
+    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-legion-tab-8-8-5.json"
+  },
+  {
+    "id": "lenovo-lenovo-tab",
+    "brand": "Lenovo",
+    "model": "Lenovo Tab",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-lenovo-tab.json"
+  },
+  {
+    "id": "lenovo-loq-15irh8-platform",
+    "brand": "Lenovo",
+    "model": "LOQ 15IRH8",
+    "category": "Laptops",
+    "identifiers": [],
+    "aliases": [
+      "LOQ 15IRH8"
+    ],
+    "scope": "Manufacturer global platform/model reference; option lists do not establish an actual RAM/storage/display combination. EU/Latvia exact SKU, keyboard and warranty need matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-loq-15irh8-platform.json"
+  },
+  {
+    "id": "lenovo-loq-15irx10-platform",
+    "brand": "Lenovo",
+    "model": "LOQ 15IRX10",
+    "category": "Laptops",
+    "identifiers": [],
+    "aliases": [
+      "LOQ 15IRX10"
+    ],
+    "scope": "Manufacturer global platform/model reference; option lists do not establish an actual RAM/storage/display combination. EU/Latvia exact SKU, keyboard and warranty need matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-loq-15irx10-platform.json"
+  },
+  {
+    "id": "lenovo-tab-k11-gen-2",
+    "brand": "Lenovo",
+    "model": "Tab K11 Gen 2",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-tab-k11-gen-2.json"
+  },
+  {
+    "id": "lenovo-tab-k11-plus",
+    "brand": "Lenovo",
+    "model": "Tab K11 Plus",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-tab-k11-plus.json"
+  },
+  {
+    "id": "lenovo-tab-k12",
+    "brand": "Lenovo",
+    "model": "Tab K12",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-tab-k12.json"
+  },
+  {
+    "id": "lenovo-tab-k9",
+    "brand": "Lenovo",
+    "model": "Tab K9",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-tab-k9.json"
+  },
+  {
+    "id": "lenovo-tab-m10-plus-3rd-gen",
+    "brand": "Lenovo",
+    "model": "Tab M10 Plus (3rd Gen)",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [
+      "Tab M10 Plus 3rd Gen"
+    ],
+    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-tab-m10-plus-3rd-gen.json"
+  },
+  {
+    "id": "lenovo-tab-m11",
+    "brand": "Lenovo",
+    "model": "Tab M11",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-tab-m11.json"
+  },
+  {
+    "id": "lenovo-tab-m9",
+    "brand": "Lenovo",
+    "model": "Tab M9",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-tab-m9.json"
+  },
+  {
+    "id": "lenovo-tab-one",
+    "brand": "Lenovo",
+    "model": "Tab One",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-tab-one.json"
+  },
+  {
+    "id": "lenovo-tab-p11-2nd-gen",
+    "brand": "Lenovo",
+    "model": "Tab P11 (2nd Gen)",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [
+      "Tab P11 2nd Gen"
+    ],
+    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-tab-p11-2nd-gen.json"
+  },
+  {
+    "id": "lenovo-tab-p12",
+    "brand": "Lenovo",
+    "model": "Tab P12",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-tab-p12.json"
+  },
+  {
+    "id": "lenovo-tab-plus-gen-2",
+    "brand": "Lenovo",
+    "model": "Tab Plus Gen 2",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-tab-plus-gen-2.json"
   },
   {
     "id": "lenovo-thinkbook-14-g8-ial-platform",
@@ -325,36 +546,6 @@
     ],
     "scope": "Manufacturer global platform/model reference; option lists do not establish an actual RAM/storage/display combination. EU/Latvia exact SKU, keyboard and warranty need matching.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-thinkbook-14-g8-ial-platform.json"
-  },
-  {
-    "id": "lenovo-21sg007wmh",
-    "brand": "Lenovo",
-    "model": "ThinkBook 14 G8 IRL (21SG007WMH)",
-    "category": "Laptops",
-    "identifiers": [
-      "21SG007WMH",
-      "198156207265"
-    ],
-    "aliases": [
-      "ThinkBook 14 G8 IRL"
-    ],
-    "scope": "Exact manufacturer configuration. Lenovo PSREF rendered model table explicitly lists MPN 21SG007WMH and EAN/UPC/JAN 198156207265; Tele2 retailer identifier matches after explicit left-zero padding to 13 digits where required. Regional country/keyboard and warranty values are kept as manufacturer claims, not inferred Latvia service terms. Max memory/storage are capacity support, not installed amounts.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-21sg007wmh.json"
-  },
-  {
-    "id": "lenovo-21v0000gmh",
-    "brand": "Lenovo",
-    "model": "ThinkBook 14 G9 AHP (21V0000GMH)",
-    "category": "Laptops",
-    "identifiers": [
-      "21V0000GMH",
-      "199272526438"
-    ],
-    "aliases": [
-      "ThinkBook 14 G9 AHP"
-    ],
-    "scope": "Exact manufacturer configuration. Lenovo PSREF rendered model table explicitly lists MPN 21V0000GMH and EAN/UPC/JAN 199272526438; Tele2 retailer identifier matches after explicit left-zero padding to 13 digits where required. Regional country/keyboard and warranty values are kept as manufacturer claims, not inferred Latvia service terms. Max memory/storage are capacity support, not installed amounts.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-21v0000gmh.json"
   },
   {
     "id": "lenovo-thinkbook-16-g8-ial-platform",
@@ -391,21 +582,6 @@
     ],
     "scope": "Manufacturer global platform/model reference; option lists do not establish an actual RAM/storage/display combination. EU/Latvia exact SKU, keyboard and warranty need matching.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-thinkbook-16-g9-ahp-platform.json"
-  },
-  {
-    "id": "lenovo-21t00067mh",
-    "brand": "Lenovo",
-    "model": "ThinkPad E14 Gen 7 (AMD) (21T00067MH)",
-    "category": "Laptops",
-    "identifiers": [
-      "21T00067MH",
-      "0199274124212"
-    ],
-    "aliases": [
-      "ThinkPad E14 Gen 7 (AMD)"
-    ],
-    "scope": "Exact manufacturer configuration. Lenovo PSREF rendered model table explicitly lists MPN 21T00067MH and EAN/UPC/JAN 0199274124212; Tele2 retailer identifier matches after explicit left-zero padding to 13 digits where required. Regional country/keyboard and warranty values are kept as manufacturer claims, not inferred Latvia service terms. Max memory/storage are capacity support, not installed amounts.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-21t00067mh.json"
   },
   {
     "id": "lenovo-thinkpad-e14-gen-7-intel-platform",
@@ -660,6 +836,114 @@
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-thinkpad-x9-15-gen-1-platform.json"
   },
   {
+    "id": "lenovo-thinkvision-e24-40",
+    "brand": "Lenovo",
+    "model": "ThinkVision E24-40",
+    "category": "Monitors",
+    "identifiers": [
+      "E24-40"
+    ],
+    "aliases": [],
+    "scope": "Exact ThinkVision model PSREF specification reference; documented options remain in the same field rather than manufacturing regional SKU variants. Tele2 EU MPN/EAN reconciliation remains unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-thinkvision-e24-40.json"
+  },
+  {
+    "id": "lenovo-thinkvision-mc60-monitor-webcam-manufacturer-reference",
+    "brand": "Lenovo",
+    "model": "ThinkVision MC60 Monitor Webcam",
+    "category": "Cameras",
+    "identifiers": [
+      "4XC1J05150"
+    ],
+    "aliases": [],
+    "scope": "Exact manufacturer model/part reference as identified. UK/EMEA where labelled; global Sandberg/LogiLink/Lenovo references; Dell Japan technical guide. Exact Tele2 SKU, OEM package and revision require matching. Dimensions keep manufacturer orientation/clip scope.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-thinkvision-mc60-monitor-webcam-manufacturer-reference.json"
+  },
+  {
+    "id": "lenovo-thinkvision-p24q-40",
+    "brand": "Lenovo",
+    "model": "ThinkVision P24q-40",
+    "category": "Monitors",
+    "identifiers": [
+      "P24q-40"
+    ],
+    "aliases": [],
+    "scope": "Exact ThinkVision model PSREF specification reference; documented options remain in the same field rather than manufacturing regional SKU variants. Tele2 EU MPN/EAN reconciliation remains unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-thinkvision-p24q-40.json"
+  },
+  {
+    "id": "lenovo-thinkvision-t24d-30",
+    "brand": "Lenovo",
+    "model": "ThinkVision T24d-30",
+    "category": "Monitors",
+    "identifiers": [
+      "T24d-30"
+    ],
+    "aliases": [],
+    "scope": "Exact ThinkVision model PSREF specification reference; documented options remain in the same field rather than manufacturing regional SKU variants. Tele2 EU MPN/EAN reconciliation remains unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-thinkvision-t24d-30.json"
+  },
+  {
+    "id": "lenovo-thinkvision-t24d-40",
+    "brand": "Lenovo",
+    "model": "ThinkVision T24D-40",
+    "category": "Monitors",
+    "identifiers": [
+      "T24D-40"
+    ],
+    "aliases": [],
+    "scope": "Exact ThinkVision model PSREF specification reference; documented options remain in the same field rather than manufacturing regional SKU variants. Tele2 EU MPN/EAN reconciliation remains unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-thinkvision-t24d-40.json"
+  },
+  {
+    "id": "lenovo-thinkvision-t27-40",
+    "brand": "Lenovo",
+    "model": "ThinkVision T27-40",
+    "category": "Monitors",
+    "identifiers": [
+      "T27-40"
+    ],
+    "aliases": [],
+    "scope": "Exact ThinkVision model PSREF specification reference; documented options remain in the same field rather than manufacturing regional SKU variants. Tele2 EU MPN/EAN reconciliation remains unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-thinkvision-t27-40.json"
+  },
+  {
+    "id": "lenovo-thinkvision-t27q-40",
+    "brand": "Lenovo",
+    "model": "ThinkVision T27Q-40",
+    "category": "Monitors",
+    "identifiers": [
+      "T27Q-40"
+    ],
+    "aliases": [],
+    "scope": "Exact ThinkVision model PSREF specification reference; documented options remain in the same field rather than manufacturing regional SKU variants. Tele2 EU MPN/EAN reconciliation remains unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-thinkvision-t27q-40.json"
+  },
+  {
+    "id": "lenovo-thinkvision-t27qd-40",
+    "brand": "Lenovo",
+    "model": "ThinkVision T27QD-40",
+    "category": "Monitors",
+    "identifiers": [
+      "T27QD-40"
+    ],
+    "aliases": [],
+    "scope": "Exact ThinkVision model PSREF specification reference; documented options remain in the same field rather than manufacturing regional SKU variants. Tele2 EU MPN/EAN reconciliation remains unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-thinkvision-t27qd-40.json"
+  },
+  {
+    "id": "lenovo-thinkvision-t32h-30",
+    "brand": "Lenovo",
+    "model": "ThinkVision T32h-30",
+    "category": "Monitors",
+    "identifiers": [
+      "T32h-30"
+    ],
+    "aliases": [],
+    "scope": "Exact ThinkVision model PSREF specification reference; documented options remain in the same field rather than manufacturing regional SKU variants. Tele2 EU MPN/EAN reconciliation remains unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-thinkvision-t32h-30.json"
+  },
+  {
     "id": "lenovo-yoga-7-2-in-1-14akp10-platform",
     "brand": "Lenovo",
     "model": "Yoga 7 2-in-1 14AKP10",
@@ -768,300 +1052,6 @@
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-yoga-slim-7-14iph11-platform.json"
   },
   {
-    "id": "lenovo-thinkvision-e24-40",
-    "brand": "Lenovo",
-    "model": "ThinkVision E24-40",
-    "category": "Monitors",
-    "identifiers": [
-      "E24-40"
-    ],
-    "aliases": [],
-    "scope": "Exact ThinkVision model PSREF specification reference; documented options remain in the same field rather than manufacturing regional SKU variants. Tele2 EU MPN/EAN reconciliation remains unresolved.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-thinkvision-e24-40.json"
-  },
-  {
-    "id": "lenovo-thinkvision-p24q-40",
-    "brand": "Lenovo",
-    "model": "ThinkVision P24q-40",
-    "category": "Monitors",
-    "identifiers": [
-      "P24q-40"
-    ],
-    "aliases": [],
-    "scope": "Exact ThinkVision model PSREF specification reference; documented options remain in the same field rather than manufacturing regional SKU variants. Tele2 EU MPN/EAN reconciliation remains unresolved.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-thinkvision-p24q-40.json"
-  },
-  {
-    "id": "lenovo-thinkvision-t24d-40",
-    "brand": "Lenovo",
-    "model": "ThinkVision T24D-40",
-    "category": "Monitors",
-    "identifiers": [
-      "T24D-40"
-    ],
-    "aliases": [],
-    "scope": "Exact ThinkVision model PSREF specification reference; documented options remain in the same field rather than manufacturing regional SKU variants. Tele2 EU MPN/EAN reconciliation remains unresolved.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-thinkvision-t24d-40.json"
-  },
-  {
-    "id": "lenovo-thinkvision-t24d-30",
-    "brand": "Lenovo",
-    "model": "ThinkVision T24d-30",
-    "category": "Monitors",
-    "identifiers": [
-      "T24d-30"
-    ],
-    "aliases": [],
-    "scope": "Exact ThinkVision model PSREF specification reference; documented options remain in the same field rather than manufacturing regional SKU variants. Tele2 EU MPN/EAN reconciliation remains unresolved.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-thinkvision-t24d-30.json"
-  },
-  {
-    "id": "lenovo-thinkvision-t27-40",
-    "brand": "Lenovo",
-    "model": "ThinkVision T27-40",
-    "category": "Monitors",
-    "identifiers": [
-      "T27-40"
-    ],
-    "aliases": [],
-    "scope": "Exact ThinkVision model PSREF specification reference; documented options remain in the same field rather than manufacturing regional SKU variants. Tele2 EU MPN/EAN reconciliation remains unresolved.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-thinkvision-t27-40.json"
-  },
-  {
-    "id": "lenovo-thinkvision-t27q-40",
-    "brand": "Lenovo",
-    "model": "ThinkVision T27Q-40",
-    "category": "Monitors",
-    "identifiers": [
-      "T27Q-40"
-    ],
-    "aliases": [],
-    "scope": "Exact ThinkVision model PSREF specification reference; documented options remain in the same field rather than manufacturing regional SKU variants. Tele2 EU MPN/EAN reconciliation remains unresolved.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-thinkvision-t27q-40.json"
-  },
-  {
-    "id": "lenovo-thinkvision-t27qd-40",
-    "brand": "Lenovo",
-    "model": "ThinkVision T27QD-40",
-    "category": "Monitors",
-    "identifiers": [
-      "T27QD-40"
-    ],
-    "aliases": [],
-    "scope": "Exact ThinkVision model PSREF specification reference; documented options remain in the same field rather than manufacturing regional SKU variants. Tele2 EU MPN/EAN reconciliation remains unresolved.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-thinkvision-t27qd-40.json"
-  },
-  {
-    "id": "lenovo-thinkvision-t32h-30",
-    "brand": "Lenovo",
-    "model": "ThinkVision T32h-30",
-    "category": "Monitors",
-    "identifiers": [
-      "T32h-30"
-    ],
-    "aliases": [],
-    "scope": "Exact ThinkVision model PSREF specification reference; documented options remain in the same field rather than manufacturing regional SKU variants. Tele2 EU MPN/EAN reconciliation remains unresolved.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-thinkvision-t32h-30.json"
-  },
-  {
-    "id": "lenovo-idea-tab",
-    "brand": "Lenovo",
-    "model": "Idea Tab",
-    "category": "Tablets",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-idea-tab.json"
-  },
-  {
-    "id": "lenovo-idea-tab-plus",
-    "brand": "Lenovo",
-    "model": "Idea Tab Plus",
-    "category": "Tablets",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-idea-tab-plus.json"
-  },
-  {
-    "id": "lenovo-idea-tab-pro",
-    "brand": "Lenovo",
-    "model": "Idea Tab Pro",
-    "category": "Tablets",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-idea-tab-pro.json"
-  },
-  {
-    "id": "lenovo-idea-tab-pro-gen-2",
-    "brand": "Lenovo",
-    "model": "Idea Tab Pro Gen 2",
-    "category": "Tablets",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-idea-tab-pro-gen-2.json"
-  },
-  {
-    "id": "lenovo-legion-tab-8-8-3",
-    "brand": "Lenovo",
-    "model": "Legion Tab (8.8-inch, 3)",
-    "category": "Tablets",
-    "identifiers": [],
-    "aliases": [
-      "Legion Tab 8 8 3"
-    ],
-    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-legion-tab-8-8-3.json"
-  },
-  {
-    "id": "lenovo-legion-tab-8-8-5",
-    "brand": "Lenovo",
-    "model": "Legion Tab (8.8-inch, 5)",
-    "category": "Tablets",
-    "identifiers": [],
-    "aliases": [
-      "Legion Tab 8 8 5"
-    ],
-    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-legion-tab-8-8-5.json"
-  },
-  {
-    "id": "lenovo-lenovo-tab",
-    "brand": "Lenovo",
-    "model": "Lenovo Tab",
-    "category": "Tablets",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-lenovo-tab.json"
-  },
-  {
-    "id": "lenovo-tab-k11-gen-2",
-    "brand": "Lenovo",
-    "model": "Tab K11 Gen 2",
-    "category": "Tablets",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-tab-k11-gen-2.json"
-  },
-  {
-    "id": "lenovo-tab-k11-plus",
-    "brand": "Lenovo",
-    "model": "Tab K11 Plus",
-    "category": "Tablets",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-tab-k11-plus.json"
-  },
-  {
-    "id": "lenovo-tab-k12",
-    "brand": "Lenovo",
-    "model": "Tab K12",
-    "category": "Tablets",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-tab-k12.json"
-  },
-  {
-    "id": "lenovo-tab-k9",
-    "brand": "Lenovo",
-    "model": "Tab K9",
-    "category": "Tablets",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-tab-k9.json"
-  },
-  {
-    "id": "lenovo-tab-m10-plus-3rd-gen",
-    "brand": "Lenovo",
-    "model": "Tab M10 Plus (3rd Gen)",
-    "category": "Tablets",
-    "identifiers": [],
-    "aliases": [
-      "Tab M10 Plus 3rd Gen"
-    ],
-    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-tab-m10-plus-3rd-gen.json"
-  },
-  {
-    "id": "lenovo-tab-m11",
-    "brand": "Lenovo",
-    "model": "Tab M11",
-    "category": "Tablets",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-tab-m11.json"
-  },
-  {
-    "id": "lenovo-tab-m9",
-    "brand": "Lenovo",
-    "model": "Tab M9",
-    "category": "Tablets",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-tab-m9.json"
-  },
-  {
-    "id": "lenovo-tab-one",
-    "brand": "Lenovo",
-    "model": "Tab One",
-    "category": "Tablets",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-tab-one.json"
-  },
-  {
-    "id": "lenovo-tab-p11-2nd-gen",
-    "brand": "Lenovo",
-    "model": "Tab P11 (2nd Gen)",
-    "category": "Tablets",
-    "identifiers": [],
-    "aliases": [
-      "Tab P11 2nd Gen"
-    ],
-    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-tab-p11-2nd-gen.json"
-  },
-  {
-    "id": "lenovo-tab-p12",
-    "brand": "Lenovo",
-    "model": "Tab P12",
-    "category": "Tablets",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-tab-p12.json"
-  },
-  {
-    "id": "lenovo-tab-plus-gen-2",
-    "brand": "Lenovo",
-    "model": "Tab Plus Gen 2",
-    "category": "Tablets",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-tab-plus-gen-2.json"
-  },
-  {
-    "id": "lenovo-yoga-tab",
-    "brand": "Lenovo",
-    "model": "Yoga Tab",
-    "category": "Tablets",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-yoga-tab.json"
-  },
-  {
     "id": "lenovo-yoga-tab-gen-2",
     "brand": "Lenovo",
     "model": "Yoga Tab Gen 2",
@@ -1070,6 +1060,16 @@
     "aliases": [],
     "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-yoga-tab-gen-2.json"
+  },
+  {
+    "id": "lenovo-yoga-tab-plus-gen-2",
+    "brand": "Lenovo",
+    "model": "Yoga Tab Plus Gen 2",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-yoga-tab-plus-gen-2.json"
   },
   {
     "id": "lenovo-yoga-tab-plus",
@@ -1082,13 +1082,13 @@
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-yoga-tab-plus.json"
   },
   {
-    "id": "lenovo-yoga-tab-plus-gen-2",
+    "id": "lenovo-yoga-tab",
     "brand": "Lenovo",
-    "model": "Yoga Tab Plus Gen 2",
+    "model": "Yoga Tab",
     "category": "Tablets",
     "identifiers": [],
     "aliases": [],
     "scope": "Official PSREF platform model reference, not a purchasable SKU. RAM/storage/display/adapter alternatives remain explicitly offered options; no cross-product configurations invented. Country availability unverified.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-yoga-tab-plus-gen-2.json"
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lenovo-yoga-tab.json"
   }
 ]

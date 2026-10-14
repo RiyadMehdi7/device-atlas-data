@@ -1,65 +1,5 @@
 [
   {
-    "id": "dell-pro-webcam-wb5023-manufacturer-reference",
-    "brand": "Dell",
-    "model": "Pro Webcam WB5023",
-    "category": "Cameras",
-    "identifiers": [
-      "WB5023"
-    ],
-    "aliases": [],
-    "scope": "Exact manufacturer model/part reference as identified. UK/EMEA where labelled; global Sandberg/LogiLink/Lenovo references; Dell Japan technical guide. Exact Tele2 SKU, OEM package and revision require matching. Dimensions keep manufacturer orientation/clip scope.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/dell-pro-webcam-wb5023-manufacturer-reference.json"
-  },
-  {
-    "id": "dell-dc16250-platform",
-    "brand": "Dell",
-    "model": "Dell 16 DC16250",
-    "category": "Laptops",
-    "identifiers": [
-      "DC16250"
-    ],
-    "aliases": [],
-    "scope": "Manufacturer global platform reference from official owner manual. No exact Tele2 model-code/SKU match established; CPU/memory/display/battery alternatives kept as table groups. European relevance candidate only, availability unverified.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/dell-dc16250-platform.json"
-  },
-  {
-    "id": "dell-pv14255-platform",
-    "brand": "Dell",
-    "model": "Dell Pro 14 Essential PV14255",
-    "category": "Laptops",
-    "identifiers": [
-      "PV14255"
-    ],
-    "aliases": [],
-    "scope": "Exact platform/model name observed in current Tele2 PV14255 listing. Manufacturer setup/specification manual keeps all configurable options; Tele2 selected RAM/storage/display/battery and exact part number need independently matching.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/dell-pv14255-platform.json"
-  },
-  {
-    "id": "dell-pc14255-platform",
-    "brand": "Dell",
-    "model": "Dell Pro 14 PC14255",
-    "category": "Laptops",
-    "identifiers": [
-      "PC14255"
-    ],
-    "aliases": [],
-    "scope": "Manufacturer global platform reference from official owner manual. No exact Tele2 model-code/SKU match established; CPU/memory/display/battery alternatives kept as table groups. European relevance candidate only, availability unverified.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/dell-pc14255-platform.json"
-  },
-  {
-    "id": "dell-pc16255-platform",
-    "brand": "Dell",
-    "model": "Dell Pro 16 PC16255",
-    "category": "Laptops",
-    "identifiers": [
-      "PC16255"
-    ],
-    "aliases": [],
-    "scope": "Manufacturer global platform reference from official owner manual. No exact Tele2 model-code/SKU match established; CPU/memory/display/battery alternatives kept as table groups. European relevance candidate only, availability unverified.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/dell-pc16255-platform.json"
-  },
-  {
     "id": "dell-aw2725qf",
     "brand": "Dell",
     "model": "AW2725QF",
@@ -118,6 +58,18 @@
     "aliases": [],
     "scope": "Exact Dell en-uk manufacturer product technical specification. Regional units, supplied cables and warranty may differ; Tele2 stocked unit EAN/part reconciliation remains unresolved.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/dell-aw3426dwm.json"
+  },
+  {
+    "id": "dell-dc16250-platform",
+    "brand": "Dell",
+    "model": "Dell 16 DC16250",
+    "category": "Laptops",
+    "identifiers": [
+      "DC16250"
+    ],
+    "aliases": [],
+    "scope": "Manufacturer global platform reference from official owner manual. No exact Tele2 model-code/SKU match established; CPU/memory/display/battery alternatives kept as table groups. European relevance candidate only, availability unverified.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/dell-dc16250-platform.json"
   },
   {
     "id": "dell-e2225hm",
@@ -286,6 +238,54 @@
     "aliases": [],
     "scope": "Exact Dell en-uk manufacturer product technical specification. Regional units, supplied cables and warranty may differ; Tele2 stocked unit EAN/part reconciliation remains unresolved.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/dell-p3426wev.json"
+  },
+  {
+    "id": "dell-pc14255-platform",
+    "brand": "Dell",
+    "model": "Dell Pro 14 PC14255",
+    "category": "Laptops",
+    "identifiers": [
+      "PC14255"
+    ],
+    "aliases": [],
+    "scope": "Manufacturer global platform reference from official owner manual. No exact Tele2 model-code/SKU match established; CPU/memory/display/battery alternatives kept as table groups. European relevance candidate only, availability unverified.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/dell-pc14255-platform.json"
+  },
+  {
+    "id": "dell-pc16255-platform",
+    "brand": "Dell",
+    "model": "Dell Pro 16 PC16255",
+    "category": "Laptops",
+    "identifiers": [
+      "PC16255"
+    ],
+    "aliases": [],
+    "scope": "Manufacturer global platform reference from official owner manual. No exact Tele2 model-code/SKU match established; CPU/memory/display/battery alternatives kept as table groups. European relevance candidate only, availability unverified.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/dell-pc16255-platform.json"
+  },
+  {
+    "id": "dell-pro-webcam-wb5023-manufacturer-reference",
+    "brand": "Dell",
+    "model": "Pro Webcam WB5023",
+    "category": "Cameras",
+    "identifiers": [
+      "WB5023"
+    ],
+    "aliases": [],
+    "scope": "Exact manufacturer model/part reference as identified. UK/EMEA where labelled; global Sandberg/LogiLink/Lenovo references; Dell Japan technical guide. Exact Tele2 SKU, OEM package and revision require matching. Dimensions keep manufacturer orientation/clip scope.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/dell-pro-webcam-wb5023-manufacturer-reference.json"
+  },
+  {
+    "id": "dell-pv14255-platform",
+    "brand": "Dell",
+    "model": "Dell Pro 14 Essential PV14255",
+    "category": "Laptops",
+    "identifiers": [
+      "PV14255"
+    ],
+    "aliases": [],
+    "scope": "Exact platform/model name observed in current Tele2 PV14255 listing. Manufacturer setup/specification manual keeps all configurable options; Tele2 selected RAM/storage/display/battery and exact part number need independently matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/dell-pv14255-platform.json"
   },
   {
     "id": "dell-s2725qc",

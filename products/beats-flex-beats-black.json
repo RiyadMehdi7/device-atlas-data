@@ -1,0 +1,178 @@
+{
+  "id": "beats-flex-beats-black",
+  "brand": "Beats",
+  "model": "Flex - Beats Black",
+  "model_family": "Flex",
+  "category": "Earbuds",
+  "scope": "Official manufacturer colour/model reference; Latvia MPN/GTIN and retail package not matched.",
+  "identifiers": [],
+  "aliases": [
+    "Flex - Beats Black",
+    "Beats Flex - Beats Black"
+  ],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Beats official technical specifications",
+  "source_url": "https://www.beatsbydre.com/earbuds/beats-flex/MYMC2/beats-black",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Colour",
+      "value": "Beats Black",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/earbuds/beats-flex/MYMC2/beats-black",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Design",
+      "value": "In-ear; neck cable",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/earbuds/beats-flex/MYMC2/beats-black",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Chip",
+      "value": "Apple W1",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/earbuds/beats-flex/MYMC2/beats-black",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth class",
+      "value": "Class 1",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/earbuds/beats-flex/MYMC2/beats-black",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Android compatibility",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/earbuds/beats-flex/MYMC2/beats-black",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Listening battery life",
+      "value": "Up to 12 hours",
+      "unit": "",
+      "condition": "Manufacturer maximum or typical laboratory claim, not guaranteed runtime; settings and usage affect results.",
+      "source_url": "https://www.beatsbydre.com/earbuds/beats-flex/MYMC2/beats-black",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Fast charge playback",
+      "value": "10 minutes charging: up to 1.5 hours",
+      "unit": "",
+      "condition": "Manufacturer maximum or typical laboratory claim, not guaranteed runtime; settings and usage affect results.",
+      "source_url": "https://www.beatsbydre.com/earbuds/beats-flex/MYMC2/beats-black",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Charging port",
+      "value": "USB-C",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/earbuds/beats-flex/MYMC2/beats-black",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery chemistry",
+      "value": "Rechargeable lithium-ion",
+      "unit": "",
+      "condition": "Manufacturer maximum or typical laboratory claim, not guaranteed runtime; settings and usage affect results.",
+      "source_url": "https://www.beatsbydre.com/earbuds/beats-flex/MYMC2/beats-black",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Mass",
+      "value": "18.6 g",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/earbuds/beats-flex/MYMC2/beats-black",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Height",
+      "value": "16 mm",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/earbuds/beats-flex/MYMC2/beats-black",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Ear tip sizes",
+      "value": "4 options",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/earbuds/beats-flex/MYMC2/beats-black",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Automatic playback",
+      "value": "Magnetic auto-play/pause; compatible OS required",
+      "unit": "",
+      "condition": "Manufacturer maximum or typical laboratory claim, not guaranteed runtime; settings and usage affect results.",
+      "source_url": "https://www.beatsbydre.com/earbuds/beats-flex/MYMC2/beats-black",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Microphone",
+      "value": "Integrated; wind reduction",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/earbuds/beats-flex/MYMC2/beats-black",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Controls",
+      "value": "Music, calls and voice assistant",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/earbuds/beats-flex/MYMC2/beats-black",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Audio Sharing",
+      "value": "Supported with compatible Apple devices",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/earbuds/beats-flex/MYMC2/beats-black",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Find My",
+      "value": "Supported with compatible Apple devices",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/earbuds/beats-flex/MYMC2/beats-black",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Cable material",
+      "value": "Nitinol",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/earbuds/beats-flex/MYMC2/beats-black",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia MPN/GTIN",
+    "Latvia availability and warranty"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.beatsbydre.com/earbuds/beats-flex/MYMC2/beats-black",
+      "fetched_at": "2026-10-14",
+      "method": "OpenAI web tool",
+      "notes": "Official specification values read directly"
+    }
+  ],
+  "research_lane": "urgent-audio"
+}

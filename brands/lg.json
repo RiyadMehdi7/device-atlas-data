@@ -108,18 +108,6 @@
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-27up650k-w.json"
   },
   {
-    "id": "lg-34g630a-b",
-    "brand": "LG",
-    "model": "34G630A-B",
-    "category": "Monitors",
-    "identifiers": [
-      "34G630A-B"
-    ],
-    "aliases": [],
-    "scope": "Exact base-model LG uk manufacturer reference. Tele2 listed 34G630A-B.AEUQ; regional suffix and EAN remain unmatched. No OLED claim transferred from retailer marketing.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-34g630a-b.json"
-  },
-  {
     "id": "lg-32lq63806lc",
     "brand": "LG",
     "model": "32LQ63806LC",
@@ -130,6 +118,18 @@
     "aliases": [],
     "scope": "Exact manufacturer Austria screen-size/model reference. Latvian retail suffix and availability require matching; no family specification transfers.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-32lq63806lc.json"
+  },
+  {
+    "id": "lg-34g630a-b",
+    "brand": "LG",
+    "model": "34G630A-B",
+    "category": "Monitors",
+    "identifiers": [
+      "34G630A-B"
+    ],
+    "aliases": [],
+    "scope": "Exact base-model LG uk manufacturer reference. Tele2 listed 34G630A-B.AEUQ; regional suffix and EAN remain unmatched. No OLED claim transferred from retailer marketing.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-34g630a-b.json"
   },
   {
     "id": "lg-oled42c6elb-aeu",
@@ -276,5 +276,284 @@
     ],
     "scope": "Exact manufacturer Austria screen-size/model reference. Latvian retail suffix and availability require matching; no family specification transfers.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-oled83c6elb-aeu.json"
+  },
+  {
+    "id": "lg-24lb70003la",
+    "brand": "LG",
+    "model": "24LB70003LA",
+    "category": "Televisions",
+    "identifiers": [
+      "24LB70003LA",
+      "8806096798775"
+    ],
+    "aliases": [
+      "LG 24LB70003LA"
+    ],
+    "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 24 collu LG SMART TV AI LB70 FHDTV 2026 - 24LB70003LA.AEU | LG Latvia",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-24lb70003la.json"
+  },
+  {
+    "id": "lg-27lb70003la",
+    "brand": "LG",
+    "model": "27LB70003LA",
+    "category": "Televisions",
+    "identifiers": [
+      "27LB70003LA",
+      "8806096799376"
+    ],
+    "aliases": [
+      "LG 27LB70003LA"
+    ],
+    "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 27 collu LG SMART TV AI LB70 FHDTV 2026 - 27LB70003LA.AEU | LG Latvia",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-27lb70003la.json"
+  },
+  {
+    "id": "lg-43nu800b3lc",
+    "brand": "LG",
+    "model": "43NU800B3LC",
+    "category": "Televisions",
+    "identifiers": [
+      "43NU800B3LC"
+    ],
+    "aliases": [
+      "LG 43NU800B3LC"
+    ],
+    "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 43 collu LG NANO 4K UHD AI NU80 4K Smart TV 2026-43NU800B3LC.AEUQ | LG Latvia",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-43nu800b3lc.json"
+  },
+  {
+    "id": "lg-43qned8eb3f",
+    "brand": "LG",
+    "model": "43QNED8EB3F",
+    "category": "Televisions",
+    "identifiers": [
+      "43QNED8EB3F",
+      "8806096717486"
+    ],
+    "aliases": [
+      "LG 43QNED8EB3F"
+    ],
+    "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 43 collu LG QNED evo AI Mini LED QNED8E 4K Smart TV - 43QNED8EB3F.AEU | LG Latvia",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-43qned8eb3f.json"
+  },
+  {
+    "id": "lg-50nu800b3lc",
+    "brand": "LG",
+    "model": "50NU800B3LC",
+    "category": "Televisions",
+    "identifiers": [
+      "50NU800B3LC"
+    ],
+    "aliases": [
+      "LG 50NU800B3LC"
+    ],
+    "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 50 collu LG NANO 4K UHD AI NU80 4K Smart TV 2026-50NU800B3LA.AEUQ | LG Latvia Source page URL/model request says 50NU800B3LC but HTML title says 50NU800B3LA.AEUQ; manufacturer identity conflict, do not assume exact suffix equivalence.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-50nu800b3lc.json"
+  },
+  {
+    "id": "lg-50qned8eb3f",
+    "brand": "LG",
+    "model": "50QNED8EB3F",
+    "category": "Televisions",
+    "identifiers": [
+      "50QNED8EB3F",
+      "8806096728062"
+    ],
+    "aliases": [
+      "LG 50QNED8EB3F"
+    ],
+    "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 50 collu LG QNED evo AI Mini LED QNED8E 4K Smart TV - 50QNED8EB3F.AEU | LG Latvia",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-50qned8eb3f.json"
+  },
+  {
+    "id": "lg-55mrgb87b3b",
+    "brand": "LG",
+    "model": "55MRGB87B3B",
+    "category": "Televisions",
+    "identifiers": [
+      "55MRGB87B3B",
+      "8806096729724"
+    ],
+    "aliases": [
+      "LG 55MRGB87B3B"
+    ],
+    "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 55 collu LG Mini RGB evo AI MRGB87 4K Smart TV - 55MRGB87B3B | LG Latvija",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-55mrgb87b3b.json"
+  },
+  {
+    "id": "lg-55nu800b3la",
+    "brand": "LG",
+    "model": "55NU800B3LA",
+    "category": "Televisions",
+    "identifiers": [
+      "55NU800B3LA"
+    ],
+    "aliases": [
+      "LG 55NU800B3LA"
+    ],
+    "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 55 collu LG NANO 4K UHD AI NU80 4K Smart TV 2026-55NU800B3LA.AEUQ | LG Latvia",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-55nu800b3la.json"
+  },
+  {
+    "id": "lg-55qned85b3b",
+    "brand": "LG",
+    "model": "55QNED85B3B",
+    "category": "Televisions",
+    "identifiers": [
+      "55QNED85B3B",
+      "8806096694121"
+    ],
+    "aliases": [
+      "LG 55QNED85B3B"
+    ],
+    "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 55 collu LG QNED evo AI Mini LED QNED85 4K Smart TV | LG Latvija",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-55qned85b3b.json"
+  },
+  {
+    "id": "lg-55qned8eb3b",
+    "brand": "LG",
+    "model": "55QNED8EB3B",
+    "category": "Televisions",
+    "identifiers": [
+      "55QNED8EB3B",
+      "8806096713174"
+    ],
+    "aliases": [
+      "LG 55QNED8EB3B"
+    ],
+    "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 55 collu LG QNED evo AI Mini LED QNED8E 4K Smart TV - 55QNED8EB3B.AEU",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-55qned8eb3b.json"
+  },
+  {
+    "id": "lg-65mrgb87b3b",
+    "brand": "LG",
+    "model": "65MRGB87B3B",
+    "category": "Televisions",
+    "identifiers": [
+      "65MRGB87B3B",
+      "8806096737453"
+    ],
+    "aliases": [
+      "LG 65MRGB87B3B"
+    ],
+    "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 65 collu LG Mini RGB evo AI MRGB87 4K Smart TV - 65MRGB87B3B | LG Latvija",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-65mrgb87b3b.json"
+  },
+  {
+    "id": "lg-65nu800b3la",
+    "brand": "LG",
+    "model": "65NU800B3LA",
+    "category": "Televisions",
+    "identifiers": [
+      "65NU800B3LA"
+    ],
+    "aliases": [
+      "LG 65NU800B3LA"
+    ],
+    "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 65 collu LG NANO 4K UHD AI NU80 4K Smart TV 2026-65NU800B3LA.AEUQ | LG Latvia",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-65nu800b3la.json"
+  },
+  {
+    "id": "lg-65qned85b3b",
+    "brand": "LG",
+    "model": "65QNED85B3B",
+    "category": "Televisions",
+    "identifiers": [
+      "65QNED85B3B",
+      "8806096694817"
+    ],
+    "aliases": [
+      "LG 65QNED85B3B"
+    ],
+    "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 65 collu LG QNED evo AI Mini LED QNED85 4K Smart TV | LG Latvija",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-65qned85b3b.json"
+  },
+  {
+    "id": "lg-65qned8eb3b",
+    "brand": "LG",
+    "model": "65QNED8EB3B",
+    "category": "Televisions",
+    "identifiers": [
+      "65QNED8EB3B",
+      "8806096739679"
+    ],
+    "aliases": [
+      "LG 65QNED8EB3B"
+    ],
+    "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 65 collu LG QNED evo AI Mini LED QNED81 4K Smart TV - 65QNED8EB3B.AEU | LG Latvia",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-65qned8eb3b.json"
+  },
+  {
+    "id": "lg-oled42c61la",
+    "brand": "LG",
+    "model": "OLED42C61LA",
+    "category": "Televisions",
+    "identifiers": [
+      "OLED42C61LA",
+      "8806096732083"
+    ],
+    "aliases": [
+      "LG OLED42C61LA"
+    ],
+    "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 42 collu LG OLED evo AI C6 4K Smart TV 2026 – OLED42C61LA.AEU | LG Latvia",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-oled42c61la.json"
+  },
+  {
+    "id": "lg-oled48c61la",
+    "brand": "LG",
+    "model": "OLED48C61LA",
+    "category": "Televisions",
+    "identifiers": [
+      "OLED48C61LA"
+    ],
+    "aliases": [
+      "LG OLED48C61LA"
+    ],
+    "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 48 collu LG OLED evo AI C6 4K Smart TV 2026 – OLED48C61LA.AEU | LG Latvia",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-oled48c61la.json"
+  },
+  {
+    "id": "lg-oled55c61la",
+    "brand": "LG",
+    "model": "OLED55C61LA",
+    "category": "Televisions",
+    "identifiers": [
+      "OLED55C61LA",
+      "8806096685792"
+    ],
+    "aliases": [
+      "LG OLED55C61LA"
+    ],
+    "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 55 collu LG OLED evo AI C6 4K Smart TV 2026 – OLED55C61LA.AEU | LG Latvia",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-oled55c61la.json"
+  },
+  {
+    "id": "lg-oled55g61lw",
+    "brand": "LG",
+    "model": "OLED55G61LW",
+    "category": "Televisions",
+    "identifiers": [
+      "OLED55G61LW"
+    ],
+    "aliases": [
+      "LG OLED55G61LW"
+    ],
+    "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 55 collu LG OLED evo AI G6 4K Smart TV 2026 - OLED55G61LW.AEU | LG Latvia",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-oled55g61lw.json"
+  },
+  {
+    "id": "lg-oled65c61la",
+    "brand": "LG",
+    "model": "OLED65C61LA",
+    "category": "Televisions",
+    "identifiers": [
+      "OLED65C61LA",
+      "8806096685969"
+    ],
+    "aliases": [
+      "LG OLED65C61LA"
+    ],
+    "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 65 collu LG OLED evo AI C6 4K Smart TV 2026 – OLED65C61LA.AEU | LG Latvia",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-oled65c61la.json"
   }
 ]

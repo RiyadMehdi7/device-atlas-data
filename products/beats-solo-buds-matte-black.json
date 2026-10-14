@@ -1,0 +1,170 @@
+{
+  "id": "beats-solo-buds-matte-black",
+  "brand": "Beats",
+  "model": "Solo Buds - Matte Black",
+  "model_family": "Solo Buds",
+  "category": "Earbuds",
+  "scope": "Official manufacturer colour/model reference; Latvia MPN/GTIN and retail package not matched.",
+  "identifiers": [],
+  "aliases": [
+    "Solo Buds - Matte Black",
+    "Beats Solo Buds - Matte Black"
+  ],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Beats official technical specifications",
+  "source_url": "https://www.beatsbydre.com/ca/earbuds/solo-buds/MUVW3/solobuds-matteblack",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Colour",
+      "value": "Matte Black",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/ca/earbuds/solo-buds/MUVW3/solobuds-matteblack",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth version",
+      "value": "5.3",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/ca/earbuds/solo-buds/MUVW3/solobuds-matteblack",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth class",
+      "value": "Class 1",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/ca/earbuds/solo-buds/MUVW3/solobuds-matteblack",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Earbud dimensions",
+      "value": "20.5 x 18.5 x 19 mm",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/ca/earbuds/solo-buds/MUVW3/solobuds-matteblack",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Earbud mass",
+      "value": "5.7 g",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/ca/earbuds/solo-buds/MUVW3/solobuds-matteblack",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Case dimensions",
+      "value": "66 x 35 x 24 mm",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/ca/earbuds/solo-buds/MUVW3/solobuds-matteblack",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Case mass",
+      "value": "22 g",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/ca/earbuds/solo-buds/MUVW3/solobuds-matteblack",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery life",
+      "value": "Up to 18 hours",
+      "unit": "",
+      "condition": "Manufacturer maximum or typical laboratory claim, not guaranteed runtime; settings and usage affect results.",
+      "source_url": "https://www.beatsbydre.com/ca/earbuds/solo-buds/MUVW3/solobuds-matteblack",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Fast charge playback",
+      "value": "5 minutes charging: up to 1 hour",
+      "unit": "",
+      "condition": "Manufacturer maximum or typical laboratory claim, not guaranteed runtime; settings and usage affect results.",
+      "source_url": "https://www.beatsbydre.com/ca/earbuds/solo-buds/MUVW3/solobuds-matteblack",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Charging port",
+      "value": "USB-C",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/ca/earbuds/solo-buds/MUVW3/solobuds-matteblack",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery chemistry",
+      "value": "Rechargeable lithium-ion",
+      "unit": "",
+      "condition": "Manufacturer maximum or typical laboratory claim, not guaranteed runtime; settings and usage affect results.",
+      "source_url": "https://www.beatsbydre.com/ca/earbuds/solo-buds/MUVW3/solobuds-matteblack",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Ear tips",
+      "value": "XS, S, M, L",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/ca/earbuds/solo-buds/MUVW3/solobuds-matteblack",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Controls",
+      "value": "One multifunction button per earbud",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/ca/earbuds/solo-buds/MUVW3/solobuds-matteblack",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Compatibility",
+      "value": "iOS and Android",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/ca/earbuds/solo-buds/MUVW3/solobuds-matteblack",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Find device",
+      "value": "Apple Find My / Android Find My Device with compatible devices",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/ca/earbuds/solo-buds/MUVW3/solobuds-matteblack",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Charging cable and adapter",
+      "value": "Sold separately",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/ca/earbuds/solo-buds/MUVW3/solobuds-matteblack",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Drivers",
+      "value": "Dual-layer; axially aligned",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.beatsbydre.com/ca/earbuds/solo-buds/MUVW3/solobuds-matteblack",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia MPN/GTIN",
+    "Latvia availability and warranty"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.beatsbydre.com/ca/earbuds/solo-buds/MUVW3/solobuds-matteblack",
+      "fetched_at": "2026-10-14",
+      "method": "OpenAI web tool",
+      "notes": "Official specification values read directly"
+    }
+  ],
+  "research_lane": "urgent-audio"
+}

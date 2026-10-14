@@ -1,0 +1,389 @@
+{
+  "id": "samsung-qe75ls03fwuxxh",
+  "brand": "Samsung",
+  "model": "QE75LS03FWUXXH",
+  "model_family": "The Frame Pro LS03FW",
+  "category": "Televisions",
+  "scope": "Exact full model code confirmed on Samsung Latvia official product page. Region-specific service availability must be checked separately. Screenshot request is not proof of Tele2 listing.",
+  "identifiers": [
+    "QE75LS03FWUXXH"
+  ],
+  "aliases": [
+    "The Frame Pro LS03FW 75 inch",
+    "QE75LS03FWU"
+  ],
+  "checked_at": "2026-10-14",
+  "status": "Exact manufacturer model verified on Latvia source",
+  "source_name": "Samsung Latvia QE75LS03FWUXXH specifications",
+  "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Screen diagonal",
+      "value": "75 inches",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Resolution",
+      "value": "3840 x 2160",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Product type",
+      "value": "Neo QLED",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Refresh rate",
+      "value": "100 Hz (up to 144 Hz)",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Picture processor",
+      "value": "NQ4 AI Gen3",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "HDR",
+      "value": "Neo Quantum HDR",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "HDR10+",
+      "value": "Adaptive / Gaming",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Upscaling",
+      "value": "4K AI Upscaling Pro",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Contrast",
+      "value": "Quantum Matrix Technology Slim",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Micro dimming",
+      "value": "Supreme UHD Dimming",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Motion technology",
+      "value": "Motion Xcelerator 144Hz",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Filmmaker Mode",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Object tracking sound",
+      "value": "OTS",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Q-Symphony",
+      "value": "Q-Symphony Pro",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Audio power RMS",
+      "value": "40 W",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Speaker channels",
+      "value": "2.0.2CH",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Adaptive sound",
+      "value": "Adaptive Sound Pro",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Operating system",
+      "value": "Tizen Smart TV",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bixby",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Web browser",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "SmartThings / Matter hub",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "HDMI ports",
+      "value": "5",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "USB ports",
+      "value": "2 x USB-A, 1 x USB-C",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Screen finish",
+      "value": "Matte Display",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Viewing angle",
+      "value": "Wide Viewing Angle",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Depth enhancement",
+      "value": "Real Depth Enhancer",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "HDR brightness optimizer",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Color booster",
+      "value": "Color Booster Pro",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "EyeComfort Mode",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dolby Atmos",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "360 Audio",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "HDMI high frame rate",
+      "value": "4K 144 Hz on HDMI 1/2/3/4/5",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Ethernet ports",
+      "value": "1",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Optical audio output",
+      "value": "1",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "CI slots",
+      "value": "1",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi",
+      "value": "Wi-Fi 5",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "5.3",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "HDMI-CEC",
+      "value": "Yes (Anynet+)",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "HDMI audio return",
+      "value": "eARC",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "One Connect",
+      "value": "Wireless One Connect (Y25 4K)",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Colour",
+      "value": "Black",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Art Mode",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Motion detection",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Art Store",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Official specification for exact QE75LS03FWUXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Tele2 listing/stock confirmation",
+    "GTIN",
+    "Retailer warranty and bundled accessories"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.samsung.com/lv/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/",
+      "fetched_at": "2026-10-14",
+      "method": "OpenAI web open and specification section read",
+      "notes": "Exact full manufacturer model; facts read independently from this page, not transferred from sibling size. Customer reviews excluded."
+    }
+  ],
+  "research_lane": "urgent-samsung"
+}

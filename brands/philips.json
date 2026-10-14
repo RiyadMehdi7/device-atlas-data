@@ -64,6 +64,19 @@
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/philips-24e1n1300ae-00.json"
   },
   {
+    "id": "philips-24phs6050-12",
+    "brand": "Philips",
+    "model": "24PHS6050/12",
+    "category": "Televisions",
+    "identifiers": [
+      "24PHS6050/12",
+      "8718863051535"
+    ],
+    "aliases": [],
+    "scope": "Exact /12 European model, official 2026 product leaflet. Explicit source anomalies excluded rather than repaired by guesswork.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/philips-24phs6050-12.json"
+  },
+  {
     "id": "philips-27e1n1100a-00",
     "brand": "Philips",
     "model": "27E1N1100A/00",
@@ -240,19 +253,6 @@
     "aliases": [],
     "scope": "Exact /00 European model in manufacturer specification leaflet; leaflet issue date 2026. Specification is a dated manufacturer reference; Tele2 EAN reconciliation remains unresolved.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/philips-40b1u5600-00.json"
-  },
-  {
-    "id": "philips-24phs6050-12",
-    "brand": "Philips",
-    "model": "24PHS6050/12",
-    "category": "Televisions",
-    "identifiers": [
-      "24PHS6050/12",
-      "8718863051535"
-    ],
-    "aliases": [],
-    "scope": "Exact /12 European model, official 2026 product leaflet. Explicit source anomalies excluded rather than repaired by guesswork.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/philips-24phs6050-12.json"
   },
   {
     "id": "philips-40pfs6050-12",

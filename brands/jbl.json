@@ -1,475 +1,5 @@
 [
   {
-    "id": "jbl-endurance-peak-4-uk-model",
-    "brand": "JBL",
-    "model": "Endurance Peak 4",
-    "category": "Earbuds",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-endurance-peak-4-uk-model.json"
-  },
-  {
-    "id": "jbl-endurance-race-2-uk-model",
-    "brand": "JBL",
-    "model": "Endurance Race 2",
-    "category": "Earbuds",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-endurance-race-2-uk-model.json"
-  },
-  {
-    "id": "jbl-live-beam-3-uk-model",
-    "brand": "JBL",
-    "model": "Live Beam 3",
-    "category": "Earbuds",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-live-beam-3-uk-model.json"
-  },
-  {
-    "id": "jbl-live-beam-4-uk-model",
-    "brand": "JBL",
-    "model": "Live Beam 4",
-    "category": "Earbuds",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-live-beam-4-uk-model.json"
-  },
-  {
-    "id": "jbl-live-buds-3-uk-model",
-    "brand": "JBL",
-    "model": "Live Buds 3",
-    "category": "Earbuds",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-live-buds-3-uk-model.json"
-  },
-  {
-    "id": "jbl-live-buds-4-uk-model",
-    "brand": "JBL",
-    "model": "Live Buds 4",
-    "category": "Earbuds",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-live-buds-4-uk-model.json"
-  },
-  {
-    "id": "jbl-live-flex-3-uk-model",
-    "brand": "JBL",
-    "model": "Live Flex 3",
-    "category": "Earbuds",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-live-flex-3-uk-model.json"
-  },
-  {
-    "id": "jbl-live-flex-4-uk-model",
-    "brand": "JBL",
-    "model": "Live Flex 4",
-    "category": "Earbuds",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-live-flex-4-uk-model.json"
-  },
-  {
-    "id": "jbl-sense-lite-uk-model",
-    "brand": "JBL",
-    "model": "Sense Lite",
-    "category": "Earbuds",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-sense-lite-uk-model.json"
-  },
-  {
-    "id": "jbl-sense-pro-uk-model",
-    "brand": "JBL",
-    "model": "Sense Pro",
-    "category": "Earbuds",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-sense-pro-uk-model.json"
-  },
-  {
-    "id": "jbl-tour-pro-3-uk-model",
-    "brand": "JBL",
-    "model": "Tour Pro 3",
-    "category": "Earbuds",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-tour-pro-3-uk-model.json"
-  },
-  {
-    "id": "jbl-tune-beam-2-uk-model",
-    "brand": "JBL",
-    "model": "Tune Beam 2",
-    "category": "Earbuds",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-tune-beam-2-uk-model.json"
-  },
-  {
-    "id": "jbl-tune-buds-2-uk-model",
-    "brand": "JBL",
-    "model": "Tune Buds 2",
-    "category": "Earbuds",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-tune-buds-2-uk-model.json"
-  },
-  {
-    "id": "jbl-tune-flex-2-uk-model",
-    "brand": "JBL",
-    "model": "Tune Flex 2",
-    "category": "Earbuds",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-tune-flex-2-uk-model.json"
-  },
-  {
-    "id": "jbl-wave-beam-2-uk-model",
-    "brand": "JBL",
-    "model": "Wave Beam 2",
-    "category": "Earbuds",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-wave-beam-2-uk-model.json"
-  },
-  {
-    "id": "jbl-wave-buds-2-uk-model",
-    "brand": "JBL",
-    "model": "Wave Buds 2",
-    "category": "Earbuds",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-wave-buds-2-uk-model.json"
-  },
-  {
-    "id": "jbl-wave-flex-2-uk-model",
-    "brand": "JBL",
-    "model": "Wave Flex 2",
-    "category": "Earbuds",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-wave-flex-2-uk-model.json"
-  },
-  {
-    "id": "jbl-junior-320-uk-model",
-    "brand": "JBL",
-    "model": "Junior 320",
-    "category": "Headphones",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-junior-320-uk-model.json"
-  },
-  {
-    "id": "jbl-junior-320bt-uk-model",
-    "brand": "JBL",
-    "model": "Junior 320BT",
-    "category": "Headphones",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-junior-320bt-uk-model.json"
-  },
-  {
-    "id": "jbl-junior-470nc-uk-model",
-    "brand": "JBL",
-    "model": "Junior 470NC",
-    "category": "Headphones",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-junior-470nc-uk-model.json"
-  },
-  {
-    "id": "jbl-live-670nc-uk-model",
-    "brand": "JBL",
-    "model": "Live 670NC",
-    "category": "Headphones",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-live-670nc-uk-model.json"
-  },
-  {
-    "id": "jbl-live-680nc-uk-model",
-    "brand": "JBL",
-    "model": "Live 680NC",
-    "category": "Headphones",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-live-680nc-uk-model.json"
-  },
-  {
-    "id": "jbl-live-770nc-uk-model",
-    "brand": "JBL",
-    "model": "Live 770NC",
-    "category": "Headphones",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-live-770nc-uk-model.json"
-  },
-  {
-    "id": "jbl-live-780nc-uk-model",
-    "brand": "JBL",
-    "model": "Live 780NC",
-    "category": "Headphones",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-live-780nc-uk-model.json"
-  },
-  {
-    "id": "jbl-quantum-100m2-uk-model",
-    "brand": "JBL",
-    "model": "Quantum 100M2",
-    "category": "Headphones",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-quantum-100m2-uk-model.json"
-  },
-  {
-    "id": "jbl-quantum-120-uk-model",
-    "brand": "JBL",
-    "model": "Quantum 120",
-    "category": "Headphones",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-quantum-120-uk-model.json"
-  },
-  {
-    "id": "jbl-quantum-250-uk-model",
-    "brand": "JBL",
-    "model": "Quantum 250",
-    "category": "Headphones",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-quantum-250-uk-model.json"
-  },
-  {
-    "id": "jbl-quantum-350-uk-model",
-    "brand": "JBL",
-    "model": "Quantum 350",
-    "category": "Headphones",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-quantum-350-uk-model.json"
-  },
-  {
-    "id": "jbl-quantum-360-wireless-uk-model",
-    "brand": "JBL",
-    "model": "Quantum 360 Wireless",
-    "category": "Headphones",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-quantum-360-wireless-uk-model.json"
-  },
-  {
-    "id": "jbl-quantum-360p-console-wireless-uk-model",
-    "brand": "JBL",
-    "model": "Quantum 360P Console Wireless",
-    "category": "Headphones",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-quantum-360p-console-wireless-uk-model.json"
-  },
-  {
-    "id": "jbl-quantum-360x-wireless-for-xbox-uk-model",
-    "brand": "JBL",
-    "model": "Quantum 360X Wireless for XBOX",
-    "category": "Headphones",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-quantum-360x-wireless-for-xbox-uk-model.json"
-  },
-  {
-    "id": "jbl-quantum-520-uk-model",
-    "brand": "JBL",
-    "model": "Quantum 520",
-    "category": "Headphones",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-quantum-520-uk-model.json"
-  },
-  {
-    "id": "jbl-quantum-610-wireless-uk-model",
-    "brand": "JBL",
-    "model": "Quantum 610 Wireless",
-    "category": "Headphones",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-quantum-610-wireless-uk-model.json"
-  },
-  {
-    "id": "jbl-quantum-650-uk-model",
-    "brand": "JBL",
-    "model": "Quantum 650",
-    "category": "Headphones",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-quantum-650-uk-model.json"
-  },
-  {
-    "id": "jbl-quantum-850-uk-model",
-    "brand": "JBL",
-    "model": "Quantum 850",
-    "category": "Headphones",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-quantum-850-uk-model.json"
-  },
-  {
-    "id": "jbl-quantum-910-wireless-uk-model",
-    "brand": "JBL",
-    "model": "Quantum 910 Wireless",
-    "category": "Headphones",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-quantum-910-wireless-uk-model.json"
-  },
-  {
-    "id": "jbl-quantum-910p-console-wireless-uk-model",
-    "brand": "JBL",
-    "model": "Quantum 910P Console Wireless",
-    "category": "Headphones",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-quantum-910p-console-wireless-uk-model.json"
-  },
-  {
-    "id": "jbl-quantum-910x-wireless-for-xbox-uk-model",
-    "brand": "JBL",
-    "model": "Quantum 910X Wireless for XBOX",
-    "category": "Headphones",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-quantum-910x-wireless-for-xbox-uk-model.json"
-  },
-  {
-    "id": "jbl-quantum-950-uk-model",
-    "brand": "JBL",
-    "model": "Quantum 950",
-    "category": "Headphones",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-quantum-950-uk-model.json"
-  },
-  {
-    "id": "jbl-tour-one-m3-uk-model",
-    "brand": "JBL",
-    "model": "Tour One M3",
-    "category": "Headphones",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-tour-one-m3-uk-model.json"
-  },
-  {
-    "id": "jbl-tour-one-m3-smart-tx-uk-model",
-    "brand": "JBL",
-    "model": "Tour One M3 Smart Tx",
-    "category": "Headphones",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-tour-one-m3-smart-tx-uk-model.json"
-  },
-  {
-    "id": "jbl-tune-530-wired-uk-model",
-    "brand": "JBL",
-    "model": "Tune 530 Wired",
-    "category": "Headphones",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-tune-530-wired-uk-model.json"
-  },
-  {
-    "id": "jbl-tune-530bt-uk-model",
-    "brand": "JBL",
-    "model": "Tune 530BT",
-    "category": "Headphones",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-tune-530bt-uk-model.json"
-  },
-  {
-    "id": "jbl-tune-530c-uk-model",
-    "brand": "JBL",
-    "model": "Tune 530C",
-    "category": "Headphones",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-tune-530c-uk-model.json"
-  },
-  {
-    "id": "jbl-tune-680nc-uk-model",
-    "brand": "JBL",
-    "model": "Tune 680NC",
-    "category": "Headphones",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-tune-680nc-uk-model.json"
-  },
-  {
-    "id": "jbl-tune-730bt-uk-model",
-    "brand": "JBL",
-    "model": "Tune 730BT",
-    "category": "Headphones",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-tune-730bt-uk-model.json"
-  },
-  {
-    "id": "jbl-tune-780nc-uk-model",
-    "brand": "JBL",
-    "model": "Tune 780NC",
-    "category": "Headphones",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-tune-780nc-uk-model.json"
-  },
-  {
     "id": "jbl-authentics-200-uk-model",
     "brand": "JBL",
     "model": "Authentics 200",
@@ -660,6 +190,26 @@
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-cove-x1-uk-model.json"
   },
   {
+    "id": "jbl-endurance-peak-4-uk-model",
+    "brand": "JBL",
+    "model": "Endurance Peak 4",
+    "category": "Earbuds",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-endurance-peak-4-uk-model.json"
+  },
+  {
+    "id": "jbl-endurance-race-2-uk-model",
+    "brand": "JBL",
+    "model": "Endurance Race 2",
+    "category": "Earbuds",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-endurance-race-2-uk-model.json"
+  },
+  {
     "id": "jbl-flip-7-uk-model",
     "brand": "JBL",
     "model": "Flip 7",
@@ -708,6 +258,136 @@
     "aliases": [],
     "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-horizon-3-uk-model.json"
+  },
+  {
+    "id": "jbl-junior-320-uk-model",
+    "brand": "JBL",
+    "model": "Junior 320",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-junior-320-uk-model.json"
+  },
+  {
+    "id": "jbl-junior-320bt-uk-model",
+    "brand": "JBL",
+    "model": "Junior 320BT",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-junior-320bt-uk-model.json"
+  },
+  {
+    "id": "jbl-junior-470nc-uk-model",
+    "brand": "JBL",
+    "model": "Junior 470NC",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-junior-470nc-uk-model.json"
+  },
+  {
+    "id": "jbl-live-670nc-uk-model",
+    "brand": "JBL",
+    "model": "Live 670NC",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-live-670nc-uk-model.json"
+  },
+  {
+    "id": "jbl-live-680nc-uk-model",
+    "brand": "JBL",
+    "model": "Live 680NC",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-live-680nc-uk-model.json"
+  },
+  {
+    "id": "jbl-live-770nc-uk-model",
+    "brand": "JBL",
+    "model": "Live 770NC",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-live-770nc-uk-model.json"
+  },
+  {
+    "id": "jbl-live-780nc-uk-model",
+    "brand": "JBL",
+    "model": "Live 780NC",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-live-780nc-uk-model.json"
+  },
+  {
+    "id": "jbl-live-beam-3-uk-model",
+    "brand": "JBL",
+    "model": "Live Beam 3",
+    "category": "Earbuds",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-live-beam-3-uk-model.json"
+  },
+  {
+    "id": "jbl-live-beam-4-uk-model",
+    "brand": "JBL",
+    "model": "Live Beam 4",
+    "category": "Earbuds",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-live-beam-4-uk-model.json"
+  },
+  {
+    "id": "jbl-live-buds-3-uk-model",
+    "brand": "JBL",
+    "model": "Live Buds 3",
+    "category": "Earbuds",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-live-buds-3-uk-model.json"
+  },
+  {
+    "id": "jbl-live-buds-4-uk-model",
+    "brand": "JBL",
+    "model": "Live Buds 4",
+    "category": "Earbuds",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-live-buds-4-uk-model.json"
+  },
+  {
+    "id": "jbl-live-flex-3-uk-model",
+    "brand": "JBL",
+    "model": "Live Flex 3",
+    "category": "Earbuds",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-live-flex-3-uk-model.json"
+  },
+  {
+    "id": "jbl-live-flex-4-uk-model",
+    "brand": "JBL",
+    "model": "Live Flex 4",
+    "category": "Earbuds",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-live-flex-4-uk-model.json"
   },
   {
     "id": "jbl-partybox-130-uk-model",
@@ -800,6 +480,296 @@
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-partybox-ultimate-uk-model.json"
   },
   {
+    "id": "jbl-quantum-100m2-uk-model",
+    "brand": "JBL",
+    "model": "Quantum 100M2",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-quantum-100m2-uk-model.json"
+  },
+  {
+    "id": "jbl-quantum-120-uk-model",
+    "brand": "JBL",
+    "model": "Quantum 120",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-quantum-120-uk-model.json"
+  },
+  {
+    "id": "jbl-quantum-250-uk-model",
+    "brand": "JBL",
+    "model": "Quantum 250",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-quantum-250-uk-model.json"
+  },
+  {
+    "id": "jbl-quantum-350-uk-model",
+    "brand": "JBL",
+    "model": "Quantum 350",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-quantum-350-uk-model.json"
+  },
+  {
+    "id": "jbl-quantum-360-wireless-uk-model",
+    "brand": "JBL",
+    "model": "Quantum 360 Wireless",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-quantum-360-wireless-uk-model.json"
+  },
+  {
+    "id": "jbl-quantum-360p-console-wireless-uk-model",
+    "brand": "JBL",
+    "model": "Quantum 360P Console Wireless",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-quantum-360p-console-wireless-uk-model.json"
+  },
+  {
+    "id": "jbl-quantum-360x-wireless-for-xbox-uk-model",
+    "brand": "JBL",
+    "model": "Quantum 360X Wireless for XBOX",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-quantum-360x-wireless-for-xbox-uk-model.json"
+  },
+  {
+    "id": "jbl-quantum-520-uk-model",
+    "brand": "JBL",
+    "model": "Quantum 520",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-quantum-520-uk-model.json"
+  },
+  {
+    "id": "jbl-quantum-610-wireless-uk-model",
+    "brand": "JBL",
+    "model": "Quantum 610 Wireless",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-quantum-610-wireless-uk-model.json"
+  },
+  {
+    "id": "jbl-quantum-650-uk-model",
+    "brand": "JBL",
+    "model": "Quantum 650",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-quantum-650-uk-model.json"
+  },
+  {
+    "id": "jbl-quantum-850-uk-model",
+    "brand": "JBL",
+    "model": "Quantum 850",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-quantum-850-uk-model.json"
+  },
+  {
+    "id": "jbl-quantum-910-wireless-uk-model",
+    "brand": "JBL",
+    "model": "Quantum 910 Wireless",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-quantum-910-wireless-uk-model.json"
+  },
+  {
+    "id": "jbl-quantum-910p-console-wireless-uk-model",
+    "brand": "JBL",
+    "model": "Quantum 910P Console Wireless",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-quantum-910p-console-wireless-uk-model.json"
+  },
+  {
+    "id": "jbl-quantum-910x-wireless-for-xbox-uk-model",
+    "brand": "JBL",
+    "model": "Quantum 910X Wireless for XBOX",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-quantum-910x-wireless-for-xbox-uk-model.json"
+  },
+  {
+    "id": "jbl-quantum-950-uk-model",
+    "brand": "JBL",
+    "model": "Quantum 950",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-quantum-950-uk-model.json"
+  },
+  {
+    "id": "jbl-sense-lite-uk-model",
+    "brand": "JBL",
+    "model": "Sense Lite",
+    "category": "Earbuds",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-sense-lite-uk-model.json"
+  },
+  {
+    "id": "jbl-sense-pro-uk-model",
+    "brand": "JBL",
+    "model": "Sense Pro",
+    "category": "Earbuds",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-sense-pro-uk-model.json"
+  },
+  {
+    "id": "jbl-tour-one-m3-smart-tx-uk-model",
+    "brand": "JBL",
+    "model": "Tour One M3 Smart Tx",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-tour-one-m3-smart-tx-uk-model.json"
+  },
+  {
+    "id": "jbl-tour-one-m3-uk-model",
+    "brand": "JBL",
+    "model": "Tour One M3",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-tour-one-m3-uk-model.json"
+  },
+  {
+    "id": "jbl-tour-pro-3-uk-model",
+    "brand": "JBL",
+    "model": "Tour Pro 3",
+    "category": "Earbuds",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-tour-pro-3-uk-model.json"
+  },
+  {
+    "id": "jbl-tune-530-wired-uk-model",
+    "brand": "JBL",
+    "model": "Tune 530 Wired",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-tune-530-wired-uk-model.json"
+  },
+  {
+    "id": "jbl-tune-530bt-uk-model",
+    "brand": "JBL",
+    "model": "Tune 530BT",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-tune-530bt-uk-model.json"
+  },
+  {
+    "id": "jbl-tune-530c-uk-model",
+    "brand": "JBL",
+    "model": "Tune 530C",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-tune-530c-uk-model.json"
+  },
+  {
+    "id": "jbl-tune-680nc-uk-model",
+    "brand": "JBL",
+    "model": "Tune 680NC",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-tune-680nc-uk-model.json"
+  },
+  {
+    "id": "jbl-tune-730bt-uk-model",
+    "brand": "JBL",
+    "model": "Tune 730BT",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-tune-730bt-uk-model.json"
+  },
+  {
+    "id": "jbl-tune-780nc-uk-model",
+    "brand": "JBL",
+    "model": "Tune 780NC",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-tune-780nc-uk-model.json"
+  },
+  {
+    "id": "jbl-tune-beam-2-uk-model",
+    "brand": "JBL",
+    "model": "Tune Beam 2",
+    "category": "Earbuds",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-tune-beam-2-uk-model.json"
+  },
+  {
+    "id": "jbl-tune-buds-2-uk-model",
+    "brand": "JBL",
+    "model": "Tune Buds 2",
+    "category": "Earbuds",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-tune-buds-2-uk-model.json"
+  },
+  {
+    "id": "jbl-tune-flex-2-uk-model",
+    "brand": "JBL",
+    "model": "Tune Flex 2",
+    "category": "Earbuds",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-tune-flex-2-uk-model.json"
+  },
+  {
     "id": "jbl-tuner-3-uk-model",
     "brand": "JBL",
     "model": "Tuner 3",
@@ -808,6 +778,36 @@
     "aliases": [],
     "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-tuner-3-uk-model.json"
+  },
+  {
+    "id": "jbl-wave-beam-2-uk-model",
+    "brand": "JBL",
+    "model": "Wave Beam 2",
+    "category": "Earbuds",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-wave-beam-2-uk-model.json"
+  },
+  {
+    "id": "jbl-wave-buds-2-uk-model",
+    "brand": "JBL",
+    "model": "Wave Buds 2",
+    "category": "Earbuds",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-wave-buds-2-uk-model.json"
+  },
+  {
+    "id": "jbl-wave-flex-2-uk-model",
+    "brand": "JBL",
+    "model": "Wave Flex 2",
+    "category": "Earbuds",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; colour-specific MPN/EAN not transferred; Latvia SKU matching required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jbl-wave-flex-2-uk-model.json"
   },
   {
     "id": "jbl-xtreme-4-uk-model",

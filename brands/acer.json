@@ -1,5 +1,18 @@
 [
   {
+    "id": "acer-b278u-ebemiqprcuzx",
+    "brand": "Acer",
+    "model": "B278U Ebemiqprcuzx",
+    "category": "Monitors",
+    "identifiers": [
+      "B278U Ebemiqprcuzx",
+      "UM.HB8EE.E10"
+    ],
+    "aliases": [],
+    "scope": "Exact B278U Ebemiqprcuzx, manufacturer part UM.HB8EE.E10, official UK technical reference. Tele2 regional part and EAN remain unresolved; bundle power cord is region-specific.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/acer-b278u-ebemiqprcuzx.json"
+  },
+  {
     "id": "acer-nx-dsgek-001",
     "brand": "Acer",
     "model": "Aspire Lite AL15-46P-R2YK",
@@ -24,19 +37,6 @@
     "aliases": [],
     "scope": "Exact Acer manufacturer part NX.DSGET.001 on Italy technical specification page. Different part/panel/storage from Tele2 R4AQ; no family-to-SKU transfer. Availability/keyboard/GTIN unresolved.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/acer-nx-dsget-001.json"
-  },
-  {
-    "id": "acer-b278u-ebemiqprcuzx",
-    "brand": "Acer",
-    "model": "B278U Ebemiqprcuzx",
-    "category": "Monitors",
-    "identifiers": [
-      "B278U Ebemiqprcuzx",
-      "UM.HB8EE.E10"
-    ],
-    "aliases": [],
-    "scope": "Exact B278U Ebemiqprcuzx, manufacturer part UM.HB8EE.E10, official UK technical reference. Tele2 regional part and EAN remain unresolved; bundle power cord is region-specific.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/acer-b278u-ebemiqprcuzx.json"
   },
   {
     "id": "acer-pd163q-bmiuux",

@@ -1,0 +1,274 @@
+{
+  "id": "xiaomi-watch-5-black",
+  "brand": "Xiaomi",
+  "model": "Watch 5 - Black",
+  "model_family": "Watch 5",
+  "category": "Smartwatches",
+  "scope": "Singapore official Watch 5 reference, Black. Not Redmi Watch 5. Latvia model/MPN and regional services including NFC require matching.",
+  "identifiers": [],
+  "aliases": [
+    "Watch 5 - Black",
+    "Xiaomi Watch 5 - Black"
+  ],
+  "checked_at": "2026-10-14",
+  "status": "Manufacturer source checked; Latvia SKU needs matching",
+  "source_name": "Xiaomi official technical specifications",
+  "source_url": "https://www.mi.com/sg/product/xiaomi-watch-5/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Colour",
+      "value": "Black",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.mi.com/sg/product/xiaomi-watch-5/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display diagonal",
+      "value": "1.54 inches",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.mi.com/sg/product/xiaomi-watch-5/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display type",
+      "value": "AMOLED",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.mi.com/sg/product/xiaomi-watch-5/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display resolution",
+      "value": "480 x 480 pixels",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.mi.com/sg/product/xiaomi-watch-5/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Pixel density",
+      "value": "312 ppi",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.mi.com/sg/product/xiaomi-watch-5/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Display brightness",
+      "value": "Up to 1500 nits",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.mi.com/sg/product/xiaomi-watch-5/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dimensions",
+      "value": "47 x 47 x 12.3 mm",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.mi.com/sg/product/xiaomi-watch-5/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Mass excluding strap",
+      "value": "56 g",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.mi.com/sg/product/xiaomi-watch-5/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Strap size",
+      "value": "135–205 mm",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.mi.com/sg/product/xiaomi-watch-5/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Strap material",
+      "value": "Fluororubber",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.mi.com/sg/product/xiaomi-watch-5/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Charging method",
+      "value": "Magnetic",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.mi.com/sg/product/xiaomi-watch-5/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Charging time",
+      "value": "Approximately 90 minutes",
+      "unit": "",
+      "condition": "Manufacturer maximum or typical laboratory claim, not guaranteed runtime; settings and usage affect results.",
+      "source_url": "https://www.mi.com/sg/product/xiaomi-watch-5/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery life smart mode",
+      "value": "Typical 6 days",
+      "unit": "",
+      "condition": "Manufacturer maximum or typical laboratory claim, not guaranteed runtime; settings and usage affect results.",
+      "source_url": "https://www.mi.com/sg/product/xiaomi-watch-5/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery life AOD smart mode",
+      "value": "Typical 4 days",
+      "unit": "",
+      "condition": "Manufacturer maximum or typical laboratory claim, not guaranteed runtime; settings and usage affect results.",
+      "source_url": "https://www.mi.com/sg/product/xiaomi-watch-5/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery life power saving",
+      "value": "Typical 18 days",
+      "unit": "",
+      "condition": "Manufacturer maximum or typical laboratory claim, not guaranteed runtime; settings and usage affect results.",
+      "source_url": "https://www.mi.com/sg/product/xiaomi-watch-5/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Battery nominal capacity",
+      "value": "930 mAh",
+      "unit": "",
+      "condition": "Manufacturer maximum or typical laboratory claim, not guaranteed runtime; settings and usage affect results.",
+      "source_url": "https://www.mi.com/sg/product/xiaomi-watch-5/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Main processor",
+      "value": "Qualcomm Snapdragon W5 Gen 1; 4 nm",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.mi.com/sg/product/xiaomi-watch-5/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Low-power processor",
+      "value": "BES2800; 6 nm",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.mi.com/sg/product/xiaomi-watch-5/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "RAM",
+      "value": "2 GB; usable less",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.mi.com/sg/product/xiaomi-watch-5/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Storage",
+      "value": "32 GB; usable less",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.mi.com/sg/product/xiaomi-watch-5/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi band",
+      "value": "2.4 GHz",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.mi.com/sg/product/xiaomi-watch-5/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "BT/BLE 5.4",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.mi.com/sg/product/xiaomi-watch-5/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "GNSS",
+      "value": "L1+L5; GPS, Galileo, GLONASS, BeiDou, QZSS",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.mi.com/sg/product/xiaomi-watch-5/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Water resistance",
+      "value": "5 ATM; shallow swimming only, not diving/hot showers; degrades over time",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.mi.com/sg/product/xiaomi-watch-5/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Speaker",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.mi.com/sg/product/xiaomi-watch-5/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Microphone",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.mi.com/sg/product/xiaomi-watch-5/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "NFC",
+      "value": "Supported; availability varies by region",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.mi.com/sg/product/xiaomi-watch-5/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth calling",
+      "value": "Connected smartphone required; third-party app calls unsupported",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.mi.com/sg/product/xiaomi-watch-5/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Sensors",
+      "value": "PPG, accelerometer, gyroscope, ambient light, compass, barometer, EMG",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.mi.com/sg/product/xiaomi-watch-5/specs/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Package",
+      "value": "Watch; charging dock; user manual",
+      "unit": "",
+      "condition": "Manufacturer specification; regional availability and compatible-device requirements apply.",
+      "source_url": "https://www.mi.com/sg/product/xiaomi-watch-5/specs/",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Latvia MPN/GTIN",
+    "Latvia availability and warranty"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/sg/product/xiaomi-watch-5/specs/",
+      "fetched_at": "2026-10-14",
+      "method": "OpenAI web tool",
+      "notes": "Official specification values read directly"
+    }
+  ],
+  "research_lane": "urgent-audio"
+}

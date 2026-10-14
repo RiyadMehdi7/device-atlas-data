@@ -12,6 +12,42 @@
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/hp-ad3a8et.json"
   },
   {
+    "id": "hp-ad3c9et",
+    "brand": "HP",
+    "model": "HP EliteBook 8 G1i 16 inch Notebook Next Gen AI PC (AD3C9ET)",
+    "category": "Laptops",
+    "identifiers": [
+      "AD3C9ET"
+    ],
+    "aliases": [],
+    "scope": "Exact manufacturer MPN from official HP Ireland localized specification page. Regional keyboard suffix/GTIN and Latvian availability unverified; no claim this matches Tele2 configuration. Source processor-family labels can conflict with actual processor and are kept as claims.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/hp-ad3c9et.json"
+  },
+  {
+    "id": "hp-ad3f5et",
+    "brand": "HP",
+    "model": "HP EliteBook 8 G1a 16 inch Notebook PC (AD3F5ET)",
+    "category": "Laptops",
+    "identifiers": [
+      "AD3F5ET"
+    ],
+    "aliases": [],
+    "scope": "Exact manufacturer MPN from official HP Ireland localized specification page. Regional keyboard suffix/GTIN and Latvian availability unverified; no claim this matches Tele2 configuration. Source processor-family labels can conflict with actual processor and are kept as claims.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/hp-ad3f5et.json"
+  },
+  {
+    "id": "hp-ad3f7et",
+    "brand": "HP",
+    "model": "HP EliteBook 8 G1a 16 inch Notebook PC (AD3F7ET)",
+    "category": "Laptops",
+    "identifiers": [
+      "AD3F7ET"
+    ],
+    "aliases": [],
+    "scope": "Exact manufacturer MPN from official HP Ireland localized specification page. Regional keyboard suffix/GTIN and Latvian availability unverified; no claim this matches Tele2 configuration. Source processor-family labels can conflict with actual processor and are kept as claims.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/hp-ad3f7et.json"
+  },
+  {
     "id": "hp-ad3j2et",
     "brand": "HP",
     "model": "HP EliteBook 6 G1a 14 inch Notebook AI PC (AD3J2ET)",
@@ -84,90 +120,6 @@
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/hp-ad4t3et.json"
   },
   {
-    "id": "hp-c4jj0et",
-    "brand": "HP",
-    "model": "HP EliteBook 8 G1a 16 inch Notebook Next Gen AI PC (C4JJ0ET)",
-    "category": "Laptops",
-    "identifiers": [
-      "C4JJ0ET"
-    ],
-    "aliases": [],
-    "scope": "Exact manufacturer MPN from official HP Ireland localized specification page. Regional keyboard suffix/GTIN and Latvian availability unverified; no claim this matches Tele2 configuration. Source processor-family labels can conflict with actual processor and are kept as claims.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/hp-c4jj0et.json"
-  },
-  {
-    "id": "hp-ad3f5et",
-    "brand": "HP",
-    "model": "HP EliteBook 8 G1a 16 inch Notebook PC (AD3F5ET)",
-    "category": "Laptops",
-    "identifiers": [
-      "AD3F5ET"
-    ],
-    "aliases": [],
-    "scope": "Exact manufacturer MPN from official HP Ireland localized specification page. Regional keyboard suffix/GTIN and Latvian availability unverified; no claim this matches Tele2 configuration. Source processor-family labels can conflict with actual processor and are kept as claims.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/hp-ad3f5et.json"
-  },
-  {
-    "id": "hp-ad3f7et",
-    "brand": "HP",
-    "model": "HP EliteBook 8 G1a 16 inch Notebook PC (AD3F7ET)",
-    "category": "Laptops",
-    "identifiers": [
-      "AD3F7ET"
-    ],
-    "aliases": [],
-    "scope": "Exact manufacturer MPN from official HP Ireland localized specification page. Regional keyboard suffix/GTIN and Latvian availability unverified; no claim this matches Tele2 configuration. Source processor-family labels can conflict with actual processor and are kept as claims.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/hp-ad3f7et.json"
-  },
-  {
-    "id": "hp-dx6c4at",
-    "brand": "HP",
-    "model": "HP EliteBook 8 G1a 16 inch Notebook PC (DX6C4AT)",
-    "category": "Laptops",
-    "identifiers": [
-      "DX6C4AT"
-    ],
-    "aliases": [],
-    "scope": "Exact manufacturer MPN from official HP Ireland localized specification page. Regional keyboard suffix/GTIN and Latvian availability unverified; no claim this matches Tele2 configuration. Source processor-family labels can conflict with actual processor and are kept as claims.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/hp-dx6c4at.json"
-  },
-  {
-    "id": "hp-d2fp2at",
-    "brand": "HP",
-    "model": "HP EliteBook 8 G1i 14 inch Notebook Next Gen AI PC (D2FP2AT)",
-    "category": "Laptops",
-    "identifiers": [
-      "D2FP2AT"
-    ],
-    "aliases": [],
-    "scope": "Exact manufacturer MPN from official HP Ireland localized specification page. Regional keyboard suffix/GTIN and Latvian availability unverified; no claim this matches Tele2 configuration. Source processor-family labels can conflict with actual processor and are kept as claims.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/hp-d2fp2at.json"
-  },
-  {
-    "id": "hp-ad3c9et",
-    "brand": "HP",
-    "model": "HP EliteBook 8 G1i 16 inch Notebook Next Gen AI PC (AD3C9ET)",
-    "category": "Laptops",
-    "identifiers": [
-      "AD3C9ET"
-    ],
-    "aliases": [],
-    "scope": "Exact manufacturer MPN from official HP Ireland localized specification page. Regional keyboard suffix/GTIN and Latvian availability unverified; no claim this matches Tele2 configuration. Source processor-family labels can conflict with actual processor and are kept as claims.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/hp-ad3c9et.json"
-  },
-  {
-    "id": "hp-d2fp3at",
-    "brand": "HP",
-    "model": "HP EliteBook 8 G1i 16 inch Notebook Next Gen AI PC (D2FP3AT)",
-    "category": "Laptops",
-    "identifiers": [
-      "D2FP3AT"
-    ],
-    "aliases": [],
-    "scope": "Exact manufacturer MPN from official HP Ireland localized specification page. Regional keyboard suffix/GTIN and Latvian availability unverified; no claim this matches Tele2 configuration. Source processor-family labels can conflict with actual processor and are kept as claims.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/hp-d2fp3at.json"
-  },
-  {
     "id": "hp-b72v5et",
     "brand": "HP",
     "model": "HP ZBook X G1i 16 inch Mobile Workstation PC (B72V5ET)",
@@ -190,6 +142,54 @@
     "aliases": [],
     "scope": "Exact manufacturer MPN from official HP Ireland localized specification page. Regional keyboard suffix/GTIN and Latvian availability unverified; no claim this matches Tele2 configuration. Source processor-family labels can conflict with actual processor and are kept as claims.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/hp-b72v6et.json"
+  },
+  {
+    "id": "hp-c4jj0et",
+    "brand": "HP",
+    "model": "HP EliteBook 8 G1a 16 inch Notebook Next Gen AI PC (C4JJ0ET)",
+    "category": "Laptops",
+    "identifiers": [
+      "C4JJ0ET"
+    ],
+    "aliases": [],
+    "scope": "Exact manufacturer MPN from official HP Ireland localized specification page. Regional keyboard suffix/GTIN and Latvian availability unverified; no claim this matches Tele2 configuration. Source processor-family labels can conflict with actual processor and are kept as claims.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/hp-c4jj0et.json"
+  },
+  {
+    "id": "hp-d2fp2at",
+    "brand": "HP",
+    "model": "HP EliteBook 8 G1i 14 inch Notebook Next Gen AI PC (D2FP2AT)",
+    "category": "Laptops",
+    "identifiers": [
+      "D2FP2AT"
+    ],
+    "aliases": [],
+    "scope": "Exact manufacturer MPN from official HP Ireland localized specification page. Regional keyboard suffix/GTIN and Latvian availability unverified; no claim this matches Tele2 configuration. Source processor-family labels can conflict with actual processor and are kept as claims.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/hp-d2fp2at.json"
+  },
+  {
+    "id": "hp-d2fp3at",
+    "brand": "HP",
+    "model": "HP EliteBook 8 G1i 16 inch Notebook Next Gen AI PC (D2FP3AT)",
+    "category": "Laptops",
+    "identifiers": [
+      "D2FP3AT"
+    ],
+    "aliases": [],
+    "scope": "Exact manufacturer MPN from official HP Ireland localized specification page. Regional keyboard suffix/GTIN and Latvian availability unverified; no claim this matches Tele2 configuration. Source processor-family labels can conflict with actual processor and are kept as claims.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/hp-d2fp3at.json"
+  },
+  {
+    "id": "hp-dx6c4at",
+    "brand": "HP",
+    "model": "HP EliteBook 8 G1a 16 inch Notebook PC (DX6C4AT)",
+    "category": "Laptops",
+    "identifiers": [
+      "DX6C4AT"
+    ],
+    "aliases": [],
+    "scope": "Exact manufacturer MPN from official HP Ireland localized specification page. Regional keyboard suffix/GTIN and Latvian availability unverified; no claim this matches Tele2 configuration. Source processor-family labels can conflict with actual processor and are kept as claims.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/hp-dx6c4at.json"
   },
   {
     "id": "hp-series-5-pro-524pf",

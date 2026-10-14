@@ -1,0 +1,277 @@
+{
+  "id": "samsung-ue98du9072uxxh",
+  "brand": "Samsung",
+  "model": "UE98DU9072UXXH",
+  "model_family": "DU9000",
+  "category": "Televisions",
+  "scope": "Exact full model code confirmed on Samsung Latvia official product page. Region-specific service availability must be checked separately. Screenshot request is not proof of Tele2 listing.",
+  "identifiers": [
+    "UE98DU9072UXXH"
+  ],
+  "aliases": [
+    "DU9000 98 inch",
+    "UE98DU9072U"
+  ],
+  "checked_at": "2026-10-14",
+  "status": "Exact manufacturer model verified on Latvia source",
+  "source_name": "Samsung Latvia UE98DU9072UXXH specifications",
+  "source_url": "https://www.samsung.com/lv/tvs/uhd-4k-tv/du9000-98-inch-crystal-uhd-4k-tizen-os-smart-tv-ue98du9072uxxh/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Screen diagonal",
+      "value": "98 inches",
+      "unit": "",
+      "condition": "Official specification for exact UE98DU9072UXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/tvs/uhd-4k-tv/du9000-98-inch-crystal-uhd-4k-tizen-os-smart-tv-ue98du9072uxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Resolution",
+      "value": "3840 x 2160",
+      "unit": "",
+      "condition": "Official specification for exact UE98DU9072UXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/tvs/uhd-4k-tv/du9000-98-inch-crystal-uhd-4k-tizen-os-smart-tv-ue98du9072uxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Product type",
+      "value": "LED",
+      "unit": "",
+      "condition": "Official specification for exact UE98DU9072UXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/tvs/uhd-4k-tv/du9000-98-inch-crystal-uhd-4k-tizen-os-smart-tv-ue98du9072uxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Refresh rate",
+      "value": "100 Hz",
+      "unit": "",
+      "condition": "Official specification for exact UE98DU9072UXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/tvs/uhd-4k-tv/du9000-98-inch-crystal-uhd-4k-tizen-os-smart-tv-ue98du9072uxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Picture processor",
+      "value": "Crystal Processor 4K",
+      "unit": "",
+      "condition": "Official specification for exact UE98DU9072UXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/tvs/uhd-4k-tv/du9000-98-inch-crystal-uhd-4k-tizen-os-smart-tv-ue98du9072uxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "HDR",
+      "value": "HDR",
+      "unit": "",
+      "condition": "Official specification for exact UE98DU9072UXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/tvs/uhd-4k-tv/du9000-98-inch-crystal-uhd-4k-tizen-os-smart-tv-ue98du9072uxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "HDR10+",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Official specification for exact UE98DU9072UXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/tvs/uhd-4k-tv/du9000-98-inch-crystal-uhd-4k-tizen-os-smart-tv-ue98du9072uxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Upscaling",
+      "value": "4K Upscaling",
+      "unit": "",
+      "condition": "Official specification for exact UE98DU9072UXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/tvs/uhd-4k-tv/du9000-98-inch-crystal-uhd-4k-tizen-os-smart-tv-ue98du9072uxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Contrast",
+      "value": "Mega Contrast",
+      "unit": "",
+      "condition": "Official specification for exact UE98DU9072UXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/tvs/uhd-4k-tv/du9000-98-inch-crystal-uhd-4k-tizen-os-smart-tv-ue98du9072uxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Micro dimming",
+      "value": "UHD Dimming",
+      "unit": "",
+      "condition": "Official specification for exact UE98DU9072UXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/tvs/uhd-4k-tv/du9000-98-inch-crystal-uhd-4k-tizen-os-smart-tv-ue98du9072uxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Motion technology",
+      "value": "Motion Xcelerator 120Hz",
+      "unit": "",
+      "condition": "Official specification for exact UE98DU9072UXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/tvs/uhd-4k-tv/du9000-98-inch-crystal-uhd-4k-tizen-os-smart-tv-ue98du9072uxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Filmmaker Mode",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Official specification for exact UE98DU9072UXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/tvs/uhd-4k-tv/du9000-98-inch-crystal-uhd-4k-tizen-os-smart-tv-ue98du9072uxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Object tracking sound",
+      "value": "OTS Lite",
+      "unit": "",
+      "condition": "Official specification for exact UE98DU9072UXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/tvs/uhd-4k-tv/du9000-98-inch-crystal-uhd-4k-tizen-os-smart-tv-ue98du9072uxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Q-Symphony",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Official specification for exact UE98DU9072UXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/tvs/uhd-4k-tv/du9000-98-inch-crystal-uhd-4k-tizen-os-smart-tv-ue98du9072uxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Audio power RMS",
+      "value": "20 W",
+      "unit": "",
+      "condition": "Official specification for exact UE98DU9072UXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/tvs/uhd-4k-tv/du9000-98-inch-crystal-uhd-4k-tizen-os-smart-tv-ue98du9072uxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Speaker channels",
+      "value": "2CH",
+      "unit": "",
+      "condition": "Official specification for exact UE98DU9072UXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/tvs/uhd-4k-tv/du9000-98-inch-crystal-uhd-4k-tizen-os-smart-tv-ue98du9072uxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Adaptive sound",
+      "value": "Adaptive Sound",
+      "unit": "",
+      "condition": "Official specification for exact UE98DU9072UXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/tvs/uhd-4k-tv/du9000-98-inch-crystal-uhd-4k-tizen-os-smart-tv-ue98du9072uxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Operating system",
+      "value": "Tizen Smart TV",
+      "unit": "",
+      "condition": "Official specification for exact UE98DU9072UXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/tvs/uhd-4k-tv/du9000-98-inch-crystal-uhd-4k-tizen-os-smart-tv-ue98du9072uxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bixby",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Official specification for exact UE98DU9072UXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/tvs/uhd-4k-tv/du9000-98-inch-crystal-uhd-4k-tizen-os-smart-tv-ue98du9072uxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Web browser",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Official specification for exact UE98DU9072UXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/tvs/uhd-4k-tv/du9000-98-inch-crystal-uhd-4k-tizen-os-smart-tv-ue98du9072uxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "SmartThings / Matter hub",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Official specification for exact UE98DU9072UXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/tvs/uhd-4k-tv/du9000-98-inch-crystal-uhd-4k-tizen-os-smart-tv-ue98du9072uxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "HDMI ports",
+      "value": "3",
+      "unit": "",
+      "condition": "Official specification for exact UE98DU9072UXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/tvs/uhd-4k-tv/du9000-98-inch-crystal-uhd-4k-tizen-os-smart-tv-ue98du9072uxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "USB ports",
+      "value": "2 x USB-A",
+      "unit": "",
+      "condition": "Official specification for exact UE98DU9072UXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/tvs/uhd-4k-tv/du9000-98-inch-crystal-uhd-4k-tizen-os-smart-tv-ue98du9072uxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Supersize Picture Enhancer",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Official specification for exact UE98DU9072UXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/tvs/uhd-4k-tv/du9000-98-inch-crystal-uhd-4k-tizen-os-smart-tv-ue98du9072uxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Multiroom Link",
+      "value": "No",
+      "unit": "",
+      "condition": "Official specification for exact UE98DU9072UXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/tvs/uhd-4k-tv/du9000-98-inch-crystal-uhd-4k-tizen-os-smart-tv-ue98du9072uxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "VRR",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Official specification for exact UE98DU9072UXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/tvs/uhd-4k-tv/du9000-98-inch-crystal-uhd-4k-tizen-os-smart-tv-ue98du9072uxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "ALLM",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Official specification for exact UE98DU9072UXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/tvs/uhd-4k-tv/du9000-98-inch-crystal-uhd-4k-tizen-os-smart-tv-ue98du9072uxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Game Motion Plus",
+      "value": "Yes",
+      "unit": "",
+      "condition": "Official specification for exact UE98DU9072UXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/tvs/uhd-4k-tv/du9000-98-inch-crystal-uhd-4k-tizen-os-smart-tv-ue98du9072uxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Multi-view",
+      "value": "Up to 2 videos",
+      "unit": "",
+      "condition": "Official specification for exact UE98DU9072UXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/tvs/uhd-4k-tv/du9000-98-inch-crystal-uhd-4k-tizen-os-smart-tv-ue98du9072uxxh/",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Model year",
+      "value": "2024",
+      "unit": "",
+      "condition": "Official specification for exact UE98DU9072UXXH. Refresh-rate maximum requires supported content/input. Regional service and accessory conditions apply.",
+      "source_url": "https://www.samsung.com/lv/tvs/uhd-4k-tv/du9000-98-inch-crystal-uhd-4k-tizen-os-smart-tv-ue98du9072uxxh/",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Tele2 listing/stock confirmation",
+    "GTIN",
+    "Retailer warranty and bundled accessories"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.samsung.com/lv/tvs/uhd-4k-tv/du9000-98-inch-crystal-uhd-4k-tizen-os-smart-tv-ue98du9072uxxh/",
+      "fetched_at": "2026-10-14",
+      "method": "OpenAI web open and specification section read",
+      "notes": "Exact full manufacturer model; facts read independently from this page, not transferred from sibling size. Customer reviews excluded."
+    }
+  ],
+  "research_lane": "urgent-samsung"
+}

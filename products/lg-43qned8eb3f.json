@@ -1,0 +1,108 @@
+{
+  "id": "lg-43qned8eb3f",
+  "brand": "LG",
+  "model": "43QNED8EB3F",
+  "model_family": "43QNED8EB3F",
+  "category": "Televisions",
+  "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 43 collu LG QNED evo AI Mini LED QNED8E 4K Smart TV - 43QNED8EB3F.AEU | LG Latvia",
+  "identifiers": [
+    "43QNED8EB3F",
+    "8806096717486"
+  ],
+  "aliases": [
+    "LG 43QNED8EB3F"
+  ],
+  "checked_at": "2026-10-14",
+  "status": "Latvia manufacturer specification page checked",
+  "source_name": "LG Latvia 43QNED8EB3F technical specifications",
+  "source_url": "https://www.lg.com/lv/televizori/lg-43qned8eb3f",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "TV izmērs bez statīva (mm)",
+      "value": "968 x 567 x 67,9",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43qned8eb3f",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "TV izmērs ar statīvu (mm)",
+      "value": "968 x 608 x 188",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43qned8eb3f",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Iepakojuma izmērs (mm)",
+      "value": "1 055 x 660 x 142",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43qned8eb3f",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Statīva izmērs (mm)",
+      "value": "892 x 188",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43qned8eb3f",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "TV svars bez statīva (kg)",
+      "value": "7,5",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43qned8eb3f",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "TV svars ar statīvu (kg)",
+      "value": "7,6",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43qned8eb3f",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Iepakojuma svars (kg)",
+      "value": "9,3",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43qned8eb3f",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "VESA izmērs (mm)",
+      "value": "200 x 200",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43qned8eb3f",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Svītru kods",
+      "value": "8806096717486",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-43qned8eb3f",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Tele2 listing and exact retail suffix matching",
+    "Manufacturer Latvia page currently exposes mainly dimensions/weight; remaining technical details unconfirmed"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.lg.com/lv/televizori/lg-43qned8eb3f",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP fetch; HTML dt/dd specification table",
+      "notes": "Exact manufacturer page parsed; only its own labelled technical values retained"
+    }
+  ],
+  "research_lane": "urgent-lg"
+}

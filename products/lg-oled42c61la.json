@@ -1,0 +1,715 @@
+{
+  "id": "lg-oled42c61la",
+  "brand": "LG",
+  "model": "OLED42C61LA",
+  "model_family": "OLED42C61LA",
+  "category": "Televisions",
+  "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 42 collu LG OLED evo AI C6 4K Smart TV 2026 – OLED42C61LA.AEU | LG Latvia",
+  "identifiers": [
+    "OLED42C61LA",
+    "8806096732083"
+  ],
+  "aliases": [
+    "LG OLED42C61LA"
+  ],
+  "checked_at": "2026-10-14",
+  "status": "Latvia manufacturer specification page checked",
+  "source_name": "LG Latvia OLED42C61LA technical specifications",
+  "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Ekrāna tips",
+      "value": "4K OLED",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Plaša krāsu gamma",
+      "value": "Perfekta krāsa",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Atsvaidzināšanas ātrums",
+      "value": "120Hz Native (VRR 165Hz)",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Ekrāna izšķirtspēja",
+      "value": "4K Ultra HD (3,840 x 2,160)",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Procesors",
+      "value": "Alpha 11 AI procesors 4K Gen3 ar Dual AI dzinēju",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "FILMMAKER MODE™",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dynamic Tone Mapping",
+      "value": "Jā (Dynamic Tone Mapping Ultra)",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "HFR (High Frame Rate)",
+      "value": "4K 120 fps (HDMI, RF, USB)",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Aptumšošanas tehnoloģija",
+      "value": "Pixel Dimming",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Motion",
+      "value": "OLED Motion",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Attēla režīms",
+      "value": "9 režīmi",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Automātiska kalibrēšana",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "AI Picture Pro",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "QFT (Quick Frame Transport)",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "QMS (Quick Media Switching)",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "AI HDR pārveidošana",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Automātiska spilgtuma kontrole",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "AI Genre Selection",
+      "value": "Jā (SDR/HDR)",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "AI Upscaling",
+      "value": "Alpha 11 AI Super Upscaling 4K",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "HDR (High Dynamic Range)",
+      "value": "Dolby Vision / HDR10 / HLG",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Saderīgs ar G-Sync (Nvidia)",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dolby Vision spēlēm (4K 120Hz)",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Reakcijas laiks",
+      "value": "Mazāk nekā 0,1ms",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "FreeSync savietojams (AMD)",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "HGIG režīms",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Spēļu optimizētājs",
+      "value": "Jā (Game Dashboard)",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "ALLM (Auto Low Latency Mode)",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "VRR (Variable Refresh Rate)",
+      "value": "Jā (Līdz 165Hz)",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Operētājsistēma (OS)",
+      "value": "webOS 26",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Multi View",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "AI Chatbot",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Always Ready",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Ar USB kameru saderīgs",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Saderīgs ar Apple Home",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Home Hub",
+      "value": "Jā (Google Home, LG ThinQ)",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "LG Shield",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Mana lapa",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "AI Magic Remote",
+      "value": "Ir komplektā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "AI balss ID",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Darbojas ar Apple Airplay",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Google Cast",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Balss vadība",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Tīmekļa pārlūkprogramma",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Inteliģenta balss atpazīšana",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Viedtālruņa tālvadības lietotne",
+      "value": "Jā (LG ThinQ)",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Skaņas izvade",
+      "value": "20W",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Adaptīvā akustiskā pielāgošana",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "WOW Orchestra",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Audio Codec",
+      "value": "AC4, AC3(Dolby Digital), EAC3, HE-AAC, AAC, MP2, MP3, PCM, apt-X (Skatiet rokasgrāmatu)",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Kanālu skaits",
+      "value": "2.0 kanāls",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Skaļruņu virziens",
+      "value": "Uz leju vērsti",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Dolby Atmos",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "AI Sound",
+      "value": "Alpha 11 AI Sound Pro (virtuāls 11.1.2 up‑mix)",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Clear Voice Pro",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "LG Sound sinhronizācija",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Sound Mode Share",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Vienlaicīga audio izvade",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "invertēt krāsas",
+      "value": "4 gab. (atbalsta 4K 120 Hz, eARC, VRR, ALLM, QMS, QFT)",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "USB pieslēgvietas",
+      "value": "2ea (v 2.0)",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "HDMI Audio Return Channel",
+      "value": "eARC (HDMI 2)",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Wi-Fi",
+      "value": "Yes (Wi-Fi 6E)",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Bluetooth atbalsts",
+      "value": "Jā (v 5.3)",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Ethernet ieeja",
+      "value": "1ea",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "CI Slot",
+      "value": "1ea",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "RF pieslēgvietas (Antenna/Cable)",
+      "value": "2ea",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "SPDIF (Optical Digital Audio Out)",
+      "value": "1ea",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Simplink (HDMI CEC)",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Augsts kontrasts",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Pelēkā skala",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Invertēt krāsas",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "TV izmērs bez statīva (mm)",
+      "value": "932 x 540 x 41,1",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Iepakojuma izmērs (mm)",
+      "value": "1 060 x 660 x 152",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "VESA izmērs (mm)",
+      "value": "300 x 200",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Iepakojuma svars (kg)",
+      "value": "12,7",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "TV svars ar statīvu (kg)",
+      "value": "10,1",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "TV svars bez statīva (kg)",
+      "value": "9,8",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Statīva izmērs (mm)",
+      "value": "718 x 170",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "TV izmērs ar statīvu (mm)",
+      "value": "932 x 577 x 170",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Barošanas avots (spriegums, Hz)",
+      "value": "AC 100~240V 50-60Hz",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Enerģijas patēriņš gaidstāves režīmā",
+      "value": "Zem 0.5W",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Tālvadības pults",
+      "value": "AI Magic Remote MR26GA / MR26GB (ar ciparu pogām, Apvienotā Karaliste / Itālija)",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Strāvas kabelis",
+      "value": "Jā (pievienots)",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Svītru kods",
+      "value": "8806096732083",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Digitālās TV uztveršana",
+      "value": "DVB-T2 (virszemes), DVB-C (kabeļtelevīzija), DVB-S2 (satelīts)",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    },
+    {
+      "label": "Analogās televīzijas uztveršana",
+      "value": "Jā",
+      "unit": "",
+      "condition": "Exact LG Latvia manufacturer page; feature availability and manufacturer test conditions apply.",
+      "source_url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "checked_at": "2026-10-14"
+    }
+  ],
+  "missing_fields": [
+    "Tele2 listing and exact retail suffix matching"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.lg.com/lv/televizori/lg-oled42c61la",
+      "fetched_at": "2026-10-14",
+      "method": "Public HTTP fetch; HTML dt/dd specification table",
+      "notes": "Exact manufacturer page parsed; only its own labelled technical values retained"
+    }
+  ],
+  "research_lane": "urgent-lg"
+}

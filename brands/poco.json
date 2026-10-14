@@ -121,6 +121,36 @@
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/poco-poco-m7-pro-5g-global-manufacturer-model-reference.json"
   },
   {
+    "id": "poco-poco-pad-c1",
+    "brand": "POCO",
+    "model": "POCO Pad C1",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference. Explicit RAM/storage options remain options. Not an exact Latvia SKU; retail package and radio availability vary.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/poco-poco-pad-c1.json"
+  },
+  {
+    "id": "poco-poco-pad-m1",
+    "brand": "POCO",
+    "model": "POCO Pad M1",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference. Explicit RAM/storage options remain options. Not an exact Latvia SKU; retail package and radio availability vary.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/poco-poco-pad-m1.json"
+  },
+  {
+    "id": "poco-poco-pad-x1",
+    "brand": "POCO",
+    "model": "POCO Pad X1",
+    "category": "Tablets",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference. Explicit RAM/storage options remain options. Not an exact Latvia SKU; retail package and radio availability vary.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/poco-poco-pad-x1.json"
+  },
+  {
     "id": "poco-poco-x7-global-manufacturer-model-reference",
     "brand": "POCO",
     "model": "POCO X7",
@@ -165,35 +195,5 @@
     ],
     "scope": "Global manufacturer model reference; storage/RAM options grouped, no exact Latvia SKU claim",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/poco-poco-x8-pro-max-global-manufacturer-model-reference.json"
-  },
-  {
-    "id": "poco-poco-pad-c1",
-    "brand": "POCO",
-    "model": "POCO Pad C1",
-    "category": "Tablets",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "Global manufacturer model reference. Explicit RAM/storage options remain options. Not an exact Latvia SKU; retail package and radio availability vary.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/poco-poco-pad-c1.json"
-  },
-  {
-    "id": "poco-poco-pad-m1",
-    "brand": "POCO",
-    "model": "POCO Pad M1",
-    "category": "Tablets",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "Global manufacturer model reference. Explicit RAM/storage options remain options. Not an exact Latvia SKU; retail package and radio availability vary.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/poco-poco-pad-m1.json"
-  },
-  {
-    "id": "poco-poco-pad-x1",
-    "brand": "POCO",
-    "model": "POCO Pad X1",
-    "category": "Tablets",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "Global manufacturer model reference. Explicit RAM/storage options remain options. Not an exact Latvia SKU; retail package and radio availability vary.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/poco-poco-pad-x1.json"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "id": "sony-ult-wear-uk-model",
+    "brand": "Sony",
+    "model": "ULT-WEAR",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; Latvia variant matching required; Tele2 observed WH-ULT900N listing needs model-code reconciliation",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/sony-ult-wear-uk-model.json"
+  },
+  {
     "id": "sony-wf-1000xm5-uk-model",
     "brand": "Sony",
     "model": "WF-1000XM5",
@@ -28,16 +38,6 @@
     "aliases": [],
     "scope": "UK manufacturer model reference; Latvia variant matching required",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/sony-wf-c710n-uk-model.json"
-  },
-  {
-    "id": "sony-ult-wear-uk-model",
-    "brand": "Sony",
-    "model": "ULT-WEAR",
-    "category": "Headphones",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK manufacturer model reference; Latvia variant matching required; Tele2 observed WH-ULT900N listing needs model-code reconciliation",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/sony-ult-wear-uk-model.json"
   },
   {
     "id": "sony-wh-1000xm6-us-model",

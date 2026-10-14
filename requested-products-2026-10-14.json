@@ -1,0 +1,283 @@
+{
+  "added_records": [
+    {
+      "model": "Flex - Beats Black",
+      "status": "Manufacturer source checked; Latvia SKU needs matching",
+      "scope": "Official manufacturer colour/model reference; Latvia MPN/GTIN and retail package not matched.",
+      "specification_entries": 18,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/beats-flex-beats-black.json"
+    },
+    {
+      "model": "Powerbeats Fit - Jet Black",
+      "status": "Manufacturer source checked; Latvia SKU needs matching",
+      "scope": "Official manufacturer colour/model reference; Latvia MPN/GTIN and retail package not matched.",
+      "specification_entries": 24,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/beats-powerbeats-fit-jet-black.json"
+    },
+    {
+      "model": "Solo Buds - Matte Black",
+      "status": "Manufacturer source checked; Latvia SKU needs matching",
+      "scope": "Official manufacturer colour/model reference; Latvia MPN/GTIN and retail package not matched.",
+      "specification_entries": 17,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/beats-solo-buds-matte-black.json"
+    },
+    {
+      "model": "Studio Pro - Black",
+      "status": "Manufacturer source checked; Latvia SKU needs matching",
+      "scope": "Official manufacturer colour/model reference; Latvia MPN/GTIN and retail package not matched.",
+      "specification_entries": 23,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/beats-studio-pro-black.json"
+    },
+    {
+      "model": "Watch 5 - Black",
+      "status": "Manufacturer source checked; Latvia SKU needs matching",
+      "scope": "Singapore official Watch 5 reference, Black. Not Redmi Watch 5. Latvia model/MPN and regional services including NFC require matching.",
+      "specification_entries": 30,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-watch-5-black.json"
+    },
+    {
+      "model": "24LB70003LA",
+      "status": "Latvia manufacturer specification page checked",
+      "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 24 collu LG SMART TV AI LB70 FHDTV 2026 - 24LB70003LA.AEU | LG Latvia",
+      "specification_entries": 9,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-24lb70003la.json"
+    },
+    {
+      "model": "27LB70003LA",
+      "status": "Latvia manufacturer specification page checked",
+      "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 27 collu LG SMART TV AI LB70 FHDTV 2026 - 27LB70003LA.AEU | LG Latvia",
+      "specification_entries": 62,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-27lb70003la.json"
+    },
+    {
+      "model": "43NU800B3LC",
+      "status": "Latvia manufacturer specification page checked",
+      "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 43 collu LG NANO 4K UHD AI NU80 4K Smart TV 2026-43NU800B3LC.AEUQ | LG Latvia",
+      "specification_entries": 60,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-43nu800b3lc.json"
+    },
+    {
+      "model": "43QNED8EB3F",
+      "status": "Latvia manufacturer specification page checked",
+      "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 43 collu LG QNED evo AI Mini LED QNED8E 4K Smart TV - 43QNED8EB3F.AEU | LG Latvia",
+      "specification_entries": 9,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-43qned8eb3f.json"
+    },
+    {
+      "model": "50NU800B3LC",
+      "status": "Manufacturer identity conflict: URL B3LC versus title B3LA; review required",
+      "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 50 collu LG NANO 4K UHD AI NU80 4K Smart TV 2026-50NU800B3LA.AEUQ | LG Latvia Source page URL/model request says 50NU800B3LC but HTML title says 50NU800B3LA.AEUQ; manufacturer identity conflict, do not assume exact suffix equivalence.",
+      "specification_entries": 60,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-50nu800b3lc.json"
+    },
+    {
+      "model": "50QNED8EB3F",
+      "status": "Latvia manufacturer specification page checked",
+      "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 50 collu LG QNED evo AI Mini LED QNED8E 4K Smart TV - 50QNED8EB3F.AEU | LG Latvia",
+      "specification_entries": 76,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-50qned8eb3f.json"
+    },
+    {
+      "model": "55MRGB87B3B",
+      "status": "Latvia manufacturer specification page checked",
+      "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 55 collu LG Mini RGB evo AI MRGB87 4K Smart TV - 55MRGB87B3B | LG Latvija",
+      "specification_entries": 77,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-55mrgb87b3b.json"
+    },
+    {
+      "model": "55NU800B3LA",
+      "status": "Latvia manufacturer specification page checked",
+      "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 55 collu LG NANO 4K UHD AI NU80 4K Smart TV 2026-55NU800B3LA.AEUQ | LG Latvia",
+      "specification_entries": 60,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-55nu800b3la.json"
+    },
+    {
+      "model": "55QNED85B3B",
+      "status": "Latvia manufacturer specification page checked",
+      "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 55 collu LG QNED evo AI Mini LED QNED85 4K Smart TV | LG Latvija",
+      "specification_entries": 83,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-55qned85b3b.json"
+    },
+    {
+      "model": "55QNED8EB3B",
+      "status": "Latvia manufacturer specification page checked",
+      "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 55 collu LG QNED evo AI Mini LED QNED8E 4K Smart TV - 55QNED8EB3B.AEU",
+      "specification_entries": 75,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-55qned8eb3b.json"
+    },
+    {
+      "model": "65MRGB87B3B",
+      "status": "Latvia manufacturer specification page checked",
+      "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 65 collu LG Mini RGB evo AI MRGB87 4K Smart TV - 65MRGB87B3B | LG Latvija",
+      "specification_entries": 77,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-65mrgb87b3b.json"
+    },
+    {
+      "model": "65NU800B3LA",
+      "status": "Latvia manufacturer specification page checked",
+      "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 65 collu LG NANO 4K UHD AI NU80 4K Smart TV 2026-65NU800B3LA.AEUQ | LG Latvia",
+      "specification_entries": 60,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-65nu800b3la.json"
+    },
+    {
+      "model": "65QNED85B3B",
+      "status": "Latvia manufacturer specification page checked",
+      "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 65 collu LG QNED evo AI Mini LED QNED85 4K Smart TV | LG Latvija",
+      "specification_entries": 9,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-65qned85b3b.json"
+    },
+    {
+      "model": "65QNED8EB3B",
+      "status": "Latvia manufacturer specification page checked",
+      "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 65 collu LG QNED evo AI Mini LED QNED81 4K Smart TV - 65QNED8EB3B.AEU | LG Latvia",
+      "specification_entries": 76,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-65qned8eb3b.json"
+    },
+    {
+      "model": "OLED42C61LA",
+      "status": "Latvia manufacturer specification page checked",
+      "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 42 collu LG OLED evo AI C6 4K Smart TV 2026 – OLED42C61LA.AEU | LG Latvia",
+      "specification_entries": 85,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-oled42c61la.json"
+    },
+    {
+      "model": "OLED48C61LA",
+      "status": "Latvia manufacturer specification page checked",
+      "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 48 collu LG OLED evo AI C6 4K Smart TV 2026 – OLED48C61LA.AEU | LG Latvia",
+      "specification_entries": 77,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-oled48c61la.json"
+    },
+    {
+      "model": "OLED55C61LA",
+      "status": "Latvia manufacturer specification page checked",
+      "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 55 collu LG OLED evo AI C6 4K Smart TV 2026 – OLED55C61LA.AEU | LG Latvia",
+      "specification_entries": 90,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-oled55c61la.json"
+    },
+    {
+      "model": "OLED55G61LW",
+      "status": "Latvia manufacturer specification page checked",
+      "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 55 collu LG OLED evo AI G6 4K Smart TV 2026 - OLED55G61LW.AEU | LG Latvia",
+      "specification_entries": 77,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-oled55g61lw.json"
+    },
+    {
+      "model": "OLED65C61LA",
+      "status": "Latvia manufacturer specification page checked",
+      "scope": "Exact base model on official LG Latvia product page. Match retail full suffix/GTIN before treating as exact inventory SKU. Manufacturer title: 65 collu LG OLED evo AI C6 4K Smart TV 2026 – OLED65C61LA.AEU | LG Latvia",
+      "specification_entries": 85,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/lg-oled65c61la.json"
+    },
+    {
+      "model": "QE75LS03FWUXXH",
+      "status": "Exact manufacturer model verified on Latvia source",
+      "scope": "Exact full model code confirmed on Samsung Latvia official product page. Region-specific service availability must be checked separately. Screenshot request is not proof of Tele2 listing.",
+      "specification_entries": 44,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe75ls03fwuxxh.json"
+    },
+    {
+      "model": "QE65LS03FWUXXH",
+      "status": "Exact manufacturer model verified on Latvia source",
+      "scope": "Exact full model code confirmed on Samsung Latvia official product page. Region-specific service availability must be checked separately. Screenshot request is not proof of Tele2 listing.",
+      "specification_entries": 44,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe65ls03fwuxxh.json"
+    },
+    {
+      "model": "QE65LS03FAUXXH",
+      "status": "Exact manufacturer model verified on Latvia source",
+      "scope": "Exact full model code confirmed on Samsung Latvia official product page. Region-specific service availability must be checked separately. Screenshot request is not proof of Tele2 listing.",
+      "specification_entries": 49,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe65ls03fauxxh.json"
+    },
+    {
+      "model": "QE55LS03FAUXXH",
+      "status": "Exact manufacturer model verified on Latvia source",
+      "scope": "Exact full model code confirmed on Samsung Latvia official product page. Region-specific service availability must be checked separately. Screenshot request is not proof of Tele2 listing.",
+      "specification_entries": 49,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe55ls03fauxxh.json"
+    },
+    {
+      "model": "UE98DU9072UXXH",
+      "status": "Exact manufacturer model verified on Latvia source",
+      "scope": "Exact full model code confirmed on Samsung Latvia official product page. Region-specific service availability must be checked separately. Screenshot request is not proof of Tele2 listing.",
+      "specification_entries": 30,
+      "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-ue98du9072uxxh.json"
+    }
+  ],
+  "unresolved_lenovo": [
+    {
+      "requested_product": "Lenovo IdeaPad Slim 3, R5-40, 15.6 FHD (8GB+512GB) W11H",
+      "candidate_family": "IdeaPad Slim 3 15AMN8",
+      "candidate_mpns_unverified": [
+        "82XQ01WDIN"
+      ],
+      "source_urls": [
+        "https://www.smartprix.com/laptops/lenovo-ideapad-slim-3-15amn8-82xq01wdin-laptop-ppd1mzq5rdiq"
+      ],
+      "status": "unresolved_exact_variant",
+      "reason": "India retailer lead only; no manufacturer exact configuration confirmation or Latvia MPN.",
+      "checked_at": "2026-10-14",
+      "next_step": "Obtain exact Lenovo machine type model / MPN from retailer or packaging, then verify full PSREF configuration."
+    },
+    {
+      "requested_product": "Lenovo Yoga Slim 7, U5-322, 14 WUXGA OLED (16GB+512GB) W11H",
+      "candidate_family": "Yoga Slim 7 14IPH11",
+      "candidate_mpns_unverified": [
+        "83QM0071IX",
+        "83QM002HID"
+      ],
+      "source_urls": [
+        "https://psrefstuff.lenovo.com/syspool/Sys/PDF/datasheet/Yoga%20Slim%207%2014IPH11_datasheet.pdf",
+        "https://www.comet.it/lenovo-notebook-yoga-slim-7-14iph11-71ix-83qm0071ix-16-512-gb-luna-grey-LEN00716T-prdtt"
+      ],
+      "status": "unresolved_exact_variant",
+      "reason": "Manufacturer family sheet confirms option set, not exact configured Latvia SKU. Retailer leads are Italy and Indonesia.",
+      "checked_at": "2026-10-14",
+      "next_step": "Obtain exact Lenovo machine type model / MPN from retailer or packaging, then verify full PSREF configuration."
+    },
+    {
+      "requested_product": "Lenovo LOQ, R7-250, 15.6 FHD 144Hz (16GB+512GB) RTX5060 8GB W11H",
+      "candidate_family": "LOQ 15AHP10",
+      "candidate_mpns_unverified": [
+        "83JG007PUS",
+        "83JG00ACJP"
+      ],
+      "source_urls": [
+        "https://psref.lenovo.com/Product/LOQ_15AHP10",
+        "https://www.tele2.lv/datori/"
+      ],
+      "status": "unresolved_exact_variant",
+      "reason": "Tele2 listing headline R7 250/16GB/512GB observed, but GPU and full MPN not established. US/Japan retailer matches cannot establish Latvia SKU.",
+      "checked_at": "2026-10-14",
+      "next_step": "Obtain exact Lenovo machine type model / MPN from retailer or packaging, then verify full PSREF configuration."
+    },
+    {
+      "requested_product": "Lenovo Legion 5, R7-250, 15.3 WQXGA OLED 165Hz (16GB+512GB) RTX5070 8GB W11H",
+      "candidate_family": "Legion 5 15AHP11",
+      "candidate_mpns_unverified": [
+        "83Q70066NT",
+        "83Q7003JPB"
+      ],
+      "source_urls": [
+        "https://psref.lenovo.com/Detail/Legion_5_15AHP11?M=83Q70066NT",
+        "https://www.skytech.lt/search.php?grp=1&keywords=r7&pagesize=250&sand=1&sort=5a"
+      ],
+      "status": "unresolved_exact_variant",
+      "reason": "Lithuanian retailer lead 83Q70066NT matches headline configuration but official PSREF native extraction empty; do not assign this MPN to user product without exact manufacturer verification.",
+      "checked_at": "2026-10-14",
+      "next_step": "Obtain exact Lenovo machine type model / MPN from retailer or packaging, then verify full PSREF configuration."
+    },
+    {
+      "requested_product": "Lenovo Legion 7, R7-450 AI, 16 WQXGA OLED 240Hz (32GB+1TB) RTX5060 8GB W11H",
+      "candidate_family": "Legion 7 16AGP11",
+      "candidate_mpns_unverified": [],
+      "source_urls": [
+        "https://psref.lenovo.com/Product/Legion/Legion_7_16AGP11"
+      ],
+      "status": "unresolved_exact_variant",
+      "reason": "Official family lists Ryzen AI 7 450; no exact configuration MPN established.",
+      "checked_at": "2026-10-14",
+      "next_step": "Obtain exact Lenovo machine type model / MPN from retailer or packaging, then verify full PSREF configuration."
+    }
+  ]
+}

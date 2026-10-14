@@ -60,16 +60,6 @@
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/amazfit-helio-strap-pro.json"
   },
   {
-    "id": "amazfit-t-rex-3",
-    "brand": "Amazfit",
-    "model": "T-Rex 3",
-    "category": "Smartwatches",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "Official global T-Rex 3 manufacturer specification; listed colour not separate product. Manufacturer laboratory battery claims and regional apps/features remain conditional. Latvia SKU matching unresolved.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/amazfit-t-rex-3.json"
-  },
-  {
     "id": "amazfit-t-rex-3-pro",
     "brand": "Amazfit",
     "model": "T-Rex 3 Pro",
@@ -78,6 +68,16 @@
     "aliases": [],
     "scope": "Current German manufacturer storefront model-family specification. Original German field wording/units retained. Any steel/titanium, standard/premium or size alternatives remain expressly grouped; no colour/storage combinations invented. This supports EU relevance, not Latvia SKU or Tele2 availability.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/amazfit-t-rex-3-pro.json"
+  },
+  {
+    "id": "amazfit-t-rex-3",
+    "brand": "Amazfit",
+    "model": "T-Rex 3",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official global T-Rex 3 manufacturer specification; listed colour not separate product. Manufacturer laboratory battery claims and regional apps/features remain conditional. Latvia SKU matching unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/amazfit-t-rex-3.json"
   },
   {
     "id": "amazfit-t-rex-dual-solar",

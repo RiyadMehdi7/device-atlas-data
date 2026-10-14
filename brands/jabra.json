@@ -30,16 +30,6 @@
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jabra-evolve2-40-se-manufacturer-model.json"
   },
   {
-    "id": "jabra-evolve2-65-manufacturer-model",
-    "brand": "Jabra",
-    "model": "Evolve2 65",
-    "category": "Headphones",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "Official manufacturer technical revision; MS/UC, mono/stereo and USB adapter bundles require exact SKU matching; listed technical sheet revision can differ from Tele2 bundle",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jabra-evolve2-65-manufacturer-model.json"
-  },
-  {
     "id": "jabra-evolve2-65-flex-manufacturer-model",
     "brand": "Jabra",
     "model": "Evolve2 65 Flex",
@@ -48,6 +38,16 @@
     "aliases": [],
     "scope": "Official manufacturer technical revision; MS/UC, mono/stereo and USB adapter bundles require exact SKU matching; listed technical sheet revision can differ from Tele2 bundle",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jabra-evolve2-65-flex-manufacturer-model.json"
+  },
+  {
+    "id": "jabra-evolve2-65-manufacturer-model",
+    "brand": "Jabra",
+    "model": "Evolve2 65",
+    "category": "Headphones",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official manufacturer technical revision; MS/UC, mono/stereo and USB adapter bundles require exact SKU matching; listed technical sheet revision can differ from Tele2 bundle",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/jabra-evolve2-65-manufacturer-model.json"
   },
   {
     "id": "jabra-evolve2-75-manufacturer-model",

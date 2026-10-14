@@ -10,16 +10,6 @@
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/suunto-race-2-stainless-steel.json"
   },
   {
-    "id": "suunto-run",
-    "brand": "Suunto",
-    "model": "Run",
-    "category": "Smartwatches",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "Official European manufacturer selected material/storage model reference; colour used only to anchor source and not separately counted. Country-specific services and Latvian SKU unresolved.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/suunto-run.json"
-  },
-  {
     "id": "suunto-run-2-4gb",
     "brand": "Suunto",
     "model": "Run 2 4GB",
@@ -28,6 +18,16 @@
     "aliases": [],
     "scope": "Official European manufacturer selected material/storage model reference; colour used only to anchor source and not separately counted. Country-specific services and Latvian SKU unresolved.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/suunto-run-2-4gb.json"
+  },
+  {
+    "id": "suunto-run",
+    "brand": "Suunto",
+    "model": "Run",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official European manufacturer selected material/storage model reference; colour used only to anchor source and not separately counted. Country-specific services and Latvian SKU unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/suunto-run.json"
   },
   {
     "id": "suunto-vertical-2-stainless-steel",

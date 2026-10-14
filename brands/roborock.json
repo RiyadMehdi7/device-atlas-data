@@ -1,15 +1,5 @@
 [
   {
-    "id": "roborock-f25-ace-global-reference",
-    "brand": "Roborock",
-    "model": "F25 ACE",
-    "category": "Smart home",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "Global manufacturer model reference, extracted only from named model comparison column or explicitly common model section. Latvia SKU and regional package require matching. F25 devices are wet/dry cleaners, not autonomous robots.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/roborock-f25-ace-global-reference.json"
-  },
-  {
     "id": "roborock-f25-ace-combo-global-reference",
     "brand": "Roborock",
     "model": "F25 ACE Combo",
@@ -18,6 +8,16 @@
     "aliases": [],
     "scope": "Global manufacturer model reference, extracted only from named model comparison column or explicitly common model section. Latvia SKU and regional package require matching. F25 devices are wet/dry cleaners, not autonomous robots.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/roborock-f25-ace-combo-global-reference.json"
+  },
+  {
+    "id": "roborock-f25-ace-global-reference",
+    "brand": "Roborock",
+    "model": "F25 ACE",
+    "category": "Smart home",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Global manufacturer model reference, extracted only from named model comparison column or explicitly common model section. Latvia SKU and regional package require matching. F25 devices are wet/dry cleaners, not autonomous robots.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/roborock-f25-ace-global-reference.json"
   },
   {
     "id": "roborock-q10-vf-ro-eu-reference",
@@ -30,16 +30,6 @@
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/roborock-q10-vf-ro-eu-reference.json"
   },
   {
-    "id": "roborock-q7-tf-ro-eu-reference",
-    "brand": "Roborock",
-    "model": "Q7 TF",
-    "category": "Smart home",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "Official Romania/EU manufacturer reference. Only explicitly named TF/VF feature sections and common family features used; plus docking kit kept distinct. Exact Latvian retail identifiers/GTIN and electrical ratings need matching.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/roborock-q7-tf-ro-eu-reference.json"
-  },
-  {
     "id": "roborock-q7-tf-plus-ro-eu-reference",
     "brand": "Roborock",
     "model": "Q7 TF+",
@@ -48,6 +38,16 @@
     "aliases": [],
     "scope": "Official Romania/EU manufacturer reference. Only explicitly named TF/VF feature sections and common family features used; plus docking kit kept distinct. Exact Latvian retail identifiers/GTIN and electrical ratings need matching.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/roborock-q7-tf-plus-ro-eu-reference.json"
+  },
+  {
+    "id": "roborock-q7-tf-ro-eu-reference",
+    "brand": "Roborock",
+    "model": "Q7 TF",
+    "category": "Smart home",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "Official Romania/EU manufacturer reference. Only explicitly named TF/VF feature sections and common family features used; plus docking kit kept distinct. Exact Latvian retail identifiers/GTIN and electrical ratings need matching.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/roborock-q7-tf-ro-eu-reference.json"
   },
   {
     "id": "roborock-qrevo-edge-5v1-global-reference",

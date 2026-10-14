@@ -12,18 +12,6 @@
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/mikrotik-audience-global-reference.json"
   },
   {
-    "id": "mikrotik-chateau-5g-r17-ax-global-reference",
-    "brand": "MikroTik",
-    "model": "Chateau 5G R17 ax",
-    "category": "Routers",
-    "identifiers": [
-      "S53UG+5HaxD2HaxD-TC&RG650E-EU"
-    ],
-    "aliases": [],
-    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/mikrotik-chateau-5g-r17-ax-global-reference.json"
-  },
-  {
     "id": "mikrotik-chateau-5g-ax-global-reference",
     "brand": "MikroTik",
     "model": "Chateau 5G ax",
@@ -36,6 +24,18 @@
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/mikrotik-chateau-5g-ax-global-reference.json"
   },
   {
+    "id": "mikrotik-chateau-5g-r17-ax-global-reference",
+    "brand": "MikroTik",
+    "model": "Chateau 5G R17 ax",
+    "category": "Routers",
+    "identifiers": [
+      "S53UG+5HaxD2HaxD-TC&RG650E-EU"
+    ],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/mikrotik-chateau-5g-r17-ax-global-reference.json"
+  },
+  {
     "id": "mikrotik-chateau-lte12-2025-global-reference",
     "brand": "MikroTik",
     "model": "Chateau LTE12 (2025)",
@@ -46,18 +46,6 @@
     "aliases": [],
     "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/mikrotik-chateau-lte12-2025-global-reference.json"
-  },
-  {
-    "id": "mikrotik-lhg-lte18-kit-global-reference",
-    "brand": "MikroTik",
-    "model": "LHG LTE18 kit",
-    "category": "Routers",
-    "identifiers": [
-      "LHGGM&EG18-EA"
-    ],
-    "aliases": [],
-    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/mikrotik-lhg-lte18-kit-global-reference.json"
   },
   {
     "id": "mikrotik-hap-ac3-global-reference",
@@ -106,6 +94,18 @@
     "aliases": [],
     "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/mikrotik-hap-ax3-global-reference.json"
+  },
+  {
+    "id": "mikrotik-lhg-lte18-kit-global-reference",
+    "brand": "MikroTik",
+    "model": "LHG LTE18 kit",
+    "category": "Routers",
+    "identifiers": [
+      "LHGGM&EG18-EA"
+    ],
+    "aliases": [],
+    "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/mikrotik-lhg-lte18-kit-global-reference.json"
   },
   {
     "id": "mikrotik-wap-ax-global-reference",

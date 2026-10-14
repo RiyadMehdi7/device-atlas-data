@@ -32,303 +32,6 @@
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-fit-plus-usb-flash-drive.json"
   },
   {
-    "id": "samsung-portable-ssd-t5-evo",
-    "brand": "Samsung",
-    "model": "Portable SSD T5 EVO",
-    "category": "Accessories",
-    "identifiers": [
-      "MU-PH8T0S/WW",
-      "MU-PH8T0",
-      "MU-PH8T0S/AM",
-      "MU-PH8T0S/EU",
-      "MU-PH4T0S/WW",
-      "MU-PH4T0",
-      "MU-PH4T0S/AM",
-      "MU-PH4T0S/EU",
-      "MU-PH2T0S/WW",
-      "MU-PH2T0",
-      "MU-PH2T0S/AM",
-      "MU-PH2T0S/EU"
-    ],
-    "aliases": [],
-    "scope": "Manufacturer current document index, specific revision and capacity matrix. Single model-family reference; capacity/colour options are not separate products. EU GTIN and Tele2 stock unconfirmed.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-portable-ssd-t5-evo.json"
-  },
-  {
-    "id": "samsung-portable-ssd-t7",
-    "brand": "Samsung",
-    "model": "Portable SSD T7",
-    "category": "Accessories",
-    "identifiers": [
-      "MU-PC4T0T/AM",
-      "MU-PC4T0",
-      "MU-PC4T0T/WW",
-      "MU-PC2T0H/AM",
-      "MU-PC2T0H/WW",
-      "MU-PC2T0",
-      "MU-PC2T0T/AM",
-      "MU-PC2T0T/WW",
-      "MU-PC1T0H/AM",
-      "MU-PC1T0H/WW",
-      "MU-PC1T0",
-      "MU-PC1T0T/AM",
-      "MU-PC1T0T/WW"
-    ],
-    "aliases": [],
-    "scope": "Manufacturer current document index, specific revision and capacity matrix. Single model-family reference; capacity/colour options are not separate products. EU GTIN and Tele2 stock unconfirmed.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-portable-ssd-t7.json"
-  },
-  {
-    "id": "samsung-portable-ssd-t7-shield",
-    "brand": "Samsung",
-    "model": "Portable SSD T7 Shield",
-    "category": "Accessories",
-    "identifiers": [
-      "MU-PE4T0S/WW",
-      "MU-PE4T0",
-      "MU-PE4T0S/AM",
-      "MU-PE4T0S/EU",
-      "MU-PE2T0S/WW",
-      "MU-PE2T0K/WW",
-      "MU-PE2T0R/WW",
-      "MU-PE2T0S/AM",
-      "MU-PE2T0",
-      "MU-PE2T0K/AM",
-      "MU-PE2T0R/AM",
-      "MU-PE2T0S/EU",
-      "MU-PE2T0K/EU",
-      "MU-PE2T0R/EU",
-      "MU-PE1T0S/WW",
-      "MU-PE1T0K/WW",
-      "MU-PE1T0R/WW",
-      "MU-PE1T0S/AM",
-      "MU-PE1T0",
-      "MU-PE1T0K/AM",
-      "MU-PE1T0R/AM",
-      "MU-PE1T0S/EU",
-      "MU-PE1T0K/EU",
-      "MU-PE1T0R/EU"
-    ],
-    "aliases": [],
-    "scope": "Manufacturer current document index, specific revision and capacity matrix. Single model-family reference; capacity/colour options are not separate products. EU GTIN and Tele2 stock unconfirmed.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-portable-ssd-t7-shield.json"
-  },
-  {
-    "id": "samsung-portable-ssd-t9",
-    "brand": "Samsung",
-    "model": "Portable SSD T9",
-    "category": "Accessories",
-    "identifiers": [
-      "MU-PG4T0B/WW",
-      "MU-PG4T0",
-      "MU-PG4T0B/AM",
-      "MU-PG4T0B/EU",
-      "MU-PG2T0B/WW",
-      "MU-PG2T0",
-      "MU-PG2T0B/AM",
-      "MU-PG2T0B/EU",
-      "MU-PG1T0B/WW",
-      "MU-PG1T0",
-      "MU-PG1T0B/AM",
-      "MU-PG1T0B/EU"
-    ],
-    "aliases": [],
-    "scope": "Manufacturer current document index, specific revision and capacity matrix. Single model-family reference; capacity/colour options are not separate products. EU GTIN and Tele2 stock unconfirmed.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-portable-ssd-t9.json"
-  },
-  {
-    "id": "samsung-microsd-evo-plus",
-    "brand": "Samsung",
-    "model": "microSD EVO Plus",
-    "category": "Accessories",
-    "identifiers": [
-      "MB-MC64S",
-      "MB-MC128S",
-      "MB-MC256S",
-      "MB-MC512S",
-      "MB-MC1T0S"
-    ],
-    "aliases": [],
-    "scope": "Manufacturer current document index, specific revision and capacity matrix. Single model-family reference; capacity/colour options are not separate products. EU GTIN and Tele2 stock unconfirmed.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-microsd-evo-plus.json"
-  },
-  {
-    "id": "samsung-microsd-pro-endurance",
-    "brand": "Samsung",
-    "model": "microSD PRO Endurance",
-    "category": "Accessories",
-    "identifiers": [
-      "MB-MJ32K",
-      "MB-MJ64K",
-      "MB-MJ128K",
-      "MB-MJ256K"
-    ],
-    "aliases": [],
-    "scope": "Manufacturer current document index, specific revision and capacity matrix. Single model-family reference; capacity/colour options are not separate products. EU GTIN and Tele2 stock unconfirmed.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-microsd-pro-endurance.json"
-  },
-  {
-    "id": "samsung-microsd-pro-plus",
-    "brand": "Samsung",
-    "model": "microSD PRO Plus",
-    "category": "Accessories",
-    "identifiers": [
-      "MB-MD128S",
-      "MB-MD256S",
-      "MB-MD512S",
-      "MB-MY512K",
-      "MB-MD1T0S"
-    ],
-    "aliases": [],
-    "scope": "Manufacturer current document index, specific revision and capacity matrix. Single model-family reference; capacity/colour options are not separate products. EU GTIN and Tele2 stock unconfirmed.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-microsd-pro-plus.json"
-  },
-  {
-    "id": "samsung-microsd-t7",
-    "brand": "Samsung",
-    "model": "microSD T7",
-    "category": "Accessories",
-    "identifiers": [
-      "MB-MB128T",
-      "MB-MB256T",
-      "MB-MB512T",
-      "MB-MB1T0T"
-    ],
-    "aliases": [],
-    "scope": "Manufacturer current document index, specific revision and capacity matrix. Single model-family reference; capacity/colour options are not separate products. EU GTIN and Tele2 stock unconfirmed.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-microsd-t7.json"
-  },
-  {
-    "id": "samsung-microsd-t9",
-    "brand": "Samsung",
-    "model": "microSD T9",
-    "category": "Accessories",
-    "identifiers": [
-      "MB-MH128T",
-      "MB-MH256T",
-      "MB-MH512T"
-    ],
-    "aliases": [],
-    "scope": "Manufacturer current document index, specific revision and capacity matrix. Single model-family reference; capacity/colour options are not separate products. EU GTIN and Tele2 stock unconfirmed.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-microsd-t9.json"
-  },
-  {
-    "id": "samsung-galaxy-buds3-fe-regional-model",
-    "brand": "Samsung",
-    "model": "Galaxy Buds3 FE",
-    "category": "Earbuds",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "German manufacturer model reference; selected black source example, Latvia SKU reconciliation required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-buds3-fe-regional-model.json"
-  },
-  {
-    "id": "samsung-galaxy-buds4-regional-model",
-    "brand": "Samsung",
-    "model": "Galaxy Buds4",
-    "category": "Earbuds",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "German manufacturer model reference; selected black source example, Latvia SKU reconciliation required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-buds4-regional-model.json"
-  },
-  {
-    "id": "samsung-galaxy-buds4-pro-regional-model",
-    "brand": "Samsung",
-    "model": "Galaxy Buds4 Pro",
-    "category": "Earbuds",
-    "identifiers": [],
-    "aliases": [],
-    "scope": "UK business manufacturer black model reference; Latvia SKU reconciliation required",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-buds4-pro-regional-model.json"
-  },
-  {
-    "id": "samsung-lc34g55twwpxen",
-    "brand": "Samsung",
-    "model": "LC34G55TWWPXEN",
-    "category": "Monitors",
-    "identifiers": [
-      "LC34G55TWWPXEN"
-    ],
-    "aliases": [],
-    "scope": "Exact LC34G55TWWPXEN manufacturer reference on be_fr Samsung site. Complete manufacturer suffix matches observed Tele2 name; physical stock EAN and regional smart-service availability remain unresolved.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-lc34g55twwpxen.json"
-  },
-  {
-    "id": "samsung-ls27cg552euxen",
-    "brand": "Samsung",
-    "model": "LS27CG552EUXEN",
-    "category": "Monitors",
-    "identifiers": [
-      "LS27CG552EUXEN"
-    ],
-    "aliases": [],
-    "scope": "Exact LS27CG552EUXEN manufacturer reference on be_fr Samsung site. Complete manufacturer suffix matches observed Tele2 name; physical stock EAN and regional smart-service availability remain unresolved.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-ls27cg552euxen.json"
-  },
-  {
-    "id": "samsung-ls27d390gauxen",
-    "brand": "Samsung",
-    "model": "LS27D390GAUXEN",
-    "category": "Monitors",
-    "identifiers": [
-      "LS27D390GAUXEN"
-    ],
-    "aliases": [],
-    "scope": "Exact LS27D390GAUXEN manufacturer reference on fr Samsung site. Complete manufacturer suffix matches observed Tele2 name; physical stock EAN and regional smart-service availability remain unresolved.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-ls27d390gauxen.json"
-  },
-  {
-    "id": "samsung-ls27f320gauxen",
-    "brand": "Samsung",
-    "model": "LS27F320GAUXEN",
-    "category": "Monitors",
-    "identifiers": [
-      "LS27F320GAUXEN"
-    ],
-    "aliases": [],
-    "scope": "Exact LS27F320GAUXEN manufacturer reference on fr Samsung site. Complete manufacturer suffix matches observed Tele2 name; physical stock EAN and regional smart-service availability remain unresolved.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-ls27f320gauxen.json"
-  },
-  {
-    "id": "samsung-ls32dg702euxdu",
-    "brand": "Samsung",
-    "model": "LS32DG702EUXDU",
-    "category": "Monitors",
-    "identifiers": [
-      "LS32DG702EUXDU",
-      "S32DG702EU"
-    ],
-    "aliases": [],
-    "scope": "Exact Latvian Samsung manufacturer reference LS32DG702EUXDU. Tele2 generic listing is connected through its attached regulatory sheet identifying S32DG702EU; complete physical stock SKU/EAN still unresolved.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-ls32dg702euxdu.json"
-  },
-  {
-    "id": "samsung-ls32fg502euxen",
-    "brand": "Samsung",
-    "model": "LS32FG502EUXEN",
-    "category": "Monitors",
-    "identifiers": [
-      "LS32FG502EUXEN",
-      "S32FG502EU"
-    ],
-    "aliases": [],
-    "scope": "Exact Latvian Samsung manufacturer reference LS32FG502EUXEN. Tele2 generic listing is connected through its attached regulatory sheet identifying S32FG502EU; complete physical stock SKU/EAN still unresolved.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-ls32fg502euxen.json"
-  },
-  {
-    "id": "samsung-ls49dg950suxen",
-    "brand": "Samsung",
-    "model": "LS49DG950SUXEN",
-    "category": "Monitors",
-    "identifiers": [
-      "LS49DG950SUXEN"
-    ],
-    "aliases": [],
-    "scope": "Exact LS49DG950SUXEN manufacturer reference on za Samsung site. Complete manufacturer suffix matches observed Tele2 name; physical stock EAN and regional smart-service availability remain unresolved.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-ls49dg950suxen.json"
-  },
-  {
     "id": "samsung-galaxy-a17-5g-uk-manufacturer-variant-sm-a176bzkaeub",
     "brand": "Samsung",
     "model": "Galaxy A17 5G",
@@ -413,18 +116,34 @@
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-a57-5g-uk-manufacturer-variant-sm-a576bdbdeub.json"
   },
   {
-    "id": "samsung-galaxy-s25-uk-manufacturer-variant-sm-s931bdbgeub",
+    "id": "samsung-galaxy-buds3-fe-regional-model",
     "brand": "Samsung",
-    "model": "Galaxy S25",
-    "category": "Phones",
-    "identifiers": [
-      "SM-S931BDBGEUB"
-    ],
-    "aliases": [
-      "Galaxy S25 5G 256GB"
-    ],
-    "scope": "UK manufacturer variant SM-S931BDBGEUB; exact UK storage/colour scope, Latvia SKU needs matching",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-s25-uk-manufacturer-variant-sm-s931bdbgeub.json"
+    "model": "Galaxy Buds3 FE",
+    "category": "Earbuds",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "German manufacturer model reference; selected black source example, Latvia SKU reconciliation required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-buds3-fe-regional-model.json"
+  },
+  {
+    "id": "samsung-galaxy-buds4-pro-regional-model",
+    "brand": "Samsung",
+    "model": "Galaxy Buds4 Pro",
+    "category": "Earbuds",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "UK business manufacturer black model reference; Latvia SKU reconciliation required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-buds4-pro-regional-model.json"
+  },
+  {
+    "id": "samsung-galaxy-buds4-regional-model",
+    "brand": "Samsung",
+    "model": "Galaxy Buds4",
+    "category": "Earbuds",
+    "identifiers": [],
+    "aliases": [],
+    "scope": "German manufacturer model reference; selected black source example, Latvia SKU reconciliation required",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-buds4-regional-model.json"
   },
   {
     "id": "samsung-galaxy-s25-edge-uk-manufacturer-variant-sm-s937bzkdeub",
@@ -453,6 +172,20 @@
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-s25-fe-uk-manufacturer-variant-sm-s731bzkdeub.json"
   },
   {
+    "id": "samsung-galaxy-s25-uk-manufacturer-variant-sm-s931bdbgeub",
+    "brand": "Samsung",
+    "model": "Galaxy S25",
+    "category": "Phones",
+    "identifiers": [
+      "SM-S931BDBGEUB"
+    ],
+    "aliases": [
+      "Galaxy S25 5G 256GB"
+    ],
+    "scope": "UK manufacturer variant SM-S931BDBGEUB; exact UK storage/colour scope, Latvia SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-s25-uk-manufacturer-variant-sm-s931bdbgeub.json"
+  },
+  {
     "id": "samsung-galaxy-s25-ultra-uk-manufacturer-variant-sm-s938bzkdeub",
     "brand": "Samsung",
     "model": "Galaxy S25 Ultra",
@@ -465,20 +198,6 @@
     ],
     "scope": "UK manufacturer variant SM-S938BZKDEUB; exact UK storage/colour scope, Latvia SKU needs matching",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-s25-ultra-uk-manufacturer-variant-sm-s938bzkdeub.json"
-  },
-  {
-    "id": "samsung-galaxy-s26-uk-manufacturer-variant-sm-s942bzsgeub",
-    "brand": "Samsung",
-    "model": "Galaxy S26",
-    "category": "Phones",
-    "identifiers": [
-      "SM-S942BZSGEUB"
-    ],
-    "aliases": [
-      "Galaxy S26 5G 256GB"
-    ],
-    "scope": "UK manufacturer variant SM-S942BZSGEUB; exact UK storage/colour scope, Latvia SKU needs matching",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-s26-uk-manufacturer-variant-sm-s942bzsgeub.json"
   },
   {
     "id": "samsung-galaxy-s26-fe-uk-manufacturer-variant-sm-s741bzkgeub",
@@ -495,32 +214,18 @@
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-s26-fe-uk-manufacturer-variant-sm-s741bzkgeub.json"
   },
   {
-    "id": "samsung-galaxy-s26-ultra-uk-manufacturer-variant-sm-s948bzkgeub",
+    "id": "samsung-galaxy-s26-uk-manufacturer-variant-sm-s942bzsgeub",
     "brand": "Samsung",
-    "model": "Galaxy S26 Ultra",
+    "model": "Galaxy S26",
     "category": "Phones",
     "identifiers": [
-      "SM-S948BZKGEUB"
+      "SM-S942BZSGEUB"
     ],
     "aliases": [
-      "Galaxy S26 Ultra 5G 512GB"
+      "Galaxy S26 5G 256GB"
     ],
-    "scope": "UK manufacturer variant SM-S948BZKGEUB; exact UK storage/colour scope, Latvia SKU needs matching",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-s26-ultra-uk-manufacturer-variant-sm-s948bzkgeub.json"
-  },
-  {
-    "id": "samsung-galaxy-s26-ultra-enterprise-edition-uk-manufacturer-variant-sm-s948bzkdeeb",
-    "brand": "Samsung",
-    "model": "Galaxy S26 Ultra (Enterprise Edition)",
-    "category": "Phones",
-    "identifiers": [
-      "SM-S948BZKDEEB"
-    ],
-    "aliases": [
-      "Galaxy S26 Ultra EE 256GB"
-    ],
-    "scope": "UK manufacturer variant SM-S948BZKDEEB; exact UK storage/colour scope, Latvia SKU needs matching",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-s26-ultra-enterprise-edition-uk-manufacturer-variant-sm-s948bzkdeeb.json"
+    "scope": "UK manufacturer variant SM-S942BZSGEUB; exact UK storage/colour scope, Latvia SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-s26-uk-manufacturer-variant-sm-s942bzsgeub.json"
   },
   {
     "id": "samsung-galaxy-s26-uk-manufacturer-variant-sm-s947bzwdeub",
@@ -537,86 +242,161 @@
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-s26-uk-manufacturer-variant-sm-s947bzwdeub.json"
   },
   {
-    "id": "samsung-galaxy-xcover7-uk-manufacturer-variant-sm-g556bzkdeeb",
+    "id": "samsung-galaxy-s26-ultra-enterprise-edition-uk-manufacturer-variant-sm-s948bzkdeeb",
     "brand": "Samsung",
-    "model": "Galaxy XCover7",
+    "model": "Galaxy S26 Ultra (Enterprise Edition)",
     "category": "Phones",
     "identifiers": [
-      "SM-G556BZKDEEB"
+      "SM-S948BZKDEEB"
     ],
     "aliases": [
-      "Galaxy Xcover7"
+      "Galaxy S26 Ultra EE 256GB"
     ],
-    "scope": "UK manufacturer variant SM-G556BZKDEEB; exact UK storage/colour scope, Latvia SKU needs matching",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-xcover7-uk-manufacturer-variant-sm-g556bzkdeeb.json"
+    "scope": "UK manufacturer variant SM-S948BZKDEEB; exact UK storage/colour scope, Latvia SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-s26-ultra-enterprise-edition-uk-manufacturer-variant-sm-s948bzkdeeb.json"
   },
   {
-    "id": "samsung-galaxy-xcover7-pro-uk-manufacturer-variant-sm-g766bzkdeeb",
+    "id": "samsung-galaxy-s26-ultra-uk-manufacturer-variant-sm-s948bzkgeub",
     "brand": "Samsung",
-    "model": "Galaxy XCover7 Pro",
+    "model": "Galaxy S26 Ultra",
     "category": "Phones",
     "identifiers": [
-      "SM-G766BZKDEEB"
+      "SM-S948BZKGEUB"
+    ],
+    "aliases": [
+      "Galaxy S26 Ultra 5G 512GB"
+    ],
+    "scope": "UK manufacturer variant SM-S948BZKGEUB; exact UK storage/colour scope, Latvia SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-s26-ultra-uk-manufacturer-variant-sm-s948bzkgeub.json"
+  },
+  {
+    "id": "samsung-galaxy-tab-a11-5g-128gb",
+    "brand": "Samsung",
+    "model": "Galaxy Tab A11+ 5G 128GB",
+    "category": "Tablets",
+    "identifiers": [
+      "SM-X236BZSREUB",
+      "8806097854821"
     ],
     "aliases": [],
-    "scope": "UK manufacturer variant SM-G766BZKDEEB; exact UK storage/colour scope, Latvia SKU needs matching",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-xcover7-pro-uk-manufacturer-variant-sm-g766bzkdeeb.json"
+    "scope": "Exact UK SM-X236BZSREUB manufacturer SKU. UK specification and storage/connectivity scope only; Latvia part number must be matched. Tele2 barcode 8806097854821 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-tab-a11-5g-128gb.json"
   },
   {
-    "id": "samsung-galaxy-z-flip8-uk-manufacturer-variant-sm-f776bzkheub",
+    "id": "samsung-galaxy-tab-a11-wi-fi-64gb",
     "brand": "Samsung",
-    "model": "Galaxy Z Flip8",
-    "category": "Phones",
+    "model": "Galaxy Tab A11 Wi-Fi 64GB",
+    "category": "Tablets",
     "identifiers": [
-      "SM-F776BZKHEUB"
+      "SM-X130NZAAEUB"
     ],
-    "aliases": [
-      "Galaxy Flip 8 5G 512GB"
-    ],
-    "scope": "UK manufacturer variant SM-F776BZKHEUB; exact UK storage/colour scope, Latvia SKU needs matching",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-z-flip8-uk-manufacturer-variant-sm-f776bzkheub.json"
+    "aliases": [],
+    "scope": "UK official manufacturer reference; explicit variant/options preserved. Latvia manufacturer SKU matching remains unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-tab-a11-wi-fi-64gb.json"
   },
   {
-    "id": "samsung-galaxy-z-fold7-uk-manufacturer-variant-sm-f966bdbneub",
+    "id": "samsung-galaxy-tab-active5-pro-model-reference",
     "brand": "Samsung",
-    "model": "Galaxy Z Fold7",
-    "category": "Phones",
+    "model": "Galaxy Tab Active5 Pro (model reference)",
+    "category": "Tablets",
     "identifiers": [
-      "SM-F966BDBNEUB"
+      "8806097103271",
+      "SM-X356BZGAEEE"
     ],
-    "aliases": [
-      "Galaxy Fold7 5G 1TB"
-    ],
-    "scope": "UK manufacturer variant SM-F966BDBNEUB; exact UK storage/colour scope, Latvia SKU needs matching",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-z-fold7-uk-manufacturer-variant-sm-f966bdbneub.json"
+    "aliases": [],
+    "scope": "UK official manufacturer reference; explicit variant/options preserved. Latvia manufacturer SKU matching remains unresolved. Tele2 barcode 8806097103271 is only the rendered default colour variant; UK/reference MPN may differ by region and colour. Exact EU identification resolves the Tele2 default variant as 5G 128GB Enterprise Edition, green. Generic platform alternatives remain labelled in source facts.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-tab-active5-pro-model-reference.json"
   },
   {
-    "id": "samsung-galaxy-z-fold8-uk-manufacturer-variant-sm-f971bzkneub",
+    "id": "samsung-galaxy-tab-s10-lite-wi-fi-128gb",
     "brand": "Samsung",
-    "model": "Galaxy Z Fold8",
-    "category": "Phones",
+    "model": "Galaxy Tab S10 Lite Wi-Fi 128GB",
+    "category": "Tablets",
     "identifiers": [
-      "SM-F971BZKNEUB"
+      "SM-X400NZAREUB"
     ],
-    "aliases": [
-      "Galaxy Fold 8 5G 1TB"
-    ],
-    "scope": "UK manufacturer variant SM-F971BZKNEUB; exact UK storage/colour scope, Latvia SKU needs matching",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-z-fold8-uk-manufacturer-variant-sm-f971bzkneub.json"
+    "aliases": [],
+    "scope": "Exact UK SM-X400NZAREUB manufacturer SKU. UK specification and storage/connectivity scope only; Latvia part number must be matched.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-tab-s10-lite-wi-fi-128gb.json"
   },
   {
-    "id": "samsung-galaxy-z-fold8-ultra-uk-manufacturer-variant-sm-f976bzvceub",
+    "id": "samsung-galaxy-tab-s11-5g-128gb",
     "brand": "Samsung",
-    "model": "Galaxy Z Fold8 Ultra",
-    "category": "Phones",
+    "model": "Galaxy Tab S11 5G 128GB",
+    "category": "Tablets",
     "identifiers": [
-      "SM-F976BZVCEUB"
+      "SM-X736BZAREUB",
+      "8806097706960"
     ],
-    "aliases": [
-      "Galaxy Fold8 Ultra 5G 512GB"
+    "aliases": [],
+    "scope": "Exact UK SM-X736BZAREUB manufacturer SKU. UK specification and storage/connectivity scope only; Latvia part number must be matched. Tele2 barcode 8806097706960 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-tab-s11-5g-128gb.json"
+  },
+  {
+    "id": "samsung-galaxy-tab-s11-ultra-5g-256gb",
+    "brand": "Samsung",
+    "model": "Galaxy Tab S11 Ultra 5G 256GB",
+    "category": "Tablets",
+    "identifiers": [
+      "SM-X936BZAREUB",
+      "8806097711759",
+      "SM-X936BZAREUE"
     ],
-    "scope": "UK manufacturer variant SM-F976BZVCEUB; exact UK storage/colour scope, Latvia SKU needs matching",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-z-fold8-ultra-uk-manufacturer-variant-sm-f976bzvceub.json"
+    "aliases": [],
+    "scope": "Exact UK SM-X936BZAREUB manufacturer SKU. UK specification and storage/connectivity scope only; Latvia part number must be matched. Tele2 barcode 8806097711759 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-tab-s11-ultra-5g-256gb.json"
+  },
+  {
+    "id": "samsung-galaxy-tab-s11-ultra-wi-fi-256gb",
+    "brand": "Samsung",
+    "model": "Galaxy Tab S11 Ultra Wi-Fi 256GB",
+    "category": "Tablets",
+    "identifiers": [
+      "SM-X930NZAREUB",
+      "8806097711414",
+      "SM-X930NZAREUE"
+    ],
+    "aliases": [],
+    "scope": "Exact UK SM-X930NZAREUB manufacturer SKU. UK specification and storage/connectivity scope only; Latvia part number must be matched. Tele2 barcode 8806097711414 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-tab-s11-ultra-wi-fi-256gb.json"
+  },
+  {
+    "id": "samsung-galaxy-tab-s11-wi-fi-128gb",
+    "brand": "Samsung",
+    "model": "Galaxy Tab S11 Wi-Fi 128GB",
+    "category": "Tablets",
+    "identifiers": [
+      "SM-X730NZAREUB",
+      "8806097712213"
+    ],
+    "aliases": [],
+    "scope": "Exact UK SM-X730NZAREUB manufacturer SKU. UK specification and storage/connectivity scope only; Latvia part number must be matched. Tele2 barcode 8806097712213 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-tab-s11-wi-fi-128gb.json"
+  },
+  {
+    "id": "samsung-galaxy-tab-s12-ultra-model-reference",
+    "brand": "Samsung",
+    "model": "Galaxy Tab S12 Ultra (model reference)",
+    "category": "Tablets",
+    "identifiers": [
+      "8806099397975"
+    ],
+    "aliases": [],
+    "scope": "UK official manufacturer reference; explicit variant/options preserved. Latvia manufacturer SKU matching remains unresolved. Tele2 barcode 8806099397975 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-tab-s12-ultra-model-reference.json"
+  },
+  {
+    "id": "samsung-galaxy-tab-s12-wi-fi-256gb",
+    "brand": "Samsung",
+    "model": "Galaxy Tab S12+ Wi-Fi 256GB",
+    "category": "Tablets",
+    "identifiers": [
+      "SM-X840NZSREUB",
+      "8806099394493"
+    ],
+    "aliases": [],
+    "scope": "UK official manufacturer reference; explicit variant/options preserved. Latvia manufacturer SKU matching remains unresolved. Tele2 barcode 8806099394493 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-tab-s12-wi-fi-256gb.json"
   },
   {
     "id": "samsung-galaxy-watch-ultra2-lte",
@@ -727,133 +507,353 @@
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-watch9-44mm-lte.json"
   },
   {
-    "id": "samsung-galaxy-tab-a11-wi-fi-64gb",
+    "id": "samsung-galaxy-xcover7-pro-uk-manufacturer-variant-sm-g766bzkdeeb",
     "brand": "Samsung",
-    "model": "Galaxy Tab A11 Wi-Fi 64GB",
-    "category": "Tablets",
+    "model": "Galaxy XCover7 Pro",
+    "category": "Phones",
     "identifiers": [
-      "SM-X130NZAAEUB"
+      "SM-G766BZKDEEB"
     ],
     "aliases": [],
-    "scope": "UK official manufacturer reference; explicit variant/options preserved. Latvia manufacturer SKU matching remains unresolved.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-tab-a11-wi-fi-64gb.json"
+    "scope": "UK manufacturer variant SM-G766BZKDEEB; exact UK storage/colour scope, Latvia SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-xcover7-pro-uk-manufacturer-variant-sm-g766bzkdeeb.json"
   },
   {
-    "id": "samsung-galaxy-tab-a11-5g-128gb",
+    "id": "samsung-galaxy-xcover7-uk-manufacturer-variant-sm-g556bzkdeeb",
     "brand": "Samsung",
-    "model": "Galaxy Tab A11+ 5G 128GB",
-    "category": "Tablets",
+    "model": "Galaxy XCover7",
+    "category": "Phones",
     "identifiers": [
-      "SM-X236BZSREUB",
-      "8806097854821"
+      "SM-G556BZKDEEB"
     ],
-    "aliases": [],
-    "scope": "Exact UK SM-X236BZSREUB manufacturer SKU. UK specification and storage/connectivity scope only; Latvia part number must be matched. Tele2 barcode 8806097854821 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-tab-a11-5g-128gb.json"
+    "aliases": [
+      "Galaxy Xcover7"
+    ],
+    "scope": "UK manufacturer variant SM-G556BZKDEEB; exact UK storage/colour scope, Latvia SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-xcover7-uk-manufacturer-variant-sm-g556bzkdeeb.json"
   },
   {
-    "id": "samsung-galaxy-tab-active5-pro-model-reference",
+    "id": "samsung-galaxy-z-flip8-uk-manufacturer-variant-sm-f776bzkheub",
     "brand": "Samsung",
-    "model": "Galaxy Tab Active5 Pro (model reference)",
-    "category": "Tablets",
+    "model": "Galaxy Z Flip8",
+    "category": "Phones",
     "identifiers": [
-      "8806097103271",
-      "SM-X356BZGAEEE"
+      "SM-F776BZKHEUB"
     ],
-    "aliases": [],
-    "scope": "UK official manufacturer reference; explicit variant/options preserved. Latvia manufacturer SKU matching remains unresolved. Tele2 barcode 8806097103271 is only the rendered default colour variant; UK/reference MPN may differ by region and colour. Exact EU identification resolves the Tele2 default variant as 5G 128GB Enterprise Edition, green. Generic platform alternatives remain labelled in source facts.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-tab-active5-pro-model-reference.json"
+    "aliases": [
+      "Galaxy Flip 8 5G 512GB"
+    ],
+    "scope": "UK manufacturer variant SM-F776BZKHEUB; exact UK storage/colour scope, Latvia SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-z-flip8-uk-manufacturer-variant-sm-f776bzkheub.json"
   },
   {
-    "id": "samsung-galaxy-tab-s10-lite-wi-fi-128gb",
+    "id": "samsung-galaxy-z-fold7-uk-manufacturer-variant-sm-f966bdbneub",
     "brand": "Samsung",
-    "model": "Galaxy Tab S10 Lite Wi-Fi 128GB",
-    "category": "Tablets",
+    "model": "Galaxy Z Fold7",
+    "category": "Phones",
     "identifiers": [
-      "SM-X400NZAREUB"
+      "SM-F966BDBNEUB"
     ],
-    "aliases": [],
-    "scope": "Exact UK SM-X400NZAREUB manufacturer SKU. UK specification and storage/connectivity scope only; Latvia part number must be matched.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-tab-s10-lite-wi-fi-128gb.json"
+    "aliases": [
+      "Galaxy Fold7 5G 1TB"
+    ],
+    "scope": "UK manufacturer variant SM-F966BDBNEUB; exact UK storage/colour scope, Latvia SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-z-fold7-uk-manufacturer-variant-sm-f966bdbneub.json"
   },
   {
-    "id": "samsung-galaxy-tab-s11-5g-128gb",
+    "id": "samsung-galaxy-z-fold8-uk-manufacturer-variant-sm-f971bzkneub",
     "brand": "Samsung",
-    "model": "Galaxy Tab S11 5G 128GB",
-    "category": "Tablets",
+    "model": "Galaxy Z Fold8",
+    "category": "Phones",
     "identifiers": [
-      "SM-X736BZAREUB",
-      "8806097706960"
+      "SM-F971BZKNEUB"
     ],
-    "aliases": [],
-    "scope": "Exact UK SM-X736BZAREUB manufacturer SKU. UK specification and storage/connectivity scope only; Latvia part number must be matched. Tele2 barcode 8806097706960 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-tab-s11-5g-128gb.json"
+    "aliases": [
+      "Galaxy Fold 8 5G 1TB"
+    ],
+    "scope": "UK manufacturer variant SM-F971BZKNEUB; exact UK storage/colour scope, Latvia SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-z-fold8-uk-manufacturer-variant-sm-f971bzkneub.json"
   },
   {
-    "id": "samsung-galaxy-tab-s11-ultra-5g-256gb",
+    "id": "samsung-galaxy-z-fold8-ultra-uk-manufacturer-variant-sm-f976bzvceub",
     "brand": "Samsung",
-    "model": "Galaxy Tab S11 Ultra 5G 256GB",
-    "category": "Tablets",
+    "model": "Galaxy Z Fold8 Ultra",
+    "category": "Phones",
     "identifiers": [
-      "SM-X936BZAREUB",
-      "8806097711759",
-      "SM-X936BZAREUE"
+      "SM-F976BZVCEUB"
     ],
-    "aliases": [],
-    "scope": "Exact UK SM-X936BZAREUB manufacturer SKU. UK specification and storage/connectivity scope only; Latvia part number must be matched. Tele2 barcode 8806097711759 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-tab-s11-ultra-5g-256gb.json"
+    "aliases": [
+      "Galaxy Fold8 Ultra 5G 512GB"
+    ],
+    "scope": "UK manufacturer variant SM-F976BZVCEUB; exact UK storage/colour scope, Latvia SKU needs matching",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-z-fold8-ultra-uk-manufacturer-variant-sm-f976bzvceub.json"
   },
   {
-    "id": "samsung-galaxy-tab-s11-ultra-wi-fi-256gb",
+    "id": "samsung-lc34g55twwpxen",
     "brand": "Samsung",
-    "model": "Galaxy Tab S11 Ultra Wi-Fi 256GB",
-    "category": "Tablets",
+    "model": "LC34G55TWWPXEN",
+    "category": "Monitors",
     "identifiers": [
-      "SM-X930NZAREUB",
-      "8806097711414",
-      "SM-X930NZAREUE"
+      "LC34G55TWWPXEN"
     ],
     "aliases": [],
-    "scope": "Exact UK SM-X930NZAREUB manufacturer SKU. UK specification and storage/connectivity scope only; Latvia part number must be matched. Tele2 barcode 8806097711414 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-tab-s11-ultra-wi-fi-256gb.json"
+    "scope": "Exact LC34G55TWWPXEN manufacturer reference on be_fr Samsung site. Complete manufacturer suffix matches observed Tele2 name; physical stock EAN and regional smart-service availability remain unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-lc34g55twwpxen.json"
   },
   {
-    "id": "samsung-galaxy-tab-s11-wi-fi-128gb",
+    "id": "samsung-ls27cg552euxen",
     "brand": "Samsung",
-    "model": "Galaxy Tab S11 Wi-Fi 128GB",
-    "category": "Tablets",
+    "model": "LS27CG552EUXEN",
+    "category": "Monitors",
     "identifiers": [
-      "SM-X730NZAREUB",
-      "8806097712213"
+      "LS27CG552EUXEN"
     ],
     "aliases": [],
-    "scope": "Exact UK SM-X730NZAREUB manufacturer SKU. UK specification and storage/connectivity scope only; Latvia part number must be matched. Tele2 barcode 8806097712213 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-tab-s11-wi-fi-128gb.json"
+    "scope": "Exact LS27CG552EUXEN manufacturer reference on be_fr Samsung site. Complete manufacturer suffix matches observed Tele2 name; physical stock EAN and regional smart-service availability remain unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-ls27cg552euxen.json"
   },
   {
-    "id": "samsung-galaxy-tab-s12-ultra-model-reference",
+    "id": "samsung-ls27d390gauxen",
     "brand": "Samsung",
-    "model": "Galaxy Tab S12 Ultra (model reference)",
-    "category": "Tablets",
+    "model": "LS27D390GAUXEN",
+    "category": "Monitors",
     "identifiers": [
-      "8806099397975"
+      "LS27D390GAUXEN"
     ],
     "aliases": [],
-    "scope": "UK official manufacturer reference; explicit variant/options preserved. Latvia manufacturer SKU matching remains unresolved. Tele2 barcode 8806099397975 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-tab-s12-ultra-model-reference.json"
+    "scope": "Exact LS27D390GAUXEN manufacturer reference on fr Samsung site. Complete manufacturer suffix matches observed Tele2 name; physical stock EAN and regional smart-service availability remain unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-ls27d390gauxen.json"
   },
   {
-    "id": "samsung-galaxy-tab-s12-wi-fi-256gb",
+    "id": "samsung-ls27f320gauxen",
     "brand": "Samsung",
-    "model": "Galaxy Tab S12+ Wi-Fi 256GB",
-    "category": "Tablets",
+    "model": "LS27F320GAUXEN",
+    "category": "Monitors",
     "identifiers": [
-      "SM-X840NZSREUB",
-      "8806099394493"
+      "LS27F320GAUXEN"
     ],
     "aliases": [],
-    "scope": "UK official manufacturer reference; explicit variant/options preserved. Latvia manufacturer SKU matching remains unresolved. Tele2 barcode 8806099394493 is only the rendered default colour variant; UK/reference MPN may differ by region and colour.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-galaxy-tab-s12-wi-fi-256gb.json"
+    "scope": "Exact LS27F320GAUXEN manufacturer reference on fr Samsung site. Complete manufacturer suffix matches observed Tele2 name; physical stock EAN and regional smart-service availability remain unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-ls27f320gauxen.json"
+  },
+  {
+    "id": "samsung-ls32dg702euxdu",
+    "brand": "Samsung",
+    "model": "LS32DG702EUXDU",
+    "category": "Monitors",
+    "identifiers": [
+      "LS32DG702EUXDU",
+      "S32DG702EU"
+    ],
+    "aliases": [],
+    "scope": "Exact Latvian Samsung manufacturer reference LS32DG702EUXDU. Tele2 generic listing is connected through its attached regulatory sheet identifying S32DG702EU; complete physical stock SKU/EAN still unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-ls32dg702euxdu.json"
+  },
+  {
+    "id": "samsung-ls32fg502euxen",
+    "brand": "Samsung",
+    "model": "LS32FG502EUXEN",
+    "category": "Monitors",
+    "identifiers": [
+      "LS32FG502EUXEN",
+      "S32FG502EU"
+    ],
+    "aliases": [],
+    "scope": "Exact Latvian Samsung manufacturer reference LS32FG502EUXEN. Tele2 generic listing is connected through its attached regulatory sheet identifying S32FG502EU; complete physical stock SKU/EAN still unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-ls32fg502euxen.json"
+  },
+  {
+    "id": "samsung-ls49dg950suxen",
+    "brand": "Samsung",
+    "model": "LS49DG950SUXEN",
+    "category": "Monitors",
+    "identifiers": [
+      "LS49DG950SUXEN"
+    ],
+    "aliases": [],
+    "scope": "Exact LS49DG950SUXEN manufacturer reference on za Samsung site. Complete manufacturer suffix matches observed Tele2 name; physical stock EAN and regional smart-service availability remain unresolved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-ls49dg950suxen.json"
+  },
+  {
+    "id": "samsung-microsd-evo-plus",
+    "brand": "Samsung",
+    "model": "microSD EVO Plus",
+    "category": "Accessories",
+    "identifiers": [
+      "MB-MC64S",
+      "MB-MC128S",
+      "MB-MC256S",
+      "MB-MC512S",
+      "MB-MC1T0S"
+    ],
+    "aliases": [],
+    "scope": "Manufacturer current document index, specific revision and capacity matrix. Single model-family reference; capacity/colour options are not separate products. EU GTIN and Tele2 stock unconfirmed.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-microsd-evo-plus.json"
+  },
+  {
+    "id": "samsung-microsd-pro-endurance",
+    "brand": "Samsung",
+    "model": "microSD PRO Endurance",
+    "category": "Accessories",
+    "identifiers": [
+      "MB-MJ32K",
+      "MB-MJ64K",
+      "MB-MJ128K",
+      "MB-MJ256K"
+    ],
+    "aliases": [],
+    "scope": "Manufacturer current document index, specific revision and capacity matrix. Single model-family reference; capacity/colour options are not separate products. EU GTIN and Tele2 stock unconfirmed.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-microsd-pro-endurance.json"
+  },
+  {
+    "id": "samsung-microsd-pro-plus",
+    "brand": "Samsung",
+    "model": "microSD PRO Plus",
+    "category": "Accessories",
+    "identifiers": [
+      "MB-MD128S",
+      "MB-MD256S",
+      "MB-MD512S",
+      "MB-MY512K",
+      "MB-MD1T0S"
+    ],
+    "aliases": [],
+    "scope": "Manufacturer current document index, specific revision and capacity matrix. Single model-family reference; capacity/colour options are not separate products. EU GTIN and Tele2 stock unconfirmed.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-microsd-pro-plus.json"
+  },
+  {
+    "id": "samsung-microsd-t7",
+    "brand": "Samsung",
+    "model": "microSD T7",
+    "category": "Accessories",
+    "identifiers": [
+      "MB-MB128T",
+      "MB-MB256T",
+      "MB-MB512T",
+      "MB-MB1T0T"
+    ],
+    "aliases": [],
+    "scope": "Manufacturer current document index, specific revision and capacity matrix. Single model-family reference; capacity/colour options are not separate products. EU GTIN and Tele2 stock unconfirmed.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-microsd-t7.json"
+  },
+  {
+    "id": "samsung-microsd-t9",
+    "brand": "Samsung",
+    "model": "microSD T9",
+    "category": "Accessories",
+    "identifiers": [
+      "MB-MH128T",
+      "MB-MH256T",
+      "MB-MH512T"
+    ],
+    "aliases": [],
+    "scope": "Manufacturer current document index, specific revision and capacity matrix. Single model-family reference; capacity/colour options are not separate products. EU GTIN and Tele2 stock unconfirmed.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-microsd-t9.json"
+  },
+  {
+    "id": "samsung-portable-ssd-t5-evo",
+    "brand": "Samsung",
+    "model": "Portable SSD T5 EVO",
+    "category": "Accessories",
+    "identifiers": [
+      "MU-PH8T0S/WW",
+      "MU-PH8T0",
+      "MU-PH8T0S/AM",
+      "MU-PH8T0S/EU",
+      "MU-PH4T0S/WW",
+      "MU-PH4T0",
+      "MU-PH4T0S/AM",
+      "MU-PH4T0S/EU",
+      "MU-PH2T0S/WW",
+      "MU-PH2T0",
+      "MU-PH2T0S/AM",
+      "MU-PH2T0S/EU"
+    ],
+    "aliases": [],
+    "scope": "Manufacturer current document index, specific revision and capacity matrix. Single model-family reference; capacity/colour options are not separate products. EU GTIN and Tele2 stock unconfirmed.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-portable-ssd-t5-evo.json"
+  },
+  {
+    "id": "samsung-portable-ssd-t7-shield",
+    "brand": "Samsung",
+    "model": "Portable SSD T7 Shield",
+    "category": "Accessories",
+    "identifiers": [
+      "MU-PE4T0S/WW",
+      "MU-PE4T0",
+      "MU-PE4T0S/AM",
+      "MU-PE4T0S/EU",
+      "MU-PE2T0S/WW",
+      "MU-PE2T0K/WW",
+      "MU-PE2T0R/WW",
+      "MU-PE2T0S/AM",
+      "MU-PE2T0",
+      "MU-PE2T0K/AM",
+      "MU-PE2T0R/AM",
+      "MU-PE2T0S/EU",
+      "MU-PE2T0K/EU",
+      "MU-PE2T0R/EU",
+      "MU-PE1T0S/WW",
+      "MU-PE1T0K/WW",
+      "MU-PE1T0R/WW",
+      "MU-PE1T0S/AM",
+      "MU-PE1T0",
+      "MU-PE1T0K/AM",
+      "MU-PE1T0R/AM",
+      "MU-PE1T0S/EU",
+      "MU-PE1T0K/EU",
+      "MU-PE1T0R/EU"
+    ],
+    "aliases": [],
+    "scope": "Manufacturer current document index, specific revision and capacity matrix. Single model-family reference; capacity/colour options are not separate products. EU GTIN and Tele2 stock unconfirmed.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-portable-ssd-t7-shield.json"
+  },
+  {
+    "id": "samsung-portable-ssd-t7",
+    "brand": "Samsung",
+    "model": "Portable SSD T7",
+    "category": "Accessories",
+    "identifiers": [
+      "MU-PC4T0T/AM",
+      "MU-PC4T0",
+      "MU-PC4T0T/WW",
+      "MU-PC2T0H/AM",
+      "MU-PC2T0H/WW",
+      "MU-PC2T0",
+      "MU-PC2T0T/AM",
+      "MU-PC2T0T/WW",
+      "MU-PC1T0H/AM",
+      "MU-PC1T0H/WW",
+      "MU-PC1T0",
+      "MU-PC1T0T/AM",
+      "MU-PC1T0T/WW"
+    ],
+    "aliases": [],
+    "scope": "Manufacturer current document index, specific revision and capacity matrix. Single model-family reference; capacity/colour options are not separate products. EU GTIN and Tele2 stock unconfirmed.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-portable-ssd-t7.json"
+  },
+  {
+    "id": "samsung-portable-ssd-t9",
+    "brand": "Samsung",
+    "model": "Portable SSD T9",
+    "category": "Accessories",
+    "identifiers": [
+      "MU-PG4T0B/WW",
+      "MU-PG4T0",
+      "MU-PG4T0B/AM",
+      "MU-PG4T0B/EU",
+      "MU-PG2T0B/WW",
+      "MU-PG2T0",
+      "MU-PG2T0B/AM",
+      "MU-PG2T0B/EU",
+      "MU-PG1T0B/WW",
+      "MU-PG1T0",
+      "MU-PG1T0B/AM",
+      "MU-PG1T0B/EU"
+    ],
+    "aliases": [],
+    "scope": "Manufacturer current document index, specific revision and capacity matrix. Single model-family reference; capacity/colour options are not separate products. EU GTIN and Tele2 stock unconfirmed.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-portable-ssd-t9.json"
   },
   {
     "id": "samsung-qe42s90faexxu",
@@ -1430,5 +1430,80 @@
     "aliases": [],
     "scope": "Exact UK screen-size SKU; XXU suffix. Latvia XXH SKU must be independently matched; do not transfer regional tuner/service or energy claims.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe85qn90fatxxu.json"
+  },
+  {
+    "id": "samsung-qe75ls03fwuxxh",
+    "brand": "Samsung",
+    "model": "QE75LS03FWUXXH",
+    "category": "Televisions",
+    "identifiers": [
+      "QE75LS03FWUXXH"
+    ],
+    "aliases": [
+      "The Frame Pro LS03FW 75 inch",
+      "QE75LS03FWU"
+    ],
+    "scope": "Exact full model code confirmed on Samsung Latvia official product page. Region-specific service availability must be checked separately. Screenshot request is not proof of Tele2 listing.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe75ls03fwuxxh.json"
+  },
+  {
+    "id": "samsung-qe65ls03fwuxxh",
+    "brand": "Samsung",
+    "model": "QE65LS03FWUXXH",
+    "category": "Televisions",
+    "identifiers": [
+      "QE65LS03FWUXXH"
+    ],
+    "aliases": [
+      "The Frame Pro LS03FW 65 inch",
+      "QE65LS03FWU"
+    ],
+    "scope": "Exact full model code confirmed on Samsung Latvia official product page. Region-specific service availability must be checked separately. Screenshot request is not proof of Tele2 listing.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe65ls03fwuxxh.json"
+  },
+  {
+    "id": "samsung-qe65ls03fauxxh",
+    "brand": "Samsung",
+    "model": "QE65LS03FAUXXH",
+    "category": "Televisions",
+    "identifiers": [
+      "QE65LS03FAUXXH"
+    ],
+    "aliases": [
+      "The Frame LS03F 65 inch",
+      "QE65LS03FAU"
+    ],
+    "scope": "Exact full model code confirmed on Samsung Latvia official product page. Region-specific service availability must be checked separately. Screenshot request is not proof of Tele2 listing.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe65ls03fauxxh.json"
+  },
+  {
+    "id": "samsung-qe55ls03fauxxh",
+    "brand": "Samsung",
+    "model": "QE55LS03FAUXXH",
+    "category": "Televisions",
+    "identifiers": [
+      "QE55LS03FAUXXH"
+    ],
+    "aliases": [
+      "The Frame LS03F 55 inch",
+      "QE55LS03FAU"
+    ],
+    "scope": "Exact full model code confirmed on Samsung Latvia official product page. Region-specific service availability must be checked separately. Screenshot request is not proof of Tele2 listing.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-qe55ls03fauxxh.json"
+  },
+  {
+    "id": "samsung-ue98du9072uxxh",
+    "brand": "Samsung",
+    "model": "UE98DU9072UXXH",
+    "category": "Televisions",
+    "identifiers": [
+      "UE98DU9072UXXH"
+    ],
+    "aliases": [
+      "DU9000 98 inch",
+      "UE98DU9072U"
+    ],
+    "scope": "Exact full model code confirmed on Samsung Latvia official product page. Region-specific service availability must be checked separately. Screenshot request is not proof of Tele2 listing.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-ue98du9072uxxh.json"
   }
 ]

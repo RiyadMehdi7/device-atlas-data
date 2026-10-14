@@ -1,17 +1,5 @@
 [
   {
-    "id": "tcl-linkhub-hh515l-manufacturer-reference",
-    "brand": "TCL",
-    "model": "LINKHUB HH515L",
-    "category": "Routers",
-    "identifiers": [
-      "HH515L"
-    ],
-    "aliases": [],
-    "scope": "Official manufacturer technical document reference. Exact Latvian SKU/hardware/region requires matching. BROVI Max5 is only a candidate match to generic Tele2 Max Outdoor family. TCL source is UK; H153 source manual includes EU/Latvia regulatory restrictions. Performance conditions preserved.",
-    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tcl-linkhub-hh515l-manufacturer-reference.json"
-  },
-  {
     "id": "tcl-43t69c-it",
     "brand": "TCL",
     "model": "43T69C",
@@ -370,5 +358,17 @@
     "aliases": [],
     "scope": "Exact Italy screen-size model; model identity checked in separate publicly disclosed specification response. No family-value transfer; Latvian suffix/GTIN and dimensions order unresolved.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tcl-98x11l-it.json"
+  },
+  {
+    "id": "tcl-linkhub-hh515l-manufacturer-reference",
+    "brand": "TCL",
+    "model": "LINKHUB HH515L",
+    "category": "Routers",
+    "identifiers": [
+      "HH515L"
+    ],
+    "aliases": [],
+    "scope": "Official manufacturer technical document reference. Exact Latvian SKU/hardware/region requires matching. BROVI Max5 is only a candidate match to generic Tele2 Max Outdoor family. TCL source is UK; H153 source manual includes EU/Latvia regulatory restrictions. Performance conditions preserved.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tcl-linkhub-hh515l-manufacturer-reference.json"
   }
 ]
