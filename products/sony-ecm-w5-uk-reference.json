@@ -1,0 +1,168 @@
+{
+  "id": "sony-ecm-w5-uk-reference",
+  "brand": "Sony",
+  "model": "ECM-W5",
+  "category": "Accessories",
+  "scope": "Manufacturer reference for United Kingdom; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+  "identifiers": [
+    "ECM-W5"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-16",
+  "status": "Manufacturer specifications checked; Latvia SKU unconfirmed",
+  "source_name": "Sony official product specifications",
+  "source_url": "https://www.sony.co.uk/electronics/interchangeable-lens-cameras-microphones/ecm-w5/specifications",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Microphone channels",
+      "value": "Monaural",
+      "unit": "",
+      "condition": "Manufacturer reference for United Kingdom; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.sony.co.uk/electronics/interchangeable-lens-cameras-microphones/ecm-w5/specifications",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Pickup pattern",
+      "value": "Omnidirectional",
+      "unit": "",
+      "condition": "Manufacturer reference for United Kingdom; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.sony.co.uk/electronics/interchangeable-lens-cameras-microphones/ecm-w5/specifications",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Frequency response",
+      "value": "20–20000 Hz at48kHz;20–40000 Hz at96kHz",
+      "unit": "",
+      "condition": "Manufacturer reference for United Kingdom; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.sony.co.uk/electronics/interchangeable-lens-cameras-microphones/ecm-w5/specifications",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "-40 dBFS at0.1Pa/1kHz",
+      "unit": "",
+      "condition": "Manufacturer reference for United Kingdom; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.sony.co.uk/electronics/interchangeable-lens-cameras-microphones/ecm-w5/specifications",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Self noise",
+      "value": "21 dB SPL or less",
+      "unit": "",
+      "condition": "Manufacturer reference for United Kingdom; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.sony.co.uk/electronics/interchangeable-lens-cameras-microphones/ecm-w5/specifications",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Maximum input SPL",
+      "value": "124 dB SPL",
+      "unit": "",
+      "condition": "Manufacturer reference for United Kingdom; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.sony.co.uk/electronics/interchangeable-lens-cameras-microphones/ecm-w5/specifications",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Analog output",
+      "value": "2 channels",
+      "unit": "",
+      "condition": "Manufacturer reference for United Kingdom; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.sony.co.uk/electronics/interchangeable-lens-cameras-microphones/ecm-w5/specifications",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Digital output",
+      "value": "4 channels; compatible camera required",
+      "unit": "",
+      "condition": "Manufacturer reference for United Kingdom; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.sony.co.uk/electronics/interchangeable-lens-cameras-microphones/ecm-w5/specifications",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Camera interface",
+      "value": "Multi Interface Shoe",
+      "unit": "",
+      "condition": "Manufacturer reference for United Kingdom; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.sony.co.uk/electronics/interchangeable-lens-cameras-microphones/ecm-w5/specifications",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Microphone dimensions",
+      "value": "31 x47 x22.3 mm",
+      "unit": "",
+      "condition": "Manufacturer reference for United Kingdom; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.sony.co.uk/electronics/interchangeable-lens-cameras-microphones/ecm-w5/specifications",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Receiver dimensions",
+      "value": "53.5 x17.8 x37.5 mm without MI Shoe adapter",
+      "unit": "",
+      "condition": "Manufacturer reference for United Kingdom; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.sony.co.uk/electronics/interchangeable-lens-cameras-microphones/ecm-w5/specifications",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Microphone weight",
+      "value": "27.1 g",
+      "unit": "",
+      "condition": "Manufacturer reference for United Kingdom; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.sony.co.uk/electronics/interchangeable-lens-cameras-microphones/ecm-w5/specifications",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Receiver weight",
+      "value": "35 g without adapter",
+      "unit": "",
+      "condition": "Manufacturer reference for United Kingdom; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.sony.co.uk/electronics/interchangeable-lens-cameras-microphones/ecm-w5/specifications",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Case weight",
+      "value": "174 g",
+      "unit": "",
+      "condition": "Manufacturer reference for United Kingdom; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.sony.co.uk/electronics/interchangeable-lens-cameras-microphones/ecm-w5/specifications",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Operating temperature",
+      "value": "0–40 °C",
+      "unit": "",
+      "condition": "Manufacturer reference for United Kingdom; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.sony.co.uk/electronics/interchangeable-lens-cameras-microphones/ecm-w5/specifications",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Transmitter storage",
+      "value": "64 GB per microphone",
+      "unit": "",
+      "condition": "Manufacturer reference for United Kingdom; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.sony.co.uk/electronics/interchangeable-lens-cameras-microphones/ecm-w5/specifications",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Battery runtime",
+      "value": "Up to7h standalone; up to11h including case with receiver camera-powered",
+      "unit": "",
+      "condition": "Manufacturer reference for United Kingdom; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.sony.co.uk/electronics/interchangeable-lens-cameras-microphones/ecm-w5/specifications",
+      "checked_at": "2026-10-16"
+    }
+  ],
+  "missing_fields": [
+    "Latvia availability and exact regional SKU",
+    "Retail bundle and warranty"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.sony.co.uk/electronics/interchangeable-lens-cameras-microphones/ecm-w5/specifications",
+      "fetched_at": "2026-10-16",
+      "method": "OpenAI native web open",
+      "notes": "Official specification page read; regional scope retained"
+    }
+  ],
+  "research_lane": "watch-20261016"
+}

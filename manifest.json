@@ -1,9 +1,9 @@
 {
-  "records": 1096,
-  "specification_entries": 56864,
+  "records": 1099,
+  "specification_entries": 56913,
   "index_url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/index.json",
   "brands_url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/brands.json",
   "product_url_template": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/{id}.json",
-  "source_snapshot": "3132e5b5fe6cd8a24bd238df178200e936fb28e7bde12d2c79416f2374ec09ba",
+  "source_snapshot": "34845d7d21f7f1139c5aa9c5781a99850fdaf37f6badd17f1c6cc3c86798bc93",
   "boundary": "Manufacturer reference claims; exact variants and conditions must be matched. Private Icecat data excluded."
 }

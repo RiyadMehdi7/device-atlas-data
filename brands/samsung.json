@@ -1505,5 +1505,17 @@
     ],
     "scope": "Exact full model code confirmed on Samsung Latvia official product page. Region-specific service availability must be checked separately. Screenshot request is not proof of Tele2 listing.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-ue98du9072uxxh.json"
+  },
+  {
+    "id": "samsung-smarttag3-ei-t5900kwegca",
+    "brand": "Samsung",
+    "model": "Galaxy SmartTag3 4 Pack EI-T5900KWEGCA",
+    "category": "Accessories",
+    "identifiers": [
+      "EI-T5900KWEGCA"
+    ],
+    "aliases": [],
+    "scope": "Manufacturer reference for Canada; pack colours from specification table differ from white URL name; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/samsung-smarttag3-ei-t5900kwegca.json"
   }
 ]

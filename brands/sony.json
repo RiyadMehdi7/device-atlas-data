@@ -68,5 +68,17 @@
     "aliases": [],
     "scope": "UK manufacturer model reference; Latvia variant matching required",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/sony-wh-ch720n-uk-model.json"
+  },
+  {
+    "id": "sony-ecm-w5-uk-reference",
+    "brand": "Sony",
+    "model": "ECM-W5",
+    "category": "Accessories",
+    "identifiers": [
+      "ECM-W5"
+    ],
+    "aliases": [],
+    "scope": "Manufacturer reference for United Kingdom; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/sony-ecm-w5-uk-reference.json"
   }
 ]

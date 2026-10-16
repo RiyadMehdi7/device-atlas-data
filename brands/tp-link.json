@@ -508,5 +508,17 @@
     "aliases": [],
     "scope": "Official international English manufacturer model reference. EU/Latvia SKU, hardware revision and supplied plug/kit must be matched before reuse. Regional radio limits and features may vary. No colour-only variants.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-vigi-c240-global-reference.json"
+  },
+  {
+    "id": "tp-link-archer-bn800-us-reference",
+    "brand": "TP-Link",
+    "model": "Archer BN800 / Archer 8 Ultra",
+    "category": "Routers",
+    "identifiers": [
+      "Archer BN800"
+    ],
+    "aliases": [],
+    "scope": "Manufacturer reference for United States product-page reference; hardware revision and EU regional SKU unresolved; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/tp-link-archer-bn800-us-reference.json"
   }
 ]

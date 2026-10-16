@@ -1,0 +1,160 @@
+{
+  "id": "samsung-smarttag3-ei-t5900kwegca",
+  "brand": "Samsung",
+  "model": "Galaxy SmartTag3 4 Pack EI-T5900KWEGCA",
+  "category": "Accessories",
+  "scope": "Manufacturer reference for Canada; pack colours from specification table differ from white URL name; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+  "identifiers": [
+    "EI-T5900KWEGCA"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-16",
+  "status": "Manufacturer specifications checked; Latvia SKU unconfirmed",
+  "source_name": "Samsung official product specifications",
+  "source_url": "https://www.samsung.com/ca/mobile-accessories/galaxy-smarttag3-white-ei-t5900kwegca/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Bluetooth",
+      "value": "LE6",
+      "unit": "",
+      "condition": "Manufacturer reference for Canada; pack colours from specification table differ from white URL name; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.samsung.com/ca/mobile-accessories/galaxy-smarttag3-white-ei-t5900kwegca/",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "UWB",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Manufacturer reference for Canada; pack colours from specification table differ from white URL name; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.samsung.com/ca/mobile-accessories/galaxy-smarttag3-white-ei-t5900kwegca/",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Bluetooth LE range",
+      "value": "Up to120 m",
+      "unit": "",
+      "condition": "Manufacturer reference for Canada; pack colours from specification table differ from white URL name; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.samsung.com/ca/mobile-accessories/galaxy-smarttag3-white-ei-t5900kwegca/",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Channel sounding range",
+      "value": "Up to60 m",
+      "unit": "",
+      "condition": "Manufacturer reference for Canada; pack colours from specification table differ from white URL name; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.samsung.com/ca/mobile-accessories/galaxy-smarttag3-white-ei-t5900kwegca/",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "UWB range",
+      "value": "Up to20 m",
+      "unit": "",
+      "condition": "Manufacturer reference for Canada; pack colours from specification table differ from white URL name; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.samsung.com/ca/mobile-accessories/galaxy-smarttag3-white-ei-t5900kwegca/",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Battery",
+      "value": "Replaceable CR2032",
+      "unit": "",
+      "condition": "Manufacturer reference for Canada; pack colours from specification table differ from white URL name; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.samsung.com/ca/mobile-accessories/galaxy-smarttag3-white-ei-t5900kwegca/",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Battery runtime",
+      "value": "Up to550days;790days power-saving",
+      "unit": "",
+      "condition": "Manufacturer reference for Canada; pack colours from specification table differ from white URL name; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.samsung.com/ca/mobile-accessories/galaxy-smarttag3-white-ei-t5900kwegca/",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Dimensions",
+      "value": "31 x31 x8.2 mm",
+      "unit": "",
+      "condition": "Manufacturer reference for Canada; pack colours from specification table differ from white URL name; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.samsung.com/ca/mobile-accessories/galaxy-smarttag3-white-ei-t5900kwegca/",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Weight",
+      "value": "9.15 g",
+      "unit": "",
+      "condition": "Manufacturer reference for Canada; pack colours from specification table differ from white URL name; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.samsung.com/ca/mobile-accessories/galaxy-smarttag3-white-ei-t5900kwegca/",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Pack colours",
+      "value": "2Black and2White per specification table",
+      "unit": "",
+      "condition": "Manufacturer reference for Canada; pack colours from specification table differ from white URL name; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.samsung.com/ca/mobile-accessories/galaxy-smarttag3-white-ei-t5900kwegca/",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Ingress rating",
+      "value": "IP67; test conditions apply",
+      "unit": "",
+      "condition": "Manufacturer reference for Canada; pack colours from specification table differ from white URL name; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.samsung.com/ca/mobile-accessories/galaxy-smarttag3-white-ei-t5900kwegca/",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Speaker",
+      "value": "Buzzer",
+      "unit": "",
+      "condition": "Manufacturer reference for Canada; pack colours from specification table differ from white URL name; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.samsung.com/ca/mobile-accessories/galaxy-smarttag3-white-ei-t5900kwegca/",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Buttons",
+      "value": "1",
+      "unit": "",
+      "condition": "Manufacturer reference for Canada; pack colours from specification table differ from white URL name; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.samsung.com/ca/mobile-accessories/galaxy-smarttag3-white-ei-t5900kwegca/",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Compatibility",
+      "value": "Galaxy Android12+ or iOS17+; SmartThings required",
+      "unit": "",
+      "condition": "Manufacturer reference for Canada; pack colours from specification table differ from white URL name; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.samsung.com/ca/mobile-accessories/galaxy-smarttag3-white-ei-t5900kwegca/",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Compass View",
+      "value": "Compatible Galaxy UWB or Bluetooth6 Channel Sounding device required",
+      "unit": "",
+      "condition": "Manufacturer reference for Canada; pack colours from specification table differ from white URL name; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.samsung.com/ca/mobile-accessories/galaxy-smarttag3-white-ei-t5900kwegca/",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Standalone GPS tracker",
+      "value": "No; remote finding depends on participating Galaxy devices",
+      "unit": "",
+      "condition": "Manufacturer reference for Canada; pack colours from specification table differ from white URL name; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.samsung.com/ca/mobile-accessories/galaxy-smarttag3-white-ei-t5900kwegca/",
+      "checked_at": "2026-10-16"
+    }
+  ],
+  "missing_fields": [
+    "Latvia availability and exact regional SKU",
+    "Retail bundle and warranty"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.samsung.com/ca/mobile-accessories/galaxy-smarttag3-white-ei-t5900kwegca/",
+      "fetched_at": "2026-10-16",
+      "method": "OpenAI native web open",
+      "notes": "Official specification page read; regional scope retained"
+    }
+  ],
+  "research_lane": "watch-20261016"
+}

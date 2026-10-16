@@ -1,0 +1,160 @@
+{
+  "id": "tp-link-archer-bn800-us-reference",
+  "brand": "TP-Link",
+  "model": "Archer BN800 / Archer 8 Ultra",
+  "category": "Routers",
+  "scope": "Manufacturer reference for United States product-page reference; hardware revision and EU regional SKU unresolved; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+  "identifiers": [
+    "Archer BN800"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-16",
+  "status": "Manufacturer specifications checked; Latvia SKU unconfirmed",
+  "source_name": "TP-Link official product specifications",
+  "source_url": "https://www.tp-link.com/us/home-networking/wifi-router/archer-bn800/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Advertised wireless class",
+      "value": "BN19000; Wi-Fi8",
+      "unit": "",
+      "condition": "Manufacturer reference for United States product-page reference; hardware revision and EU regional SKU unresolved; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.tp-link.com/us/home-networking/wifi-router/archer-bn800/",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Radio bands",
+      "value": "2.4GHz,5GHz,6GHz",
+      "unit": "",
+      "condition": "Manufacturer reference for United States product-page reference; hardware revision and EU regional SKU unresolved; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.tp-link.com/us/home-networking/wifi-router/archer-bn800/",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Aggregate advertised rate",
+      "value": "Up to19Gbps; combined physical rates, not actual throughput",
+      "unit": "",
+      "condition": "Manufacturer reference for United States product-page reference; hardware revision and EU regional SKU unresolved; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.tp-link.com/us/home-networking/wifi-router/archer-bn800/",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Antennas",
+      "value": "18 internal",
+      "unit": "",
+      "condition": "Manufacturer reference for United States product-page reference; hardware revision and EU regional SKU unresolved; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.tp-link.com/us/home-networking/wifi-router/archer-bn800/",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "10Gbps ports",
+      "value": "2WAN/LAN; one SFP+/RJ45 combo",
+      "unit": "",
+      "condition": "Manufacturer reference for United States product-page reference; hardware revision and EU regional SKU unresolved; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.tp-link.com/us/home-networking/wifi-router/archer-bn800/",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "2.5Gbps ports",
+      "value": "4LAN",
+      "unit": "",
+      "condition": "Manufacturer reference for United States product-page reference; hardware revision and EU regional SKU unresolved; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.tp-link.com/us/home-networking/wifi-router/archer-bn800/",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Mesh",
+      "value": "EasyMesh",
+      "unit": "",
+      "condition": "Manufacturer reference for United States product-page reference; hardware revision and EU regional SKU unresolved; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.tp-link.com/us/home-networking/wifi-router/archer-bn800/",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "IP protocols",
+      "value": "IPv4/IPv6",
+      "unit": "",
+      "condition": "Manufacturer reference for United States product-page reference; hardware revision and EU regional SKU unresolved; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.tp-link.com/us/home-networking/wifi-router/archer-bn800/",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "WAN modes",
+      "value": "DynamicIP,StaticIP,PPPoE,PPTP,L2TP",
+      "unit": "",
+      "condition": "Manufacturer reference for United States product-page reference; hardware revision and EU regional SKU unresolved; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.tp-link.com/us/home-networking/wifi-router/archer-bn800/",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "VPN protocols",
+      "value": "OpenVPN,WireGuard,L2TP,PPTP",
+      "unit": "",
+      "condition": "Manufacturer reference for United States product-page reference; hardware revision and EU regional SKU unresolved; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.tp-link.com/us/home-networking/wifi-router/archer-bn800/",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Security",
+      "value": "WPA3; HomeShield features may require subscription",
+      "unit": "",
+      "condition": "Manufacturer reference for United States product-page reference; hardware revision and EU regional SKU unresolved; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.tp-link.com/us/home-networking/wifi-router/archer-bn800/",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Dimensions",
+      "value": "226 x98 x245.6 mm",
+      "unit": "",
+      "condition": "Manufacturer reference for United States product-page reference; hardware revision and EU regional SKU unresolved; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.tp-link.com/us/home-networking/wifi-router/archer-bn800/",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Operating temperature",
+      "value": "0–40 °C",
+      "unit": "",
+      "condition": "Manufacturer reference for United States product-page reference; hardware revision and EU regional SKU unresolved; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.tp-link.com/us/home-networking/wifi-router/archer-bn800/",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Operating humidity",
+      "value": "10–90% non-condensing",
+      "unit": "",
+      "condition": "Manufacturer reference for United States product-page reference; hardware revision and EU regional SKU unresolved; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.tp-link.com/us/home-networking/wifi-router/archer-bn800/",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Coverage claim",
+      "value": "Up to3600sqft; environment-dependent",
+      "unit": "",
+      "condition": "Manufacturer reference for United States product-page reference; hardware revision and EU regional SKU unresolved; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.tp-link.com/us/home-networking/wifi-router/archer-bn800/",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "label": "Client capacity claim",
+      "value": "Up to200devices; conditions apply",
+      "unit": "",
+      "condition": "Manufacturer reference for United States product-page reference; hardware revision and EU regional SKU unresolved; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
+      "source_url": "https://www.tp-link.com/us/home-networking/wifi-router/archer-bn800/",
+      "checked_at": "2026-10-16"
+    }
+  ],
+  "missing_fields": [
+    "Latvia availability and exact regional SKU",
+    "Retail bundle and warranty"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.tp-link.com/us/home-networking/wifi-router/archer-bn800/",
+      "fetched_at": "2026-10-16",
+      "method": "OpenAI native web open",
+      "notes": "Official specification page read; regional scope retained"
+    }
+  ],
+  "research_lane": "watch-20261016"
+}
