@@ -1058,5 +1058,41 @@
     "aliases": [],
     "scope": "UK manufacturer 49mm GPS + Cellular reference, aluminium case for Series/SE, titanium Ultra. Common series fields plus explicitly labelled size/connectivity statements. Exact Latvian SKU and services need matching.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-watch-ultra-4-49mm-gps-cellular.json"
+  },
+  {
+    "id": "apple-homeview-uk-reference",
+    "brand": "Apple",
+    "model": "Apple HomeView",
+    "category": "Smart home",
+    "identifiers": [
+      "Apple HomeView"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-homeview-uk-reference.json"
+  },
+  {
+    "id": "apple-homeview-wall-mounted-uk-reference",
+    "brand": "Apple",
+    "model": "Apple HomeView (Wall Mounted)",
+    "category": "Smart home",
+    "identifiers": [
+      "Apple HomeView (Wall Mounted)"
+    ],
+    "aliases": [],
+    "scope": "UK manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-homeview-wall-mounted-uk-reference.json"
+  },
+  {
+    "id": "apple-homepod-mini-2-nz-reference",
+    "brand": "Apple",
+    "model": "HomePod mini 2",
+    "category": "Speakers",
+    "identifiers": [
+      "HomePod mini 2"
+    ],
+    "aliases": [],
+    "scope": "New Zealand manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-homepod-mini-2-nz-reference.json"
   }
 ]

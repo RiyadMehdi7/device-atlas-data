@@ -1,0 +1,193 @@
+{
+  "id": "apple-homeview-wall-mounted-uk-reference",
+  "brand": "Apple",
+  "model": "Apple HomeView (Wall Mounted)",
+  "category": "Smart home",
+  "scope": "UK manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+  "identifiers": [
+    "Apple HomeView (Wall Mounted)"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-18",
+  "status": "Manufacturer specifications checked; Latvia SKU unconfirmed",
+  "source_name": "Apple official technical specifications",
+  "source_url": "https://www.apple.com/uk/apple-homeview/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Display",
+      "value": "7-inch Liquid Retina; IPS multi-touch",
+      "unit": "",
+      "condition": "UK manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/uk/apple-homeview/specs/",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "label": "Resolution",
+      "value": "1088 x 1088 pixels",
+      "unit": "",
+      "condition": "UK manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/uk/apple-homeview/specs/",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "label": "Pixel density",
+      "value": "220 ppi",
+      "unit": "",
+      "condition": "UK manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/uk/apple-homeview/specs/",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "label": "Brightness",
+      "value": "0.3–500 nits",
+      "unit": "",
+      "condition": "UK manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/uk/apple-homeview/specs/",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "label": "True Tone",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/uk/apple-homeview/specs/",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "label": "Chip",
+      "value": "A18",
+      "unit": "",
+      "condition": "UK manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/uk/apple-homeview/specs/",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "label": "Camera",
+      "value": "12 MP Center Stage; f/2.4",
+      "unit": "",
+      "condition": "UK manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/uk/apple-homeview/specs/",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "label": "Wi-Fi",
+      "value": "6E (802.11ax), MIMO",
+      "unit": "",
+      "condition": "UK manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/uk/apple-homeview/specs/",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "6.0",
+      "unit": "",
+      "condition": "UK manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/uk/apple-homeview/specs/",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "label": "Thread",
+      "value": "Yes",
+      "unit": "",
+      "condition": "UK manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/uk/apple-homeview/specs/",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "label": "Sensors",
+      "value": "Ambient light; temperature; humidity; accelerometer",
+      "unit": "",
+      "condition": "UK manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/uk/apple-homeview/specs/",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "label": "Connector",
+      "value": "USB-C",
+      "unit": "",
+      "condition": "UK manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/uk/apple-homeview/specs/",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "label": "Setup requirement",
+      "value": "iOS 27.2+ or iPadOS 27.2+; Wi-Fi internet",
+      "unit": "",
+      "condition": "UK manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/uk/apple-homeview/specs/",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "label": "Operating temperature",
+      "value": "0–35 °C",
+      "unit": "",
+      "condition": "UK manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/uk/apple-homeview/specs/",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "label": "Power",
+      "value": "Wired",
+      "unit": "",
+      "condition": "UK manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/uk/apple-homeview/specs/",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "label": "Weight",
+      "value": "286 g",
+      "unit": "",
+      "condition": "UK manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/uk/apple-homeview/specs/",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "label": "Dimensions",
+      "value": "14.55 x 14.55 x 0.98 cm",
+      "unit": "",
+      "condition": "UK manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/uk/apple-homeview/specs/",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "label": "Colours",
+      "value": "Silver; Space Grey",
+      "unit": "",
+      "condition": "UK manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/uk/apple-homeview/specs/",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "label": "Speakers",
+      "value": "2 full-range drivers",
+      "unit": "",
+      "condition": "UK manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/uk/apple-homeview/specs/",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "label": "Required accessories",
+      "value": "Wall mount, USB-C cable and minimum 20 W adapter sold separately",
+      "unit": "",
+      "condition": "UK manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/uk/apple-homeview/specs/",
+      "checked_at": "2026-10-18"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvia SKU",
+    "GTIN",
+    "Tele2 availability"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.apple.com/uk/apple-homeview/specs/",
+      "fetched_at": "2026-10-18",
+      "method": "OpenAI native web open",
+      "notes": "Model-specific specification page; regional reference only."
+    }
+  ],
+  "research_lane": "watch-20261018"
+}

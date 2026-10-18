@@ -1,0 +1,177 @@
+{
+  "id": "apple-homepod-mini-2-nz-reference",
+  "brand": "Apple",
+  "model": "HomePod mini 2",
+  "category": "Speakers",
+  "scope": "New Zealand manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+  "identifiers": [
+    "HomePod mini 2"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-18",
+  "status": "Manufacturer specifications checked; Latvia SKU unconfirmed",
+  "source_name": "Apple official technical specifications",
+  "source_url": "https://www.apple.com/nz/homepod-mini/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Height",
+      "value": "84.3 mm",
+      "unit": "",
+      "condition": "New Zealand manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/nz/homepod-mini/specs/",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "label": "Width",
+      "value": "97.9 mm",
+      "unit": "",
+      "condition": "New Zealand manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/nz/homepod-mini/specs/",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "label": "Weight",
+      "value": "335 g",
+      "unit": "",
+      "condition": "New Zealand manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/nz/homepod-mini/specs/",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "label": "Colours",
+      "value": "White; Pink; Green; Blue; Midnight",
+      "unit": "",
+      "condition": "New Zealand manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/nz/homepod-mini/specs/",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "label": "Speaker design",
+      "value": "Full-range driver; 2 passive radiators; 360-degree waveguide",
+      "unit": "",
+      "condition": "New Zealand manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/nz/homepod-mini/specs/",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "label": "Microphones",
+      "value": "3",
+      "unit": "",
+      "condition": "New Zealand manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/nz/homepod-mini/specs/",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "label": "Sensors",
+      "value": "Temperature; humidity",
+      "unit": "",
+      "condition": "New Zealand manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/nz/homepod-mini/specs/",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "label": "Wi-Fi",
+      "value": "6E (802.11ax)",
+      "unit": "",
+      "condition": "New Zealand manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/nz/homepod-mini/specs/",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "6",
+      "unit": "",
+      "condition": "New Zealand manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/nz/homepod-mini/specs/",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "label": "Thread",
+      "value": "Yes",
+      "unit": "",
+      "condition": "New Zealand manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/nz/homepod-mini/specs/",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "label": "Ultra Wideband",
+      "value": "Yes; device proximity",
+      "unit": "",
+      "condition": "New Zealand manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/nz/homepod-mini/specs/",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "label": "Setup requirement",
+      "value": "iPhone or iPad with latest OS; Wi-Fi internet",
+      "unit": "",
+      "condition": "New Zealand manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/nz/homepod-mini/specs/",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "label": "Included adapter",
+      "value": "20 W",
+      "unit": "",
+      "condition": "New Zealand manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/nz/homepod-mini/specs/",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "label": "Adapter voltage",
+      "value": "100–240 V",
+      "unit": "",
+      "condition": "New Zealand manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/nz/homepod-mini/specs/",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "label": "Frequency",
+      "value": "50–60 Hz",
+      "unit": "",
+      "condition": "New Zealand manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/nz/homepod-mini/specs/",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "label": "Operating temperature",
+      "value": "0–35 °C",
+      "unit": "",
+      "condition": "New Zealand manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/nz/homepod-mini/specs/",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "label": "Operating humidity",
+      "value": "5–90%, non-condensing",
+      "unit": "",
+      "condition": "New Zealand manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/nz/homepod-mini/specs/",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "label": "Tested altitude",
+      "value": "Up to 3000 m",
+      "unit": "",
+      "condition": "New Zealand manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/nz/homepod-mini/specs/",
+      "checked_at": "2026-10-18"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvia SKU",
+    "GTIN",
+    "Tele2 availability"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.apple.com/nz/homepod-mini/specs/",
+      "fetched_at": "2026-10-18",
+      "method": "OpenAI native web open",
+      "notes": "Model-specific specification page; regional reference only."
+    }
+  ],
+  "research_lane": "watch-20261018"
+}
