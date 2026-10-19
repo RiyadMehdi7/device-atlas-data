@@ -12941,5 +12941,19 @@
     "aliases": [],
     "scope": "New Zealand manufacturer model reference; exact Latvia SKU, plug, colour SKU and Tele2 availability unconfirmed.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-homepod-mini-2-nz-reference.json"
+  },
+  {
+    "id": "apple-tv-4k-4th-generation-128gb-us-reference",
+    "brand": "Apple",
+    "model": "Apple TV 4K (4th generation) 128GB",
+    "category": "Smart home",
+    "identifiers": [
+      "Apple TV 4K (4th generation)"
+    ],
+    "aliases": [
+      "Apple TV 4K 2026"
+    ],
+    "scope": "US manufacturer reference for Apple TV 4K (4th generation), 128GB. Latvia SKU, plug, services and Tele2 availability unconfirmed.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-tv-4k-4th-generation-128gb-us-reference.json"
   }
 ]

@@ -1,0 +1,259 @@
+{
+  "id": "apple-tv-4k-4th-generation-128gb-us-reference",
+  "brand": "Apple",
+  "model": "Apple TV 4K (4th generation) 128GB",
+  "category": "Smart home",
+  "scope": "US manufacturer reference for Apple TV 4K (4th generation), 128GB. Latvia SKU, plug, services and Tele2 availability unconfirmed.",
+  "identifiers": [
+    "Apple TV 4K (4th generation)"
+  ],
+  "aliases": [
+    "Apple TV 4K 2026"
+  ],
+  "checked_at": "2026-10-19",
+  "status": "Manufacturer specifications checked; Latvia SKU unconfirmed",
+  "source_name": "Apple official technical specifications",
+  "source_url": "https://www.apple.com/apple-tv-4k/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Processor",
+      "value": "A19",
+      "unit": "",
+      "condition": "US manufacturer reference for Apple TV 4K (4th generation), 128GB. Latvia SKU, plug, services and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/apple-tv-4k/specs/",
+      "checked_at": "2026-10-19"
+    },
+    {
+      "label": "Storage",
+      "value": "128 GB",
+      "unit": "",
+      "condition": "US manufacturer reference for Apple TV 4K (4th generation), 128GB. Latvia SKU, plug, services and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/apple-tv-4k/specs/",
+      "checked_at": "2026-10-19"
+    },
+    {
+      "label": "Dimensions (H x W x D)",
+      "value": "31.00 x 93.24 x 93.24 mm",
+      "unit": "",
+      "condition": "US manufacturer reference for Apple TV 4K (4th generation), 128GB. Latvia SKU, plug, services and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/apple-tv-4k/specs/",
+      "checked_at": "2026-10-19"
+    },
+    {
+      "label": "Weight",
+      "value": "217 g",
+      "unit": "",
+      "condition": "US manufacturer reference for Apple TV 4K (4th generation), 128GB. Latvia SKU, plug, services and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/apple-tv-4k/specs/",
+      "checked_at": "2026-10-19"
+    },
+    {
+      "label": "Wi-Fi",
+      "value": "Wi-Fi 7 (802.11be), 2x2 MIMO",
+      "unit": "",
+      "condition": "US manufacturer reference for Apple TV 4K (4th generation), 128GB. Latvia SKU, plug, services and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/apple-tv-4k/specs/",
+      "checked_at": "2026-10-19"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "6",
+      "unit": "",
+      "condition": "US manufacturer reference for Apple TV 4K (4th generation), 128GB. Latvia SKU, plug, services and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/apple-tv-4k/specs/",
+      "checked_at": "2026-10-19"
+    },
+    {
+      "label": "Thread",
+      "value": "Yes",
+      "unit": "",
+      "condition": "US manufacturer reference for Apple TV 4K (4th generation), 128GB. Latvia SKU, plug, services and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/apple-tv-4k/specs/",
+      "checked_at": "2026-10-19"
+    },
+    {
+      "label": "HDMI",
+      "value": "2.1",
+      "unit": "",
+      "condition": "US manufacturer reference for Apple TV 4K (4th generation), 128GB. Latvia SKU, plug, services and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/apple-tv-4k/specs/",
+      "checked_at": "2026-10-19"
+    },
+    {
+      "label": "Ethernet",
+      "value": "Gigabit",
+      "unit": "",
+      "condition": "US manufacturer reference for Apple TV 4K (4th generation), 128GB. Latvia SKU, plug, services and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/apple-tv-4k/specs/",
+      "checked_at": "2026-10-19"
+    },
+    {
+      "label": "IR receiver",
+      "value": "Yes",
+      "unit": "",
+      "condition": "US manufacturer reference for Apple TV 4K (4th generation), 128GB. Latvia SKU, plug, services and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/apple-tv-4k/specs/",
+      "checked_at": "2026-10-19"
+    },
+    {
+      "label": "Power supply",
+      "value": "Built-in",
+      "unit": "",
+      "condition": "US manufacturer reference for Apple TV 4K (4th generation), 128GB. Latvia SKU, plug, services and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/apple-tv-4k/specs/",
+      "checked_at": "2026-10-19"
+    },
+    {
+      "label": "Microphones",
+      "value": "3; voice isolation",
+      "unit": "",
+      "condition": "US manufacturer reference for Apple TV 4K (4th generation), 128GB. Latvia SKU, plug, services and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/apple-tv-4k/specs/",
+      "checked_at": "2026-10-19"
+    },
+    {
+      "label": "Video output",
+      "value": "Up to 2160p at 60 fps",
+      "unit": "",
+      "condition": "US manufacturer reference for Apple TV 4K (4th generation), 128GB. Latvia SKU, plug, services and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/apple-tv-4k/specs/",
+      "checked_at": "2026-10-19"
+    },
+    {
+      "label": "HDR formats",
+      "value": "Dolby Vision profiles 8.1/5; HDR10; HDR10+; HLG",
+      "unit": "",
+      "condition": "US manufacturer reference for Apple TV 4K (4th generation), 128GB. Latvia SKU, plug, services and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/apple-tv-4k/specs/",
+      "checked_at": "2026-10-19"
+    },
+    {
+      "label": "Video codecs",
+      "value": "AV1; VP9; HEVC; AVC; MPEG-4",
+      "unit": "",
+      "condition": "US manufacturer reference for Apple TV 4K (4th generation), 128GB. Latvia SKU, plug, services and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/apple-tv-4k/specs/",
+      "checked_at": "2026-10-19"
+    },
+    {
+      "label": "Quick Media Switching",
+      "value": "Yes",
+      "unit": "",
+      "condition": "US manufacturer reference for Apple TV 4K (4th generation), 128GB. Latvia SKU, plug, services and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/apple-tv-4k/specs/",
+      "checked_at": "2026-10-19"
+    },
+    {
+      "label": "Audio support",
+      "value": "Dolby Atmos; Dolby Digital 5.1; Dolby Digital Plus 7.1",
+      "unit": "",
+      "condition": "US manufacturer reference for Apple TV 4K (4th generation), 128GB. Latvia SKU, plug, services and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/apple-tv-4k/specs/",
+      "checked_at": "2026-10-19"
+    },
+    {
+      "label": "Remote",
+      "value": "Siri Remote, fourth generation",
+      "unit": "",
+      "condition": "US manufacturer reference for Apple TV 4K (4th generation), 128GB. Latvia SKU, plug, services and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/apple-tv-4k/specs/",
+      "checked_at": "2026-10-19"
+    },
+    {
+      "label": "Remote charging",
+      "value": "USB-C; cable and adapter sold separately",
+      "unit": "",
+      "condition": "US manufacturer reference for Apple TV 4K (4th generation), 128GB. Latvia SKU, plug, services and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/apple-tv-4k/specs/",
+      "checked_at": "2026-10-19"
+    },
+    {
+      "label": "Remote dimensions",
+      "value": "136 x 35 x 9.25 mm",
+      "unit": "",
+      "condition": "US manufacturer reference for Apple TV 4K (4th generation), 128GB. Latvia SKU, plug, services and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/apple-tv-4k/specs/",
+      "checked_at": "2026-10-19"
+    },
+    {
+      "label": "Remote weight",
+      "value": "69.6 g",
+      "unit": "",
+      "condition": "US manufacturer reference for Apple TV 4K (4th generation), 128GB. Latvia SKU, plug, services and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/apple-tv-4k/specs/",
+      "checked_at": "2026-10-19"
+    },
+    {
+      "label": "Supply voltage",
+      "value": "100–240 V AC, 50–60 Hz",
+      "unit": "",
+      "condition": "US manufacturer reference for Apple TV 4K (4th generation), 128GB. Latvia SKU, plug, services and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/apple-tv-4k/specs/",
+      "checked_at": "2026-10-19"
+    },
+    {
+      "label": "Operating temperature",
+      "value": "0–35 °C",
+      "unit": "",
+      "condition": "US manufacturer reference for Apple TV 4K (4th generation), 128GB. Latvia SKU, plug, services and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/apple-tv-4k/specs/",
+      "checked_at": "2026-10-19"
+    },
+    {
+      "label": "Storage temperature",
+      "value": "-20–45 °C",
+      "unit": "",
+      "condition": "US manufacturer reference for Apple TV 4K (4th generation), 128GB. Latvia SKU, plug, services and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/apple-tv-4k/specs/",
+      "checked_at": "2026-10-19"
+    },
+    {
+      "label": "Humidity",
+      "value": "5–95%, non-condensing",
+      "unit": "",
+      "condition": "US manufacturer reference for Apple TV 4K (4th generation), 128GB. Latvia SKU, plug, services and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/apple-tv-4k/specs/",
+      "checked_at": "2026-10-19"
+    },
+    {
+      "label": "Tested altitude",
+      "value": "Up to 3000 m",
+      "unit": "",
+      "condition": "US manufacturer reference for Apple TV 4K (4th generation), 128GB. Latvia SKU, plug, services and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/apple-tv-4k/specs/",
+      "checked_at": "2026-10-19"
+    },
+    {
+      "label": "Included items",
+      "value": "Player; remote; power cord; documentation",
+      "unit": "",
+      "condition": "US manufacturer reference for Apple TV 4K (4th generation), 128GB. Latvia SKU, plug, services and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/apple-tv-4k/specs/",
+      "checked_at": "2026-10-19"
+    },
+    {
+      "label": "HDMI cable",
+      "value": "Sold separately",
+      "unit": "",
+      "condition": "US manufacturer reference for Apple TV 4K (4th generation), 128GB. Latvia SKU, plug, services and Tele2 availability unconfirmed.",
+      "source_url": "https://www.apple.com/apple-tv-4k/specs/",
+      "checked_at": "2026-10-19"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvia SKU",
+    "GTIN",
+    "Tele2 availability"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.apple.com/apple-tv-4k/specs/",
+      "fetched_at": "2026-10-19",
+      "method": "OpenAI native web open",
+      "notes": "In-box section identifies fourth generation; US reference."
+    }
+  ],
+  "research_lane": "watch-20261019"
+}
