@@ -12955,5 +12955,29 @@
     ],
     "scope": "US manufacturer reference for Apple TV 4K (4th generation), 128GB. Latvia SKU, plug, services and Tele2 availability unconfirmed.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/apple-tv-4k-4th-generation-128gb-us-reference.json"
+  },
+  {
+    "id": "garmin-approach-s72-47mm-singapore-reference",
+    "brand": "Garmin",
+    "model": "Approach S72 – 47 mm",
+    "category": "Smartwatches",
+    "identifiers": [
+      "Approach S72 – 47 mm"
+    ],
+    "aliases": [],
+    "scope": "Singapore 47mm reference with ComfortFit band; regional services and Latvia retail SKU unconfirmed.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/garmin-approach-s72-47mm-singapore-reference.json"
+  },
+  {
+    "id": "garmin-enduro-4-manual-reference",
+    "brand": "Garmin",
+    "model": "Enduro 4",
+    "category": "Smartwatches",
+    "identifiers": [
+      "Enduro 4"
+    ],
+    "aliases": [],
+    "scope": "English owner manual v1, October 2026. Regulatory model A04413; exact regional retail configuration unconfirmed. Water pressure rating is not a diving-depth recommendation.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/garmin-enduro-4-manual-reference.json"
   }
 ]

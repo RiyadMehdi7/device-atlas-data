@@ -1,0 +1,97 @@
+{
+  "id": "garmin-enduro-4-manual-reference",
+  "brand": "Garmin",
+  "model": "Enduro 4",
+  "category": "Smartwatches",
+  "scope": "English owner manual v1, October 2026. Regulatory model A04413; exact regional retail configuration unconfirmed. Water pressure rating is not a diving-depth recommendation.",
+  "identifiers": [
+    "Enduro 4"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-21",
+  "status": "Manufacturer reference checked; Latvia SKU unconfirmed",
+  "source_name": "Garmin official specifications",
+  "source_url": "https://www8.garmin.com/manuals/webhelp/GUID-25EFCCBC-D0EB-4E1B-AE9F-B4B900891C20/EN-US/GUID-253A367D-45BE-4ACD-B939-7DC713DE41F8.html",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Regulatory model",
+      "value": "A04413",
+      "unit": "",
+      "condition": "English owner manual v1, October 2026. Regulatory model A04413; exact regional retail configuration unconfirmed. Water pressure rating is not a diving-depth recommendation.",
+      "source_url": "https://www8.garmin.com/manuals/webhelp/GUID-25EFCCBC-D0EB-4E1B-AE9F-B4B900891C20/EN-US/GUID-253A367D-45BE-4ACD-B939-7DC713DE41F8.html",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "label": "Battery",
+      "value": "Built-in rechargeable lithium-ion",
+      "unit": "",
+      "condition": "English owner manual v1, October 2026. Regulatory model A04413; exact regional retail configuration unconfirmed. Water pressure rating is not a diving-depth recommendation.",
+      "source_url": "https://www8.garmin.com/manuals/webhelp/GUID-25EFCCBC-D0EB-4E1B-AE9F-B4B900891C20/EN-US/GUID-253A367D-45BE-4ACD-B939-7DC713DE41F8.html",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "label": "Water rating",
+      "value": "10 ATM",
+      "unit": "",
+      "condition": "English owner manual v1, October 2026. Regulatory model A04413; exact regional retail configuration unconfirmed. Water pressure rating is not a diving-depth recommendation.",
+      "source_url": "https://www8.garmin.com/manuals/webhelp/GUID-25EFCCBC-D0EB-4E1B-AE9F-B4B900891C20/EN-US/GUID-253A367D-45BE-4ACD-B939-7DC713DE41F8.html",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "label": "Operating/storage temperature",
+      "value": "-20–45 °C",
+      "unit": "",
+      "condition": "English owner manual v1, October 2026. Regulatory model A04413; exact regional retail configuration unconfirmed. Water pressure rating is not a diving-depth recommendation.",
+      "source_url": "https://www8.garmin.com/manuals/webhelp/GUID-25EFCCBC-D0EB-4E1B-AE9F-B4B900891C20/EN-US/GUID-253A367D-45BE-4ACD-B939-7DC713DE41F8.html",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "label": "Charging temperature",
+      "value": "0–45 °C",
+      "unit": "",
+      "condition": "English owner manual v1, October 2026. Regulatory model A04413; exact regional retail configuration unconfirmed. Water pressure rating is not a diving-depth recommendation.",
+      "source_url": "https://www8.garmin.com/manuals/webhelp/GUID-25EFCCBC-D0EB-4E1B-AE9F-B4B900891C20/EN-US/GUID-253A367D-45BE-4ACD-B939-7DC713DE41F8.html",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "label": "2.4GHz radio",
+      "value": "2400–2483.5 MHz; less than 19 dBm",
+      "unit": "",
+      "condition": "English owner manual v1, October 2026. Regulatory model A04413; exact regional retail configuration unconfirmed. Water pressure rating is not a diving-depth recommendation.",
+      "source_url": "https://www8.garmin.com/manuals/webhelp/GUID-25EFCCBC-D0EB-4E1B-AE9F-B4B900891C20/EN-US/GUID-253A367D-45BE-4ACD-B939-7DC713DE41F8.html",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "label": "13.56MHz radio",
+      "value": "Less than 42 dBuA/m at 10 m",
+      "unit": "",
+      "condition": "English owner manual v1, October 2026. Regulatory model A04413; exact regional retail configuration unconfirmed. Water pressure rating is not a diving-depth recommendation.",
+      "source_url": "https://www8.garmin.com/manuals/webhelp/GUID-25EFCCBC-D0EB-4E1B-AE9F-B4B900891C20/EN-US/GUID-253A367D-45BE-4ACD-B939-7DC713DE41F8.html",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "label": "Limb SAR",
+      "value": "0.688 W/kg",
+      "unit": "",
+      "condition": "English owner manual v1, October 2026. Regulatory model A04413; exact regional retail configuration unconfirmed. Water pressure rating is not a diving-depth recommendation.",
+      "source_url": "https://www8.garmin.com/manuals/webhelp/GUID-25EFCCBC-D0EB-4E1B-AE9F-B4B900891C20/EN-US/GUID-253A367D-45BE-4ACD-B939-7DC713DE41F8.html",
+      "checked_at": "2026-10-21"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvia SKU",
+    "GTIN",
+    "Tele2 availability"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www8.garmin.com/manuals/webhelp/GUID-25EFCCBC-D0EB-4E1B-AE9F-B4B900891C20/EN-US/GUID-253A367D-45BE-4ACD-B939-7DC713DE41F8.html",
+      "fetched_at": "2026-10-21",
+      "method": "OpenAI native web open",
+      "notes": "Only explicit specification values extracted; blank feature rows excluded."
+    }
+  ],
+  "research_lane": "watch-20261021"
+}

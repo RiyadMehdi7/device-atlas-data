@@ -1,0 +1,185 @@
+{
+  "id": "garmin-approach-s72-47mm-singapore-reference",
+  "brand": "Garmin",
+  "model": "Approach S72 – 47 mm",
+  "category": "Smartwatches",
+  "scope": "Singapore 47mm reference with ComfortFit band; regional services and Latvia retail SKU unconfirmed.",
+  "identifiers": [
+    "Approach S72 – 47 mm"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-21",
+  "status": "Manufacturer reference checked; Latvia SKU unconfirmed",
+  "source_name": "Garmin official specifications",
+  "source_url": "https://www.garmin.com.sg/products/wearables/approach-s72-47-black/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Display",
+      "value": "AMOLED; optional always-on",
+      "unit": "",
+      "condition": "Singapore 47mm reference with ComfortFit band; regional services and Latvia retail SKU unconfirmed.",
+      "source_url": "https://www.garmin.com.sg/products/wearables/approach-s72-47-black/",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "label": "Display diameter",
+      "value": "1.4 inches / 35.41 mm",
+      "unit": "",
+      "condition": "Singapore 47mm reference with ComfortFit band; regional services and Latvia retail SKU unconfirmed.",
+      "source_url": "https://www.garmin.com.sg/products/wearables/approach-s72-47-black/",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "label": "Resolution",
+      "value": "454 x 454 pixels",
+      "unit": "",
+      "condition": "Singapore 47mm reference with ComfortFit band; regional services and Latvia retail SKU unconfirmed.",
+      "source_url": "https://www.garmin.com.sg/products/wearables/approach-s72-47-black/",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "label": "Water rating",
+      "value": "5 ATM",
+      "unit": "",
+      "condition": "Singapore 47mm reference with ComfortFit band; regional services and Latvia retail SKU unconfirmed.",
+      "source_url": "https://www.garmin.com.sg/products/wearables/approach-s72-47-black/",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "label": "Strap",
+      "value": "ComfortFit fabric",
+      "unit": "",
+      "condition": "Singapore 47mm reference with ComfortFit band; regional services and Latvia retail SKU unconfirmed.",
+      "source_url": "https://www.garmin.com.sg/products/wearables/approach-s72-47-black/",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "label": "Lens",
+      "value": "Sapphire crystal",
+      "unit": "",
+      "condition": "Singapore 47mm reference with ComfortFit band; regional services and Latvia retail SKU unconfirmed.",
+      "source_url": "https://www.garmin.com.sg/products/wearables/approach-s72-47-black/",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "label": "Bezel",
+      "value": "Titanium",
+      "unit": "",
+      "condition": "Singapore 47mm reference with ComfortFit band; regional services and Latvia retail SKU unconfirmed.",
+      "source_url": "https://www.garmin.com.sg/products/wearables/approach-s72-47-black/",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "label": "Compatible band width",
+      "value": "22 mm QuickFit",
+      "unit": "",
+      "condition": "Singapore 47mm reference with ComfortFit band; regional services and Latvia retail SKU unconfirmed.",
+      "source_url": "https://www.garmin.com.sg/products/wearables/approach-s72-47-black/",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "label": "Dimensions",
+      "value": "47 x 47 x 13.5 mm",
+      "unit": "",
+      "condition": "Singapore 47mm reference with ComfortFit band; regional services and Latvia retail SKU unconfirmed.",
+      "source_url": "https://www.garmin.com.sg/products/wearables/approach-s72-47-black/",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "label": "Wrist circumference",
+      "value": "154–229 mm",
+      "unit": "",
+      "condition": "Singapore 47mm reference with ComfortFit band; regional services and Latvia retail SKU unconfirmed.",
+      "source_url": "https://www.garmin.com.sg/products/wearables/approach-s72-47-black/",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "label": "Weight",
+      "value": "48 g with ComfortFit band",
+      "unit": "",
+      "condition": "Singapore 47mm reference with ComfortFit band; regional services and Latvia retail SKU unconfirmed.",
+      "source_url": "https://www.garmin.com.sg/products/wearables/approach-s72-47-black/",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "label": "Battery",
+      "value": "Lithium ion",
+      "unit": "",
+      "condition": "Singapore 47mm reference with ComfortFit band; regional services and Latvia retail SKU unconfirmed.",
+      "source_url": "https://www.garmin.com.sg/products/wearables/approach-s72-47-black/",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "label": "Smartwatch battery life",
+      "value": "Up to 16 days",
+      "unit": "",
+      "condition": "Singapore 47mm reference with ComfortFit band; regional services and Latvia retail SKU unconfirmed.",
+      "source_url": "https://www.garmin.com.sg/products/wearables/approach-s72-47-black/",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "label": "Golf battery life",
+      "value": "Up to 20 hours at default settings",
+      "unit": "",
+      "condition": "Singapore 47mm reference with ComfortFit band; regional services and Latvia retail SKU unconfirmed.",
+      "source_url": "https://www.garmin.com.sg/products/wearables/approach-s72-47-black/",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "label": "Charging",
+      "value": "Garmin proprietary plug charger",
+      "unit": "",
+      "condition": "Singapore 47mm reference with ComfortFit band; regional services and Latvia retail SKU unconfirmed.",
+      "source_url": "https://www.garmin.com.sg/products/wearables/approach-s72-47-black/",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "label": "Memory/history",
+      "value": "64 GB",
+      "unit": "",
+      "condition": "Singapore 47mm reference with ComfortFit band; regional services and Latvia retail SKU unconfirmed.",
+      "source_url": "https://www.garmin.com.sg/products/wearables/approach-s72-47-black/",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "label": "Connectivity",
+      "value": "Bluetooth; ANT+; Wi-Fi",
+      "unit": "",
+      "condition": "Singapore 47mm reference with ComfortFit band; regional services and Latvia retail SKU unconfirmed.",
+      "source_url": "https://www.garmin.com.sg/products/wearables/approach-s72-47-black/",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "label": "Phone compatibility",
+      "value": "iPhone; Android",
+      "unit": "",
+      "condition": "Singapore 47mm reference with ComfortFit band; regional services and Latvia retail SKU unconfirmed.",
+      "source_url": "https://www.garmin.com.sg/products/wearables/approach-s72-47-black/",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "label": "Package",
+      "value": "Watch; charging/data cable; documentation",
+      "unit": "",
+      "condition": "Singapore 47mm reference with ComfortFit band; regional services and Latvia retail SKU unconfirmed.",
+      "source_url": "https://www.garmin.com.sg/products/wearables/approach-s72-47-black/",
+      "checked_at": "2026-10-21"
+    }
+  ],
+  "missing_fields": [
+    "Exact Latvia SKU",
+    "GTIN",
+    "Tele2 availability"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.garmin.com.sg/products/wearables/approach-s72-47-black/",
+      "fetched_at": "2026-10-21",
+      "method": "OpenAI native web open",
+      "notes": "Only explicit specification values extracted; blank feature rows excluded."
+    }
+  ],
+  "research_lane": "watch-20261021"
+}
