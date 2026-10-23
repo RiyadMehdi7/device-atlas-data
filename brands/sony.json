@@ -80,5 +80,17 @@
     "aliases": [],
     "scope": "Manufacturer reference for United Kingdom; regional SKU and Latvia availability unconfirmed. Performance maxima are conditional manufacturer claims.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/sony-ecm-w5-uk-reference.json"
+  },
+  {
+    "id": "sony-ecm-ax10-manual-reference",
+    "brand": "Sony",
+    "model": "ECM-AX10",
+    "category": "Accessories",
+    "identifiers": [
+      "ECM-AX10"
+    ],
+    "aliases": [],
+    "scope": "Official English model help guide; Latvia retail SKU, GTIN and Tele2 availability unconfirmed.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/sony-ecm-ax10-manual-reference.json"
   }
 ]

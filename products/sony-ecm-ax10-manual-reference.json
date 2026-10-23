@@ -1,0 +1,121 @@
+{
+  "id": "sony-ecm-ax10-manual-reference",
+  "brand": "Sony",
+  "model": "ECM-AX10",
+  "category": "Accessories",
+  "scope": "Official English model help guide; Latvia retail SKU, GTIN and Tele2 availability unconfirmed.",
+  "identifiers": [
+    "ECM-AX10"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-23",
+  "status": "Manufacturer model specifications checked; Latvia SKU unconfirmed",
+  "source_name": "Sony ECM-AX10 help guide",
+  "source_url": "https://helpguide.sony.net/proaudio/3005/v1/en/contents/Y025_Specifications.html",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Power",
+      "value": "USB bus, 5 V / 100 mA",
+      "unit": "",
+      "condition": "Official English model help guide; Latvia retail SKU, GTIN and Tele2 availability unconfirmed. SPATIAL mode; no headphones connected",
+      "source_url": "https://helpguide.sony.net/proaudio/3005/v1/en/contents/Y025_Specifications.html",
+      "checked_at": "2026-10-23"
+    },
+    {
+      "label": "Operating temperature",
+      "value": "0–40 °C",
+      "unit": "",
+      "condition": "Official English model help guide; Latvia retail SKU, GTIN and Tele2 availability unconfirmed. ",
+      "source_url": "https://helpguide.sony.net/proaudio/3005/v1/en/contents/Y025_Specifications.html",
+      "checked_at": "2026-10-23"
+    },
+    {
+      "label": "Dimensions (W x H x D)",
+      "value": "Approximately 35.1 x 116.1 x 21.2 mm",
+      "unit": "",
+      "condition": "Official English model help guide; Latvia retail SKU, GTIN and Tele2 availability unconfirmed. Excludes projecting parts and controls",
+      "source_url": "https://helpguide.sony.net/proaudio/3005/v1/en/contents/Y025_Specifications.html",
+      "checked_at": "2026-10-23"
+    },
+    {
+      "label": "Mass",
+      "value": "Approximately 24 g",
+      "unit": "",
+      "condition": "Official English model help guide; Latvia retail SKU, GTIN and Tele2 availability unconfirmed. Microphone only",
+      "source_url": "https://helpguide.sony.net/proaudio/3005/v1/en/contents/Y025_Specifications.html",
+      "checked_at": "2026-10-23"
+    },
+    {
+      "label": "Microphone type",
+      "value": "Back electret condenser",
+      "unit": "",
+      "condition": "Official English model help guide; Latvia retail SKU, GTIN and Tele2 availability unconfirmed. ",
+      "source_url": "https://helpguide.sony.net/proaudio/3005/v1/en/contents/Y025_Specifications.html",
+      "checked_at": "2026-10-23"
+    },
+    {
+      "label": "Sampling frequency",
+      "value": "48 kHz",
+      "unit": "",
+      "condition": "Official English model help guide; Latvia retail SKU, GTIN and Tele2 availability unconfirmed. ",
+      "source_url": "https://helpguide.sony.net/proaudio/3005/v1/en/contents/Y025_Specifications.html",
+      "checked_at": "2026-10-23"
+    },
+    {
+      "label": "Bit depth",
+      "value": "16/24-bit integer; 32-bit float",
+      "unit": "",
+      "condition": "Official English model help guide; Latvia retail SKU, GTIN and Tele2 availability unconfirmed. Smartphone selects automatically, prioritizing higher bit depth",
+      "source_url": "https://helpguide.sony.net/proaudio/3005/v1/en/contents/Y025_Specifications.html",
+      "checked_at": "2026-10-23"
+    },
+    {
+      "label": "Frequency response",
+      "value": "20–20000 Hz",
+      "unit": "",
+      "condition": "Official English model help guide; Latvia retail SKU, GTIN and Tele2 availability unconfirmed. ",
+      "source_url": "https://helpguide.sony.net/proaudio/3005/v1/en/contents/Y025_Specifications.html",
+      "checked_at": "2026-10-23"
+    },
+    {
+      "label": "Directivity modes",
+      "value": "Spatial Ambisonics; binaural; stereo",
+      "unit": "",
+      "condition": "Official English model help guide; Latvia retail SKU, GTIN and Tele2 availability unconfirmed. Switchable",
+      "source_url": "https://helpguide.sony.net/proaudio/3005/v1/en/contents/Y025_Specifications.html",
+      "checked_at": "2026-10-23"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "-20 dBFS",
+      "unit": "",
+      "condition": "Official English model help guide; Latvia retail SKU, GTIN and Tele2 availability unconfirmed. 0.1 Pa, 1 kHz; ATT switch 0 dB",
+      "source_url": "https://helpguide.sony.net/proaudio/3005/v1/en/contents/Y025_Specifications.html",
+      "checked_at": "2026-10-23"
+    },
+    {
+      "label": "Maximum input SPL",
+      "value": "More than 120 dB SPL",
+      "unit": "",
+      "condition": "Official English model help guide; Latvia retail SKU, GTIN and Tele2 availability unconfirmed. 1% waveform distortion at 1 kHz; reference 0 dB = 2e-5 Pa",
+      "source_url": "https://helpguide.sony.net/proaudio/3005/v1/en/contents/Y025_Specifications.html",
+      "checked_at": "2026-10-23"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU",
+    "GTIN",
+    "Tele2 availability"
+  ],
+  "source_pages": [
+    {
+      "url": "https://helpguide.sony.net/proaudio/3005/v1/en/contents/Y025_Specifications.html",
+      "fetched_at": "2026-10-23",
+      "method": "OpenAI native web open",
+      "notes": "Explicit model specification section."
+    }
+  ],
+  "research_lane": "watch-20261023"
+}

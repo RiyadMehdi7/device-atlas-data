@@ -12979,5 +12979,17 @@
     "aliases": [],
     "scope": "English owner manual v1, October 2026. Regulatory model A04413; exact regional retail configuration unconfirmed. Water pressure rating is not a diving-depth recommendation.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/garmin-enduro-4-manual-reference.json"
+  },
+  {
+    "id": "sony-ecm-ax10-manual-reference",
+    "brand": "Sony",
+    "model": "ECM-AX10",
+    "category": "Accessories",
+    "identifiers": [
+      "ECM-AX10"
+    ],
+    "aliases": [],
+    "scope": "Official English model help guide; Latvia retail SKU, GTIN and Tele2 availability unconfirmed.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/sony-ecm-ax10-manual-reference.json"
   }
 ]
