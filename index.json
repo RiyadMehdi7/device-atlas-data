@@ -12991,5 +12991,17 @@
     "aliases": [],
     "scope": "Official English model help guide; Latvia retail SKU, GTIN and Tele2 availability unconfirmed.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/sony-ecm-ax10-manual-reference.json"
+  },
+  {
+    "id": "microsoft-surface-laptop-ultra-family-reference",
+    "brand": "Microsoft",
+    "model": "Surface Laptop Ultra",
+    "category": "Laptops",
+    "identifiers": [
+      "Surface Laptop Ultra"
+    ],
+    "aliases": [],
+    "scope": "Manufacturer family options; configuration combinations, Latvia SKU and Tele2 availability unconfirmed.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/microsoft-surface-laptop-ultra-family-reference.json"
   }
 ]

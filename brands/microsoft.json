@@ -58,5 +58,17 @@
     "aliases": [],
     "scope": "Manufacturer model reference. Official manufacturer business platform fact sheet. Processor, memory, storage and screen alternatives remain options, not an exact purchasable SKU; European availability/SKU matching required.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/microsoft-surface-pro-for-business-13-inch-12th-edition-snapdragon.json"
+  },
+  {
+    "id": "microsoft-surface-laptop-ultra-family-reference",
+    "brand": "Microsoft",
+    "model": "Surface Laptop Ultra",
+    "category": "Laptops",
+    "identifiers": [
+      "Surface Laptop Ultra"
+    ],
+    "aliases": [],
+    "scope": "Manufacturer family options; configuration combinations, Latvia SKU and Tele2 availability unconfirmed.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/microsoft-surface-laptop-ultra-family-reference.json"
   }
 ]

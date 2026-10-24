@@ -1,0 +1,210 @@
+{
+  "id": "microsoft-surface-laptop-ultra-family-reference",
+  "brand": "Microsoft",
+  "model": "Surface Laptop Ultra",
+  "category": "Laptops",
+  "scope": "Manufacturer family options; configuration combinations, Latvia SKU and Tele2 availability unconfirmed.",
+  "identifiers": [
+    "Surface Laptop Ultra"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-24",
+  "status": "Manufacturer family specifications checked; exact configuration unconfirmed",
+  "source_name": "Microsoft Learn technical specifications",
+  "source_url": "https://learn.microsoft.com/en-us/surface/tech-specs/surface-laptop-ultra-1stedition",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Processor options",
+      "value": "RTX Spark N1X: 18 CPU / 5120 GPU cores or 20 CPU / 6144 GPU cores",
+      "unit": "",
+      "condition": "Manufacturer family options; configuration combinations, Latvia SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://learn.microsoft.com/en-us/surface/tech-specs/surface-laptop-ultra-1stedition",
+      "checked_at": "2026-10-24"
+    },
+    {
+      "label": "Memory options",
+      "value": "24 / 32 / 48 / 64 / 128 GB LPDDR5x unified",
+      "unit": "",
+      "condition": "Manufacturer family options; configuration combinations, Latvia SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://learn.microsoft.com/en-us/surface/tech-specs/surface-laptop-ultra-1stedition",
+      "checked_at": "2026-10-24"
+    },
+    {
+      "label": "SSD options",
+      "value": "Removable: 512 GB Gen4; 1 or 2 TB Gen5",
+      "unit": "",
+      "condition": "Manufacturer family options; configuration combinations, Latvia SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://learn.microsoft.com/en-us/surface/tech-specs/surface-laptop-ultra-1stedition",
+      "checked_at": "2026-10-24"
+    },
+    {
+      "label": "Display diagonal",
+      "value": "15 inches; rectangular measurement, visible area smaller",
+      "unit": "",
+      "condition": "Manufacturer family options; configuration combinations, Latvia SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://learn.microsoft.com/en-us/surface/tech-specs/surface-laptop-ultra-1stedition",
+      "checked_at": "2026-10-24"
+    },
+    {
+      "label": "Display resolution",
+      "value": "3270 x 2180 pixels",
+      "unit": "",
+      "condition": "Manufacturer family options; configuration combinations, Latvia SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://learn.microsoft.com/en-us/surface/tech-specs/surface-laptop-ultra-1stedition",
+      "checked_at": "2026-10-24"
+    },
+    {
+      "label": "Pixel density",
+      "value": "262 ppi",
+      "unit": "",
+      "condition": "Manufacturer family options; configuration combinations, Latvia SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://learn.microsoft.com/en-us/surface/tech-specs/surface-laptop-ultra-1stedition",
+      "checked_at": "2026-10-24"
+    },
+    {
+      "label": "Aspect ratio",
+      "value": "3:2",
+      "unit": "",
+      "condition": "Manufacturer family options; configuration combinations, Latvia SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://learn.microsoft.com/en-us/surface/tech-specs/surface-laptop-ultra-1stedition",
+      "checked_at": "2026-10-24"
+    },
+    {
+      "label": "Refresh rate",
+      "value": "Dynamic, up to 120 Hz",
+      "unit": "",
+      "condition": "Manufacturer family options; configuration combinations, Latvia SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://learn.microsoft.com/en-us/surface/tech-specs/surface-laptop-ultra-1stedition",
+      "checked_at": "2026-10-24"
+    },
+    {
+      "label": "Touch",
+      "value": "10-point; pen input unsupported",
+      "unit": "",
+      "condition": "Manufacturer family options; configuration combinations, Latvia SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://learn.microsoft.com/en-us/surface/tech-specs/surface-laptop-ultra-1stedition",
+      "checked_at": "2026-10-24"
+    },
+    {
+      "label": "SDR brightness",
+      "value": "1000 nits maximum, typical",
+      "unit": "",
+      "condition": "Manufacturer family options; configuration combinations, Latvia SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://learn.microsoft.com/en-us/surface/tech-specs/surface-laptop-ultra-1stedition",
+      "checked_at": "2026-10-24"
+    },
+    {
+      "label": "HDR brightness",
+      "value": "2000 nits peak; HDR content/settings required",
+      "unit": "",
+      "condition": "Manufacturer family options; configuration combinations, Latvia SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://learn.microsoft.com/en-us/surface/tech-specs/surface-laptop-ultra-1stedition",
+      "checked_at": "2026-10-24"
+    },
+    {
+      "label": "Dimensions",
+      "value": "328.8 x 238.7 x 17.99 mm without feet; 19.16 mm height with feet",
+      "unit": "",
+      "condition": "Manufacturer family options; configuration combinations, Latvia SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://learn.microsoft.com/en-us/surface/tech-specs/surface-laptop-ultra-1stedition",
+      "checked_at": "2026-10-24"
+    },
+    {
+      "label": "Weight",
+      "value": "2.0 kg",
+      "unit": "",
+      "condition": "Manufacturer family options; configuration combinations, Latvia SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://learn.microsoft.com/en-us/surface/tech-specs/surface-laptop-ultra-1stedition",
+      "checked_at": "2026-10-24"
+    },
+    {
+      "label": "Camera",
+      "value": "1080p front camera",
+      "unit": "",
+      "condition": "Manufacturer family options; configuration combinations, Latvia SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://learn.microsoft.com/en-us/surface/tech-specs/surface-laptop-ultra-1stedition",
+      "checked_at": "2026-10-24"
+    },
+    {
+      "label": "Audio",
+      "value": "Two microphones; four speakers",
+      "unit": "",
+      "condition": "Manufacturer family options; configuration combinations, Latvia SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://learn.microsoft.com/en-us/surface/tech-specs/surface-laptop-ultra-1stedition",
+      "checked_at": "2026-10-24"
+    },
+    {
+      "label": "USB-C",
+      "value": "Three USB4 ports; one Magnetic Connect; 40 Gbps; 140 W charging",
+      "unit": "",
+      "condition": "Manufacturer family options; configuration combinations, Latvia SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://learn.microsoft.com/en-us/surface/tech-specs/surface-laptop-ultra-1stedition",
+      "checked_at": "2026-10-24"
+    },
+    {
+      "label": "Other ports",
+      "value": "HDMI 2.1b; USB-A 3.1; SD reader; 3.5 mm",
+      "unit": "",
+      "condition": "Manufacturer family options; configuration combinations, Latvia SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://learn.microsoft.com/en-us/surface/tech-specs/surface-laptop-ultra-1stedition",
+      "checked_at": "2026-10-24"
+    },
+    {
+      "label": "Wireless",
+      "value": "Wi-Fi 7; Bluetooth 5.4",
+      "unit": "",
+      "condition": "Manufacturer family options; configuration combinations, Latvia SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://learn.microsoft.com/en-us/surface/tech-specs/surface-laptop-ultra-1stedition",
+      "checked_at": "2026-10-24"
+    },
+    {
+      "label": "Operating system",
+      "value": "Windows 11 Pro",
+      "unit": "",
+      "condition": "Manufacturer family options; configuration combinations, Latvia SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://learn.microsoft.com/en-us/surface/tech-specs/surface-laptop-ultra-1stedition",
+      "checked_at": "2026-10-24"
+    },
+    {
+      "label": "Fast charging",
+      "value": "Minimum 115 W compatible Surface or USB-C PD charger",
+      "unit": "",
+      "condition": "Manufacturer family options; configuration combinations, Latvia SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://learn.microsoft.com/en-us/surface/tech-specs/surface-laptop-ultra-1stedition",
+      "checked_at": "2026-10-24"
+    },
+    {
+      "label": "External displays",
+      "value": "Up to three 4K / 60 Hz; compatible displays, cables and accessories required",
+      "unit": "",
+      "condition": "Manufacturer family options; configuration combinations, Latvia SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://learn.microsoft.com/en-us/surface/tech-specs/surface-laptop-ultra-1stedition",
+      "checked_at": "2026-10-24"
+    },
+    {
+      "label": "Adapter bundle",
+      "value": "140 W adapter only in selected markets/configurations",
+      "unit": "",
+      "condition": "Manufacturer family options; configuration combinations, Latvia SKU and Tele2 availability unconfirmed.",
+      "source_url": "https://learn.microsoft.com/en-us/surface/tech-specs/surface-laptop-ultra-1stedition",
+      "checked_at": "2026-10-24"
+    }
+  ],
+  "missing_fields": [
+    "Exact configuration MPN",
+    "Latvia SKU",
+    "GTIN",
+    "Tele2 availability"
+  ],
+  "source_pages": [
+    {
+      "url": "https://learn.microsoft.com/en-us/surface/tech-specs/surface-laptop-ultra-1stedition",
+      "fetched_at": "2026-10-24",
+      "method": "OpenAI native web open",
+      "notes": "Explicit family specification table and display/charging conditions; source updated 2026-10-16."
+    }
+  ],
+  "research_lane": "watch-20261024"
+}
