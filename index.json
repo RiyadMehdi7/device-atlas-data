@@ -13003,5 +13003,17 @@
     "aliases": [],
     "scope": "Manufacturer family options; configuration combinations, Latvia SKU and Tele2 availability unconfirmed.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/microsoft-surface-laptop-ultra-family-reference.json"
+  },
+  {
+    "id": "sony-inzone-e9-ierg900v-ce7",
+    "brand": "Sony",
+    "model": "INZONE E9 Glass Purple (IERG900V.CE7)",
+    "category": "Audio",
+    "identifiers": [
+      "IERG900V.CE7"
+    ],
+    "aliases": [],
+    "scope": "Exact UK manufacturer store SKU; Latvia availability and GTIN unconfirmed.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/sony-inzone-e9-ierg900v-ce7.json"
   }
 ]

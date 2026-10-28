@@ -1,0 +1,89 @@
+{
+  "id": "sony-inzone-e9-ierg900v-ce7",
+  "brand": "Sony",
+  "model": "INZONE E9 Glass Purple (IERG900V.CE7)",
+  "category": "Audio",
+  "scope": "Exact UK manufacturer store SKU; Latvia availability and GTIN unconfirmed.",
+  "identifiers": [
+    "IERG900V.CE7"
+  ],
+  "aliases": [],
+  "checked_at": "2026-10-28",
+  "status": "UK variant checked; Latvia availability unknown",
+  "source_name": "Sony UK store",
+  "source_url": "https://www.sony.co.uk/store/product/ierg900v.ce7/INZONE-E9-In-ear-Gaming-Headphones",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Colour",
+      "value": "Glass Purple",
+      "unit": "",
+      "condition": "Exact UK manufacturer store SKU; Latvia availability and GTIN unconfirmed. ",
+      "source_url": "https://www.sony.co.uk/store/product/ierg900v.ce7/INZONE-E9-In-ear-Gaming-Headphones",
+      "checked_at": "2026-10-28"
+    },
+    {
+      "label": "Driver diameter",
+      "value": "5 mm",
+      "unit": "",
+      "condition": "Exact UK manufacturer store SKU; Latvia availability and GTIN unconfirmed. ",
+      "source_url": "https://www.sony.co.uk/store/product/ierg900v.ce7/INZONE-E9-In-ear-Gaming-Headphones",
+      "checked_at": "2026-10-28"
+    },
+    {
+      "label": "Design",
+      "value": "In-ear, sealed housing; noise-isolating tips",
+      "unit": "",
+      "condition": "Exact UK manufacturer store SKU; Latvia availability and GTIN unconfirmed. Passive isolation; no ANC claim",
+      "source_url": "https://www.sony.co.uk/store/product/ierg900v.ce7/INZONE-E9-In-ear-Gaming-Headphones",
+      "checked_at": "2026-10-28"
+    },
+    {
+      "label": "Connection",
+      "value": "3.5 mm stereo jack",
+      "unit": "",
+      "condition": "Exact UK manufacturer store SKU; Latvia availability and GTIN unconfirmed. Direct connection for consoles, controllers and other devices",
+      "source_url": "https://www.sony.co.uk/store/product/ierg900v.ce7/INZONE-E9-In-ear-Gaming-Headphones",
+      "checked_at": "2026-10-28"
+    },
+    {
+      "label": "USB-C audio box",
+      "value": "Supplied adaptor for PC",
+      "unit": "",
+      "condition": "Exact UK manufacturer store SKU; Latvia availability and GTIN unconfirmed. 360 Spatial Sound for Gaming and EQ tuning on PC",
+      "source_url": "https://www.sony.co.uk/store/product/ierg900v.ce7/INZONE-E9-In-ear-Gaming-Headphones",
+      "checked_at": "2026-10-28"
+    },
+    {
+      "label": "Virtual surround",
+      "value": "7.1 channels",
+      "unit": "",
+      "condition": "Exact UK manufacturer store SKU; Latvia availability and GTIN unconfirmed. Requires INZONE Hub and USB-C audio box",
+      "source_url": "https://www.sony.co.uk/store/product/ierg900v.ce7/INZONE-E9-In-ear-Gaming-Headphones",
+      "checked_at": "2026-10-28"
+    },
+    {
+      "label": "Eartips",
+      "value": "Four sizes; noise-isolation or hybrid types",
+      "unit": "",
+      "condition": "Exact UK manufacturer store SKU; Latvia availability and GTIN unconfirmed. ",
+      "source_url": "https://www.sony.co.uk/store/product/ierg900v.ce7/INZONE-E9-In-ear-Gaming-Headphones",
+      "checked_at": "2026-10-28"
+    }
+  ],
+  "missing_fields": [
+    "Latvia SKU",
+    "GTIN",
+    "Tele2 availability"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.sony.co.uk/store/product/ierg900v.ce7/INZONE-E9-In-ear-Gaming-Headphones",
+      "fetched_at": "2026-10-28",
+      "method": "OpenAI native web open",
+      "notes": "Exact SKU and colour plus explicit features and PC-only adaptor condition."
+    }
+  ],
+  "research_lane": "watch-20261028"
+}

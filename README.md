@@ -1,6 +1,6 @@
 # Device Atlas data
 
-Public manufacturer-reference JSON for 1,107 product/variant records and 57,058 specification entries.
+Public manufacturer-reference JSON for 1,108 product/variant records and 57,065 specification entries.
 
 Fetch [index.json](index.json), match an exact model or identifier, then fetch the referenced product JSON. Every product preserves specifications, units, conditions, source URLs, regional scope and uncertainty metadata. Manufacturer claims are not independent laboratory verification. Unknown does not mean No.
 
