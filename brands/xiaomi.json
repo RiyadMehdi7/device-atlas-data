@@ -1367,5 +1367,17 @@
     ],
     "scope": "Singapore official Watch 5 reference, Black. Not Redmi Watch 5. Latvia model/MPN and regional services including NFC require matching.",
     "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-watch-5-black.json"
+  },
+  {
+    "id": "xiaomi-watch-s5-41mm-global",
+    "brand": "Xiaomi",
+    "model": "Watch S5 41mm (global reference)",
+    "category": "Smartwatches",
+    "identifiers": [],
+    "aliases": [
+      "Xiaomi Watch S5 41mm"
+    ],
+    "scope": "Global manufacturer model-family reference for 41mm only; not Watch S5 46mm. Exact regional SKU, GTIN and Latvia/Tele2 availability unconfirmed.",
+    "url": "https://raw.githubusercontent.com/RiyadMehdi7/device-atlas-data/main/products/xiaomi-watch-s5-41mm-global.json"
   }
 ]

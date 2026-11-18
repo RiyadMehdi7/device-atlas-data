@@ -1,0 +1,130 @@
+{
+  "id": "xiaomi-watch-s5-41mm-global",
+  "brand": "Xiaomi",
+  "model": "Watch S5 41mm (global reference)",
+  "category": "Smartwatches",
+  "scope": "Global manufacturer model-family reference for 41mm only; not Watch S5 46mm. Exact regional SKU, GTIN and Latvia/Tele2 availability unconfirmed.",
+  "identifiers": [],
+  "aliases": [
+    "Xiaomi Watch S5 41mm"
+  ],
+  "checked_at": "2026-11-18",
+  "status": "Manufacturer family specifications checked; regional SKU unknown",
+  "source_name": "Xiaomi global specifications",
+  "source_url": "https://www.mi.com/global/product/xiaomi-watch-s5-41mm/specs/",
+  "tele2_url": "",
+  "relevance": "future_candidate",
+  "specs": [
+    {
+      "label": "Dimensions",
+      "value": "41.4 × 41.4 × 9.9",
+      "unit": "mm",
+      "condition": "Excludes strap and protrusions.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s5-41mm/specs/",
+      "checked_at": "2026-11-18"
+    },
+    {
+      "label": "Weight",
+      "value": "Approximately 36",
+      "unit": "g",
+      "condition": "Excludes supplied strap; laboratory figure may vary.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s5-41mm/specs/",
+      "checked_at": "2026-11-18"
+    },
+    {
+      "label": "Battery capacity",
+      "value": "590",
+      "unit": "mAh",
+      "condition": "Lithium-ion polymer.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s5-41mm/specs/",
+      "checked_at": "2026-11-18"
+    },
+    {
+      "label": "Display",
+      "value": "1.32-inch AMOLED; 466 × 466 pixels; 352 ppi",
+      "unit": "",
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s5-41mm/specs/",
+      "checked_at": "2026-11-18"
+    },
+    {
+      "label": "Display brightness",
+      "value": "1500 nits HBM; 3000 nits peak",
+      "unit": "",
+      "condition": "HBM is full-screen brightness; peak applies to a limited display area.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s5-41mm/specs/",
+      "checked_at": "2026-11-18"
+    },
+    {
+      "label": "Positioning",
+      "value": "GPS, Galileo, GLONASS, BeiDou, QZSS",
+      "unit": "",
+      "condition": "Built-in GNSS.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s5-41mm/specs/",
+      "checked_at": "2026-11-18"
+    },
+    {
+      "label": "Bluetooth",
+      "value": "BLE/BT 5.4",
+      "unit": "",
+      "condition": "Dual mode.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s5-41mm/specs/",
+      "checked_at": "2026-11-18"
+    },
+    {
+      "label": "Operating system",
+      "value": "Xiaomi HyperOS 4",
+      "unit": "",
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s5-41mm/specs/",
+      "checked_at": "2026-11-18"
+    },
+    {
+      "label": "Phone compatibility",
+      "value": "Android 8.0+ or iOS 14.0+",
+      "unit": "",
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s5-41mm/specs/",
+      "checked_at": "2026-11-18"
+    },
+    {
+      "label": "NFC",
+      "value": "Supported",
+      "unit": "",
+      "condition": "Availability varies by region; Latvia payment support not established.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s5-41mm/specs/",
+      "checked_at": "2026-11-18"
+    },
+    {
+      "label": "Water resistance",
+      "value": "5 ATM",
+      "unit": "",
+      "condition": "Shallow-water swimming permitted; excludes diving, sauna, hot showers and fast-water impacts. Resistance can decline with age.",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s5-41mm/specs/",
+      "checked_at": "2026-11-18"
+    },
+    {
+      "label": "Charging",
+      "value": "2-pin magnetic dock",
+      "unit": "",
+      "condition": "",
+      "source_url": "https://www.mi.com/global/product/xiaomi-watch-s5-41mm/specs/",
+      "checked_at": "2026-11-18"
+    }
+  ],
+  "missing_fields": [
+    "Exact regional SKU",
+    "GTIN",
+    "Latvia availability",
+    "Tele2 availability"
+  ],
+  "source_pages": [
+    {
+      "url": "https://www.mi.com/global/product/xiaomi-watch-s5-41mm/specs/",
+      "fetched_at": "2026-11-18",
+      "method": "OpenAI native web open",
+      "notes": "41mm family; no colour-specific strap or bezel combination inferred."
+    }
+  ],
+  "research_lane": "watch-20261118"
+}
